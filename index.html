@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WATER TECHNOLOGY &amp; INTELLIGENCE HUB | Enterprise Wastewater &amp; B2B Intelligence Platform</title>
+  <meta name="description" content="Integrated industrial wastewater treatment process engineering compendium and global B2B competitive intelligence database.">
+
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            navy: {
+              dark: '#0A192F',
+              panel: '#0F172A',
+              light: '#1E293B'
+            },
+            ocean: {
+              DEFAULT: '#0284C7',
+              light: '#38BDF8'
+            },
+            teal: {
+              DEFAULT: '#0D9488',
+              light: '#14B8A6'
+            }
+          }
+        }
+      }
+    }
+  </script>
+
+  <!-- Google Fonts: Plus Jakarta Sans & JetBrains Mono -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+
+  <!-- Lucide Icons -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+  <!-- Leaflet CSS & JS for Interactive Map -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+
+  <!-- Custom Enterprise CSS -->
+  <link rel="stylesheet" href="css/custom.css">
+</head>
+<body class="bg-[#F8FAFC] text-slate-900 antialiased min-h-screen flex flex-col">
+
+  <!-- Top Sticky Navigation Bar -->
+  <div id="navbar-container"></div>
+
+  <!-- Main View Container -->
+  <main class="flex-1 max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 pt-6">
+    <div id="main-content">
+      <!-- Loading state / Initial View -->
+      <div class="py-24 text-center">
+        <div class="w-10 h-10 border-4 border-sky-600 border-t-transparent rounded-full animate-spin mx-auto mb-4"></div>
+        <p class="text-sm font-semibold text-slate-700">Loading Water Technology &amp; Intelligence Hub Platform...</p>
+      </div>
+    </div>
+  </main>
+
+  <!-- Spotlight Global Search Modal (Ctrl+K) -->
+  <div id="search-modal" class="fixed inset-0 z-50 bg-slate-900/60 backdrop-blur-sm hidden flex items-start justify-center pt-16 sm:pt-24 px-4 transition-all">
+    <div class="bg-white rounded-2xl shadow-2xl border border-slate-200 w-full max-w-2xl overflow-hidden animate-in fade-in zoom-in-95 duration-150">
+      <!-- Search Input Bar -->
+      <div class="p-4 border-b border-slate-200 flex items-center gap-3 bg-slate-50">
+        <i data-lucide="search" class="w-5 h-5 text-sky-600 flex-shrink-0"></i>
+        <input 
+          id="global-search-input" 
+          type="text" 
+          placeholder="Search technologies, 30 competitors, 45 projects, ZLD mandates..." 
+          class="w-full bg-transparent border-0 text-sm text-slate-900 placeholder:text-slate-400 focus:outline-none focus:ring-0"
+          oninput="window.SearchModalComponent.performSearch(this.value)"
+        />
+        <kbd class="hidden sm:inline-block font-mono text-[10px] bg-slate-200 px-2 py-0.5 rounded text-slate-600">ESC to close</kbd>
+        <button onclick="window.SearchModalComponent.close()" class="p-1 text-slate-400 hover:text-slate-700 sm:hidden">
+          <i data-lucide="x" class="w-5 h-5"></i>
+        </button>
+      </div>
+      <!-- Search Results Area -->
+      <div id="search-results-list" class="max-h-[60vh] overflow-y-auto p-3 space-y-1 divide-y divide-slate-100">
+        <!-- Results dynamically populated -->
+      </div>
+      <!-- Modal Footer -->
+      <div class="p-3 bg-slate-50 border-t border-slate-200 flex items-center justify-between text-[11px] text-slate-500 font-mono">
+        <span>Quick Navigation: Enter to view · ESC to close</span>
+        <span class="text-sky-700 font-semibold">135+ Entities Indexed</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Enterprise Footer -->
+  <footer class="bg-navy-dark text-white border-t border-slate-800 mt-20 no-print">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <div class="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8 text-xs">
+        <div class="space-y-3">
+          <div class="flex items-center gap-2">
+            <div class="w-8 h-8 rounded bg-gradient-to-tr from-sky-600 to-orange-500 flex items-center justify-center text-white font-bold">
+              <i data-lucide="droplet" class="w-4 h-4 fill-current"></i>
+            </div>
+            <span class="font-extrabold text-sm tracking-tight text-white">WATER TECH &amp; INTEL HUB</span>
+          </div>
+          <p class="text-slate-400 leading-relaxed text-[11px]">
+            Comprehensive enterprise platform integrating deep-dive wastewater process engineering with evidence-based competitive market intelligence.
+          </p>
+          <p class="text-[10px] font-mono text-slate-500">Edition: Q4 2026 · CPCB / EPA Standards</p>
+        </div>
+
+        <div>
+          <h4 class="font-bold text-slate-200 uppercase tracking-wider mb-3 text-[11px]">Primary Intelligence Tabs</h4>
+          <ul class="space-y-1.5 text-slate-400 text-[11px]">
+            <li><a href="#home" class="hover:text-white">1. Home Dashboard &amp; Overview</a></li>
+            <li><a href="#competitors" class="hover:text-white">2. Competitor Database (All 30 + TRITRON)</a></li>
+            <li><a href="#intelligence" class="hover:text-white">3. Competitor Intelligence &amp; Charts</a></li>
+            <li><a href="#processes" class="hover:text-white">4. Treatment Process Knowledge Base (PFD)</a></li>
+            <li><a href="#personas" class="hover:text-white">5. Buyer Personas &amp; 4 Verticals</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <h4 class="font-bold text-slate-200 uppercase tracking-wider mb-3 text-[11px]">Priority Verticals &amp; Focus</h4>
+          <ul class="space-y-1.5 text-slate-400 text-[11px]">
+            <li><a href="#personas" class="hover:text-white">Automotive Manufacturing</a></li>
+            <li><a href="#personas" class="hover:text-white">Electroplating (Red Category)</a></li>
+            <li><a href="#personas" class="hover:text-white">Cooling Towers &amp; CTBD</a></li>
+            <li><a href="#personas" class="hover:text-white">Silica-to-Solution (Water Glass)</a></li>
+            <li><a href="#competitors" class="hover:text-white">TRITRON™ Physics Technology</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <h4 class="font-bold text-slate-200 uppercase tracking-wider mb-3 text-[11px]">Executive Downloads</h4>
+          <ul class="space-y-1.5 text-slate-400 text-[11px]">
+            <li><a href="Industrial_Wastewater_Competitive_Intelligence_Database_2026.pptx" download class="hover:text-white">86-Slide Master CI Deck (.pptx)</a></li>
+            <li><a href="Wastewater_Treatment_Process_Train_Livprotec.pptx" download class="hover:text-white">115-Slide Process Train Deck (.pptx)</a></li>
+            <li><a href="Competitor_Database.xlsx" download class="hover:text-white">Competitor Database (.xlsx)</a></li>
+            <li><a href="Technology_Innovation_Tracker.xlsx" download class="hover:text-white">Technology Innovation Tracker (.xlsx)</a></li>
+            <li><a href="Industrial_Project_Database.xlsx" download class="hover:text-white">Industrial Project Database (.xlsx)</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="pt-6 border-t border-slate-800/80 flex flex-col sm:flex-row items-center justify-between gap-3 text-[11px] text-slate-500 font-mono">
+        <p>© 2026 Water Technology &amp; Competitive Intelligence Hub. CPCB Schedule VI &amp; MPCB Standards.</p>
+        <p>All rights reserved to <span class="text-orange-400 font-bold">Nayan Sarkar</span>.</p>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Core Data & Application Scripts -->
+  <script src="js/platform_data.js"></script>
+  <script src="js/diagrams_data.js"></script>
+  <script src="js/news_data.js"></script>
+
+  <!-- Components -->
+  <script src="js/components/navbar.js"></script>
+  <script src="js/components/search_modal.js"></script>
+
+  <!-- Views -->
+  <script src="js/views/home_view.js"></script>
+  <script src="js/views/competitor_db_view.js"></script>
+  <script src="js/views/intelligence_view.js"></script>
+  <script src="js/views/processes_view.js"></script>
+  <script src="js/views/personas_view.js"></script>
+  <script src="js/views/tech_detail_view.js"></script>
+  <script src="js/views/competitive_intel_view.js"></script>
+  <script src="js/views/benchmarking_view.js"></script>
+  <script src="js/views/market_intel_view.js"></script>
+  <script src="js/views/projects_map_view.js"></script>
+  <script src="js/views/news_view.js"></script>
+  <script src="js/views/reports_view.js"></script>
+  <script src="js/views/library_view.js"></script>
+
+  <!-- Main App Coordinator -->
+  <script src="js/app.js"></script>
+</body>
+</html>
