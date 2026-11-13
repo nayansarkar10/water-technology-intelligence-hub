@@ -47,8 +47,162 @@
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 
-  <!-- Custom Enterprise CSS -->
+  <!-- Optional Link to Custom CSS -->
   <link rel="stylesheet" href="css/custom.css">
+
+  <!-- Embedded Enterprise CSS (Guarantees zero-404 styling even if external CSS is missing) -->
+  <style>
+    :root {
+      --navy-dark: #0A192F;
+      --navy-panel: #0F172A;
+      --navy-light: #1E293B;
+      --blue-primary: #0284C7;
+      --blue-hover: #0369A1;
+      --blue-light: #38BDF8;
+      --orange-primary: #EA580C;
+      --orange-vibrant: #F97316;
+      --orange-light: #FB923C;
+      --orange-subtle: #FFF7ED;
+      --bg-white: #FFFFFF;
+      --bg-slate: #F8FAFC;
+      --border-slate: #E2E8F0;
+      --text-primary: #0F172A;
+      --text-secondary: #475569;
+      --text-muted: #64748B;
+    }
+
+    body {
+      font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background-color: #F8FAFC;
+      color: #0F172A;
+      overflow-x: hidden;
+    }
+
+    code, pre, .font-mono {
+      font-family: 'JetBrains Mono', monospace;
+    }
+
+    /* Custom Scrollbars */
+    ::-webkit-scrollbar {
+      width: 7px;
+      height: 7px;
+    }
+    ::-webkit-scrollbar-track {
+      background: #F1F5F9;
+    }
+    ::-webkit-scrollbar-thumb {
+      background: #CBD5E1;
+      border-radius: 4px;
+    }
+    ::-webkit-scrollbar-thumb:hover {
+      background: #94A3B8;
+    }
+
+    /* Premium Glass & Shadow Effects */
+    .glass-nav {
+      background: rgba(10, 25, 47, 0.98);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    .card-elevated {
+      background: #FFFFFF;
+      border: 1px solid #E2E8F0;
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.03);
+      transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+
+    .card-elevated:hover {
+      border-color: #0284C7;
+      box-shadow: 0 10px 15px -3px rgba(2, 132, 199, 0.08), 0 4px 6px -4px rgba(2, 132, 199, 0.05);
+      transform: translateY(-2px);
+    }
+
+    .bg-gradient-navy {
+      background: linear-gradient(135deg, #0A192F 0%, #0F172A 50%, #1E293B 100%);
+    }
+
+    .bg-gradient-blue {
+      background: linear-gradient(135deg, #0284C7 0%, #0369A1 100%);
+    }
+
+    .bg-gradient-orange {
+      background: linear-gradient(135deg, #EA580C 0%, #F97316 100%);
+    }
+
+    .card-interactive {
+      cursor: pointer;
+      border-left: 4px solid transparent;
+    }
+    .card-interactive:hover {
+      border-left-color: #0284C7;
+    }
+
+    .badge-tech {
+      background-color: #E0F2FE;
+      color: #0369A1;
+      border: 1px solid #BAE6FD;
+    }
+
+    .badge-pilot {
+      background-color: #FEF3C7;
+      color: #92400E;
+      border: 1px solid #FDE68A;
+    }
+
+    .badge-commercial {
+      background-color: #DCFCE7;
+      color: #166534;
+      border: 1px solid #BBF7D0;
+    }
+
+    .badge-india {
+      background-color: #FFEDD5;
+      color: #9A3412;
+      border: 1px solid #FED7AA;
+    }
+
+    .badge-global {
+      background-color: #EDE9FE;
+      color: #5B21B6;
+      border: 1px solid #DDD6FE;
+    }
+
+    .diagram-node {
+      transition: all 0.2s ease-in-out;
+      cursor: pointer;
+    }
+    .diagram-node:hover {
+      filter: brightness(1.08);
+      stroke-width: 2.5px;
+    }
+
+    .leaflet-popup-content-wrapper {
+      border-radius: 8px !important;
+      box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.15) !important;
+      border: 1px solid #E2E8F0 !important;
+      padding: 4px !important;
+    }
+    .leaflet-popup-content {
+      margin: 10px !important;
+      font-family: 'Plus Jakarta Sans', sans-serif !important;
+    }
+
+    @media print {
+      .no-print, nav, footer, .search-bar, button {
+        display: none !important;
+      }
+      body {
+        background: white !important;
+        color: black !important;
+      }
+      .card-elevated {
+        box-shadow: none !important;
+        border: 1px solid #CCC !important;
+      }
+    }
+  </style>
 </head>
 <body class="bg-[#F8FAFC] text-slate-900 antialiased min-h-screen flex flex-col">
 
@@ -154,31 +308,33 @@
     </div>
   </footer>
 
-  <!-- Core Data & Application Scripts -->
-  <script src="js/platform_data.js"></script>
-  <script src="js/diagrams_data.js"></script>
-  <script src="js/news_data.js"></script>
+  <!-- Unified Application Bundle (Single request, zero 404 failure mode) -->
+  <script src="app.bundle.js" onerror="this.onerror=null; this.src='js/app.bundle.js';"></script>
 
-  <!-- Components -->
-  <script src="js/components/navbar.js"></script>
-  <script src="js/components/search_modal.js"></script>
+  <!-- Safeguard Initialization Engine: Auto-runs under any environment (Local, Server, GitHub Pages) -->
+  <script>
+    (function initPlatformSafeguard() {
+      function start() {
+        if (window.App && typeof window.App.init === 'function') {
+          var loader = document.querySelector('#main-content .animate-spin');
+          var navContainer = document.getElementById('navbar-container');
+          if (loader || (navContainer && !navContainer.hasChildNodes())) {
+            console.log('Safeguard activating App initialization...');
+            window.App.init();
+          }
+        }
+      }
 
-  <!-- Views -->
-  <script src="js/views/home_view.js"></script>
-  <script src="js/views/competitor_db_view.js"></script>
-  <script src="js/views/intelligence_view.js"></script>
-  <script src="js/views/processes_view.js"></script>
-  <script src="js/views/personas_view.js"></script>
-  <script src="js/views/tech_detail_view.js"></script>
-  <script src="js/views/competitive_intel_view.js"></script>
-  <script src="js/views/benchmarking_view.js"></script>
-  <script src="js/views/market_intel_view.js"></script>
-  <script src="js/views/projects_map_view.js"></script>
-  <script src="js/views/news_view.js"></script>
-  <script src="js/views/reports_view.js"></script>
-  <script src="js/views/library_view.js"></script>
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', start);
+      } else {
+        start();
+      }
 
-  <!-- Main App Coordinator -->
-  <script src="js/app.js"></script>
+      // Fallback timer checks
+      setTimeout(start, 300);
+      setTimeout(start, 1000);
+    })();
+  </script>
 </body>
 </html>

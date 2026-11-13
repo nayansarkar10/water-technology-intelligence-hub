@@ -130,26 +130,23 @@ water-technology-intelligence-hub/
 ├── .github/
 │   └── workflows/
 │       └── deploy.yml          # Automated GitHub Pages CI/CD workflow
+├── .nojekyll                   # GitHub Pages bypass Jekyll marker
+├── 404.html                    # GitHub Pages SPA router redirect
+├── index.html                  # Single-page application entry point
+├── app.bundle.js               # Unified production JS bundle (standalone execution)
 ├── css/
 │   └── custom.css              # Custom enterprise stylesheet (Blue/Orange/White)
-├── images/                     # 25+ process schematics, PFDs & equipment diagrams
+├── images/                     # Process schematics, PFDs & equipment diagrams
 ├── js/
+│   ├── app.bundle.js           # Mirror production bundle
 │   ├── app.js                  # Main hash router & view coordinator
 │   ├── platform_data.js        # Master dataset (31 competitors, 45 projects, technologies)
 │   ├── diagrams_data.js        # Flowsheets & engineering formulas
 │   ├── news_data.js            # Industry news & M&A intelligence
-│   ├── components/
-│   │   ├── navbar.js           # 5-Tab header navigation
-│   │   └── search_modal.js     # Ctrl+K spotlight global search
-│   └── views/
-│       ├── home_view.js        # Home dashboard view
-│       ├── competitor_db_view.js # Searchable 31-competitor database
-│       ├── intelligence_view.js# Derived charts & head-to-head comparison
-│       ├── processes_view.js   # Big PFD & 19 unit operations deep dive
-│       └── personas_view.js    # 4 industrial verticals & buyer personas
-├── index.html                  # Single-page application entry point
+│   ├── components/             # Navigation & Search Modal components
+│   └── views/                  # Modular view renderers (5 primary tabs)
 ├── server.js                   # Zero-dependency local Node.js HTTP server
-├── start.bat                   # 1-click Windows launcher
+├── start.bat                   # 1-click Windows launcher (Auto-detects Node/Python/Browser)
 ├── start.sh                    # 1-click macOS/Linux launcher
 ├── .gitignore                  # Git ignore rules
 ├── LICENSE                     # MIT License

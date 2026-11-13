@@ -37,8 +37,10 @@ const server = http.createServer((req, res) => {
   }
 
   let reqUrl = decodeURI(req.url.split('?')[0]);
-  if (reqUrl === '/' || reqUrl === '') {
-    reqUrl = '/index.html';
+  if (reqUrl === '/' || reqUrl === '' || reqUrl === '/index.html') {
+    reqUrl = 'index.html';
+  } else {
+    reqUrl = reqUrl.replace(/^\/+/, '');
   }
 
   const filePath = path.join(BASE_DIR, reqUrl);

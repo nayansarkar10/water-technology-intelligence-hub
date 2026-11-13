@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Redirecting | Water Technology & Intelligence Hub</title>
+  <script>
+    // GitHub Pages Single Page Application redirect
+    // If a deep path or subpath is requested, redirect to index.html with hash route
+    var path = window.location.pathname;
+    var repo = '/water-technology-intelligence-hub';
+    if (path.indexOf(repo) === 0) {
+      path = path.substring(repo.length);
+    }
+    path = path.replace(/^\/+|\/+$/g, '');
+    var target = repo ? repo + '/index.html' : 'index.html';
+    if (path && path !== 'index.html') {
+      window.location.replace(target + '#' + path);
+    } else {
+      window.location.replace(target);
+    }
+  </script>
+</head>
+<body style="font-family: sans-serif; background: #0A192F; color: white; text-align: center; padding: 50px;">
+  <p>Redirecting to Water Technology & Intelligence Hub...</p>
+  <p><a href="index.html" style="color: #38BDF8;">Click here if not redirected automatically</a></p>
+</body>
+</html>

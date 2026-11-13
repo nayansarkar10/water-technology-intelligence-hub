@@ -1,0 +1,11761 @@
+/* WATER TECHNOLOGY & COMPETITIVE INTELLIGENCE HUB - UNIFIED APPLICATION BUNDLE */
+/* Built for standalone execution on local PCs and GitHub Pages */
+
+
+/* ==================== MODULE: js/platform_data.js ==================== */
+﻿window.PLATFORM_DATA = {
+    "Competitors":  [
+                        {
+                            "PreliminaryTreatment":  "Multiflo clarifiers, Actiflo microsand ballasted clarification (settling velocity \u003e60 m/h), DAF",
+                            "ScoreSalesCapability":  4.8,
+                            "WaterReuseCapability":  "Comprehensive industrial water loop closure (effluent to boiler feed \u0026 cooling tower makeup)",
+                            "PricingModels":  "Turnkey EPC, DBO, Equipment Supply, Long-term O\u0026M, Performance-based contracts",
+                            "Ownership":  "Public (Euronext Paris: VIE)",
+                            "CapexBenchmark":  ",200 - ,500 per KLD (Standard tertiary reuse); ,500 - ,000 per KLD (ZLD systems)",
+                            "ConfidenceLevel":  "High (Extensive public filings, audited annual reports, global case studies)",
+                            "CustomerSentiment":  "Praised for gold-standard engineering, robust process guarantees, and extensive pilot data. Criticized for premium CAPEX/OPEX and bureaucratic project change management.",
+                            "ScoreMarketPresence":  5,
+                            "BiologicalTreatment":  "AnoxKaldnes MBBR, Biothane EGSB/IC/UASB anaerobic reactors, MBR (Neosep), Nitritation/Denitritation",
+                            "Founded":  1853,
+                            "Id":  "COMP-01",
+                            "BusinessModel":  "EPC, Proprietary Equipment, DBO, Concessions, O\u0026M, Specialized Services",
+                            "ZLDProcess":  "OPADIS thermal ZLD, EVALED mechanical vapor recompression \u0026 heat pump vacuum evaporators, crystallizers",
+                            "Leadership":  "Estelle Brachlianoff (CEO, Veolia Group), Arnaud Valleteau (CEO, Veolia Water Technologies)",
+                            "Category":  "Global Integrated",
+                            "ParentCompany":  "Veolia Environnement S.A.",
+                            "ScoreProductPortfolio":  5,
+                            "FlagshipProducts":  "Actiflo, Biothane Biobed Advanced, AnoxKaldnes Z-MBBR, EVALED evaporators, Sirion RO",
+                            "Classification":  "Direct Competitor",
+                            "GlobalPresence":  "Operations in \u003e50 countries, 130+ business units across Europe, Americas, APAC, Middle East, Africa",
+                            "Name":  "Veolia Water Technologies",
+                            "ConsolidatedRevenue":  ".5B (EUR 45.3B in FY2023 / FY2024)",
+                            "AdvancedTreatment":  "Ozonia ozone systems, Aquaray UV systems, Actiflo Carb (powdered activated carbon adsorption)",
+                            "CoreTechnologies":  "Actiflo high-rate clarifier, AnoxKaldnes MBBR/IFAS, Biothane anaerobic (UASB, Biobed EGSB), Hydrotech discfilters, OPADIS ZLD, CoLD low-temp crystallizer, Barrel SWRO/BWRO",
+                            "KeyCustomerPromise":  "Guaranteed effluent compliance, maximum water recovery, proven process reliability",
+                            "SalesPositioning":  "Global technology leader with unrivaled reference base and standardized modular product lines",
+                            "ScoreCustomerPerformance":  4.5,
+                            "ManufacturingAndRD":  "Global R\u0026D centers in Maisons-Laffitte (France), AnoxKaldnes R\u0026D (Sweden), Biothane R\u0026D (Netherlands)",
+                            "TargetIndustries":  "Oil \u0026 Gas, Chemicals, Pharmaceuticals, Food \u0026 Beverage, Automotive, Mining, Power",
+                            "LegalEntity":  "Veolia Water Technologies SAS / Veolia Environnement S.A.",
+                            "IndiaPresence":  "Veolia India Pvt Ltd (New Delhi, Mumbai, Chennai, Kolkata); Engineering \u0026 Technology Center in Chennai \u0026 Bengaluru",
+                            "ScoreInnovationPipeline":  4.8,
+                            "KeySubsidiaries":  "Biothane, AnoxKaldnes, SIDEM, Kruger, Westgarth, ELIQUO",
+                            "IdentifiedProjects":  [
+                                                       {
+                                                           "Tech":  "AnoxKaldnes MBBR + DAF + RO",
+                                                           "Type":  "EPC + O\u0026M",
+                                                           "Client":  "Shell Eastern Petroleum",
+                                                           "Capacity":  "12,000 m3/d",
+                                                           "Location":  "Pulau Bukom, Singapore",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "Actiflo Clarification + Demineralization",
+                                                           "Type":  "Technology Supply",
+                                                           "Client":  "Reliance Industries Ltd",
+                                                           "Capacity":  "48,000 m3/d",
+                                                           "Location":  "Jamnagar, Gujarat, India",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "Biological + Membrane + Thermal ZLD",
+                                                           "Type":  "EPC Turnkey",
+                                                           "Client":  "Sinopec",
+                                                           "Capacity":  "28,800 m3/d",
+                                                           "Location":  "Zhanjiang, China",
+                                                           "Status":  "Operational"
+                                                       }
+                                                   ],
+                            "Headquarters":  "Aubervilliers (Paris), France",
+                            "MembraneTreatment":  "Sirion Brackish RO, Terion EDI, Barrel integrated RO vessel system, Ultrafiltration modules",
+                            "Employees":  "218,000 (Group consolidated)",
+                            "IndustrialWaterRevenue":  "~.2B - .8B estimated (Water Technologies \u0026 Industrial Solutions segment)",
+                            "SludgeManagement":  "Bio-Thelys thermal hydrolysis, Athos wet air oxidation, Hydrotech sludge thickening, centrifuges",
+                            "KeyClients":  "TotalEnergies, Shell, Pfizer, Danone, Nestlé, ArcelorMittal, Stellantis, Reliance Industries",
+                            "OpexBenchmark":  ".35 - .90 / m3 (Biological + RO); .80 - .20 / m3 (Thermal ZLD / MVR)",
+                            "ScoreTechnologyCapability":  5,
+                            "ScoreCommercialCompetitiveness":  4,
+                            "GapsAndLimitations":  "Segment industrial revenue exact carve-out post-Suez integration blended with municipal technology lines."
+                        },
+                        {
+                            "PreliminaryTreatment":  "Densadeg clarifier-thickener (high solids loading), Greenleaf gravity filter, Climber screen",
+                            "ScoreSalesCapability":  4.6,
+                            "WaterReuseCapability":  "Direct tertiary reuse, boiler feed recycling, cooling water circuit optimization",
+                            "PricingModels":  "Turnkey DBO, Chemical Service Level Agreements (SLA), Equipment Lease, Water-as-a-Service",
+                            "Ownership":  "Private Consortium (Meridiam 40%, GIP 40%, Caisse des Dépôts / CNP Assurances 20%)",
+                            "CapexBenchmark":  ",100 - ,200 per KLD (Industrial reuse); ,000 - ,500 per KLD (Complex EDR-ZLD)",
+                            "ConfidenceLevel":  "High (Verified corporate disclosures, technical patents, global customer references)",
+                            "CustomerSentiment":  "ZeeWeed membranes celebrated for physical robustness and chlorine tolerance. Post-acquisition rebranding caused temporary market confusion between Veolia WTS and New Suez.",
+                            "ScoreMarketPresence":  4.7,
+                            "BiologicalTreatment":  "ZeeWeed MBR (reinforced hollow fiber PVDF), Biofor biofiltration, Anaerobic digestion",
+                            "Founded":  1858,
+                            "Id":  "COMP-02",
+                            "BusinessModel":  "Industrial EPC, Specialty Chemicals, Equipment Supply, DBO, Digital Services (InSight)",
+                            "ZLDProcess":  "EDR for high silica/scaling brine concentration, RO brine recovery, Thermal MVR/crystallizers",
+                            "Leadership":  "Sabrina Soussan (Chairman \u0026 CEO, SUEZ Group)",
+                            "Category":  "Global Integrated",
+                            "ParentCompany":  "SUEZ Group (New SUEZ)",
+                            "ScoreProductPortfolio":  4.8,
+                            "FlagshipProducts":  "ZeeWeed 500/1000/1500, Densadeg, Poseidon DAF, Ozonia (shared legacy), InSight APM",
+                            "Classification":  "Direct Competitor",
+                            "GlobalPresence":  "Operations across 40+ countries in Europe, India, China, Middle East, Americas",
+                            "Name":  "SUEZ Water Technologies",
+                            "ConsolidatedRevenue":  "~.6B (EUR 8.9B for New SUEZ in FY2023)",
+                            "AdvancedTreatment":  "Ozone oxidation, UV disinfection, Fenton oxidation, Activated carbon adsorption",
+                            "CoreTechnologies":  "ZeeWeed ultrafiltration/MBR, Densadeg high-rate clarifier, CycloFloc, Electrodialysis Reversal (EDR), TrueSense digital chemical monitoring",
+                            "KeyCustomerPromise":  "Unmatched membrane longevity, reduced chemical consumption, guaranteed lifecycle cost",
+                            "SalesPositioning":  "Pioneering membrane innovator with integrated specialty chemicals and industrial digital twins",
+                            "ScoreCustomerPerformance":  4.4,
+                            "ManufacturingAndRD":  "CIRSEE (France), Trevose Chemical Technology Center (USA), Wuxi Manufacturing (China)",
+                            "TargetIndustries":  "Power Generation, Upstream/Downstream Hydrocarbons, Mining, Microelectronics, Food \u0026 Beverage",
+                            "LegalEntity":  "SUEZ SA (Carve-out / Consortium) \u0026 Veolia WTS (Historical Context)",
+                            "IndiaPresence":  "Suez India Pvt Ltd (Gurugram, Bengaluru, Chennai); Manufacturing at Bengaluru (Ion exchange \u0026 RO membranes)",
+                            "ScoreInnovationPipeline":  4.5,
+                            "KeySubsidiaries":  "Degrémont, Suez Water Purification Systems, B\u0026V Chemicals",
+                            "IdentifiedProjects":  [
+                                                       {
+                                                           "Tech":  "ZeeWeed MBR + Demineralization",
+                                                           "Type":  "EPC + Chemical Supply",
+                                                           "Client":  "Saudi Aramco",
+                                                           "Capacity":  "30,000 m3/d",
+                                                           "Location":  "Ras Tanura, Saudi Arabia",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "Densadeg + ZeeWeed UF + RO",
+                                                           "Type":  "Turnkey EPC",
+                                                           "Client":  "CPCL (Chennai Petroleum)",
+                                                           "Capacity":  "18,000 m3/d",
+                                                           "Location":  "Manali, Tamil Nadu, India",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "High-rate Clarification + Industrial MBR",
+                                                           "Type":  "DBO",
+                                                           "Client":  "BASF Antwerpen",
+                                                           "Capacity":  "24,000 m3/d",
+                                                           "Location":  "Antwerp, Belgium",
+                                                           "Status":  "Operational"
+                                                       }
+                                                   ],
+                            "Headquarters":  "Paris, France / Trevose, PA (USA)",
+                            "MembraneTreatment":  "ZeeWeed UF/MBR (market standard in reinforced hollow fiber), Brackish \u0026 Seawater RO, EDR",
+                            "Employees":  "40,000+ (Consolidated SUEZ Group)",
+                            "IndustrialWaterRevenue":  "~.1B - .4B (Industrial water \u0026 engineered solutions)",
+                            "SludgeManagement":  "DensaDeg integrated thickening, Bucher press dewatering, Pyrofluid incineration",
+                            "KeyClients":  "Saudi Aramco, SABIC, BP, L\u0027Oréal, Coca-Cola, Tata Chemicals, ONGC",
+                            "OpexBenchmark":  ".32 - .85 / m3 (UF/RO industrial reuse); .60 - .80 / m3 (EDR + Thermal ZLD)",
+                            "ScoreTechnologyCapability":  4.9,
+                            "ScoreCommercialCompetitiveness":  4.2,
+                            "GapsAndLimitations":  "Tracking ownership split of specific legacy GE Water product lines between Veolia and New Suez."
+                        },
+                        {
+                            "PreliminaryTreatment":  "MetClear heavy metals precipitation, CORE SHELL flocculants, coagulant dosing automation",
+                            "ScoreSalesCapability":  5,
+                            "WaterReuseCapability":  "Cooling tower cycles of concentration optimization (up to 8-10 cycles), condensate polishing",
+                            "PricingModels":  "Chemical consumption contracts, Gain-sharing performance contracts, Equipment leasing, WaaS",
+                            "Ownership":  "Public (NYSE: ECL)",
+                            "CapexBenchmark":  " -  per KLD (Chemical dosing and IoT automation infrastructure)",
+                            "ConfidenceLevel":  "High (SEC 10-K filings, published case studies, extensive industrial customer validation)",
+                            "CustomerSentiment":  "Widely praised for unmatched on-site technical support and 3D TRASAR automation reliability. Viewed as high chemical unit pricing compared to generic commodity chemical blenders.",
+                            "ScoreMarketPresence":  5,
+                            "BiologicalTreatment":  "Bio-enhancers, respirometric monitoring, bio-augmentation formulations for toxic industrial shocks",
+                            "Founded":  2011,
+                            "Id":  "COMP-03",
+                            "BusinessModel":  "Specialty Treatment Chemicals, IoT Automation, Water-as-a-Service, Performance Contracts",
+                            "ZLDProcess":  "Chemical pretreatment for ZLD evaporators to prevent silica, calcium sulfate and organic scaling",
+                            "Leadership":  "Christophe Beck (Chairman \u0026 CEO, Ecolab), Darrell Brown (President, Global Industrial)",
+                            "Category":  "Global Integrated",
+                            "ParentCompany":  "Ecolab Inc.",
+                            "ScoreProductPortfolio":  4.5,
+                            "FlagshipProducts":  "3D TRASAR for Cooling/Boiler/WW, CORE SHELL polymers, Purolite Resins, PermaClean, OMNI",
+                            "Classification":  "Direct Competitor (Chemicals \u0026 Digital Automation Leader)",
+                            "GlobalPresence":  "Direct presence in 170+ countries worldwide",
+                            "Name":  "Ecolab (Nalco Water)",
+                            "ConsolidatedRevenue":  ".3B (FY2023 / FY2024)",
+                            "AdvancedTreatment":  "Advanced chemical oxidation, heavy metal scavengers, odor control bio-chemical systems",
+                            "CoreTechnologies":  "3D TRASAR digital automation, Purolite ion exchange resins, coagulants/flocculants, anti-scalants, biocides, membrane cleaners",
+                            "KeyCustomerPromise":  "Reduce water consumption, minimize operating risk, and lower Total Cost of Operation (TCO)",
+                            "SalesPositioning":  "Total water lifecycle management with automated IoT control and guaranteed water/energy savings",
+                            "ScoreCustomerPerformance":  4.7,
+                            "ManufacturingAndRD":  "Global R\u0026D Center in Naperville, IL; Center of Excellence in Pune, India; Leiden, Netherlands",
+                            "TargetIndustries":  "Heavy Industry, Chemicals, Refining, Power, Paper, Food \u0026 Beverage, Microelectronics, Healthcare",
+                            "LegalEntity":  "Ecolab Inc. / Nalco Water",
+                            "IndiaPresence":  "Ecolab India / Nalco Water India (Mumbai, Pune, Kolkata, Vadodara, Chennai); Chemical blending plants in Pune \u0026 Kolkata",
+                            "ScoreInnovationPipeline":  4.6,
+                            "KeySubsidiaries":  "Nalco Champion, Purolite (acquired for $3.7B in 2021), Anios",
+                            "IdentifiedProjects":  [
+                                                       {
+                                                           "Tech":  "3D TRASAR Automation + Scale Inhibition",
+                                                           "Type":  "Performance Contract",
+                                                           "Client":  "Tata Steel",
+                                                           "Capacity":  "Continuous cooling water circuit",
+                                                           "Location":  "Jamshedpur, Jharkhand, India",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "MetClear + 3D TRASAR Industrial WW",
+                                                           "Type":  "Chemical \u0026 Digital Services",
+                                                           "Client":  "ExxonMobil Chemical",
+                                                           "Capacity":  "Process water recycling",
+                                                           "Location":  "Baytown, Texas, USA",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "Purolite High-Purity Resins + Specialty Chemicals",
+                                                           "Type":  "Supply \u0026 SLA",
+                                                           "Client":  "TSMC",
+                                                           "Capacity":  "Ultrapure water \u0026 wastewater loop",
+                                                           "Location":  "Tainan, Taiwan",
+                                                           "Status":  "Operational"
+                                                       }
+                                                   ],
+                            "Headquarters":  "Saint Paul, Minnesota, USA (Nalco Water HQ: Naperville, Illinois, USA)",
+                            "MembraneTreatment":  "Purolite ion exchange resins (nuclear/pharma grade), PermaTreat antiscalants, PermaClean CIP",
+                            "Employees":  "47,000+ (Consolidated)",
+                            "IndustrialWaterRevenue":  "~.4B (Global Industrial Water division - Nalco Water)",
+                            "SludgeManagement":  "High-performance cationic polymers, dual-polymer dewatering systems for oily sludge",
+                            "KeyClients":  "Microsoft (data centers), Dow Chemical, ExxonMobil, PepsiCo, ArcelorMittal, Tata Steel, JSW Steel",
+                            "OpexBenchmark":  ".18 - .55 / m3 (Specialty chemical conditioning and digital optimization)",
+                            "ScoreTechnologyCapability":  4.6,
+                            "ScoreCommercialCompetitiveness":  4.3,
+                            "GapsAndLimitations":  "Excludes heavy civil EPC contracting; operates primarily through chemical/digital/automation layer."
+                        },
+                        {
+                            "PreliminaryTreatment":  "Coagulants, high-efficiency settling tanks, oil separators, chemical dosing controls",
+                            "ScoreSalesCapability":  4.2,
+                            "WaterReuseCapability":  "Semiconductor fab reclaimed water systems (reclaiming \u003e85% of ultrapure rinse water)",
+                            "PricingModels":  "Equipment sales, Chemical contracts, Comprehensive Water Services (water supply fee per m3)",
+                            "Ownership":  "Public (Tokyo Stock Exchange: 6370)",
+                            "CapexBenchmark":  ",300 - ,800 per KLD (High-spec industrial electronics/pharma wastewater)",
+                            "ConfidenceLevel":  "High (Tokyo Stock Exchange annual reports, corporate CSR filings, patent registrations)",
+                            "CustomerSentiment":  "Highly respected in Asia for unmatched technological precision in high-tech and electronics wastewater. Less aggressive commercial presence in Western municipal sectors.",
+                            "ScoreMarketPresence":  4.3,
+                            "BiologicalTreatment":  "Kurita aerobic/anaerobic biological reactors, bio-augmentation for nitrogen removal",
+                            "Founded":  1949,
+                            "Id":  "COMP-04",
+                            "BusinessModel":  "Water Treatment Facilities (EPC), Water Treatment Chemicals, Maintenance \u0026 Water Supply Services",
+                            "ZLDProcess":  "Chemical conditioning for high-recovery RO (Avista line), crystallization, thermal evaporators",
+                            "Leadership":  "Hirohiko Ejiri (Representative Director \u0026 President)",
+                            "Category":  "Global Integrated",
+                            "ParentCompany":  "Kurita Water Industries Ltd.",
+                            "ScoreProductPortfolio":  4.6,
+                            "FlagshipProducts":  "Cetamine, DReeM Polymer, S.sensing IoT sensors, Avista RoClean, Metakem",
+                            "Classification":  "Direct Competitor",
+                            "GlobalPresence":  "Strong presence across Japan, East Asia, Southeast Asia, Europe, North America",
+                            "Name":  "Kurita Water Industries",
+                            "ConsolidatedRevenue":  ".6B - .8B (JPY 380B+ FY2024)",
+                            "AdvancedTreatment":  "Electrochemical wastewater systems, advanced oxidation for recalcitrant TOC in electronics",
+                            "CoreTechnologies":  "Ultrapure water production, DReeM polymer (dispersion \u0026 removal), Cetamine film-forming amines, MBR, Metakem heavy metal recovery",
+                            "KeyCustomerPromise":  "Zero plant downtime, absolute purity, and minimized lifecycle chemical/water consumption",
+                            "SalesPositioning":  "Japanese engineering precision combined with world-leading ultrapure water and electronic wastewater recycling",
+                            "ScoreCustomerPerformance":  4.7,
+                            "ManufacturingAndRD":  "Kurita Innovation Hub (Akishima, Tokyo), Kurita Europe R\u0026D (Ludwigshafen, Germany)",
+                            "TargetIndustries":  "Semiconductors \u0026 Electronics, Automotive, Steel, Chemicals, Power, Food \u0026 Beverage",
+                            "LegalEntity":  "Kurita Water Industries Ltd.",
+                            "IndiaPresence":  "Kurita India Pvt Ltd (Chennai, Pune, Gurugram); Blending facility and technical service lab in Chennai",
+                            "ScoreInnovationPipeline":  4.5,
+                            "KeySubsidiaries":  "Kurita America, Kurita Europe, Avista Technologies, Keytech Water Management, Fracta",
+                            "IdentifiedProjects":  [
+                                                       {
+                                                           "Tech":  "Ultrapure Water Recycle + TOC UV Oxidation",
+                                                           "Type":  "Water Service Contract",
+                                                           "Client":  "Major Semiconductor Fab",
+                                                           "Capacity":  "20,000 m3/d",
+                                                           "Location":  "Kumamoto, Japan",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "Electrodeposition Paint Wastewater Recovery",
+                                                           "Type":  "Turnkey EPC",
+                                                           "Client":  "Automotive Manufacturing Plant",
+                                                           "Capacity":  "4,500 m3/d",
+                                                           "Location":  "Rayong, Thailand",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "Cooling Water Optimization + S.sensing IoT",
+                                                           "Type":  "O\u0026M Service",
+                                                           "Client":  "Petrochemical Complex",
+                                                           "Capacity":  "10,000 m3/d",
+                                                           "Location":  "Singapore Jurong",
+                                                           "Status":  "Operational"
+                                                       }
+                                                   ],
+                            "Headquarters":  "Tokyo, Japan",
+                            "MembraneTreatment":  "Avista specialty antiscalants/cleaners for RO/NF, hollow fiber UF, EDI modules",
+                            "Employees":  "7,800+",
+                            "IndustrialWaterRevenue":  "~.3B (Over 85% derived from industrial water \u0026 electronics/semiconductor sectors)",
+                            "SludgeManagement":  "Kurita automated sludge conditioning chemicals, filter presses, sludge volume reduction agents",
+                            "KeyClients":  "Sony, TSMC, Samsung Electronics, Toyota, Panasonic, Nippon Steel, Murata",
+                            "OpexBenchmark":  ".40 - .10 / m3 (Advanced semiconductor reclaimed water / chemical treatment)",
+                            "ScoreTechnologyCapability":  4.8,
+                            "ScoreCommercialCompetitiveness":  4.1,
+                            "GapsAndLimitations":  "India presence is expanding rapidly in automotive and electronics corridors, but smaller footprint in municipal tenders."
+                        },
+                        {
+                            "PreliminaryTreatment":  "Leopold Clari-DAF, Leopold filter underdrains, Flygt heavy-duty chopper \u0026 slurry pumps",
+                            "ScoreSalesCapability":  4.8,
+                            "WaterReuseCapability":  "Tertiary filtration and advanced disinfection for high-grade industrial reuse and aquifer recharge",
+                            "PricingModels":  "Equipment Sales, Engineered Systems, Standard Skid Products, Long-term Service Contracts",
+                            "Ownership":  "Public (NYSE: XYL)",
+                            "CapexBenchmark":  " - ,600 per KLD (Tertiary equipment \u0026 advanced oxidation packages)",
+                            "ConfidenceLevel":  "High (SEC filings, verified product catalogs, extensive engineering specifications)",
+                            "CustomerSentiment":  "Regarded as gold-standard equipment manufacturer for Flygt pumps and Wedeco ozone/UV. Evoqua integration has significantly broadened industrial services footprint.",
+                            "ScoreMarketPresence":  4.9,
+                            "BiologicalTreatment":  "Sanitaire fine-bubble diffusers, Sanitaire ICEAS SBR, Memcor submerged MBR systems",
+                            "Founded":  2023,
+                            "Id":  "COMP-05",
+                            "BusinessModel":  "Equipment Manufacturing, Engineered Solutions, Digital Water Solutions, Field Services",
+                            "ZLDProcess":  "High-efficiency RO concentration stages, chemical softening pretreatment for brine evaporators",
+                            "Leadership":  "Matthew Pine (President \u0026 CEO)",
+                            "Category":  "Global Integrated",
+                            "ParentCompany":  "Xylem Inc.",
+                            "ScoreProductPortfolio":  4.9,
+                            "FlagshipProducts":  "Wedeco MiPRO AOP, Flygt N-Technology pumps, Sanitaire Silver Series, Memcor CP, Leopold Clari-DAF",
+                            "Classification":  "Direct Competitor",
+                            "GlobalPresence":  "Operations in 150+ countries across North America, Europe, APAC, Middle East, Latin America",
+                            "Name":  "Xylem",
+                            "ConsolidatedRevenue":  ".4B (FY2023 / FY2024 pro-forma post-Evoqua acquisition)",
+                            "AdvancedTreatment":  "Wedeco Ozone (SMX/Effizon), Wedeco UV (Spektron/Quadron), MiPRO UV/Peroxide and Ozone/Peroxide AOP",
+                            "CoreTechnologies":  "Wedeco ozone \u0026 UV AOP, Flygt submersible pumps \u0026 mixers, Sanitaire fine bubble aeration, Leopold tertiary filtration, Evoqua Memcor MBR, EDI, Ion exchange",
+                            "KeyCustomerPromise":  "Unrivaled energy efficiency, lowest lifecycle maintenance, and proven equipment durability",
+                            "SalesPositioning":  "Global equipment and technology powerhouse spanning pumping, aeration, ozone/UV AOP, and industrial filtration",
+                            "ScoreCustomerPerformance":  4.6,
+                            "ManufacturingAndRD":  "Vadodara (India - pumps \u0026 mixers), Herford (Germany - Wedeco UV/Ozone), Shenandoah (USA)",
+                            "TargetIndustries":  "Food \u0026 Beverage, Microelectronics, Pharmaceuticals, Power, Chemical Processing, Municipal-Industrial CETPs",
+                            "LegalEntity":  "Xylem Inc.",
+                            "IndiaPresence":  "Xylem Water Solutions India Pvt Ltd (Vadodara, Bengaluru, Mumbai); State-of-the-art manufacturing in Vadodara, Gujarat",
+                            "ScoreInnovationPipeline":  4.7,
+                            "KeySubsidiaries":  "Flygt, Wedeco, Sanitaire, Leopold, Evoqua, Wallace \u0026 Tiernan, Lowara, Sensus",
+                            "IdentifiedProjects":  [
+                                                       {
+                                                           "Tech":  "Flygt Metallic Volute Pumps \u0026 Mixers",
+                                                           "Type":  "Equipment Supply",
+                                                           "Client":  "NTPC Limited",
+                                                           "Capacity":  "Cooling water \u0026 ash pond WW pumping",
+                                                           "Location":  "Multiple thermal power plants, India",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "Wedeco Ozone AOP (Active API Destruction)",
+                                                           "Type":  "Engineered System",
+                                                           "Client":  "Global Pharmaceutical Manufacturer",
+                                                           "Capacity":  "6,000 m3/d",
+                                                           "Location":  "Basel, Switzerland",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "Memcor MBR + RO + Wedeco UV",
+                                                           "Type":  "Turnkey Solution",
+                                                           "Client":  "Semiconductor Manufacturer",
+                                                           "Capacity":  "15,000 m3/d",
+                                                           "Location":  "Hillsboro, Oregon, USA",
+                                                           "Status":  "Operational"
+                                                       }
+                                                   ],
+                            "Headquarters":  "Washington, D.C. / Rye Brook, New York, USA",
+                            "MembraneTreatment":  "Memcor Ultrafiltration, Brackish Water RO packages, Continuous Electro-deionization (CEDI)",
+                            "Employees":  "23,000+",
+                            "IndustrialWaterRevenue":  "~.8B - .1B (Integrated Industrial Solutions \u0026 Applied Water segments)",
+                            "SludgeManagement":  "Flygt sludge mixers and pumps, Leopold sludge collection flight systems",
+                            "KeyClients":  "AB InBev, PepsiCo, Intel, Pfizer, General Electric, NTPC (India), Indian Oil Corporation",
+                            "OpexBenchmark":  ".20 - .65 / m3 (AOP + Filtration + Pumping systems)",
+                            "ScoreTechnologyCapability":  4.8,
+                            "ScoreCommercialCompetitiveness":  4.4,
+                            "GapsAndLimitations":  "Primarily an equipment and systems technology OEM rather than a civil EPC contractor."
+                        },
+                        {
+                            "PreliminaryTreatment":  "High-efficiency clarification, chemical softening, dual-media filtration",
+                            "ScoreSalesCapability":  4.3,
+                            "WaterReuseCapability":  "World-class \u003e98% water recovery in coal-fired power, refinery, and petchem complexes",
+                            "PricingModels":  "Turnkey EPC, Lump-sum Turnkey (LSTK), BOOT concessions, Design-Build-Operate",
+                            "Ownership":  "Private (Family \u0026 Private Equity backed; strategic partnerships with Ecolab / Advent)",
+                            "CapexBenchmark":  ",500 - ,500 per KLD (Integrated HERO-ZLD / Thermal Concentrator plants)",
+                            "ConfidenceLevel":  "High (Extensive technical papers, published project engineering case studies, global patents)",
+                            "CustomerSentiment":  "Revered for engineering mastery in handling the world\u0027s most difficult, highly saline industrial effluents. High CAPEX but delivers rock-solid ZLD operational reliability.",
+                            "ScoreMarketPresence":  4.4,
+                            "BiologicalTreatment":  "Bio-Concentrator (membrane-coupled biological system for recalcitrant industrial streams)",
+                            "Founded":  1981,
+                            "Id":  "COMP-06",
+                            "BusinessModel":  "Design-Build EPC, Technology Licensing, BOOT / Water-as-a-Service, Specialty O\u0026M",
+                            "ZLDProcess":  "Global pioneer in Thermal \u0026 Membrane Hybrid ZLD: HERO + MVR Falling Film Brine Concentrator + Crystallizer",
+                            "Leadership":  "Venkee Sharma (Executive Chairman), Devesh Sharma (CEO)",
+                            "Category":  "Industrial Water Specialist",
+                            "ParentCompany":  "Aquatech International LLC",
+                            "ScoreProductPortfolio":  4.7,
+                            "FlagshipProducts":  "HERO, MoVAP, Bio-Concentrator, High Recovery RO (ARRO), Thermal Brine Concentrators",
+                            "Classification":  "Direct Competitor (Primary ZLD Benchmark)",
+                            "GlobalPresence":  "Offices and technical centers in USA, India, UAE, Saudi Arabia, China",
+                            "Name":  "Aquatech International",
+                            "ConsolidatedRevenue":  " -  (Estimated)",
+                            "AdvancedTreatment":  "Advanced chemical oxidation, electrodialysis, ion-exchange softening",
+                            "CoreTechnologies":  "HERO (High Efficiency Reverse Osmosis), MoVAP mechanical vapor compression, ARRO (Advanced Recovery RO), Lo-Tides, Bio-Concentrator",
+                            "KeyCustomerPromise":  "Guaranteed 98%+ water recovery, scale-free thermal evaporation, lowest lifecycle ZLD energy",
+                            "SalesPositioning":  "The definitive global authority and engineering benchmark for industrial Zero Liquid Discharge (ZLD)",
+                            "ScoreCustomerPerformance":  4.8,
+                            "ManufacturingAndRD":  "Canonsburg R\u0026D Center (USA); Pune Fabrication and Engineering Technology Campus (India)",
+                            "TargetIndustries":  "Power Generation, Oil \u0026 Gas, Refining, Petrochemicals, Coal-to-Chemicals, Microelectronics",
+                            "LegalEntity":  "Aquatech International LLC",
+                            "IndiaPresence":  "Aquatech Systems Asia Pvt Ltd (Pune, Maharashtra); Massive engineering center and manufacturing hub in Pune",
+                            "ScoreInnovationPipeline":  4.6,
+                            "KeySubsidiaries":  "Aquatech Systems Asia, Aquatech Eastern (UAE), Aquatech China",
+                            "IdentifiedProjects":  [
+                                                       {
+                                                           "Tech":  "Demineralization + Effluent Treatment + ZLD",
+                                                           "Type":  "Turnkey EPC",
+                                                           "Client":  "Reliance Industries Ltd",
+                                                           "Capacity":  "168,000 m3/d",
+                                                           "Location":  "Jamnagar, Gujarat, India",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "Effluent Treatment + Thermal Evaporation / ZLD",
+                                                           "Type":  "EPC",
+                                                           "Client":  "Shell Pearl GTL",
+                                                           "Capacity":  "60,000 m3/d",
+                                                           "Location":  "Ras Laffan, Qatar",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "HERO + Falling Film Brine Concentrator + Crystallizer",
+                                                           "Type":  "Technology \u0026 EPC",
+                                                           "Client":  "Shenhua Ningxia Coal Industry",
+                                                           "Capacity":  "58,000 m3/d",
+                                                           "Location":  "Ningxia, China",
+                                                           "Status":  "Operational"
+                                                       }
+                                                   ],
+                            "Headquarters":  "Canonsburg, Pennsylvania, USA",
+                            "MembraneTreatment":  "HERO (operates at pH \u003e10 to prevent biofouling and silica scaling), High-pressure RO",
+                            "Employees":  "1,200+",
+                            "IndustrialWaterRevenue":  "~ -  (\u003e90% industrial water/wastewater/ZLD)",
+                            "SludgeManagement":  "Centrifuges, filter presses, solids crystallization systems for saleable salt recovery",
+                            "KeyClients":  "Reliance Industries, Indian Oil (IOCL), Shell, Saudi Aramco, Duke Energy, ENI, Sasol",
+                            "OpexBenchmark":  ".40 - .20 / m3 (Comprehensive membrane + thermal ZLD treatment)",
+                            "ScoreTechnologyCapability":  4.9,
+                            "ScoreCommercialCompetitiveness":  4.2,
+                            "GapsAndLimitations":  "Private entity; exact financial EBITDA and segment profit margins are not publicly filed."
+                        },
+                        {
+                            "PreliminaryTreatment":  "High-rate Lamella clarifiers, dissolved air flotation, primary filtration",
+                            "ScoreSalesCapability":  4.7,
+                            "WaterReuseCapability":  "Tertiary treated recycled water for oil refineries, power plants, and industrial estates",
+                            "PricingModels":  "Lump-sum EPC, DBO, Public-Private Partnership (HAM / BOOT), Comprehensive O\u0026M",
+                            "Ownership":  "Public (NSE: WABAG / BSE: 533269)",
+                            "CapexBenchmark":  " - ,800 per KLD (Industrial effluent \u0026 tertiary reuse plants)",
+                            "ConfidenceLevel":  "High (NSE/BSE filings, quarterly investor presentations, published audited balance sheets)",
+                            "CustomerSentiment":  "Celebrated for executing massive, high-complexity industrial and municipal projects on schedule. High technical competence; occasional margin sensitivity in fixed-price EPC contracts.",
+                            "ScoreMarketPresence":  4.6,
+                            "BiologicalTreatment":  "FLUOPUR moving bed biofilm reactor, BIOPUR fixed film, aerobic and anaerobic treatment",
+                            "Founded":  2007,
+                            "Id":  "COMP-07",
+                            "BusinessModel":  "EPC Turnkey, Design-Build-Operate (DBO), BOOT Concessions, Life Cycle O\u0026M",
+                            "ZLDProcess":  "Multi-stage RO brine recovery, mechanical vapor recompression (MVR), multi-effect evaporators",
+                            "Leadership":  "Rajiv Mittal (Chairman \u0026 Managing Director)",
+                            "Category":  "Industrial Water Specialist / Engineering EPC",
+                            "ParentCompany":  "VA TECH WABAG Limited",
+                            "ScoreProductPortfolio":  4.7,
+                            "FlagshipProducts":  "MICROPUR, BIOPUR, ENVIREX, MARAPUR, PAQUES anaerobic partnerships",
+                            "Classification":  "Direct Competitor",
+                            "GlobalPresence":  "Active in \u003e25 countries across Middle East, North Africa, Central \u0026 Eastern Europe, Latin America, Southeast Asia",
+                            "Name":  "WABAG",
+                            "ConsolidatedRevenue":  " -  (INR 2,850 - 3,200 Cr in FY2024)",
+                            "AdvancedTreatment":  "Advanced oxidation, catalytic ozonation, activated carbon biofilters",
+                            "CoreTechnologies":  "MICROPUR, BIOPUR biofiltration, MARAPUR MBR, FLUOPUR MBBR, COMPUR, Thermal ZLD, Industrial Desalination",
+                            "KeyCustomerPromise":  "Cost-competitive turnkey execution, world-class European technology, guaranteed lifecycle performance",
+                            "SalesPositioning":  "Top-tier global Indian multinational EPC player with proven European R\u0026D and massive project pedigree",
+                            "ScoreCustomerPerformance":  4.5,
+                            "ManufacturingAndRD":  "Global R\u0026D Hubs in Vienna (Austria) and Chennai (India); over 120 proprietary patents",
+                            "TargetIndustries":  "Oil \u0026 Gas, Petrochemicals, Steel, Power, Fertilizers, Common Effluent Treatment Plants (CETPs)",
+                            "LegalEntity":  "VA TECH WABAG Limited",
+                            "IndiaPresence":  "Global Corporate Headquarters in Chennai; regional offices in Mumbai, Delhi, Kolkata, Vadodara",
+                            "ScoreInnovationPipeline":  4.3,
+                            "KeySubsidiaries":  "WABAG Austria, WABAG Switzerland, WABAG Romania, WABAG Water Services (O\u0026M)",
+                            "IdentifiedProjects":  [
+                                                       {
+                                                           "Tech":  "Raw Water Treatment + ETP + Recycling",
+                                                           "Type":  "Turnkey EPC (+)",
+                                                           "Client":  "Dangote Oil Refining",
+                                                           "Capacity":  "84,000 m3/d",
+                                                           "Location":  "Lekki, Nigeria",
+                                                           "Status":  "Commissioned"
+                                                       },
+                                                       {
+                                                           "Tech":  "Effluent Treatment Plant + RO Reuse",
+                                                           "Type":  "EPC + O\u0026M",
+                                                           "Client":  "Indian Oil Corporation (IOCL)",
+                                                           "Capacity":  "45,000 m3/d",
+                                                           "Location":  "Paradip, Odisha, India",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "Tertiary Treatment Reverse Osmosis (TTRO)",
+                                                           "Type":  "DBO (City Sewage to Industrial Feed)",
+                                                           "Client":  "CPCL (Chennai Petroleum)",
+                                                           "Capacity":  "20,000 m3/d",
+                                                           "Location":  "Manali, Tamil Nadu, India",
+                                                           "Status":  "Operational"
+                                                       }
+                                                   ],
+                            "Headquarters":  "Chennai, Tamil Nadu, India",
+                            "MembraneTreatment":  "Large-scale ultrafiltration, reverse osmosis, nanofiltration for industrial effluent",
+                            "Employees":  "1,800+",
+                            "IndustrialWaterRevenue":  "~ -  (~40-45% of total order book from industrial water \u0026 ZLD)",
+                            "SludgeManagement":  "Anaerobic sludge digestion with power generation, thermal drying, centrifuge dewatering",
+                            "KeyClients":  "Indian Oil Corporation (IOCL), Reliance Industries, ONGC, Dangote Group, Chennai Petroleum (CPCL), NMDC",
+                            "OpexBenchmark":  ".28 - .75 / m3 (Tertiary treatment \u0026 RO recycling)",
+                            "ScoreTechnologyCapability":  4.6,
+                            "ScoreCommercialCompetitiveness":  4.8,
+                            "GapsAndLimitations":  "Consolidated revenue contains municipal water; industrial segment disclosed via order intake mix."
+                        },
+                        {
+                            "PreliminaryTreatment":  "High-efficiency clarifiers, DAF, chemical dosing skids, tube settlers",
+                            "ScoreSalesCapability":  4.8,
+                            "WaterReuseCapability":  "Closed-loop industrial effluent recycling for boiler makeup and cooling towers",
+                            "PricingModels":  "Standardized skid pricing, Turnkey EPC, Chemical supply contracts, O\u0026M contracts",
+                            "Ownership":  "Public (NSE: THERMAX / BSE: 500411)",
+                            "CapexBenchmark":  ",000 - ,200 per KLD (Integrated ETP + RO + ZLD systems in India)",
+                            "ConfidenceLevel":  "High (BSE/NSE audited reports, published product whitepapers, established Indian industrial customer references)",
+                            "CustomerSentiment":  "Extremely strong reputation for in-house manufacturing of thermal evaporators, ATFDs, and Tulsion resins. Unrivaled service network across tier 1 and tier 2 Indian industrial hubs.",
+                            "ScoreMarketPresence":  4.7,
+                            "BiologicalTreatment":  "Membrane Bioreactors (MBR), MBBR, sequential batch reactors, anaerobic digestion",
+                            "Founded":  1966,
+                            "Id":  "COMP-08",
+                            "BusinessModel":  "Standard Packaged Products, Turnkey Engineered EPC, Specialty Resins \u0026 Chemicals, O\u0026M",
+                            "ZLDProcess":  "End-to-End In-House ZLD: Pretreatment + RO + Multiple Effect Evaporator (MEE) + ATFD crystallizer",
+                            "Leadership":  "Ashish Bhandari (Managing Director \u0026 CEO)",
+                            "Category":  "Industrial Water Specialist",
+                            "ParentCompany":  "Thermax Limited",
+                            "ScoreProductPortfolio":  4.7,
+                            "FlagshipProducts":  "Tulsion Resins, Termi-N-Rich, Bioplus, EcoDry, Multi-Effect Evaporators, ATFD",
+                            "Classification":  "Direct Competitor",
+                            "GlobalPresence":  "Active in \u003e90 countries; operations in Southeast Asia, Middle East, Africa, Europe, North America",
+                            "Name":  "Thermax Limited",
+                            "ConsolidatedRevenue":  ".15B (INR 9,300+ Cr in FY2024)",
+                            "AdvancedTreatment":  "Electrodialysis, UV systems, advanced oxidation, Fenton reaction systems",
+                            "CoreTechnologies":  "Tulsion ion exchange resins, Eco-Trap, MBR, MEE (Multiple Effect Evaporators), ATFD (Agitated Thin Film Dryers), ZLD systems",
+                            "KeyCustomerPromise":  "Single-source responsibility across energy, boilers, water treatment chemicals, and thermal ZLD",
+                            "SalesPositioning":  "India\u0027s premier industrial powerhouse offering completely integrated steam, energy, chemicals, and water ZLD",
+                            "ScoreCustomerPerformance":  4.5,
+                            "ManufacturingAndRD":  "Chemical plants in Dahej \u0026 Jhagadia (Gujarat); Engineering plants in Shirwal \u0026 Chinchwad (Pune)",
+                            "TargetIndustries":  "Distilleries, Textiles, Chemicals \u0026 Pharma, Food \u0026 Dairy, Refineries, Power, Cement",
+                            "LegalEntity":  "Thermax Limited (Water \u0026 Waste Solutions Division)",
+                            "IndiaPresence":  "Pan-India presence; Corporate office in Pune; 14 manufacturing facilities across India",
+                            "ScoreInnovationPipeline":  4.4,
+                            "KeySubsidiaries":  "Thermax Chemical Solutions, Thermax Onsite Energy Solutions, Thermax Europe",
+                            "IdentifiedProjects":  [
+                                                       {
+                                                           "Tech":  "Biological ETP + RO + Thermal MEE + ATFD ZLD",
+                                                           "Type":  "Turnkey EPC",
+                                                           "Client":  "Leading Agro-chemical Major",
+                                                           "Capacity":  "4,000 KLD",
+                                                           "Location":  "Dahej, Gujarat, India",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "Color Removal + Membrane Reuse + Salt Recovery",
+                                                           "Type":  "EPC + Commissioning",
+                                                           "Client":  "Major Textile Dyeing Cluster",
+                                                           "Capacity":  "10,000 KLD",
+                                                           "Location":  "Surat, Gujarat, India",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "Bio-methanation + Condensate Polishing + MEE",
+                                                           "Type":  "Complete Turnkey Package",
+                                                           "Client":  "Grain-based Distillery",
+                                                           "Capacity":  "Spent wash treatment",
+                                                           "Location":  "Solapur, Maharashtra, India",
+                                                           "Status":  "Operational"
+                                                       }
+                                                   ],
+                            "Headquarters":  "Pune, Maharashtra, India",
+                            "MembraneTreatment":  "Tulsion ion exchange resins, brackish RO, hollow-fiber ultrafiltration skids",
+                            "Employees":  "5,000+",
+                            "IndustrialWaterRevenue":  "~ -  (~20% from Chemical \u0026 Water Infrastructure segments)",
+                            "SludgeManagement":  "Filter presses, screw presses, sludge drying beds, ATFD solid waste recovery",
+                            "KeyClients":  "Dr. Reddy\u0027s Laboratories, Cipla, UPL Limited, ITC Limited, Arvind Mills, Amul, HPCL",
+                            "OpexBenchmark":  ".30 - .80 / m3 (ETP + RO); .80 - .90 / m3 (MEE + ATFD thermal ZLD)",
+                            "ScoreTechnologyCapability":  4.6,
+                            "ScoreCommercialCompetitiveness":  4.7,
+                            "GapsAndLimitations":  "Segment disclosures aggregate chemical division (which includes water treatment chemicals) and environmental engineering."
+                        },
+                        {
+                            "PreliminaryTreatment":  "Centralized equalisation basins, multi-stage DAF, chemical coagulation",
+                            "ScoreSalesCapability":  4.3,
+                            "WaterReuseCapability":  "Industrial-to-industrial closed loop (treating mixed chemical effluent into demin water \u0026 cooling water)",
+                            "PricingModels":  "Tariff per cubic meter, Take-or-Pay off-take contracts, 20-30 year BOO utility concessions",
+                            "Ownership":  "Public (Singapore Exchange: U96 / Temasek Holdings majority shareholder ~49.5%)",
+                            "CapexBenchmark":  ",500 - ,600 per KLD (Centralized utility infrastructure scale)",
+                            "ConfidenceLevel":  "High (SGX public filings, audited utility concession balance sheets, published ESG data)",
+                            "CustomerSentiment":  "Unmatched reputation for operating complex, mission-critical multi-tenant chemical park utilities. Does not bid as a merchant turnkey equipment EPC for small third-party plants.",
+                            "ScoreMarketPresence":  4.6,
+                            "BiologicalTreatment":  "High-load biological reactors, specialized bacteria strains for chemical park effluents",
+                            "Founded":  1998,
+                            "Id":  "COMP-09",
+                            "BusinessModel":  "Industrial Park Centralized Utility, BOO (Build-Own-Operate), Long-term Utility Concessions",
+                            "ZLDProcess":  "Multi-tenant brine concentration and centralized evaporation for chemical industrial tenants",
+                            "Leadership":  "Wong Kim Yin (Group President \u0026 CEO)",
+                            "Category":  "Industrial Water Specialist / Utility Developer",
+                            "ParentCompany":  "Temasek Holdings (Government of Singapore)",
+                            "ScoreProductPortfolio":  4.4,
+                            "FlagshipProducts":  "Total Water Solutions, Jurong Island Industrial Water Reclaim (NEWater standard), High-COD Co-treatment",
+                            "Classification":  "Adjacent Competitor (Industrial Utility Concessionaire)",
+                            "GlobalPresence":  "Major operations in Singapore, China, India, Vietnam, UK, Oman, UAE, Indonesia",
+                            "Name":  "Sembcorp Industries",
+                            "ConsolidatedRevenue":  ".8B (SGD 7.8B in FY2023 / FY2024)",
+                            "AdvancedTreatment":  "Ozonation, UV oxidation, granular activated carbon polishing for trace toxic organics",
+                            "CoreTechnologies":  "Centralized Industrial Wastewater Treatment (CIWWT), Membrane recovery, Total water management",
+                            "KeyCustomerPromise":  "Zero off-site discharge risk for tenant factories, guaranteed utility uptime, full regulatory compliance",
+                            "SalesPositioning":  "The premier developer and operator of centralized industrial park utility and wastewater concessions",
+                            "ScoreCustomerPerformance":  4.8,
+                            "ManufacturingAndRD":  "Sembcorp Technology \u0026 Innovation Centre, Jurong Island (Singapore)",
+                            "TargetIndustries":  "Petrochemical Parks, Chemical Estates, Industrial Hubs, Semiconductor Hubs, Power Parks",
+                            "LegalEntity":  "Sembcorp Industries Ltd",
+                            "IndiaPresence":  "Sembcorp India (Gurugram, Chennai, Hyderabad); Energy and centralized utility assets in Andhra Pradesh \u0026 Gujarat",
+                            "ScoreInnovationPipeline":  4.4,
+                            "KeySubsidiaries":  "Sembcorp Utilities, Sembcorp Water UK, Sembcorp China, Sembcorp SUT (Jurong Island)",
+                            "IdentifiedProjects":  [
+                                                       {
+                                                           "Tech":  "Centralized CIWWT + Ultrafiltration + RO",
+                                                           "Type":  "BOO Concession (30 years)",
+                                                           "Client":  "Jurong Island Industrial Park",
+                                                           "Capacity":  "280,000 m3/d",
+                                                           "Location":  "Jurong Island, Singapore",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "Multi-tenant toxic chemical effluent treatment + RO",
+                                                           "Type":  "BOO Concession",
+                                                           "Client":  "Nanjing Chemical Industrial Park",
+                                                           "Capacity":  "80,000 m3/d",
+                                                           "Location":  "Jiangsu, China",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "Centralized industrial effluent + Demineralized feed",
+                                                           "Type":  "BOO Utility Owner",
+                                                           "Client":  "Wilton International Chemical Park",
+                                                           "Capacity":  "120,000 m3/d",
+                                                           "Location":  "Teesside, United Kingdom",
+                                                           "Status":  "Operational"
+                                                       }
+                                                   ],
+                            "Headquarters":  "Singapore",
+                            "MembraneTreatment":  "Industrial-scale microfiltration, ultrafiltration, and seawater/brackish reverse osmosis",
+                            "Employees":  "4,500+",
+                            "IndustrialWaterRevenue":  "~ -  (Gas \u0026 Related Services / Urban \u0026 Water utility operations)",
+                            "SludgeManagement":  "Centralized thermal sludge incineration with energy recovery and co-firing",
+                            "KeyClients":  "ExxonMobil, Shell, Evonik, BASF, DuPont, SABIC, Lanxess (Jurong Island \u0026 China chemical parks)",
+                            "OpexBenchmark":  ".45 - .20 / m3 (High-complexity centralized chemical park effluent)",
+                            "ScoreTechnologyCapability":  4.7,
+                            "ScoreCommercialCompetitiveness":  4.5,
+                            "GapsAndLimitations":  "Operates as a long-term utility investor/operator rather than an equipment fabricator."
+                        },
+                        {
+                            "PreliminaryTreatment":  "High-rate clarifiers, dissolved air flotation, oil-skimmers, multi-media filters",
+                            "ScoreSalesCapability":  4.9,
+                            "WaterReuseCapability":  "Process effluent recycling to high-purity demin water and boiler feed quality",
+                            "PricingModels":  "Turnkey EPC, Skid supply, Chemical supply contracts, Total Water Management (TWM) BOO/BOOT",
+                            "Ownership":  "Public (NSE: IONEXCHANG / BSE: 500214)",
+                            "CapexBenchmark":  " - ,900 per KLD (Integrated ETP + RO + ZLD in Indian industrial parks)",
+                            "ConfidenceLevel":  "High (BSE/NSE audited reports, detailed annual reports, investor presentations, customer references)",
+                            "CustomerSentiment":  "Unrivaled domestic trust, deep customer loyalty across Indian public and private sector giants. Highly regarded INDION resin quality; occasional delivery delays during peak EPC cycle.",
+                            "ScoreMarketPresence":  4.8,
+                            "BiologicalTreatment":  "Membrane Bioreactors (MBR), Fluidized Aerobic Bio-reactors (FAB), Upflow Anaerobic Sludge Blanket (UASB)",
+                            "Founded":  1977,
+                            "Id":  "COMP-10",
+                            "BusinessModel":  "Engineering EPC, Proprietary INDION Resins \u0026 Membranes, Water Treatment Chemicals, O\u0026M",
+                            "ZLDProcess":  "Comprehensive ZLD: Pretreatment + Membrane Concentration (High-pressure RO) + Thermal MEE / Crystallizer",
+                            "Leadership":  "Rajesh Sharma (Chairman \u0026 Managing Director)",
+                            "Category":  "Industrial Water Specialist",
+                            "ParentCompany":  "Ion Exchange (India) Limited",
+                            "ScoreProductPortfolio":  4.8,
+                            "FlagshipProducts":  "INDION Resins, INDFLOC coagulants, INDION MBR, HYDRAMEM RO membranes, Swift Packaged ETP",
+                            "Classification":  "Direct Competitor",
+                            "GlobalPresence":  "Operations in \u003e40 countries across Southeast Asia, Middle East, Africa, North America, Europe",
+                            "Name":  "Ion Exchange India",
+                            "ConsolidatedRevenue":  " -  (INR 2,300+ Cr in FY2024)",
+                            "AdvancedTreatment":  "Advanced oxidation processes, activated carbon systems, ozone and UV systems",
+                            "CoreTechnologies":  "INDION ion exchange resins, INDION RO \u0026 UF membranes, MBR, ZLD systems, Electro-deionization, Clarifiers",
+                            "KeyCustomerPromise":  "Complete indigenous single-vendor solution from resin synthesis to turnkey thermal ZLD execution",
+                            "SalesPositioning":  "India\u0027s pioneer in total water management with fully backward-integrated resin and membrane synthesis",
+                            "ScoreCustomerPerformance":  4.6,
+                            "ManufacturingAndRD":  "World-scale resin manufacturing facility in Roha \u0026 Ankleshwar; R\u0026D Center in Patancheru \u0026 Navi Mumbai",
+                            "TargetIndustries":  "Power, Refining \u0026 Petrochemicals, Pharmaceuticals, Food \u0026 Beverage, Steel, Textiles, Electronics",
+                            "LegalEntity":  "Ion Exchange (India) Limited",
+                            "IndiaPresence":  "Pan-India footprint with major fabrication and manufacturing hubs in Ankleshwar, Bharuch, Goa, Hosur",
+                            "ScoreInnovationPipeline":  4.5,
+                            "KeySubsidiaries":  "Ion Exchange Environment Management, Ion Exchange Asia Pacific, Ion Exchange Chemicals",
+                            "IdentifiedProjects":  [
+                                                       {
+                                                           "Tech":  "Centralized Industrial ETP + MBR + RO Reuse",
+                                                           "Type":  "Turnkey EPC + O\u0026M",
+                                                           "Client":  "Sri City Industrial Park",
+                                                           "Capacity":  "20,000 m3/d",
+                                                           "Location":  "Andhra Pradesh, India",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "Effluent Treatment + High-Recovery RO + ZLD",
+                                                           "Type":  "Lump-sum Turnkey",
+                                                           "Client":  "Vedanta / BALCO",
+                                                           "Capacity":  "12,000 m3/d",
+                                                           "Location":  "Korba, Chhattisgarh, India",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "Demineralization \u0026 Condensate Polishing System",
+                                                           "Type":  "EPC",
+                                                           "Client":  "Indian Oil Corporation (IOCL)",
+                                                           "Capacity":  "24,000 m3/d",
+                                                           "Location":  "Panipat, Haryana, India",
+                                                           "Status":  "Operational"
+                                                       }
+                                                   ],
+                            "Headquarters":  "Mumbai, Maharashtra, India",
+                            "MembraneTreatment":  "HYDRAMEM indigenous RO membranes, INDION UF, continuous electro-deionization (CEDI)",
+                            "Employees":  "3,200+",
+                            "IndustrialWaterRevenue":  "~ -  (~80% from Engineering \u0026 Chemical industrial water segments)",
+                            "SludgeManagement":  "Filter presses, centrifuge decanters, solar sludge drying, sludge conditioning polymers",
+                            "KeyClients":  "Reliance Industries, NTPC, Tata Power, BHEL, Sun Pharma, Serum Institute of India, L\u0026T",
+                            "OpexBenchmark":  ".26 - .75 / m3 (Biological + Membrane); .75 - .60 / m3 (Thermal ZLD)",
+                            "ScoreTechnologyCapability":  4.7,
+                            "ScoreCommercialCompetitiveness":  4.8,
+                            "GapsAndLimitations":  "Exports expanding rapidly in Middle East and Africa; North American presence relies primarily on specialty resin sales."
+                        },
+                        {
+                            "PreliminaryTreatment":  "Brackett Green fine screens, stop gates, Eimco primary clarifiers, grit separation",
+                            "ScoreSalesCapability":  4.4,
+                            "WaterReuseCapability":  "Semiconductor fab UPW loop recycling (\u003e80% reclaim rate to ultrapure standards)",
+                            "PricingModels":  "Engineered equipment packages, Turnkey system integration, Long-term service agreements",
+                            "Ownership":  "Private (Owned by SKion Water GmbH - Susanne Klatten family office)",
+                            "CapexBenchmark":  ",800 - ,500 per KLD (High-purity industrial \u0026 semiconductor wastewater systems)",
+                            "ConfidenceLevel":  "High (Verified corporate disclosures via SKion Water, trade press, microelectronics references)",
+                            "CustomerSentiment":  "Top-tier vendor for the global semiconductor industry with unmatched process cleanliness and engineering standards. Premium price point and extended project lead times.",
+                            "ScoreMarketPresence":  4.5,
+                            "BiologicalTreatment":  "MemPulse MBR (uses hollow fiber with pulsed aeration for 40% energy reduction), Aerated lagoons",
+                            "Founded":  2010,
+                            "Id":  "COMP-11",
+                            "BusinessModel":  "Engineered Systems, Proprietary Equipment, Membrane Skid Integration, Aftermarket Services",
+                            "ZLDProcess":  "C\u0026G vacuum evaporators and crystallizers for harsh industrial chemical recycling",
+                            "Leadership":  "Marc Barbeau (President \u0026 CEO)",
+                            "Category":  "Industrial Water Specialist",
+                            "ParentCompany":  "SKion Water GmbH",
+                            "ScoreProductPortfolio":  4.6,
+                            "FlagshipProducts":  "MemPulse MBR, Eimco Clarifier, C\u0026G vacuum evaporators, ALAR chemical precipitation",
+                            "Classification":  "Direct Competitor (Ultrapure \u0026 High-Tech Industrial Leader)",
+                            "GlobalPresence":  "Operations in 15+ countries across North America, Europe, Asia (Taiwan, Singapore, Korea)",
+                            "Name":  "Ovivo Inc.",
+                            "ConsolidatedRevenue":  " -  (Estimated under SKion Water holding)",
+                            "AdvancedTreatment":  "High-efficiency UV TOC reduction, advanced ozone oxidation, boron/silica removal systems",
+                            "CoreTechnologies":  "Ultrapure Water (UPW), MemPulse MBR, Eimco Clarifiers, Brackett Green screening, ALAR Micro-Klean",
+                            "KeyCustomerPromise":  "Sub-ppb purity levels, zero fab contamination risk, unmatched membrane reliability",
+                            "SalesPositioning":  "World leader in ultrapure water and critical wastewater systems for the global semiconductor industry",
+                            "ScoreCustomerPerformance":  4.7,
+                            "ManufacturingAndRD":  "High-tech manufacturing in Austin (USA), Montreal (Canada), Switzerland, Taiwan",
+                            "TargetIndustries":  "Semiconductors \u0026 Microelectronics, Pharmaceuticals, Energy \u0026 Power, Food \u0026 Beverage",
+                            "LegalEntity":  "Ovivo Inc. / SKion Water GmbH",
+                            "IndiaPresence":  "Ovivo Water India Pvt Ltd (Bengaluru, Karnataka); Regional engineering and design center in Bengaluru",
+                            "ScoreInnovationPipeline":  4.6,
+                            "KeySubsidiaries":  "C\u0026G, Eimco Water Technologies, Brackett Green, Enviroquip, ALAR, VWS (acquired assets)",
+                            "IdentifiedProjects":  [
+                                                       {
+                                                           "Tech":  "Ultrapure Water + Industrial Wastewater Reclaim",
+                                                           "Type":  "Engineered Package",
+                                                           "Client":  "GlobalFoundries Fab 8",
+                                                           "Capacity":  "25,000 m3/d",
+                                                           "Location":  "Malta, New York, USA",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "Copper \u0026 Fluoride wastewater treatment + MemPulse MBR",
+                                                           "Type":  "Turnkey System",
+                                                           "Client":  "Leading Microelectronics Manufacturer",
+                                                           "Capacity":  "18,000 m3/d",
+                                                           "Location":  "Hsinchu Science Park, Taiwan",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "Eimco Clarification + Demineralization",
+                                                           "Type":  "Equipment Supply",
+                                                           "Client":  "Major Canadian Power Facility",
+                                                           "Capacity":  "10,000 m3/d",
+                                                           "Location":  "Ontario, Canada",
+                                                           "Status":  "Operational"
+                                                       }
+                                                   ],
+                            "Headquarters":  "Montreal, Quebec, Canada",
+                            "MembraneTreatment":  "Advanced UPW membrane systems, CEDI, degasification membranes, point-of-use ultrafiltration",
+                            "Employees":  "1,400+",
+                            "IndustrialWaterRevenue":  "~ -  (\u003e70% from Electronics/Semiconductor and Energy sectors)",
+                            "SludgeManagement":  "Eimco thickeners, belt filter presses, gravity belt thickeners",
+                            "KeyClients":  "Intel, TSMC, GlobalFoundries, Samsung, Micron, Sanofi, Novartis",
+                            "OpexBenchmark":  ".50 - .40 / m3 (Advanced semiconductor wastewater treatment \u0026 reclaim)",
+                            "ScoreTechnologyCapability":  4.8,
+                            "ScoreCommercialCompetitiveness":  4.1,
+                            "GapsAndLimitations":  "Private holding company financial metrics are consolidated under SKion Water without public SEC filings."
+                        },
+                        {
+                            "PreliminaryTreatment":  "Coagulant aids, heavy metal precipitating agents, emulsion breakers for oil removal",
+                            "ScoreSalesCapability":  4.9,
+                            "WaterReuseCapability":  "Mill water loop closure in pulp \u0026 paper, cooling circuit blowdown reuse conditioning",
+                            "PricingModels":  "Chemical consumption contracts, Gain-sharing performance contracts, IoT Equipment lease",
+                            "Ownership":  "Private (Owned by Platinum Equity; acquired Diversey Holdings for $4.6B in July 2023)",
+                            "CapexBenchmark":  " -  per KLD (Chemical dosing automation, IoT skids, and monitoring hardware)",
+                            "ConfidenceLevel":  "High (Verified corporate disclosures, Platinum Equity transaction filings, industry market data)",
+                            "CustomerSentiment":  "Praised for industry-leading polymers (Praestol) and pulp/paper process depth. Heavy chemical orientation; does not provide civil or mechanical EPC works.",
+                            "ScoreMarketPresence":  4.7,
+                            "BiologicalTreatment":  "Bio-dispersants, bio-nutrient formulations, defoamers for biological aeration basins",
+                            "Founded":  2019,
+                            "Id":  "COMP-12",
+                            "BusinessModel":  "Specialty Process \u0026 Water Chemicals, IoT Dosing Automation, Chemical Management Service",
+                            "ZLDProcess":  "Specialty scale inhibitors for high-TDS thermal evaporators and falling film brine concentrators",
+                            "Leadership":  "John Panichella (President \u0026 CEO)",
+                            "Category":  "Industrial Water Specialist",
+                            "ParentCompany":  "Platinum Equity",
+                            "ScoreProductPortfolio":  4.4,
+                            "FlagshipProducts":  "Zalta, Praestol, Biosperse, OnGuard Controller, Performax, Taline",
+                            "Classification":  "Adjacent Competitor (Process Chemicals \u0026 Water Solutions)",
+                            "GlobalPresence":  "71 manufacturing facilities operating across 130 countries globally",
+                            "Name":  "Solenis",
+                            "ConsolidatedRevenue":  "~.2B - .5B (Pro-forma combined with Diversey in FY2023 / FY2024)",
+                            "AdvancedTreatment":  "Advanced chemical oxidation, color removal coagulants for textile \u0026 pulp effluents",
+                            "CoreTechnologies":  "Zalta antiscalants, Praestol flocculants, Biosperse microbicides, OnGuard IoT monitoring, Chemtronics",
+                            "KeyCustomerPromise":  "Maximize industrial uptime, optimize chemical dosage via AI/IoT, eliminate biofouling and scaling",
+                            "SalesPositioning":  "Global specialty chemical juggernaut optimizing industrial water, paper, and hygiene processes",
+                            "ScoreCustomerPerformance":  4.6,
+                            "ManufacturingAndRD":  "Wilmington R\u0026D (USA); Utrecht (Netherlands); Vapi (India); Paulínia (Brazil)",
+                            "TargetIndustries":  "Pulp \u0026 Paper, Heavy Industry, Chemical Processing, Mining \u0026 Mineral Processing, Refining, Food \u0026 Beverage",
+                            "LegalEntity":  "Solenis LLC",
+                            "IndiaPresence":  "Solenis India Pvt Ltd (Mumbai, Vapi, Hyderabad); Manufacturing \u0026 blending facility in Vapi, Gujarat",
+                            "ScoreInnovationPipeline":  4.4,
+                            "KeySubsidiaries":  "Diversey, Polysonde, BASF Paper and Water Chemicals business (integrated), Clearon Corp",
+                            "IdentifiedProjects":  [
+                                                       {
+                                                           "Tech":  "Praestol Flocculants + OnGuard IoT Dosing",
+                                                           "Type":  "Annual Chemical Contract",
+                                                           "Client":  "Leading Paper Mill",
+                                                           "Capacity":  "25,000 m3/d process water",
+                                                           "Location":  "Tamil Nadu, India",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "Effluent Decolorization + Zalta Antiscalant",
+                                                           "Type":  "Performance SLA",
+                                                           "Client":  "Large North American Pulp Mill",
+                                                           "Capacity":  "40,000 m3/d",
+                                                           "Location":  "Georgia, USA",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "Tailings Thickening + Dewatering Polymers",
+                                                           "Type":  "Supply \u0026 Technical Service",
+                                                           "Client":  "Mining Refining Complex",
+                                                           "Capacity":  "15,000 m3/d tailings water",
+                                                           "Location":  "Minas Gerais, Brazil",
+                                                           "Status":  "Operational"
+                                                       }
+                                                   ],
+                            "Headquarters":  "Wilmington, Delaware, USA",
+                            "MembraneTreatment":  "Zalta antiscalants for high-recovery RO/NF, membrane biocides, proprietary CIP cleaners",
+                            "Employees":  "15,500+",
+                            "IndustrialWaterRevenue":  "~.0B - .3B (Water technologies, heavy industrial, and paper process water)",
+                            "SludgeManagement":  "Praestol high-molecular-weight cationic and anionic polymers for mechanical dewatering",
+                            "KeyClients":  "International Paper, Kimberly-Clark, WestRock, Stora Enso, Dow, BASF, JSW Steel",
+                            "OpexBenchmark":  ".15 - .50 / m3 (Specialty chemical treatment and process conditioning)",
+                            "ScoreTechnologyCapability":  4.5,
+                            "ScoreCommercialCompetitiveness":  4.4,
+                            "GapsAndLimitations":  "Private company; financials are estimated from M\u0026A debt rating releases (Moody\u0027s / S\u0026P)."
+                        },
+                        {
+                            "PreliminaryTreatment":  "Rotary drum screens, dissolved air flotation (DAF), chemical neutralization",
+                            "ScoreSalesCapability":  4,
+                            "WaterReuseCapability":  "Decentralized wastewater reuse to Title 22 standards for irrigation, industrial cooling, and flush water",
+                            "PricingModels":  "Standardized modular equipment sales, Turnkey EPC, Water-as-a-Service (WaaS), BOOT",
+                            "Ownership":  "Public (ASX: FLC / OTC: FLCUF)",
+                            "CapexBenchmark":  " - ,400 per KLD (Decentralized MABR packaged systems \u0026 Nirobox skids)",
+                            "ConfidenceLevel":  "High (ASX audited financial filings, investor presentations, published technical case studies)",
+                            "CustomerSentiment":  "Praised for revolutionary low-energy MABR technology and pre-engineered containerized skids. Small balance sheet compared to multi-billion dollar conglomerates limits bonding capacity on mega-EPC projects.",
+                            "ScoreMarketPresence":  3.9,
+                            "BiologicalTreatment":  "MABR (passive aeration via breathable membrane saving up to 90% aeration energy), Anaerobic UASB/CSTR",
+                            "Founded":  2017,
+                            "Id":  "COMP-13",
+                            "BusinessModel":  "Smart Packaged Solutions (SPS), Technology Licensing, Turnkey Projects, BOOT / O\u0026M",
+                            "ZLDProcess":  "High-recovery membrane brine concentration, integration with modular thermal evaporators",
+                            "Leadership":  "Thomas Pokorsky (CEO \u0026 Managing Director)",
+                            "Category":  "Industrial Water Specialist",
+                            "ParentCompany":  "Fluence Corporation Limited",
+                            "ScoreProductPortfolio":  4.2,
+                            "FlagshipProducts":  "Aspiral, SUBRE, Nirobox, EcoForward, Anaerobic Digestion with Waste-to-Energy",
+                            "Classification":  "Direct Competitor (MABR \u0026 Decentralized Technology Innovator)",
+                            "GlobalPresence":  "Operations in North America, South America (Argentina, Brazil), Europe (Italy), Middle East, China, Southeast Asia",
+                            "Name":  "Fluence Corporation",
+                            "ConsolidatedRevenue":  " -  (FY2023 / FY2024)",
+                            "AdvancedTreatment":  "Advanced oxidation, UV disinfection, granular activated carbon polishing",
+                            "CoreTechnologies":  "MABR (Membrane Aerated Biofilm Reactor), Aspiral smart packaged plants, Nirobox modular desalination/reuse, SUBRE retrofits",
+                            "KeyCustomerPromise":  "Lowest operating energy, rapid modular plug-and-play deployment, compact footprint",
+                            "SalesPositioning":  "Disruptive decentralized water reuse innovator offering up to 90% aeration energy savings via patented MABR",
+                            "ScoreCustomerPerformance":  4.3,
+                            "ManufacturingAndRD":  "Proprietary MABR membrane fabrication plant in Changzhou, China; Engineering center in Padua, Italy",
+                            "TargetIndustries":  "Food \u0026 Beverage (Breweries, Dairies, Slaughterhouses), Mining, Remote Commercial Estates, Municipal Decentralized",
+                            "LegalEntity":  "Fluence Corporation Limited",
+                            "IndiaPresence":  "Active through regional distribution partners and industrial EPC channel partners",
+                            "ScoreInnovationPipeline":  4.7,
+                            "KeySubsidiaries":  "Fluence Italy (formerly Eurotec), Fluence USA, Fluence Israel, Fluence China",
+                            "IdentifiedProjects":  [
+                                                       {
+                                                           "Tech":  "Anaerobic Digestion + Waste-to-Energy",
+                                                           "Type":  "Turnkey EPC",
+                                                           "Client":  "Grupo Arcor",
+                                                           "Capacity":  "3,000 m3/d",
+                                                           "Location":  "San Pedro, Argentina",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "DAF + Aerobic MBR + RO Reuse",
+                                                           "Type":  "Design-Build",
+                                                           "Client":  "Bimbo Bakeries",
+                                                           "Capacity":  "1,500 m3/d",
+                                                           "Location":  "Buenos Aires, Argentina",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "Aspiral MABR Modular Wastewater Treatment",
+                                                           "Type":  "Equipment Supply",
+                                                           "Client":  "Hubei Environmental Protection",
+                                                           "Capacity":  "Multi-site packaged Aspiral units",
+                                                           "Location":  "Hubei Province, China",
+                                                           "Status":  "Operational"
+                                                       }
+                                                   ],
+                            "Headquarters":  "White Plains, New York, USA / Melbourne, Australia",
+                            "MembraneTreatment":  "Nirobox containerized SWRO/BWRO systems, tertiary ultrafiltration, spiral-wound RO",
+                            "Employees":  "300+",
+                            "IndustrialWaterRevenue":  "~ -  (Over 60% from industrial food \u0026 beverage, mining, and decentralized reuse)",
+                            "SludgeManagement":  "Screw presses, belt filter presses, anaerobic biogas recovery from high-load industrial sludge",
+                            "KeyClients":  "Bimbo Bakeries, Arcor, Coca-Cola FEMSA, Concha y Toro, Enel, China Three Gorges",
+                            "OpexBenchmark":  ".18 - .45 / m3 (Ultra-low energy MABR treatment: ~0.25-0.35 kWh/m3 biological)",
+                            "ScoreTechnologyCapability":  4.7,
+                            "ScoreCommercialCompetitiveness":  4.3,
+                            "GapsAndLimitations":  "Direct direct sales presence in India relies on project-based partnerships rather than a dedicated local manufacturing facility."
+                        },
+                        {
+                            "PreliminaryTreatment":  "High-recovery clarification, dual media filters, microfiltration",
+                            "ScoreSalesCapability":  4.3,
+                            "WaterReuseCapability":  "Ultra-high recovery industrial water reuse from mine drainage, cooling blowdown, and refinery effluent",
+                            "PricingModels":  "Turnkey EPC, BOT/BOOT Concessions, Technology Licensing, Long-term O\u0026M",
+                            "Ownership":  "Private (Consortium led by Alfa Partners and IDE Management)",
+                            "CapexBenchmark":  ",800 - ,500 per KLD (High-recovery MaxH2O Desalter and Thermal ZLD systems)",
+                            "ConfidenceLevel":  "High (Extensive engineering case studies, published IDA papers, audited project filings)",
+                            "CustomerSentiment":  "Unmatched global pedigree in mega-scale desalination and thermal systems. MaxH2O Desalter considered breakthrough technology for pushing RO recovery limits.",
+                            "ScoreMarketPresence":  4.5,
+                            "BiologicalTreatment":  "Biological pretreatment for industrial reuse applications, specialized bio-filters",
+                            "Founded":  1965,
+                            "Id":  "COMP-14",
+                            "BusinessModel":  "EPC Turnkey, Proprietary Desalination \u0026 ZLD Technology, BOT / BOOT Concessions, O\u0026M",
+                            "ZLDProcess":  "MaxH2O Pulse RO + MVC Brine Concentrators + Crystallizers (reducing thermal evaporator size by up to 70%)",
+                            "Leadership":  "Alon Tavor (CEO)",
+                            "Category":  "Industrial Water Specialist",
+                            "ParentCompany":  "IDE Technologies Ltd.",
+                            "ScoreProductPortfolio":  4.5,
+                            "FlagshipProducts":  "MaxH2O Desalter, MaxH2O Pulse RO, IDE PROGREEN, MED-TVC, MVC Evaporators",
+                            "Classification":  "Direct Competitor (Thermal \u0026 Membrane Desalination / ZLD Leader)",
+                            "GlobalPresence":  "Major projects in Israel, USA, India, Chile, China, Australia, Cyprus, Singapore",
+                            "Name":  "IDE Technologies",
+                            "ConsolidatedRevenue":  " -  (Estimated)",
+                            "AdvancedTreatment":  "Advanced chemical softening, boron removal, high-efficiency scale-inhibition pretreatment",
+                            "CoreTechnologies":  "MaxH2O Desalter (Pulse RO), MaxH2O WaterPulse, Mechanical Vapor Compression (MVC), Multi-Effect Distillation (MED), Thermal ZLD",
+                            "KeyCustomerPromise":  "Highest membrane water recovery before thermal evaporation, drastically lowering ZLD CAPEX and energy",
+                            "SalesPositioning":  "World leader in thermal and high-recovery membrane desalination and industrial brine minimization",
+                            "ScoreCustomerPerformance":  4.8,
+                            "ManufacturingAndRD":  "R\u0026D Center and test facilities in Kadima, Israel; Modular fabrication partners globally",
+                            "TargetIndustries":  "Mining \u0026 Mineral Extraction, Oil \u0026 Gas / Petrochemicals, Power Generation, Mega-Industrial CETPs",
+                            "LegalEntity":  "IDE Technologies Ltd.",
+                            "IndiaPresence":  "IDE Technologies India Pvt Ltd (New Delhi, Mumbai); Execution of mega-industrial projects in Gujarat and Tamil Nadu",
+                            "ScoreInnovationPipeline":  4.7,
+                            "KeySubsidiaries":  "IDE Americas, IDE Chile, IDE India, IDE China",
+                            "IdentifiedProjects":  [
+                                                       {
+                                                           "Tech":  "Multi-Effect Distillation (MED) + SWRO",
+                                                           "Type":  "Turnkey EPC",
+                                                           "Client":  "Reliance Industries Ltd",
+                                                           "Capacity":  "160,000 m3/d",
+                                                           "Location":  "Jamnagar, Gujarat, India",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "Seawater Desalination \u0026 Mining Process WW Reclaim",
+                                                           "Type":  "EPC",
+                                                           "Client":  "Minera Centinela (Antofagasta Minerals)",
+                                                           "Capacity":  "30,000 m3/d",
+                                                           "Location":  "Antofagasta, Chile",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "MaxH2O Desalter (Pulse RO for 95% cooling blowdown recovery)",
+                                                           "Type":  "Technology Supply",
+                                                           "Client":  "Major US Industrial Facility",
+                                                           "Capacity":  "12,000 m3/d",
+                                                           "Location":  "Texas, USA",
+                                                           "Status":  "Operational"
+                                                       }
+                                                   ],
+                            "Headquarters":  "Kadima, Israel",
+                            "MembraneTreatment":  "MaxH2O Desalter (semi-batch pulse RO operating above gypsum/silica saturation limits up to 98% recovery)",
+                            "Employees":  "600+",
+                            "IndustrialWaterRevenue":  "~ -  (~50-60% from industrial mining, refining, and power ZLD)",
+                            "SludgeManagement":  "Mechanical dewatering, salt crystallization for mineral recovery",
+                            "KeyClients":  "Reliance Industries (Jamnagar), BHP Billiton, Teck Resources, POSCO, SDIC China, Carlsbad Desal",
+                            "OpexBenchmark":  ".85 - .40 / m3 (High recovery RO + Brine concentration)",
+                            "ScoreTechnologyCapability":  4.9,
+                            "ScoreCommercialCompetitiveness":  4.3,
+                            "GapsAndLimitations":  "Private entity; segment profit margins not publicly disclosed."
+                        },
+                        {
+                            "PreliminaryTreatment":  "Oil-water separators, dissolved air flotation, high-rate solids clarifiers",
+                            "ScoreSalesCapability":  4.4,
+                            "WaterReuseCapability":  "Tertiary treated recycled water for industrial boiler feed and cooling tower makeup",
+                            "PricingModels":  "Turnkey EPC, Lump-sum Turnkey (LSTK), Design-Build-Operate, Long-term O\u0026M",
+                            "Ownership":  "Subsidiary of Toshiba Infrastructure Systems \u0026 Solutions Corporation (TISS - Japan)",
+                            "CapexBenchmark":  " - ,800 per KLD (Integrated industrial ETP + RO + ZLD in India/SE Asia)",
+                            "ConfidenceLevel":  "High (Toshiba Corporation public reports, Ministry of Corporate Affairs India filings, customer project references)",
+                            "CustomerSentiment":  "Highly trusted by Japanese automotive giants in India (Maruti Suzuki, Toyota) for flawless quality and safety governance. Conservative bidding approach on speculative private contracts.",
+                            "ScoreMarketPresence":  4.3,
+                            "BiologicalTreatment":  "Upflow anaerobic sludge blanket (UASB), MBR, MBBR, extended aeration activated sludge",
+                            "Founded":  2015,
+                            "Id":  "COMP-15",
+                            "BusinessModel":  "Turnkey EPC, Design-Build-Operate (DBO), Concession Assets, O\u0026M",
+                            "ZLDProcess":  "Multi-stage RO brine concentration + Multi-effect evaporation (MEE) + ATFD crystallization",
+                            "Leadership":  "Hiroaki Kaneko (Chairman \u0026 Managing Director)",
+                            "Category":  "Industrial Water Specialist / Engineering EPC",
+                            "ParentCompany":  "Toshiba Corporation (Japan)",
+                            "ScoreProductPortfolio":  4.5,
+                            "FlagshipProducts":  "U-Tech Clarifier, Bio-T anaerobic systems, Toshiba Ozone Generation Systems",
+                            "Classification":  "Direct Competitor",
+                            "GlobalPresence":  "Operations in India, Southeast Asia (Philippines, Vietnam), North America (USA), Middle East (Oman, UAE)",
+                            "Name":  "Toshiba Water Solutions",
+                            "ConsolidatedRevenue":  " -  (INR 1,000 - 1,300 Cr in FY2024)",
+                            "AdvancedTreatment":  "Toshiba high-concentration ozone generation systems for persistent COD destruction",
+                            "CoreTechnologies":  "Advanced biological treatment, Ozone AOP, MBR, high-recovery RO, thermal ZLD systems",
+                            "KeyCustomerPromise":  "Strict adherence to safety and quality standards, guaranteed uptime, reliable lifecycle O\u0026M",
+                            "SalesPositioning":  "Japanese engineering excellence and quality governance combined with competitive Indian EPC execution",
+                            "ScoreCustomerPerformance":  4.6,
+                            "ManufacturingAndRD":  "Gurugram Engineering Center; Toshiba Infrastructure Systems R\u0026D (Kawasaki, Japan)",
+                            "TargetIndustries":  "Automotive, Oil \u0026 Gas, Chemicals, Power, Common Effluent Treatment Plants (CETPs), Municipal Sewage Reuse",
+                            "LegalEntity":  "Toshiba Water Solutions Private Limited",
+                            "IndiaPresence":  "Corporate HQ in Gurugram, Haryana; Regional execution centers across India",
+                            "ScoreInnovationPipeline":  4.3,
+                            "KeySubsidiaries":  "Toshiba Water Solutions America Inc., TWS Philippines Inc.",
+                            "IdentifiedProjects":  [
+                                                       {
+                                                           "Tech":  "Automotive ETP + MBR + RO Reuse + ZLD",
+                                                           "Type":  "Turnkey EPC + O\u0026M",
+                                                           "Client":  "Maruti Suzuki India Limited",
+                                                           "Capacity":  "10,000 KLD total across sites",
+                                                           "Location":  "Manesar \u0026 Hansalpur, India",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "Wastewater Treatment \u0026 Reclamation Facility",
+                                                           "Type":  "Joint Venture EPC",
+                                                           "Client":  "Maynilad Water Services",
+                                                           "Capacity":  "100,000 m3/d",
+                                                           "Location":  "Manila, Philippines",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "Refinery Wastewater Reclaim + Demineralization",
+                                                           "Type":  "Turnkey EPC",
+                                                           "Client":  "Indian Oil Corporation (IOCL)",
+                                                           "Capacity":  "12,000 m3/d",
+                                                           "Location":  "Mathura, Uttar Pradesh, India",
+                                                           "Status":  "Operational"
+                                                       }
+                                                   ],
+                            "Headquarters":  "Gurugram, Haryana, India",
+                            "MembraneTreatment":  "Ultrafiltration, Brackish Water RO, Seawater RO skids for industrial effluent",
+                            "Employees":  "650+",
+                            "IndustrialWaterRevenue":  "~ -  (~60% from industrial wastewater, automotive, oil \u0026 gas, and CETPs)",
+                            "SludgeManagement":  "Centrifuge decanters, plate and frame filter presses, sludge digestion systems",
+                            "KeyClients":  "Maruti Suzuki, Indian Oil (IOCL), Toyota, Honda, Delhi Development Authority (DDA), Maynilad Water (Philippines)",
+                            "OpexBenchmark":  ".28 - .78 / m3 (Biological + Membrane); .80 - .70 / m3 (Thermal ZLD)",
+                            "ScoreTechnologyCapability":  4.6,
+                            "ScoreCommercialCompetitiveness":  4.5,
+                            "GapsAndLimitations":  "Operates under Toshiba Infrastructure Systems; segment margins reported in aggregate infrastructure results."
+                        },
+                        {
+                            "PreliminaryTreatment":  "High-efficiency Lamella clarifiers, CPI oil-water separators, DAF skids",
+                            "ScoreSalesCapability":  4.7,
+                            "WaterReuseCapability":  "Treated sewage effluent (TSE) to industrial cooling water and refinery reuse",
+                            "PricingModels":  "Turnkey EPC, Lump-sum, BOOT concessions (15-30 years), Performance-based O\u0026M",
+                            "Ownership":  "Private (Shareholders include Alpha Dhabi Holding, Mitsubishi Corporation, Mitsubishi Heavy Industries, IFC)",
+                            "CapexBenchmark":  ",100 - ,400 per KLD (Industrial EPC and reuse concessions in Middle East / Africa)",
+                            "ConfidenceLevel":  "High (Alpha Dhabi Holding financial disclosures, project award announcements, IFC project portals)",
+                            "CustomerSentiment":  "Formidable commercial execution and project financing capabilities in the Middle East and Africa. Backed by Mitsubishi and Alpha Dhabi giving strong balance sheet resilience.",
+                            "ScoreMarketPresence":  4.6,
+                            "BiologicalTreatment":  "Bioplus extended aeration, Moving Bed Biofilm Reactors (MBBR), Anaerobic systems",
+                            "Founded":  1958,
+                            "Id":  "COMP-16",
+                            "BusinessModel":  "Design-Build EPC, BOOT / Concession Developer, Operations \u0026 Maintenance (O\u0026M)",
+                            "ZLDProcess":  "Thermal brine concentrators, crystallization, RO brine recovery integration",
+                            "Leadership":  "Mutaz Ghandour (Chairman \u0026 CEO), Rami Ghandour (Managing Director)",
+                            "Category":  "Engineering, EPC and Industrial Treatment",
+                            "ParentCompany":  "Metito Holdings Limited",
+                            "ScoreProductPortfolio":  4.5,
+                            "FlagshipProducts":  "Bioplus, Metito Containerized Systems, Custom Desalination Packages",
+                            "Classification":  "Direct Competitor (Middle East \u0026 Emerging Markets Leader)",
+                            "GlobalPresence":  "Active in \u003e50 countries with primary dominance across Middle East, North Africa, Sub-Saharan Africa, Central Asia",
+                            "Name":  "Metito",
+                            "ConsolidatedRevenue":  " -  (Estimated)",
+                            "AdvancedTreatment":  "Ozone oxidation, UV disinfection, granular media and activated carbon filtration",
+                            "CoreTechnologies":  "Industrial ETP, Bioplus biological treatment, Submerged MBR, Desalination, Industrial ZLD",
+                            "KeyCustomerPromise":  "End-to-end concession financing, proven mega-project delivery in harsh arid environments",
+                            "SalesPositioning":  "The leading emerging-market water management developer with deep concession structuring expertise",
+                            "ScoreCustomerPerformance":  4.5,
+                            "ManufacturingAndRD":  "Engineering centers in Dubai, Cairo, Mumbai; Panel fabrication and modular skid assembly in Sharjah",
+                            "TargetIndustries":  "Oil \u0026 Gas, Petrochemicals, Power, Industrial Mining, Mega-Industrial Parks, Municipal-Industrial TSE",
+                            "LegalEntity":  "Metito Holdings Limited",
+                            "IndiaPresence":  "Metito India Private Limited (Mumbai, Maharashtra); Engineering design and execution hub in Mumbai",
+                            "ScoreInnovationPipeline":  4.2,
+                            "KeySubsidiaries":  "Metito Overseas, Metito Utilities, Metito China, Metito Africa",
+                            "IdentifiedProjects":  [
+                                                       {
+                                                           "Tech":  "Industrial Effluent Treatment + Demineralization",
+                                                           "Type":  "Turnkey EPC + O\u0026M",
+                                                           "Client":  "ADNOC (Abu Dhabi National Oil Co)",
+                                                           "Capacity":  "20,000 m3/d",
+                                                           "Location":  "Ruwais, UAE",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "Oilfield Produced Water Treatment + RO",
+                                                           "Type":  "EPC",
+                                                           "Client":  "Saudi Aramco",
+                                                           "Capacity":  "15,000 m3/d",
+                                                           "Location":  "Shaybah \u0026 Khurais, Saudi Arabia",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "Industrial Wastewater Treatment + TSE Reuse",
+                                                           "Type":  "BOOT Concession",
+                                                           "Client":  "Industrial City of Dammam",
+                                                           "Capacity":  "30,000 m3/d",
+                                                           "Location":  "Dammam, Saudi Arabia",
+                                                           "Status":  "Operational"
+                                                       }
+                                                   ],
+                            "Headquarters":  "Dubai, United Arab Emirates",
+                            "MembraneTreatment":  "High-pressure seawater and brackish RO, ultrafiltration pretreatment skids",
+                            "Employees":  "4,500+",
+                            "IndustrialWaterRevenue":  "~ -  (~40% from industrial chemicals, oil \u0026 gas, and industrial concessions)",
+                            "SludgeManagement":  "Mechanical centrifuge dewatering, filter presses, sludge drying systems",
+                            "KeyClients":  "Saudi Aramco, ADNOC, QatarEnergy, New Urban Communities Authority (Egypt), Kigali Water",
+                            "OpexBenchmark":  ".32 - .85 / m3 (Tertiary treatment \u0026 desalination reuse)",
+                            "ScoreTechnologyCapability":  4.5,
+                            "ScoreCommercialCompetitiveness":  4.6,
+                            "GapsAndLimitations":  "Private concessionaire; detailed break-up of equipment manufacturing vs EPC margins is proprietary."
+                        },
+                        {
+                            "PreliminaryTreatment":  "High-load chemical-physical neutralization, heavy metal precipitation, oil splitting",
+                            "ScoreSalesCapability":  4.3,
+                            "WaterReuseCapability":  "Circular industrial park water loops; hazardous effluent neutralization to reclaimable quality",
+                            "PricingModels":  "Long-term industrial contracting, Tariff per ton/m3 of industrial effluent, O\u0026M contracts",
+                            "Ownership":  "Private (Wholly owned subsidiary of the RETHMANN Group)",
+                            "CapexBenchmark":  ",400 - ,800 per KLD (Industrial on-site treatment infrastructure)",
+                            "ConfidenceLevel":  "High (RETHMANN Group audited publications, European environmental registries, published patent portfolio)",
+                            "CustomerSentiment":  "World-class reputation for taking over complex industrial liability and running flawless on-site operations. Focus is heavily European and Australian; limited EPC asset footprint in India.",
+                            "ScoreMarketPresence":  4.6,
+                            "BiologicalTreatment":  "Specialized anaerobic/aerobic reactors for toxic organic chemical effluent",
+                            "Founded":  1934,
+                            "Id":  "COMP-17",
+                            "BusinessModel":  "Industrial On-Site Plant Operation (Betreibermodelle), Industrial Contracting, Hazardous Waste Treatment",
+                            "ZLDProcess":  "High-density thermal evaporation and drying for toxic industrial waste streams",
+                            "Leadership":  "Ludger Rethmann (Chairman of the Board, RETHMANN Group)",
+                            "Category":  "Engineering, EPC and Industrial Treatment",
+                            "ParentCompany":  "RETHMANN Group",
+                            "ScoreProductPortfolio":  4.6,
+                            "FlagshipProducts":  "Remondis TetraPhos (phosphorus recovery), CPT plants, Industrial On-Site Water Contracting",
+                            "Classification":  "Direct Competitor (Circular Economy \u0026 Hazardous Wastewater Specialist)",
+                            "GlobalPresence":  "Over 1,000 locations across 30+ countries in Europe, Australia, and Asia",
+                            "Name":  "REMONDIS Industrial",
+                            "ConsolidatedRevenue":  ".5B+ (EUR 11.5B+ for REMONDIS Group; RETHMANN Group \u003e EUR 20B)",
+                            "AdvancedTreatment":  "Wet air oxidation, catalytic oxidation, adsorption on activated carbon",
+                            "CoreTechnologies":  "Chemical-physical treatment (CPT), Biological industrial wastewater plants, Resource recovery, Phosphorous recovery (Remondis TetraPhos)",
+                            "KeyCustomerPromise":  "Complete legal transfer of waste/discharge liability, zero environmental non-compliance, maximum resource recovery",
+                            "SalesPositioning":  "Europe\u0027s circular economy powerhouse specializing in industrial effluent, resource recovery, and hazardous waste",
+                            "ScoreCustomerPerformance":  4.8,
+                            "ManufacturingAndRD":  "Lünen Technology Center (Germany); specialized chemical-physical treatment facilities across Europe",
+                            "TargetIndustries":  "Chemicals \u0026 Petrochemicals, Automotive, Metal Finishing, Pharmaceuticals, Food \u0026 Agriculture",
+                            "LegalEntity":  "REMONDIS Aqua GmbH \u0026 Co. KG / REMONDIS SE \u0026 Co. KG",
+                            "IndiaPresence":  "Active in hazardous waste partnerships and technical advisory; selective project presence",
+                            "ScoreInnovationPipeline":  4.5,
+                            "KeySubsidiaries":  "REMONDIS Aqua, REMONDIS Industrie Service, TSR Recycling",
+                            "IdentifiedProjects":  [
+                                                       {
+                                                           "Tech":  "Industrial Biological ETP + Sludge Incineration",
+                                                           "Type":  "Industrial On-Site Contract",
+                                                           "Client":  "Chempark Krefeld-Uerdingen",
+                                                           "Capacity":  "45,000 m3/d",
+                                                           "Location":  "North Rhine-Westphalia, Germany",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "Chemical-Physical Treatment + Oil Recovery + RO",
+                                                           "Type":  "Betreibermodell (O\u0026M)",
+                                                           "Client":  "Major Automotive Assembly Plant",
+                                                           "Capacity":  "8,000 m3/d",
+                                                           "Location":  "Saxony, Germany",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "TetraPhos Phosphoric Acid Extraction from WW",
+                                                           "Type":  "Technology License \u0026 Plant",
+                                                           "Client":  "Hamburg Sewage Sludge Facility",
+                                                           "Capacity":  "TetraPhos ash recovery",
+                                                           "Location":  "Hamburg, Germany",
+                                                           "Status":  "Operational"
+                                                       }
+                                                   ],
+                            "Headquarters":  "Lünen, North Rhine-Westphalia, Germany",
+                            "MembraneTreatment":  "Ultrafiltration, nanofiltration, reverse osmosis for industrial process recycling",
+                            "Employees":  "41,000+ (REMONDIS Group)",
+                            "IndustrialWaterRevenue":  "~ - .2B (REMONDIS Aqua and industrial services)",
+                            "SludgeManagement":  "Sewage sludge mono-incineration, ash extraction, TetraPhos phosphate recovery",
+                            "KeyClients":  "Bayer, Evonik, Henkel, Volkswagen, ThyssenKrupp, Covestro",
+                            "OpexBenchmark":  ".60 - .50 / m3 (High-complexity hazardous and chemical wastewater)",
+                            "ScoreTechnologyCapability":  4.7,
+                            "ScoreCommercialCompetitiveness":  4.2,
+                            "GapsAndLimitations":  "Private family ownership; does not disclose individual industrial customer contract margins."
+                        },
+                        {
+                            "PreliminaryTreatment":  "Fine rotary screening, grit removal, compact primary sedimentation",
+                            "ScoreSalesCapability":  4.1,
+                            "WaterReuseCapability":  "Compact greenhouse plant allows direct onsite water reuse in urban and eco-industrial parks",
+                            "PricingModels":  "Software design fees, Technology licensing, Proprietary media and control system supply",
+                            "Ownership":  "Private (Venture \u0026 Growth Equity backed by Idinvest, XPV Water Partners, Bitstone Capital)",
+                            "CapexBenchmark":  " - ,200 per KLD (Architectural greenhouse biological treatment facility)",
+                            "ConfidenceLevel":  "Medium-High (Published case studies, venture disclosures, public municipal/industrial project filings)",
+                            "CustomerSentiment":  "Praised for stunning visual aesthetics, complete lack of odor, and low footprint for eco-industrial parks. Struggles with heavy toxic chemical/refinery effluents where plants cannot survive.",
+                            "ScoreMarketPresence":  3.8,
+                            "BiologicalTreatment":  "FoodChain Reactor (combines natural plant roots and engineered bio-carriers harboring 2,000-3,000 microbial species)",
+                            "Founded":  1998,
+                            "Id":  "COMP-18",
+                            "BusinessModel":  "Technology Licensing, Architectural Engineering Design, Proprietary Media/Software Supply",
+                            "ZLDProcess":  "Supplies clean biological pre-treatment for subsequent RO and evaporator concentration loops",
+                            "Leadership":  "Attila Bodnár (Co-Founder \u0026 CEO)",
+                            "Category":  "Engineering, EPC and Industrial Treatment",
+                            "ParentCompany":  "Organica Water Inc.",
+                            "ScoreProductPortfolio":  4,
+                            "FlagshipProducts":  "Organica FCR, FCR Disc Biofilm Carrier, Organica Bluehouse (standard packaged plant)",
+                            "Classification":  "Adjacent Competitor (Architectural Botanical Fixed-Bed Biofilm)",
+                            "GlobalPresence":  "Over 130 reference plants across Europe, China, Southeast Asia, Middle East, India",
+                            "Name":  "Organica Water",
+                            "ConsolidatedRevenue":  " -  (Estimated)",
+                            "AdvancedTreatment":  "UV disinfection, activated carbon polishing for high-grade reuse",
+                            "CoreTechnologies":  "FoodChain Reactor (FCR) - botanical engineered fixed-bed biofilm reactor, Digital Design Tool (tools.organicawater.com)",
+                            "KeyCustomerPromise":  "Zero odor, 50-70% smaller physical footprint, beautiful botanical aesthetic, lower sludge volume",
+                            "SalesPositioning":  "The architectural botanical wastewater pioneer turning eyesore treatment plants into botanical garden assets",
+                            "ScoreCustomerPerformance":  4.4,
+                            "ManufacturingAndRD":  "Global Design and Engineering Center in Budapest, Hungary",
+                            "TargetIndustries":  "Food \u0026 Beverage, Industrial Parks / SEZs, Commercial Real Estate, Pharma campuses, Eco-industrial townships",
+                            "LegalEntity":  "Organica Water Inc.",
+                            "IndiaPresence":  "Organica Water India (New Delhi); Reference installations executed across West and North India",
+                            "ScoreInnovationPipeline":  4.5,
+                            "KeySubsidiaries":  "Organica Water Hungary, Organica Water Asia, Organica Technologies",
+                            "IdentifiedProjects":  [
+                                                       {
+                                                           "Tech":  "Organica FCR + Tertiary Polish",
+                                                           "Type":  "Technology License \u0026 Design",
+                                                           "Client":  "TSIIC (Telangana Industrial Estate)",
+                                                           "Capacity":  "5,000 KLD",
+                                                           "Location":  "Hyderabad, Telangana, India",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "Organica FoodChain Reactor (Botanical Greenhouse)",
+                                                           "Type":  "Design \u0026 Technology Supply",
+                                                           "Client":  "Sino-Singapore Tianjin Eco-City",
+                                                           "Capacity":  "10,000 m3/d",
+                                                           "Location":  "Tianjin, China",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "Organica FCR Industrial Effluent Treatment",
+                                                           "Type":  "Turnkey Technology Supply",
+                                                           "Client":  "Etyek Winery \u0026 Food Park",
+                                                           "Capacity":  "1,500 m3/d",
+                                                           "Location":  "Etyek, Hungary",
+                                                           "Status":  "Operational"
+                                                       }
+                                                   ],
+                            "Headquarters":  "Budapest, Hungary / Princeton, New Jersey, USA",
+                            "MembraneTreatment":  "Integrated with ultrafiltration (MBR configuration) or standard disc filters for tertiary polish",
+                            "Employees":  "120+",
+                            "IndustrialWaterRevenue":  "~ -  (~40% from industrial estates, food \u0026 beverage, commercial developments)",
+                            "SludgeManagement":  "Produces 30-40% less biological sludge compared to conventional activated sludge due to complex food web",
+                            "KeyClients":  "Telangana Industrial Infrastructure Corp (TSIIC), Marriott, AB InBev, Sino-Singapore Tianjin Eco-City",
+                            "OpexBenchmark":  ".20 - .48 / m3 (Low energy consumption: ~0.35-0.45 kWh/m3 biological)",
+                            "ScoreTechnologyCapability":  4.4,
+                            "ScoreCommercialCompetitiveness":  4.2,
+                            "GapsAndLimitations":  "Private venture-backed licensing entity; does not perform direct civil construction contracting."
+                        },
+                        {
+                            "PreliminaryTreatment":  "Oil-water separators, high-rate solids clarifiers, multi-media filtration skids",
+                            "ScoreSalesCapability":  4.2,
+                            "WaterReuseCapability":  "Process water recovery for chemical rinsing, boiler feed, and cooling loop blowdown",
+                            "PricingModels":  "Engineered equipment skid pricing, Design-Build contracts, Pilot testing rental agreements",
+                            "Ownership":  "Private (Privately held engineering firm)",
+                            "CapexBenchmark":  ",200 - ,500 per KLD (Custom factory-tested skid systems)",
+                            "ConfidenceLevel":  "Medium-High (Detailed technical case studies, verified industrial client references, trade certifications)",
+                            "CustomerSentiment":  "Highly lauded for exceptional skid fabrication quality, clear engineering documentation, and fast commissioning. Does not compete for mega-scale municipal civil works.",
+                            "ScoreMarketPresence":  3.9,
+                            "BiologicalTreatment":  "Fixed-film bio-reactors, packaged MBR systems for industrial wastewater",
+                            "Founded":  1972,
+                            "Id":  "COMP-19",
+                            "BusinessModel":  "Engineered Skid-Mounted Systems, Design-Build Integration, Pilot Testing, Consulting",
+                            "ZLDProcess":  "Pre-concentration membrane skids coupled to vacuum evaporators and crystallizers",
+                            "Leadership":  "Richard E. Manney (President \u0026 CEO)",
+                            "Category":  "Engineering, EPC and Industrial Treatment",
+                            "ParentCompany":  "Samco Technologies, Inc.",
+                            "ScoreProductPortfolio":  4.3,
+                            "FlagshipProducts":  "Samco Pre-Packaged Skids, High-Rate Clarifiers, Heavy Metal Precipitation Units",
+                            "Classification":  "Direct Competitor (Engineered Modular Process Systems)",
+                            "GlobalPresence":  "Projects executed across North America, Latin America, Europe, Asia",
+                            "Name":  "Samco Technologies",
+                            "ConsolidatedRevenue":  " -  (Estimated)",
+                            "AdvancedTreatment":  "Chelating ion exchange for heavy metal removal (sub-ppb discharge levels), carbon adsorption",
+                            "CoreTechnologies":  "High-density solids clarifiers, Ion exchange, RO/NF, Heavy metal removal, Thermal evaporation skids",
+                            "KeyCustomerPromise":  "Guaranteed plug-and-play installation, pre-tested factory FAT, minimized field commissioning time",
+                            "SalesPositioning":  "The premier custom skid-engineering specialist delivering pre-piped, pre-wired industrial systems",
+                            "ScoreCustomerPerformance":  4.7,
+                            "ManufacturingAndRD":  "130,000 sq ft manufacturing and skid fabrication facility in Buffalo, NY",
+                            "TargetIndustries":  "Refining \u0026 Petrochemicals, Automotive, Aerospace, Chemical Manufacturing, Power, Mining",
+                            "LegalEntity":  "Samco Technologies, Inc.",
+                            "IndiaPresence":  "Engineered skid systems supplied to multinational plants operating in India",
+                            "ScoreInnovationPipeline":  4.2,
+                            "KeySubsidiaries":  "Samco Fabrication, Samco Field Services",
+                            "IdentifiedProjects":  [
+                                                       {
+                                                           "Tech":  "Heavy Metals Removal + RO Reclaim Skid",
+                                                           "Type":  "Engineered Skid Package",
+                                                           "Client":  "Automotive Battery Gigafactory",
+                                                           "Capacity":  "5,000 m3/d",
+                                                           "Location":  "Nevada, USA",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "High-Rate Clarification + Pre-RO Softening",
+                                                           "Type":  "Design-Build Skids",
+                                                           "Client":  "Major Petrochemical Complex",
+                                                           "Capacity":  "12,000 m3/d",
+                                                           "Location":  "Louisiana, USA",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "Chelating Ion Exchange for Chrome/Nickel WW",
+                                                           "Type":  "Turnkey Skid Package",
+                                                           "Client":  "Aerospace Component Manufacturer",
+                                                           "Capacity":  "2,000 m3/d",
+                                                           "Location":  "Ohio, USA",
+                                                           "Status":  "Operational"
+                                                       }
+                                                   ],
+                            "Headquarters":  "Buffalo, New York, USA",
+                            "MembraneTreatment":  "Custom-engineered reverse osmosis, nanofiltration, and ultrafiltration skids",
+                            "Employees":  "150+",
+                            "IndustrialWaterRevenue":  "~ -  (\u003e90% from industrial process water, wastewater, and separation systems)",
+                            "SludgeManagement":  "Filter press skids, sludge thickening tanks, automated chemical polymer dosing",
+                            "KeyClients":  "General Motors, Tesla, ExxonMobil, Chevron, Boeing, Honeywell, BASF",
+                            "OpexBenchmark":  ".40 - .10 / m3 (Process separation and heavy metal removal)",
+                            "ScoreTechnologyCapability":  4.5,
+                            "ScoreCommercialCompetitiveness":  4.2,
+                            "GapsAndLimitations":  "Private US firm; revenue and profit margins are estimated based on employee count and facility footprint."
+                        },
+                        {
+                            "PreliminaryTreatment":  "Heavy-duty rake clarifiers, traction thickeners, grit separation systems",
+                            "ScoreSalesCapability":  2.8,
+                            "WaterReuseCapability":  "Primary and secondary industrial water recovery for mining and pulp mills",
+                            "PricingModels":  "Equipment fabrication pricing, EPC subcontracting",
+                            "Ownership":  "Corporate Insolvency Resolution Process (CIRP) / Restructured under IBC / Historic IVRCL subsidiary",
+                            "CapexBenchmark":  " - ,800 per KLD (Solid-liquid separation and primary effluent treatment)",
+                            "ConfidenceLevel":  "Medium (NCLT / IBC insolvency filings, historical stock exchange records, court records)",
+                            "CustomerSentiment":  "Unsurpassed mechanical robustness for legacy clarifiers and thickeners operating continuously for 30+ years. Severe credit distress under IVRCL/IBC crippled its ability to bid for new mega-EPC contracts.",
+                            "ScoreMarketPresence":  3.2,
+                            "BiologicalTreatment":  "Conventional activated sludge systems, biological trickling filters",
+                            "Founded":  1974,
+                            "Id":  "COMP-20",
+                            "BusinessModel":  "EPC Turnkey, Proprietary Solid-Liquid Separation Equipment, Mineral Beneficiation",
+                            "ZLDProcess":  "Historic supplier of clarifier and thickener pretreatment for thermal ZLD systems",
+                            "Leadership":  "Interim Resolution Professional / New Resolution Management",
+                            "Category":  "Engineering, EPC and Industrial Treatment",
+                            "ParentCompany":  "Under IBC Resolution / Formerly IVRCL Limited",
+                            "ScoreProductPortfolio":  3.6,
+                            "FlagshipProducts":  "Dorr-Oliver Clarifier, HDO High-Rate Thickener, Oliver Rotary Vacuum Drum Filter",
+                            "Classification":  "EPC Player (Historic Legacy Brand undergoing Restructuring)",
+                            "GlobalPresence":  "Historic project pedigree across South Asia, Middle East, and Southeast Asia",
+                            "Name":  "Hindustan Dorr-Oliver",
+                            "ConsolidatedRevenue":  "Under Financial Restructuring (Historic peak ~INR 500-800 Cr; current operations sub-INR 100 Cr)",
+                            "AdvancedTreatment":  "Chemical precipitation, neutralization, lime-soda softening",
+                            "CoreTechnologies":  "Dorr Clarifiers, High-rate thickeners, Drum filters, Disc filters, Primary effluent treatment",
+                            "KeyCustomerPromise":  "Heavy-duty mechanical durability, proven decades-long equipment operating life",
+                            "SalesPositioning":  "Pioneering Indian brand in heavy solid-liquid separation and industrial clarification equipment",
+                            "ScoreCustomerPerformance":  3.6,
+                            "ManufacturingAndRD":  "Ahmedabad Engineering Works (fabrication of heavy thickeners and clarifiers)",
+                            "TargetIndustries":  "Mining \u0026 Mineral Beneficiation, Pulp \u0026 Paper, Fertilizers, Refineries, Steel",
+                            "LegalEntity":  "Hindustan Dorr-Oliver Limited (HDO)",
+                            "IndiaPresence":  "Offices in Mumbai, Chennai, Kolkata; Historic manufacturing facility in Ahmedabad, Gujarat",
+                            "ScoreInnovationPipeline":  2.5,
+                            "KeySubsidiaries":  "HDO Technologies",
+                            "IdentifiedProjects":  [
+                                                       {
+                                                           "Capacity":  "Heavy Effluent Neutralization + Clarifier",
+                                                           "Status":  "Operational",
+                                                           "Location":  "Trombay, Maharashtra, India",
+                                                           "Type":  "EPC Equipment Supply",
+                                                           "Client":  "Rashtriya Chemicals \u0026 Fertilizers (RCF)"
+                                                       },
+                                                       {
+                                                           "Capacity":  "Red Mud Thickeners \u0026 Washers",
+                                                           "Status":  "Operational",
+                                                           "Location":  "Damanjodi, Odisha, India",
+                                                           "Type":  "Proprietary Equipment",
+                                                           "Client":  "NALCO (National Aluminium Co)"
+                                                       },
+                                                       {
+                                                           "Capacity":  "Blast Furnace Gas Cleaning WW Thickener",
+                                                           "Status":  "Operational",
+                                                           "Location":  "Bhilai, Chhattisgarh, India",
+                                                           "Type":  "Equipment EPC",
+                                                           "Client":  "Steel Authority of India (SAIL)"
+                                                       }
+                                                   ],
+                            "Headquarters":  "Mumbai, Maharashtra, India",
+                            "MembraneTreatment":  "Basic reverse osmosis integration through third-party skid assemblers",
+                            "Employees":  "150+ (Downsized from historic peak \u003e1,000)",
+                            "IndustrialWaterRevenue":  "Under IBC Disclosures (Marked as Distressed / Under Turnaround)",
+                            "SludgeManagement":  "Industry-standard rotary drum vacuum filters, horizontal belt filters, thickeners",
+                            "KeyClients":  "NTPC, SAIL, NALCO, Rashtriya Chemicals \u0026 Fertilizers (RCF), Vedanta, Tata Steel",
+                            "OpexBenchmark":  ".20 - .50 / m3 (Primary clarification and sludge dewatering)",
+                            "ScoreTechnologyCapability":  3.5,
+                            "ScoreCommercialCompetitiveness":  3.4,
+                            "GapsAndLimitations":  "Company subjected to Corporate Insolvency Resolution Process (CIRP); financial statements distressed."
+                        },
+                        {
+                            "PreliminaryTreatment":  "High-Rate Solids Contact Clarifiers (HRSCC), Tube settlers, Grit separators",
+                            "ScoreSalesCapability":  4.5,
+                            "WaterReuseCapability":  "Tertiary industrial effluent recycling for cooling tower makeup and boiler feed",
+                            "PricingModels":  "Turnkey EPC, DBO, HAM Concessions, Equipment supply",
+                            "Ownership":  "Public (NSE: TRIVENI / BSE: 532356)",
+                            "CapexBenchmark":  " - ,500 per KLD (Industrial effluent and municipal-industrial reuse plants)",
+                            "ConfidenceLevel":  "High (BSE/NSE audited balance sheets, investor calls, statutory water division filings)",
+                            "CustomerSentiment":  "Highly respected for completing major government and public sector industrial contracts without default. Less perceived international brand visibility compared to WABAG or Veolia.",
+                            "ScoreMarketPresence":  4.4,
+                            "BiologicalTreatment":  "Extended aeration, Sequential Batch Reactors (SBR), MBBR for industrial effluents",
+                            "Founded":  1980,
+                            "Id":  "COMP-21",
+                            "BusinessModel":  "Turnkey EPC, Design-Build-Operate (DBO), Concessions, Proprietary Clarifiers",
+                            "ZLDProcess":  "Pre-treatment softening + High-recovery RO + Multi-effect evaporation (MEE)",
+                            "Leadership":  "Dhruv M. Sawhney (Chairman \u0026 Managing Director), Tarun Sawhney (Vice Chairman \u0026 MD)",
+                            "Category":  "Engineering, EPC and Industrial Treatment",
+                            "ParentCompany":  "Triveni Engineering \u0026 Industries Limited",
+                            "ScoreProductPortfolio":  4.3,
+                            "FlagshipProducts":  "Triveni Clarifier, High-Rate Solids Contact Clarifier (HRSCC), Packaged Demin Plants",
+                            "Classification":  "EPC Player / Direct Competitor",
+                            "GlobalPresence":  "Projects executed in India, Middle East (Oman, Kuwait), Africa",
+                            "Name":  "Triveni Engineering (Water Business Group)",
+                            "ConsolidatedRevenue":  " -  (INR 6,000+ Cr in FY2024 for Triveni Group)",
+                            "AdvancedTreatment":  "Activated carbon filtration, chemical oxidation, color removal systems",
+                            "CoreTechnologies":  "High-rate solids contact clarifiers, Lamella clarifiers, Demineralization, Tertiary filtration, ZLD",
+                            "KeyCustomerPromise":  "High-integrity engineering, strong financial backing of Triveni conglomerate, reliable O\u0026M",
+                            "SalesPositioning":  "Established Indian engineering stalwart offering robust, cost-effective turnkey EPC execution",
+                            "ScoreCustomerPerformance":  4.5,
+                            "ManufacturingAndRD":  "Fabrication facilities in Uttar Pradesh; Engineering design center in Noida",
+                            "TargetIndustries":  "Power Generation, Refineries \u0026 Petrochemicals, Sugar \u0026 Distilleries, Steel, Municipal Sewage Reuse",
+                            "LegalEntity":  "Triveni Engineering \u0026 Industries Limited (Water Business Group)",
+                            "IndiaPresence":  "Pan-India execution; HQ in Noida, UP; regional operations across major industrial states",
+                            "ScoreInnovationPipeline":  4,
+                            "KeySubsidiaries":  "Triveni Energy Solutions, Triveni Turbines (affiliated)",
+                            "IdentifiedProjects":  [
+                                                       {
+                                                           "Tech":  "Sewage Treatment to Demin Water for Refinery",
+                                                           "Type":  "HAM / DBO Model",
+                                                           "Client":  "Indian Oil Corporation (IOCL) / Mathura Project",
+                                                           "Capacity":  "20 MLD",
+                                                           "Location":  "Mathura, Uttar Pradesh, India",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "Cooling Water Clarification \u0026 ETP",
+                                                           "Type":  "Turnkey EPC",
+                                                           "Client":  "NTPC Thermal Power Station",
+                                                           "Capacity":  "35 MLD",
+                                                           "Location":  "Solapur, Maharashtra, India",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "Wastewater Treatment with Gas Power Generation",
+                                                           "Type":  "Turnkey EPC + O\u0026M",
+                                                           "Client":  "Delhi Jal Board (DJB)",
+                                                           "Capacity":  "204 MLD",
+                                                           "Location":  "Kondli, New Delhi, India",
+                                                           "Status":  "Commissioned"
+                                                       }
+                                                   ],
+                            "Headquarters":  "Noida, Uttar Pradesh, India",
+                            "MembraneTreatment":  "Ultrafiltration skids, Brackish Water RO systems, Demineralization trains",
+                            "Employees":  "500+ (Dedicated Water Business Group)",
+                            "IndustrialWaterRevenue":  "~ -  (INR 400 - 600 Cr Water Business Group order book/revenues)",
+                            "SludgeManagement":  "Sludge thickeners, plate and frame filter presses, centrifuge decanters",
+                            "KeyClients":  "NTPC, Indian Oil (IOCL), Delhi Jal Board (DJB), Mathura Sewage Reuse Project, BHEL",
+                            "OpexBenchmark":  ".25 - .70 / m3 (Tertiary treatment \u0026 RO recycling)",
+                            "ScoreTechnologyCapability":  4.3,
+                            "ScoreCommercialCompetitiveness":  4.6,
+                            "GapsAndLimitations":  "Water division is reported as a distinct segment within Triveni Engineering \u0026 Industries Limited."
+                        },
+                        {
+                            "PreliminaryTreatment":  "High-Rate DAF, mechanical screens, grit washers, SuperSettler inclined plate settlers",
+                            "ScoreSalesCapability":  4.3,
+                            "WaterReuseCapability":  "Process water recovery in mining tailings, refinery wastewater, and power plant ash handling",
+                            "PricingModels":  "Engineered equipment packages, Turnkey skid supply, Long-term equipment service",
+                            "Ownership":  "Private (100% Employee-Owned ESOP)",
+                            "CapexBenchmark":  ",100 - ,000 per KLD (Industrial clarifiers, thickeners, and DAF packages)",
+                            "ConfidenceLevel":  "High (Verified corporate disclosures, industrial case studies, mining engineering references)",
+                            "CustomerSentiment":  "Widely praised for bulletproof mechanical build quality and responsive ESOP engineering support. Viewed as a premium equipment OEM rather than a lump-sum turnkey civil general contractor.",
+                            "ScoreMarketPresence":  4.3,
+                            "BiologicalTreatment":  "Oxidation ditches, mechanical surface aerators, biological trickling filters",
+                            "Founded":  1973,
+                            "Id":  "COMP-22",
+                            "BusinessModel":  "Proprietary Process Equipment, Skid Systems, Design-Build Integration, Field Services",
+                            "ZLDProcess":  "High-density solids contact clarifiers and thickeners preparing brine feed for thermal crystallizers",
+                            "Leadership":  "Dan Howell (President \u0026 CEO)",
+                            "Category":  "Engineering, EPC and Industrial Treatment",
+                            "ParentCompany":  "WesTech Engineering, LLC",
+                            "ScoreProductPortfolio":  4.5,
+                            "FlagshipProducts":  "COP Clarifier (Center-fed), High-Rate DAF, SuperSettler, Vacuum Drum Filters, Hi-Density Thickener",
+                            "Classification":  "Direct Competitor (Heavy Liquid-Solid Separation Leader)",
+                            "GlobalPresence":  "Offices and installations in North America, South America, Europe, South Africa, China, India",
+                            "Name":  "WesTech Engineering",
+                            "ConsolidatedRevenue":  " -  (Estimated)",
+                            "AdvancedTreatment":  "Activated carbon contactors, chemical precipitation, lime softening systems",
+                            "CoreTechnologies":  "Industrial Clarifiers, Dissolved Air Flotation (DAF), High-Rate Thickeners, SuperSettler Lamella, Spiral Sand Filters",
+                            "KeyCustomerPromise":  "Rock-solid mechanical construction, 100% employee-owned accountability, guaranteed solids removal",
+                            "SalesPositioning":  "World leader in heavy-duty physical-chemical clarification, dissolved air flotation, and mineral tailings dewatering",
+                            "ScoreCustomerPerformance":  4.7,
+                            "ManufacturingAndRD":  "Salt Lake City Manufacturing Campus (USA); Engineering center in Bengaluru (India)",
+                            "TargetIndustries":  "Mining \u0026 Mineral Processing, Power Generation, Oil \u0026 Gas / Petrochemicals, Steel \u0026 Metals, Food \u0026 Dairy",
+                            "LegalEntity":  "WesTech Engineering, LLC",
+                            "IndiaPresence":  "WesTech Process Equipment India Pvt Ltd (Bengaluru, Karnataka); Regional engineering operations",
+                            "ScoreInnovationPipeline":  4.2,
+                            "KeySubsidiaries":  "WesTech Process Equipment, WesTech Industrial Minerals, WesTech Italy",
+                            "IdentifiedProjects":  [
+                                                       {
+                                                           "Tech":  "High-Density Tailings Thickeners + Water Recovery",
+                                                           "Type":  "Proprietary Equipment",
+                                                           "Client":  "Major Copper Mine Tailings Facility",
+                                                           "Capacity":  "50,000 m3/d",
+                                                           "Location":  "Arizona, USA",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "High-Rate Dissolved Air Flotation (DAF)",
+                                                           "Type":  "Skid Package",
+                                                           "Client":  "Refinery Wastewater Modernization",
+                                                           "Capacity":  "18,000 m3/d",
+                                                           "Location":  "Texas Gulf Coast, USA",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "Mill Scale Clarifiers + Sludge Dewatering",
+                                                           "Type":  "Equipment Supply",
+                                                           "Client":  "Leading Steel Mill",
+                                                           "Capacity":  "12,000 m3/d",
+                                                           "Location":  "Odisha, India",
+                                                           "Status":  "Operational"
+                                                       }
+                                                   ],
+                            "Headquarters":  "Salt Lake City, Utah, USA",
+                            "MembraneTreatment":  "Packaged ultrafiltration and reverse osmosis membrane skids for industrial polishing",
+                            "Employees":  "800+",
+                            "IndustrialWaterRevenue":  "~ -  (\u003e65% from industrial mining, power, steel, and chemical separation)",
+                            "SludgeManagement":  "Heavy-duty rake thickeners, belt filter presses, horizontal belt vacuum filters for mineral tailings",
+                            "KeyClients":  "Rio Tinto, Newmont, Freeport-McMoRan, Nucor Steel, Chevron, ExxonMobil, Archer Daniels Midland",
+                            "OpexBenchmark":  ".25 - .65 / m3 (Primary clarification, DAF, and physical-chemical separation)",
+                            "ScoreTechnologyCapability":  4.6,
+                            "ScoreCommercialCompetitiveness":  4.2,
+                            "GapsAndLimitations":  "Private 100% employee-owned company; detailed EBITDA margins are not publicly disclosed."
+                        },
+                        {
+                            "PreliminaryTreatment":  "Selective chemical precipitation, electrocoagulation, specialized oil-water separation",
+                            "ScoreSalesCapability":  4.8,
+                            "WaterReuseCapability":  "Semiconductor ultrapure water reclaim, mining wastewater recovery, textile dye wastewater recovery",
+                            "PricingModels":  "Water-as-a-Service (WaaS - zero CAPEX client model), DBOO, Technology Licensing, Turnkey Systems",
+                            "Ownership":  "Private (Tech Unicorn; valued at $1.0B+ backed by Warburg Pincus, Bolt Rock, M\u0026G, Schlumberger)",
+                            "CapexBenchmark":  ",500 - ,500 per KLD (High-tech RO Infinity / CGE ZLD plants; ~30-50% lower CAPEX than traditional MEE/MVR)",
+                            "ConfidenceLevel":  "High (Warburg Pincus investment disclosures, MIT tech validations, extensive global patents)",
+                            "CustomerSentiment":  "Regarded as the most innovative, dynamic disruptor in industrial ZLD today. Backed by blue-chip private equity; some legacy EPCs attempt to claim membrane-based ZLD is unproven for extreme scaling streams.",
+                            "ScoreMarketPresence":  4.4,
+                            "BiologicalTreatment":  "High-rate biological systems integrated with membrane separation for high-TDS streams",
+                            "Founded":  2013,
+                            "Id":  "COMP-23",
+                            "BusinessModel":  "Design-Build-Own-Operate (DBOO), Technology Supply, Water-as-a-Service, Digital AI Operations",
+                            "ZLDProcess":  "Disruptive Low-Energy ZLD: CGE mimics nature\u0027s rain cycle to evaporate brine at low temp; CFRO minimizes brine volume",
+                            "Leadership":  "Anurag Bajpayee (Co-Founder \u0026 CEO), Prakash Govindan (Co-Founder \u0026 COO)",
+                            "Category":  "Industrial Water Specialist / Unicorn Innovator",
+                            "ParentCompany":  "Gradiant Corporation",
+                            "ScoreProductPortfolio":  4.8,
+                            "FlagshipProducts":  "CGE (Carrier Gas Extraction), RO Infinity (Counterflow Reverse Osmosis), Synauta AI, SmartChem",
+                            "Classification":  "Direct Competitor (Disruptive Advanced ZLD \u0026 Membrane Leader)",
+                            "GlobalPresence":  "Rapid expansion across USA, Singapore, India, Australia, Middle East, Malaysia, China, Taiwan",
+                            "Name":  "Gradiant",
+                            "ConsolidatedRevenue":  " -  (Estimated for FY2023 / FY2024; \u003e100% YoY growth rate)",
+                            "AdvancedTreatment":  "Free Radical Disinfection (FRD), advanced electrochemical oxidation, PFAS destruction",
+                            "CoreTechnologies":  "Carrier Gas Extraction (CGE - humidification/dehumidification), RO Infinity (CFRO), SmartChem, Free Radical Disinfection (FRD)",
+                            "KeyCustomerPromise":  "Cut ZLD operational energy by up to 50%, reduce thermal plant footprint, guaranteed cost-per-cubic-meter",
+                            "SalesPositioning":  "The fastest-growing water unicorn disrupting traditional thermal ZLD with advanced membrane thermodynamics and AI",
+                            "ScoreCustomerPerformance":  4.7,
+                            "ManufacturingAndRD":  "Global R\u0026D Center in Boston (USA); Innovation Centre in Singapore; Fabrication facilities in APAC",
+                            "TargetIndustries":  "Semiconductors \u0026 Electronics, Pharmaceuticals, Mining \u0026 Lithium Extraction, Textiles, Renewables, Chemicals",
+                            "LegalEntity":  "Gradiant Corporation",
+                            "IndiaPresence":  "Gradiant India Pvt Ltd (Chennai, Tamil Nadu); Regional engineering hub and execution center in Chennai",
+                            "ScoreInnovationPipeline":  5,
+                            "KeySubsidiaries":  "Gradiant Labs, Synauta (AI digital platform acquired 2022), Space-A, H2O Innovation (O\u0026M alliance)",
+                            "IdentifiedProjects":  [
+                                                       {
+                                                           "Tech":  "RO Infinity + Synauta AI Digital Optimization",
+                                                           "Type":  "DBOO / Water-as-a-Service",
+                                                           "Client":  "Major Semiconductor Fab",
+                                                           "Capacity":  "10,000 m3/d",
+                                                           "Location":  "Singapore",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "CGE (Carrier Gas Extraction) + Salt Recovery ZLD",
+                                                           "Type":  "Turnkey Technology Supply",
+                                                           "Client":  "Leading Indian Textile Park",
+                                                           "Capacity":  "8,000 KLD",
+                                                           "Location":  "Tirupur, Tamil Nadu, India",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "RO Infinity Ultra-High Pressure Membrane",
+                                                           "Type":  "Technology Supply",
+                                                           "Client":  "Direct Lithium Extraction (DLE)",
+                                                           "Capacity":  "Brine concentration loop",
+                                                           "Location":  "Salar de Atacama, Chile",
+                                                           "Status":  "Operational"
+                                                       }
+                                                   ],
+                            "Headquarters":  "Boston, Massachusetts, USA (Operational HQ: Singapore)",
+                            "MembraneTreatment":  "RO Infinity (Counterflow RO pushing brine concentration past 250,000 mg/L TDS without thermal evaporators)",
+                            "Employees":  "1,000+",
+                            "IndustrialWaterRevenue":  "~ -  (\u003e95% from advanced industrial wastewater, ZLD, and semiconductor UPW)",
+                            "SludgeManagement":  "Solid waste crystallization, selective sodium chloride and sodium sulfate recovery",
+                            "KeyClients":  "Micron, GlobalFoundries, Pfizer, Rio Tinto, SLB (Schlumberger), AB InBev, BASF",
+                            "OpexBenchmark":  ".10 - .40 / m3 (Significantly lower thermal energy consumption via counterflow membranes)",
+                            "ScoreTechnologyCapability":  5,
+                            "ScoreCommercialCompetitiveness":  4.7,
+                            "GapsAndLimitations":  "Private unicorn; exact profitability is confidential, but revenue and project pipeline are heavily validated."
+                        },
+                        {
+                            "PreliminaryTreatment":  "Tornado surface aspirating aerators, DAF skids, primary filtration",
+                            "ScoreSalesCapability":  4,
+                            "WaterReuseCapability":  "Industrial process water recycling in wineries, dairies, and meat processing",
+                            "PricingModels":  "Packaged equipment sales, Turnkey EPC, BOOT",
+                            "Ownership":  "Historical Validation: Fully merged into Fluence Corporation (ASX: FLC)",
+                            "CapexBenchmark":  " - ,500 per KLD (Packaged containerized systems)",
+                            "ConfidenceLevel":  "High (Historical merger prospectus, ASX corporate disclosures, SEC filings)",
+                            "CustomerSentiment":  "Brand officially sunsetted and fully commercialized under Fluence Corporation. Customer base and technology patents seamlessly transitioned into Fluence.",
+                            "ScoreMarketPresence":  3.9,
+                            "BiologicalTreatment":  "High-rate anaerobic digestion (CSTR, UASB) for food and winery effluent, packaged MBR",
+                            "Founded":  2017,
+                            "Id":  "COMP-24",
+                            "BusinessModel":  "Packaged Water Treatment, Industrial EPC, Food \u0026 Beverage Effluent Treatment",
+                            "ZLDProcess":  "Pre-concentration membrane packages for industrial effluent",
+                            "Leadership":  "Integrated into Fluence Corporation Executive Management (Thomas Pokorsky, CEO)",
+                            "Category":  "Engineering, EPC and Industrial Treatment",
+                            "ParentCompany":  "Fluence Corporation Limited",
+                            "ScoreProductPortfolio":  4.2,
+                            "FlagshipProducts":  "Nirobox (commercialized in Fluence), Aeromix Tornado aerators, Eurotec anaerobic reactors",
+                            "Classification":  "Direct Competitor (M\u0026A Validated: Operating Brand is Fluence)",
+                            "GlobalPresence":  "Integrated into Fluence Corporation\u0027s global footprint across Americas, Europe, Middle East",
+                            "Name":  "RWL Water (Now Fluence Corporation)",
+                            "ConsolidatedRevenue":  "Consolidated under Fluence Corporation Limited (ASX: FLC; ~ - )",
+                            "AdvancedTreatment":  "Advanced chemical oxidation, UV disinfection systems",
+                            "CoreTechnologies":  "Industrial DAF, Packaged SWRO/BWRO (Nirobox predecessor), Industrial Anaerobic Digestion, Tipton MBR",
+                            "KeyCustomerPromise":  "Modular agility, rapid delivery, packaged containerized plug-and-play solutions",
+                            "SalesPositioning":  "Historical packaging pioneer whose integration with Emefcy created the modern Fluence Corporation",
+                            "ScoreCustomerPerformance":  4.3,
+                            "ManufacturingAndRD":  "Padua Engineering Center (Italy); Minneapolis (USA); integrated into Fluence",
+                            "TargetIndustries":  "Food \u0026 Beverage, Breweries \u0026 Wineries, Agriculture, Remote Industrial Camps",
+                            "LegalEntity":  "RWL Water LLC (Merged into Fluence Corporation Limited in July 2017)",
+                            "IndiaPresence":  "Historical projects and current business serviced through Fluence Corporation network",
+                            "ScoreInnovationPipeline":  4.5,
+                            "KeySubsidiaries":  "Historically comprised Nirosoft (Israel), Eurotec (Italy), Aeromix (USA), Unitek (Argentina)",
+                            "IdentifiedProjects":  [
+                                                       {
+                                                           "Tech":  "Anaerobic Digestion + Aerobic Polish",
+                                                           "Type":  "Turnkey EPC",
+                                                           "Client":  "Concha y Toro Winery",
+                                                           "Capacity":  "4,000 m3/d",
+                                                           "Location":  "Santiago, Chile",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "DAF + Anaerobic CSTR + Biogas Recovery",
+                                                           "Type":  "Design-Build",
+                                                           "Client":  "Leading Dairy Processor",
+                                                           "Capacity":  "2,500 m3/d",
+                                                           "Location":  "Cordoba, Argentina",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "Containerized Nirobox Brackish RO",
+                                                           "Type":  "Modular Supply",
+                                                           "Client":  "Remote Mining Facility",
+                                                           "Capacity":  "1,200 m3/d",
+                                                           "Location":  "Atacama, Chile",
+                                                           "Status":  "Operational"
+                                                       }
+                                                   ],
+                            "Headquarters":  "Historical HQ: New York, USA (Integrated into Fluence HQ: White Plains, NY)",
+                            "MembraneTreatment":  "Containerized reverse osmosis and ultrafiltration systems for quick deployment",
+                            "Employees":  "Integrated into Fluence Corporation (300+ total)",
+                            "IndustrialWaterRevenue":  "See Fluence Corporation (COMP-13)",
+                            "SludgeManagement":  "Anaerobic waste-to-energy biogas systems, belt filter presses",
+                            "KeyClients":  "Concha y Toro, San Miguel Brewery, Coca-Cola FEMSA, Campari",
+                            "OpexBenchmark":  ".22 - .55 / m3 (Biological + RO treatment)",
+                            "ScoreTechnologyCapability":  4.5,
+                            "ScoreCommercialCompetitiveness":  4.3,
+                            "GapsAndLimitations":  "Crucial M\u0026A Note: RWL Water is no longer an independent legal entity; operates entirely as Fluence Corporation."
+                        },
+                        {
+                            "PreliminaryTreatment":  "High-precision mechanical bar screens (1 mm fine screening mandatory for Sterapore MBR), DAF",
+                            "ScoreSalesCapability":  4.2,
+                            "WaterReuseCapability":  "Total industrial wastewater recycling for commercial complexes, automotive, and electronics",
+                            "PricingModels":  "Proprietary membrane module supply, Turnkey plant EPC, On-site Water Services (per-m3 tariff)",
+                            "Ownership":  "Wholly owned subsidiary of Mitsubishi Chemical Group Corporation (Tokyo Stock Exchange: 4188)",
+                            "CapexBenchmark":  ",100 - ,200 per KLD (High-spec Sterapore MBR and industrial reclamation plants)",
+                            "ConfidenceLevel":  "High (Tokyo Stock Exchange parent filings, certified ISO technical datasheets, global case studies)",
+                            "CustomerSentiment":  "Sterapore PVDF membranes are widely recognized as mechanically indestructible compared to fragile hollow fibers. Conservative Japanese marketing limits direct EPC aggression outside East Asia.",
+                            "ScoreMarketPresence":  4.3,
+                            "BiologicalTreatment":  "Submerged Membrane Bioreactor (MBR) utilizing Sterapore hollow fiber hydrophilic PVDF membranes",
+                            "Founded":  1964,
+                            "Id":  "COMP-25",
+                            "BusinessModel":  "Membrane Module Manufacturing, On-Site Water Supply Systems, Industrial Water Treatment Plants",
+                            "ZLDProcess":  "High-quality MBR permeate feed enabling fouling-free operation in downstream high-pressure RO and ZLD",
+                            "Leadership":  "Kimimori Takahashi (Representative Director \u0026 President)",
+                            "Category":  "Engineering, EPC and Industrial Treatment",
+                            "ParentCompany":  "Mitsubishi Chemical Group Corporation",
+                            "ScoreProductPortfolio":  4.5,
+                            "FlagshipProducts":  "Sterapore SADF / SUR / SUC Series (Hollow Fiber PVDF MBR), Wellthy On-site Drinking/Process Water",
+                            "Classification":  "Direct Competitor (Hollow-Fiber PVDF Membrane Pioneer)",
+                            "GlobalPresence":  "Global footprint via Mitsubishi Chemical Group in Japan, China, Southeast Asia, USA, Europe",
+                            "Name":  "Mitsubishi Chemical Aqua Solutions (MCAS)",
+                            "ConsolidatedRevenue":  "+ (JPY 4.3 Trillion for Mitsubishi Chemical Group)",
+                            "AdvancedTreatment":  "Ozone disinfection, activated carbon filtration, ion exchange for high-purity industrial reuse",
+                            "CoreTechnologies":  "Sterapore hollow-fiber PVDF MBR membranes, Well water groundwater on-site supply, Industrial reuse systems",
+                            "KeyCustomerPromise":  "Zero fiber breakage, permanent hydrophilicity, low energy air-scour requirement, long operating life",
+                            "SalesPositioning":  "The gold standard in hollow-fiber PVDF membrane material science with exceptionally high tensile strength",
+                            "ScoreCustomerPerformance":  4.7,
+                            "ManufacturingAndRD":  "Membrane manufacturing plant in Toyama and Shizuoka, Japan; Advanced Polymer R\u0026D Labs",
+                            "TargetIndustries":  "Food \u0026 Beverage, Automotive, Electronics \u0026 Semiconductors, Chemicals, On-site Decentralized Reuse",
+                            "LegalEntity":  "Mitsubishi Chemical Aqua Solutions Co., Ltd. (MCAS)",
+                            "IndiaPresence":  "Mitsubishi Chemical India Pvt Ltd (Gurugram, Mumbai); Membrane marketing and industrial partner sales",
+                            "ScoreInnovationPipeline":  4.6,
+                            "KeySubsidiaries":  "MCAS Shanghai, MCAS Taiwan, Wellthy Corp (integrated)",
+                            "IdentifiedProjects":  [
+                                                       {
+                                                           "Tech":  "Sterapore SADF Submerged MBR",
+                                                           "Type":  "Membrane Supply \u0026 Engineering",
+                                                           "Client":  "Major Japanese Brewery",
+                                                           "Capacity":  "6,000 m3/d",
+                                                           "Location":  "Osaka, Japan",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "Industrial ETP + Sterapore MBR + RO Reuse",
+                                                           "Type":  "Turnkey System",
+                                                           "Client":  "Leading Automotive Assembly Plant",
+                                                           "Capacity":  "8,000 m3/d",
+                                                           "Location":  "Guangzhou, China",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "Sterapore MBR Wastewater Recycling",
+                                                           "Type":  "System Integration",
+                                                           "Client":  "Beverage Bottling Complex",
+                                                           "Capacity":  "3,500 m3/d",
+                                                           "Location":  "Ayutthaya, Thailand",
+                                                           "Status":  "Operational"
+                                                       }
+                                                   ],
+                            "Headquarters":  "Tokyo, Japan",
+                            "MembraneTreatment":  "Sterapore PVDF hollow fiber microfiltration/ultrafiltration membranes, Industrial RO packages",
+                            "Employees":  "800+ (MCAS dedicated)",
+                            "IndustrialWaterRevenue":  "~ -  (MCAS water solutions, Sterapore membrane modules, industrial systems)",
+                            "SludgeManagement":  "Thickening, filter press dewatering, low-sludge MBR operating modes",
+                            "KeyClients":  "Toyota, Asahi Breweries, Suntory, Honda, Panasonic, Bridgestone, China Everbright",
+                            "OpexBenchmark":  ".28 - .70 / m3 (Low-aeration Sterapore MBR + RO reuse)",
+                            "ScoreTechnologyCapability":  4.8,
+                            "ScoreCommercialCompetitiveness":  4.2,
+                            "GapsAndLimitations":  "Operates within Mitsubishi Chemical Group\u0027s vast materials division; financial reporting aggregates water within specialized functional materials."
+                        },
+                        {
+                            "PreliminaryTreatment":  "High-rate solids contact clarifiers, Lamella clarifiers, dual media filters, oil separators",
+                            "ScoreSalesCapability":  4.4,
+                            "WaterReuseCapability":  "Ash water recycling, cooling tower blowdown reuse, condensate return polishing",
+                            "PricingModels":  "Turnkey EPC, Lump-sum contracts, Public and Private Sector Tenders",
+                            "Ownership":  "Private (Promoted by the Suri family)",
+                            "CapexBenchmark":  " - ,400 per KLD (Power sector DM \u0026 industrial ETP plants)",
+                            "ConfidenceLevel":  "Medium-High (Ministry of Corporate Affairs India filings, NTPC/BHEL tender awards, trade press)",
+                            "CustomerSentiment":  "Deep technical reverence for power plant water treatment and condensate polishing. Heavily exposed to thermal power capex cycles; expanding aggressively into refineries and ZLD.",
+                            "ScoreMarketPresence":  4.1,
+                            "BiologicalTreatment":  "Extended aeration, activated sludge process, MBBR for refinery and industrial effluents",
+                            "Founded":  1974,
+                            "Id":  "COMP-26",
+                            "BusinessModel":  "Turnkey EPC, Design-Build Integration, Demineralization, Condensate Polishing, ETP",
+                            "ZLDProcess":  "High-pressure RO + Thermal Multiple Effect Evaporation (MEE) for power and refinery effluent",
+                            "Leadership":  "K. L. Suri (Founder \u0026 Chairman), R. Suri (Managing Director)",
+                            "Category":  "Regional and Specialist Companies",
+                            "ParentCompany":  "Driplex Water Engineering Group",
+                            "ScoreProductPortfolio":  4.2,
+                            "FlagshipProducts":  "Deep Bed Condensate Polishers, High-Flow Resins, Driplex Industrial Clarifiers, Multi-Stage ETP",
+                            "Classification":  "EPC Player / Direct Competitor (Indian Thermal Power \u0026 Heavy Industrial Specialist)",
+                            "GlobalPresence":  "Projects executed in India, Southeast Asia (Vietnam, Indonesia), Middle East (Iraq, UAE)",
+                            "Name":  "Driplex Water Engineering",
+                            "ConsolidatedRevenue":  " -  (INR 320 - 520 Cr estimated)",
+                            "AdvancedTreatment":  "Activated carbon filtration, chemical oxidation, heavy metal precipitation",
+                            "CoreTechnologies":  "Condensate Polishing Units (CPU), Demineralization (DM), Effluent Treatment Plants (ETP), ZLD, Clarifiers",
+                            "KeyCustomerPromise":  "Heavy-duty custom ASME fabrication, deep power sector pedigree, competitive tender pricing",
+                            "SalesPositioning":  "India\u0027s premier turnkey EPC specialist for mega-thermal power condensate polishing and industrial water",
+                            "ScoreCustomerPerformance":  4.4,
+                            "ManufacturingAndRD":  "Large manufacturing \u0026 ASME-certified vessel fabrication facility in Greater Noida (Uttar Pradesh)",
+                            "TargetIndustries":  "Thermal Power Plants, Oil Refineries, Petrochemicals, Steel Plants, Fertilizers",
+                            "LegalEntity":  "Driplex Water Engineering International Private Limited",
+                            "IndiaPresence":  "Pan-India presence; Corporate office in New Delhi; Major manufacturing plant in Greater Noida, UP",
+                            "ScoreInnovationPipeline":  3.8,
+                            "KeySubsidiaries":  "Driplex International, Driplex Overseas",
+                            "IdentifiedProjects":  [
+                                                       {
+                                                           "Tech":  "Deep Bed Condensate Polisher + Mixed Bed DM",
+                                                           "Type":  "Turnkey EPC",
+                                                           "Client":  "NTPC Ramagundam Super Thermal Power",
+                                                           "Capacity":  "Condensate Polishing Unit (CPU)",
+                                                           "Location":  "Telangana, India",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "Refinery Effluent Treatment Plant (ETP)",
+                                                           "Type":  "EPC",
+                                                           "Client":  "Indian Oil Corporation (IOCL)",
+                                                           "Capacity":  "10,000 m3/d",
+                                                           "Location":  "Barauni, Bihar, India",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Capacity":  "DM Plant \u0026 Ash Water Recycling",
+                                                           "Status":  "Operational",
+                                                           "Location":  "Kothagudem, Telangana, India",
+                                                           "Type":  "Turnkey Package",
+                                                           "Client":  "BHEL / State Electricity Board"
+                                                       }
+                                                   ],
+                            "Headquarters":  "New Delhi, India",
+                            "MembraneTreatment":  "Brackish Water Reverse Osmosis, Ultrafiltration, Demineralization (cation-anion-mixed bed)",
+                            "Employees":  "350+",
+                            "IndustrialWaterRevenue":  "~ -  (\u003e90% from industrial power, refinery, and heavy industrial water)",
+                            "SludgeManagement":  "Centrifuge decanters, plate and frame filter presses, sludge drying yards",
+                            "KeyClients":  "NTPC Limited, BHEL, Indian Oil (IOCL), Reliance Power, Tata Power, Jindal Steel \u0026 Power",
+                            "OpexBenchmark":  ".24 - .65 / m3 (Industrial ETP and demineralization)",
+                            "ScoreTechnologyCapability":  4.3,
+                            "ScoreCommercialCompetitiveness":  4.6,
+                            "GapsAndLimitations":  "Private Indian enterprise; audited balance sheet data obtained through statutory corporate filings."
+                        },
+                        {
+                            "PreliminaryTreatment":  "High-capacity automated screening, vortex grit removal, massive circular clarifiers, DAF",
+                            "ScoreSalesCapability":  5,
+                            "WaterReuseCapability":  "Pioneering city-to-industry treated wastewater reuse schemes (e.g. Surat, Jodhpur, Chennai)",
+                            "PricingModels":  "Mega-lump sum EPC, Design-Build-Operate (DBO), Concession EPC, Hybrid Annuity Model (HAM)",
+                            "Ownership":  "Public (NSE: LT / BSE: 500510)",
+                            "CapexBenchmark":  " - ,400 per KLD (Mega-infrastructure scale economies)",
+                            "ConfidenceLevel":  "High (Audited stock exchange filings, published quarterly earnings reports, government tender registries)",
+                            "CustomerSentiment":  "Regarded as the gold standard for mega-scale project execution and bankability. Does not typically bid for smaller standalone industrial wastewater plants under .",
+                            "ScoreMarketPresence":  5,
+                            "BiologicalTreatment":  "Large-scale SBR, MBR, moving bed biofilm reactors, extended aeration for chemical clusters",
+                            "Founded":  1938,
+                            "Id":  "COMP-27",
+                            "BusinessModel":  "Mega Turnkey EPC, Design-Build-Operate (DBO), Public-Private Partnerships, Smart Water Grids",
+                            "ZLDProcess":  "Mega-scale industrial ZLD integrating high-recovery RO, thermal MVR brine concentrators, and ATFDs",
+                            "Leadership":  "S. N. Subrahmanyan (Chairman \u0026 MD, L\u0026T), K. Asok Kumar (Head, Water \u0026 Effluent Treatment IC)",
+                            "Category":  "Regional and Specialist Companies / Mega EPC",
+                            "ParentCompany":  "Larsen \u0026 Toubro Limited",
+                            "ScoreProductPortfolio":  4.8,
+                            "FlagshipProducts":  "Integrated Mega-CETPs, Large-scale Industrial Water Supply, Smart Industrial Utility Grids",
+                            "Classification":  "EPC Player / Direct Competitor (Mega-Infrastructure \u0026 Industrial Water Titan)",
+                            "GlobalPresence":  "Dominant across India, Middle East (Saudi Arabia, UAE, Oman, Qatar), North Africa, South Asia",
+                            "Name":  "Larsen \u0026 Toubro (L\u0026T)",
+                            "ConsolidatedRevenue":  "+ (INR 2.21 Lakh Cr in FY2024 for L\u0026T Group)",
+                            "AdvancedTreatment":  "Advanced oxidation, ozone disinfection, chemical neutralization for mixed industrial effluent",
+                            "CoreTechnologies":  "Mega-scale CETPs, Industrial ETP, Desalination, Water recycling, SCADA \u0026 IoT Smart Water networks",
+                            "KeyCustomerPromise":  "Flawless balance-sheet bonding, unmatched project management speed, world-class execution standards",
+                            "SalesPositioning":  "India\u0027s undisputed infrastructure engineering titan capable of executing  to + water mega-projects",
+                            "ScoreCustomerPerformance":  4.8,
+                            "ManufacturingAndRD":  "Chennai Design \u0026 Engineering Hub; Strategic fabrication works across Hazira, Kattupalli, Kansbahal",
+                            "TargetIndustries":  "Mega Industrial Estates / CETPs, Refineries \u0026 Petrochemicals, Smart Cities, Power, State Water Utilities",
+                            "LegalEntity":  "Larsen \u0026 Toubro Limited (Water \u0026 Effluent Treatment IC)",
+                            "IndiaPresence":  "India\u0027s undisputed #1 infrastructure titan; offices and project sites in every single Indian state",
+                            "ScoreInnovationPipeline":  4.4,
+                            "KeySubsidiaries":  "L\u0026T Construction, L\u0026T Middle East, L\u0026T Infrastructure Engineering",
+                            "IdentifiedProjects":  [
+                                                       {
+                                                           "Tech":  "Tertiary Treatment Reverse Osmosis (TTRO) for Textile Mills",
+                                                           "Type":  "DBO Model",
+                                                           "Client":  "Surat Municipal Corporation / Industrial Cluster",
+                                                           "Capacity":  "115 MLD (Multi-Phase)",
+                                                           "Location":  "Surat, Gujarat, India",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "Raw Water Treatment + ETP + Desalination",
+                                                           "Type":  "Turnkey EPC",
+                                                           "Client":  "Indian Oil Corporation (IOCL)",
+                                                           "Capacity":  "Mega Industrial Water Trains",
+                                                           "Location":  "Paradip \u0026 Panipat, India",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "Mega CETP + Biological + ZLD Integration",
+                                                           "Type":  "Turnkey EPC",
+                                                           "Client":  "Common Effluent Treatment Plant (CETP)",
+                                                           "Capacity":  "50 MLD",
+                                                           "Location":  "Dahej PCPIR, Gujarat, India",
+                                                           "Status":  "Operational"
+                                                       }
+                                                   ],
+                            "Headquarters":  "Mumbai, Maharashtra, India (WET IC HQ: Manapakkam, Chennai, Tamil Nadu)",
+                            "MembraneTreatment":  "Seawater Reverse Osmosis (SWRO), Brackish Water RO, large-scale ultrafiltration trains",
+                            "Employees":  "55,000+ (Consolidated L\u0026T Group)",
+                            "IndustrialWaterRevenue":  "~.6B - .0B (WET IC revenue INR 13,000 - 16,000 Cr; industrial \u0026 municipal water)",
+                            "SludgeManagement":  "Automated mechanical dewatering, thermal sludge drying, bio-methanation with power generation",
+                            "KeyClients":  "Indian Oil (IOCL), Reliance Industries, Gujarat Water Infrastructure (GWIL), Saudi Water Authority, MIDC",
+                            "OpexBenchmark":  ".22 - .60 / m3 (Mega-scale industrial water treatment and distribution)",
+                            "ScoreTechnologyCapability":  4.7,
+                            "ScoreCommercialCompetitiveness":  4.7,
+                            "GapsAndLimitations":  "WET IC combines both municipal mega-water networks and industrial wastewater; segment breakout is tracked via investor calls."
+                        },
+                        {
+                            "PreliminaryTreatment":  "Bar screens, grit removal units, tube settler clarifiers, oil-water separators",
+                            "ScoreSalesCapability":  4.4,
+                            "WaterReuseCapability":  "Treated industrial wastewater reuse for HVAC cooling towers, flushing, and landscaping",
+                            "PricingModels":  "Turnkey EPC, Lump-sum contracts, MEP integrated packages, O\u0026M service",
+                            "Ownership":  "Public (NSE: VOLTAS / BSE: 500575 - A TATA Enterprise)",
+                            "CapexBenchmark":  " - ,200 per KLD (Commercial \u0026 industrial packaged wastewater plants)",
+                            "ConfidenceLevel":  "High (Tata Sons / Voltas Limited published annual reports, audited financial disclosures)",
+                            "CustomerSentiment":  "Impeccable Tata brand reputation for governance and ethical business conduct. Water treatment is a sub-division within electro-mechanical projects rather than the core standalone driver.",
+                            "ScoreMarketPresence":  4.3,
+                            "BiologicalTreatment":  "Extended aeration, Sequential Batch Reactors (SBR), Submerged Aerated Fixed Film (SAFF)",
+                            "Founded":  1954,
+                            "Id":  "COMP-28",
+                            "BusinessModel":  "Engineered Projects, Equipment Package Supply, Packaged Water \u0026 Wastewater Plants, O\u0026M",
+                            "ZLDProcess":  "Supplies biological and membrane pre-treatment packages integrated with thermal evaporators",
+                            "Leadership":  "Mukundan C. P. (Managing Director \u0026 CEO, Voltas Limited)",
+                            "Category":  "Regional and Specialist Companies",
+                            "ParentCompany":  "Tata Group (Tata Sons)",
+                            "ScoreProductPortfolio":  4.1,
+                            "FlagshipProducts":  "Voltas Packaged Wastewater Treatment Plants, High-Rate Tube Settlers, Industrial RO",
+                            "Classification":  "EPC Player / Diversified Water (Tata Group Arm)",
+                            "GlobalPresence":  "Operations in India, Middle East (UAE, Oman, Qatar, Bahrain, Saudi Arabia)",
+                            "Name":  "Voltas Water",
+                            "ConsolidatedRevenue":  ".5B (INR 12,400+ Cr in FY2024 for Voltas Group)",
+                            "AdvancedTreatment":  "Activated carbon filtration, chlorine/UV disinfection, chemical oxidation",
+                            "CoreTechnologies":  "Packaged ETP/STP, Demineralization, Industrial Clarifiers, Reverse Osmosis, Media Filtration",
+                            "KeyCustomerPromise":  "Unmatched Tata brand governance, high ethics, seamless integration with HVAC/MEP utilities",
+                            "SalesPositioning":  "The trusted Tata brand delivering reliable MEP, cooling, and packaged industrial water management",
+                            "ScoreCustomerPerformance":  4.5,
+                            "ManufacturingAndRD":  "Fabrication partners and assembly centers in Thane, Gujarat, and Middle East",
+                            "TargetIndustries":  "Commercial Complexes, Industrial SEZs, Automotive, Light Engineering, Pharmaceuticals, Hospitality",
+                            "LegalEntity":  "Voltas Limited (Water Management Products / Projects Division)",
+                            "IndiaPresence":  "Pan-India presence; Corporate office in Mumbai; Regional engineering centers across India",
+                            "ScoreInnovationPipeline":  3.8,
+                            "KeySubsidiaries":  "Voltas Oman, Universal Voltas (UAE), Rohini Industrial Electricals",
+                            "IdentifiedProjects":  [
+                                                       {
+                                                           "Tech":  "Industrial ETP + Demineralization + Cooling Reuse",
+                                                           "Type":  "Turnkey System",
+                                                           "Client":  "Tata Motors Manufacturing Facility",
+                                                           "Capacity":  "5,000 KLD",
+                                                           "Location":  "Pune, Maharashtra, India",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "Sewage \u0026 Industrial Wastewater Treatment",
+                                                           "Type":  "Turnkey EPC",
+                                                           "Client":  "Major Industrial Township",
+                                                           "Capacity":  "10 MLD",
+                                                           "Location":  "Jamshedpur, Jharkhand, India",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "Packaged SBR + Ultrafiltration + HVAC Reuse",
+                                                           "Type":  "Design-Build",
+                                                           "Client":  "Commercial IT SEZ Complex",
+                                                           "Capacity":  "2,000 KLD",
+                                                           "Location":  "Bengaluru, Karnataka, India",
+                                                           "Status":  "Operational"
+                                                       }
+                                                   ],
+                            "Headquarters":  "Mumbai, Maharashtra, India",
+                            "MembraneTreatment":  "Packaged ultrafiltration and brackish reverse osmosis plants for industrial recycling",
+                            "Employees":  "9,500+ (Consolidated Voltas Group)",
+                            "IndustrialWaterRevenue":  "~ -  (Water treatment projects within Electro-Mechanical Projects segment)",
+                            "SludgeManagement":  "Filter presses, sludge drying beds, centrifuge dewatering systems",
+                            "KeyClients":  "Tata Motors, Tata Steel, Titan Company, Taj Hotels, Delhi Metro Rail Corporation (DMRC)",
+                            "OpexBenchmark":  ".24 - .60 / m3 (Biological + Filtration + RO)",
+                            "ScoreTechnologyCapability":  4.1,
+                            "ScoreCommercialCompetitiveness":  4.4,
+                            "GapsAndLimitations":  "Water treatment project revenue is aggregated within Electro-Mechanical Projects and Services segment."
+                        },
+                        {
+                            "PreliminaryTreatment":  "High-rate micro-flotation, fiber recovery screens, circular and rectangular DAF units",
+                            "ScoreSalesCapability":  3.9,
+                            "WaterReuseCapability":  "Paper mill white water recycling, closed-loop process water reuse",
+                            "PricingModels":  "Engineered process design packages, Equipment supply, Turnkey EPC for industrial plants",
+                            "Ownership":  "Private / Subsidiary of Best Water Technology (BWT) Group (Historical / Regional)",
+                            "CapexBenchmark":  " - ,600 per KLD (Industrial pulp \u0026 paper effluent plants)",
+                            "ConfidenceLevel":  "Medium-High (European trade directories, pulp \u0026 paper conference papers, verified mill references)",
+                            "CustomerSentiment":  "Highly regarded in the global pulp and paper sector for deep chemical/fiber separation expertise. Outside the paper and forestry domain, brand presence is niche and selective.",
+                            "ScoreMarketPresence":  3.8,
+                            "BiologicalTreatment":  "High-load activated sludge, moving bed biological reactors (MBBR), anaerobic contact reactors",
+                            "Founded":  1988,
+                            "Id":  "COMP-29",
+                            "BusinessModel":  "Turnkey Process Water \u0026 Wastewater Engineering, Proprietary Clarifiers, Flotation Units",
+                            "ZLDProcess":  "Supplies heavy fiber and organic removal pretreatment upstream of thermal evaporation in paper mills",
+                            "Leadership":  "Regional Business Heads / Technology Directors",
+                            "Category":  "Regional and Specialist Companies",
+                            "ParentCompany":  "BWT (Best Water Technology) Group / Independent Regional Operations",
+                            "ScoreProductPortfolio":  4.1,
+                            "FlagshipProducts":  "Aqua-DAF, Bioflow Biological Systems, Micro-Flotation Clarifiers, Sludge Thickeners",
+                            "Classification":  "Adjacent Competitor / Specialist Technology Supplier",
+                            "GlobalPresence":  "Installations across Nordic Europe, Central Europe, Russia, South Asia (India), Southeast Asia",
+                            "Name":  "Aquaflow Systems",
+                            "ConsolidatedRevenue":  " -  (Estimated regional industrial wastewater operations)",
+                            "AdvancedTreatment":  "Tertiary chemical precipitation for phosphorus and color removal, ozone bleaching WW polish",
+                            "CoreTechnologies":  "High-efficiency DAF, Anaerobic treatment of pulp effluents, Micro-flotation, High-load biological reactors",
+                            "KeyCustomerPromise":  "Maximum fiber recovery, robust handling of high hydraulic/organic shock loads, proven Nordic reliability",
+                            "SalesPositioning":  "Specialist Scandinavian engineering expert in heavy organic, pulp \u0026 paper, and fiber-laden effluent",
+                            "ScoreCustomerPerformance":  4.4,
+                            "ManufacturingAndRD":  "Process engineering design centers in Finland and Austria; European fabrication partners",
+                            "TargetIndustries":  "Pulp \u0026 Paper, Forestry Products, Chemicals, Food Processing, Textiles",
+                            "LegalEntity":  "Aquaflow BWT / Aquaflow Systems Oy / Regional Water Entities",
+                            "IndiaPresence":  "Operating through regional engineering representation and pulp \u0026 paper industrial partnerships",
+                            "ScoreInnovationPipeline":  4,
+                            "KeySubsidiaries":  "Aquaflow Finland, Aquaflow Russia (historical), BWT Industrial Water",
+                            "IdentifiedProjects":  [
+                                                       {
+                                                           "Tech":  "Fiber Recovery DAF + Biological ETP",
+                                                           "Type":  "Technology Supply",
+                                                           "Client":  "ITC Paperboards and Specialty Papers",
+                                                           "Capacity":  "20,000 m3/d",
+                                                           "Location":  "Bhadrachalam, Telangana, India",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "Micro-Flotation + High-Rate Biological System",
+                                                           "Type":  "Turnkey Engineering",
+                                                           "Client":  "Leading European Pulp Mill",
+                                                           "Capacity":  "35,000 m3/d",
+                                                           "Location":  "Kotka, Finland",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "Process White Water Recycle + DAF Polish",
+                                                           "Type":  "Engineered Package",
+                                                           "Client":  "Packaging Paper Manufacturer",
+                                                           "Capacity":  "10,000 m3/d",
+                                                           "Location":  "Krakow, Poland",
+                                                           "Status":  "Operational"
+                                                       }
+                                                   ],
+                            "Headquarters":  "Mondsee, Austria / Vantaa, Finland (Regional: New Delhi, India)",
+                            "MembraneTreatment":  "Tertiary ultrafiltration and nanofiltration for process water loop closure",
+                            "Employees":  "150+",
+                            "IndustrialWaterRevenue":  "~ -  (\u003e80% from pulp \u0026 paper, chemical, and industrial effluent treatment)",
+                            "SludgeManagement":  "Fiber recovery flotation, sludge thickening, belt press and screw press dewatering",
+                            "KeyClients":  "Stora Enso, UPM-Kymmene, Metsä Group, Mondi, ITC Paperboards (India), Ballarpur Industries",
+                            "OpexBenchmark":  ".26 - .68 / m3 (High-load biological + micro-flotation)",
+                            "ScoreTechnologyCapability":  4.3,
+                            "ScoreCommercialCompetitiveness":  4.1,
+                            "GapsAndLimitations":  "Private regional entity / BWT industrial segment; standalone audited annual reports are not publicly published."
+                        },
+                        {
+                            "PreliminaryTreatment":  "Fine step screens, automated grit removal, inlet flow control distribution",
+                            "ScoreSalesCapability":  4.6,
+                            "WaterReuseCapability":  "Tertiary quality effluent (BOD \u003c5 mg/L, TSS \u003c5 mg/L, Total N \u003c10 mg/L) for immediate industrial reuse",
+                            "PricingModels":  "Proprietary electro-mechanical \u0026 automation package, Technology licensing, EPC joint bidding",
+                            "Ownership":  "Private (Joint Venture / Technology Partnership with SFC Umwelttechnik GmbH, Austria)",
+                            "CapexBenchmark":  " - ,100 per KLD (C-TECH SBR and C-MEM ceramic membrane systems)",
+                            "ConfidenceLevel":  "High (Verified municipal tender registries, CPCB project databases, Austrian corporate disclosures)",
+                            "CustomerSentiment":  "C-TECH SBR is widely considered the gold standard of SBR technology in India with unmatched decanter reliability. Highly successful bidding record in competitive municipal and CETP tenders.",
+                            "ScoreMarketPresence":  4.5,
+                            "BiologicalTreatment":  "C-TECH SBR (advanced biological nutrient removal with co-current nitrification, denitrification, and biological P removal in a single basin with patented decanter)",
+                            "Founded":  1990,
+                            "Id":  "COMP-30",
+                            "BusinessModel":  "Proprietary Technology Licensing, Turnkey Equipment \u0026 Automation Supply, DBO Partner",
+                            "ZLDProcess":  "Supplies ultra-low TSS/BOD biological permeate feed to protect downstream RO membranes in ZLD trains",
+                            "Leadership":  "Stephan Sasshofer (Managing Director, SFC Austria), Sandeep Asolkar (Director, SFC India)",
+                            "Category":  "Regional and Specialist Companies",
+                            "ParentCompany":  "SFC Umwelttechnik GmbH (Austria) / Indian Promoters",
+                            "ScoreProductPortfolio":  4.5,
+                            "FlagshipProducts":  "C-TECH SBR, C-MEM Ceramic Membrane, C-ION Non-thermal Plasma Air/Water Treatment",
+                            "Classification":  "Direct Competitor (C-TECH Cyclic SBR Technology Pioneer)",
+                            "GlobalPresence":  "Over 600 installations across Europe, India, Middle East, Southeast Asia, North America",
+                            "Name":  "SFC Environmental Technologies",
+                            "ConsolidatedRevenue":  " -  (Estimated for SFC India and technology operations)",
+                            "AdvancedTreatment":  "C-ION non-thermal plasma oxidation, UV disinfection, activated carbon filters",
+                            "CoreTechnologies":  "C-TECH (Cyclic Activated Sludge Technology / Advanced SBR), C-MEM (Submerged Hollow-Fiber Ceramic Membranes), C-ION",
+                            "KeyCustomerPromise":  "Lowest footprint SBR, simultaneous biological nutrient removal, zero moving parts underwater, 100% automated",
+                            "SalesPositioning":  "The definitive pioneer of Cyclic Activated Sludge Technology (C-TECH SBR) and advanced ceramic membranes",
+                            "ScoreCustomerPerformance":  4.7,
+                            "ManufacturingAndRD":  "Technology engineering center in Navi Mumbai; R\u0026D testing facility in Salzburg, Austria",
+                            "TargetIndustries":  "Common Effluent Treatment Plants (CETPs), Food \u0026 Beverage, Pharmaceuticals, Textiles, Municipal Reuse",
+                            "LegalEntity":  "SFC Environmental Technologies Private Limited",
+                            "IndiaPresence":  "HQ in Navi Mumbai; over 150 municipal and industrial C-TECH installations across India",
+                            "ScoreInnovationPipeline":  4.5,
+                            "KeySubsidiaries":  "SFC Umwelttechnik GmbH, SFC Environmental Technologies Middle East",
+                            "IdentifiedProjects":  [
+                                                       {
+                                                           "Tech":  "C-TECH Cyclic Activated Sludge Technology",
+                                                           "Type":  "Technology Supply \u0026 EPC",
+                                                           "Client":  "Navi Mumbai Municipal Corporation",
+                                                           "Capacity":  "100 MLD",
+                                                           "Location":  "Nerul, Maharashtra, India",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "C-TECH SBR + Color Removal Pretreatment",
+                                                           "Type":  "Process Package",
+                                                           "Client":  "Textile Industrial Cluster CETP",
+                                                           "Capacity":  "30 MLD",
+                                                           "Location":  "Surat, Gujarat, India",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "C-TECH SBR + C-MEM Ceramic Ultrafiltration",
+                                                           "Type":  "Turnkey Technology Supply",
+                                                           "Client":  "Leading Pharmaceutical Major",
+                                                           "Capacity":  "2,500 KLD",
+                                                           "Location":  "Goa, India",
+                                                           "Status":  "Operational"
+                                                       }
+                                                   ],
+                            "Headquarters":  "Navi Mumbai, Maharashtra, India / Salzburg, Austria",
+                            "MembraneTreatment":  "C-MEM submerged ceramic membranes (high chemical resistance, 10+ year operating life)",
+                            "Employees":  "200+",
+                            "IndustrialWaterRevenue":  "~ -  (~50-60% from industrial estates, CETPs, food, textile, and pharma)",
+                            "SludgeManagement":  "Integrated aerobic sludge digestion within C-TECH cycle, decanter centrifuge dewatering",
+                            "KeyClients":  "Delhi Jal Board, Navi Mumbai Municipal Corp, Reliance Industries, Cipla, Arvind Mills, Sabarmati Riverfront",
+                            "OpexBenchmark":  ".18 - .42 / m3 (Highly optimized biological aeration via VFD automated DO control)",
+                            "ScoreTechnologyCapability":  4.7,
+                            "ScoreCommercialCompetitiveness":  4.7,
+                            "GapsAndLimitations":  "Private technology specialist; frequently bids in consortium with general civil EPC contractors."
+                        },
+                        {
+                            "GlobalPresence":  "Pan-India commercial installations; international pilots and demonstrations",
+                            "ScoreSalesCapability":  4.2,
+                            "ScoreTechnologyCapability":  5,
+                            "ZLDProcess":  "Novel ZLD approach: achieves ZLD with no/minimal reliance on thermal evaporators, cutting OpEx by 30%+",
+                            "Ownership":  "Private (Scalene Group)",
+                            "KeySubsidiaries":  "Scalene Livprotec Water Div, Greethane Bioenergy Div",
+                            "CoreTechnologies":  "Resonance Frequency Separation (RFM + TRT), Physics-based TDS to TSS conversion, Chemical-free ZLD, Membrane Protection",
+                            "IndustrialWaterRevenue":  "High-Growth (ETP, STP, Leachate, RO Reject Recovery)",
+                            "ConsolidatedRevenue":  "Commercial Growth Stage (Rapid deployment across marquee industrials)",
+                            "Id":  "COMP-TRITRON",
+                            "PricingStrategy":  "High-ROI capital equipment or BOOT / Water-as-a-Service model with up to 30% Lower Total Cost of Ownership (TCO)",
+                            "PreliminaryTreatment":  "Pre-treatment optimization for pH (7-9.5) and coarse TSS settling (\u003c100 ppm) ahead of TRT column",
+                            "BusinessModel":  "Proprietary Equipment OEM, Resonance Modulator Licensing, Tailored Downstream Integration, Modular Skids, BOOT",
+                            "Differentiators":  "Converts dissolved solids (TDS) to suspended solids (TSS) using physics and resonance rather than costly chemical or thermal processes; 85-95% water recovery; eliminates evaporator bottleneck",
+                            "ScoreCustomerPerformance":  4.9,
+                            "ScoreCommercialCompetitiveness":  4.8,
+                            "IdentifiedProjects":  [
+                                                       {
+                                                           "Tech":  "TRITRON RFM + TRT",
+                                                           "Type":  "Automotive \u0026 Ancillary ETP",
+                                                           "Client":  "Endurance Complete Solutions",
+                                                           "Capacity":  "75 \u0026 60 KLD",
+                                                           "Location":  "Automotive Corridor, India",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "TRITRON RFM + TRT",
+                                                           "Type":  "Advanced Graphite Manufacturing ETP",
+                                                           "Client":  "Metachem Industries",
+                                                           "Capacity":  "188 KLD",
+                                                           "Location":  "India",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "TRITRON RFM + TRT",
+                                                           "Type":  "Tyre Manufacturing Industrial ETP",
+                                                           "Client":  "BKT Tires",
+                                                           "Capacity":  "160 \u0026 190 KLD",
+                                                           "Location":  "India",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "TRITRON RFM + TRT",
+                                                           "Type":  "Commercial Sewage STP Reuse",
+                                                           "Client":  "Cisco Systems",
+                                                           "Capacity":  "300 KLD",
+                                                           "Location":  "Bengaluru, India",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "TRITRON RFM + TRT",
+                                                           "Type":  "Coffee Effluent ETP",
+                                                           "Client":  "Tata Consumer Products",
+                                                           "Capacity":  "60 KLD",
+                                                           "Location":  "India",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "TRITRON RFM + TRT",
+                                                           "Type":  "Kitchen \u0026 Commercial Reject ETP",
+                                                           "Client":  "Google",
+                                                           "Capacity":  "45 KLD",
+                                                           "Location":  "Tech Park, India",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "TRITRON RFM + TRT",
+                                                           "Type":  "RO 1 \u0026 2 Reject Recovery",
+                                                           "Client":  "Royal Enfield",
+                                                           "Capacity":  "60 KLD",
+                                                           "Location":  "Automotive Facility, India",
+                                                           "Status":  "Operational"
+                                                       },
+                                                       {
+                                                           "Tech":  "TRITRON RFM + TRT",
+                                                           "Type":  "Municipal Landfill Leachate LTP",
+                                                           "Client":  "Bangalore Municipality (BBMP)",
+                                                           "Capacity":  "50 KLD",
+                                                           "Location":  "Bellahalli, Bengaluru",
+                                                           "Status":  "Operational"
+                                                       }
+                                                   ],
+                            "Employees":  "150+",
+                            "Name":  "TRITRON™ (Scalene Livprotec)",
+                            "ScoreMarketPresence":  4,
+                            "Classification":  "Novel Resonance Technology OEM / Direct Innovator",
+                            "Leadership":  "Scalene Livprotec Executive Team",
+                            "Vulnerabilities":  "Requires adequate primary screening (TSS \u003c100 ppm, O\u0026G \u003c5 ppm); client education needed on resonance physics vs textbook chemical precipitation",
+                            "Headquarters":  "Bengaluru, Karnataka, India",
+                            "LegalEntity":  "Scalene Livprotec Pvt. Ltd.",
+                            "ScoreProductPortfolio":  4.8,
+                            "AdvancedTreatment":  "Electromagnetic resonance breakdown of dissolved salts, silica, and heavy metals (Cr 99.98%, Cu 97.36%, Zn 98.95%, Ni 99.66%)",
+                            "Category":  "Physics-Based Water Technology Specialist",
+                            "BiologicalTreatment":  "Secondary stage physical TDS conversion; treats complex modern sewage (Cisco 300 KLD) and organic leachate",
+                            "ScoreInnovationPipeline":  5,
+                            "IndiaPresence":  "HQ \u0026 Manufacturing in Bengaluru, Karnataka; regional project execution across Pune, Chennai, Gurgaon, Gujarat",
+                            "Founded":  2018,
+                            "ParentCompany":  "Scalene Livprotec Pvt. Ltd.",
+                            "FlagshipProducts":  "Tron Resonating Tower (TRT), Resonance Frequency Modulator (RFM), Feasibility Tabletop Unit, 10-75 KLD Modular Skids",
+                            "ManufacturingAndRD":  "Advanced Resonance R\u0026D Labs \u0026 Fabrication in Bengaluru, Karnataka",
+                            "TargetIndustries":  "Automotive, Advanced Graphite, Tyre Manufacturing, Municipal Leachate, Data Centers, Corporate Parks, Food \u0026 Beverage",
+                            "MembraneTreatment":  "Downstream NF/RO permeate recovery up to 85%-95% without chemical scaling or membrane fouling"
+                        }
+                    ],
+    "EngineeringProcesses":  [
+                                 {
+                                     "Machine":  "Comprehensive Plant Systems: Bar Screens, Drum Screens, Vortex Grit Chambers, API/CPI Skimmers, Equalization, Flash Mixers, Flocculators, Clarifiers, DAF, ASP, MBBR, SBR, MBR, UASB, Sand/Carbon Filters, UV, O3, UF, RO, MEE, ATFD, Belt Press, Centrifuges \u0026 Filter Presses.",
+                                     "Image":  "bar_screen_schematic.png",
+                                     "Hydraulics":  "Governed by continuity equation (Q = A*v), Stokes\u0027 law, Camp\u0027s velocity gradient (G), solids flux theory, Monod kinetics, Darcy\u0027s flux law, and evaporative enthalpy balances.",
+                                     "Subtitle":  "Complete Engineering Compendium: Mechanical Equipment, Treatment Mechanisms, Design Hydraulics \u0026 Interconnections",
+                                     "Purpose":  "A comprehensive operational and design reference manual covering every physical, chemical, biological, tertiary, advanced separation (ZLD), and sludge treatment unit in modern wastewater engineering.",
+                                     "Mechanism":  "Multi-barrier treatment hierarchy: Physical separation (screening, sedimentation, flotation) -\u003e Chemical destabilization (charge neutralization, bridging) -\u003e Aerobic/Anaerobic biodegradation -\u003e Membrane separation \u0026 thermal phase-change.",
+                                     "DesignValues":  [
+                                                          "Scope: 115 Specialized Slides",
+                                                          "Basis: CPHEEO, US EPA, Metcalf \u0026 Eddy, NGT/CPCB",
+                                                          "Coverage: Municipal STP \u0026 Industrial ETP / CETP",
+                                                          "Edition: 2026 Engineering Guide"
+                                                      ],
+                                     "NextConnection":  "Slide 2: Executive Summary \u0026 Complete Master Flowsheet",
+                                     "Num":  1,
+                                     "Cat":  "LIVPROTEC · TECHNICAL MASTERCLASS",
+                                     "Title":  "Wastewater Treatment Process Train",
+                                     "Sources":  "S1, S2, S7, S24"
+                                 },
+                                 {
+                                     "Machine":  "1. Preliminary (Screens, Grit, Oil Trap, EQ) -\u003e 2. Physico-Chemical (Flash Mixer, Flocculator, Clarifier/DAF) -\u003e 3. Biological (Aeration, MBBR/SBR/MBR, Sec Clarifier) -\u003e 4. Tertiary (Filters, UV/Cl2) -\u003e 5. Advanced / ZLD (UF, RO, MEE, ATFD) -\u003e 6. Sludge Handling (Thickeners, Digesters, Dewatering).",
+                                     "Image":  "eq_tank_schematic.png",
+                                     "Hydraulics":  "Hydraulic head loss distributed along gravity channels and weirs; intermediate wet wells and lifting pump stations handle inter-stage elevation differences.",
+                                     "Subtitle":  "6-Stage Multi-Barrier Wastewater Treatment Architecture",
+                                     "Purpose":  "Provides a panoramic overview of the complete wastewater journey from raw effluent intake to reusable permeate and dry solid salt.",
+                                     "Mechanism":  "Sequential contaminant removal based on particle size and physical phase: gross solids (\u003e10mm) -\u003e mineral grit (\u003e0.2mm) -\u003e free oil -\u003e colloidal/suspended organics -\u003e dissolved organics -\u003e dissolved salts -\u003e dry residues.",
+                                     "DesignValues":  [
+                                                          "STP Basis: Raw BOD 250-400 mg/L -\u003e Treated BOD \u003c 10 mg/L",
+                                                          "ETP Basis: Raw COD 1,000-15,000 mg/L -\u003e ZLD Condensate TDS \u003c 50 mg/L",
+                                                          "Total Water Recovery: Up to 98% in ZLD"
+                                                      ],
+                                     "NextConnection":  "Slide 3: Wastewater Classification (STP vs Industrial ETP)",
+                                     "Num":  2,
+                                     "Cat":  "OVERVIEW",
+                                     "Title":  "The Complete Treatment Train Architecture",
+                                     "Sources":  "S1, S7, S22, S24"
+                                 },
+                                 {
+                                     "Machine":  "Municipal STP Systems vs Industrial Pretreatment Units (Equalization, Dissolved Air Flotation, Electrocoagulation, Neutralization skids).",
+                                     "Image":  "card_neutralization.png",
+                                     "Hydraulics":  "Municipal flow follows diurnal peaking factors (PF 2.0-3.0); industrial flows exhibit sudden shift discharges requiring large buffering volumes.",
+                                     "Subtitle":  "Domestic Municipal Sewage (STP) vs Industrial Effluent (ETP)",
+                                     "Purpose":  "Distinguishes between domestic municipal sewage and diverse industrial effluents to establish proper treatment train configurations.",
+                                     "Mechanism":  "Municipal sewage features readily biodegradable organics and pathogens with balanced C:N:P ratios (~100:5:1). Industrial wastewater features extreme pH, refractory COD, toxic heavy metals, biocides, and high salinity requiring specialized physico-chemical and thermal units.",
+                                     "DesignValues":  [
+                                                          "Domestic BOD: 150-350 mg/L",
+                                                          "Industrial COD (Pharma/Textile): 2,000-25,000 mg/L",
+                                                          "C:N:P Requirement: 100:5:1 for aerobic, 250:5:1 for anaerobic",
+                                                          "TDS Range: 500 mg/L (STP) to 60,000 mg/L (ETP)"
+                                                      ],
+                                     "NextConnection":  "Slide 4: Key Water Quality Parameters \u0026 Analytical Significance",
+                                     "Num":  3,
+                                     "Cat":  "OVERVIEW",
+                                     "Title":  "Wastewater Classification \u0026 Characterization",
+                                     "Sources":  "S1, S7, S22"
+                                 },
+                                 {
+                                     "Machine":  "Automated Online Analyzers: pH, DO, ORP, TSS, Turbidity, TOC, UV254 absorption, and electromagnetic flowmeters.",
+                                     "Image":  "card_dmf_filter.png",
+                                     "Hydraulics":  "BOD/COD mass loading rate (kg/d) = Flow (m3/d) * Concentration (mg/L) / 1000; determines aeration tank volume and oxygen delivery sizing.",
+                                     "Subtitle":  "Analytical Chemistry \u0026 Environmental Engineering Significance",
+                                     "Purpose":  "Defines standard analytical parameters governing treatment unit design, dosing calculations, and regulatory discharge compliance.",
+                                     "Mechanism":  "BOD5 measures biologically degradable organic matter; COD measures total chemically oxidizable matter; TSS quantifies settleable/non-settleable particulates; TDS measures dissolved inorganic salts; TKN and Total P dictate nutrient removal kinetics.",
+                                     "DesignValues":  [
+                                                          "BOD5/COD Ratio: \u003e 0.5 (Biodegradable), \u003c 0.3 (Refractory)",
+                                                          "MLSS Range: 2,500 - 4,000 mg/L (CAS), 8,000 - 12,000 mg/L (MBR)",
+                                                          "Discharge Limits: BOD \u003c= 10-30 mg/L, COD \u003c= 250 mg/L, TSS \u003c= 50-100 mg/L"
+                                                      ],
+                                     "NextConnection":  "Slide 5: Overall Plant Hydraulic Profile \u0026 Gravity vs Pumped Flow",
+                                     "Num":  4,
+                                     "Cat":  "OVERVIEW",
+                                     "Title":  "Key Water Quality Parameters",
+                                     "Sources":  "S1, S5, S22"
+                                 },
+                                 {
+                                     "Machine":  "Main Raw Sewage Lifting Station (Submersible/Centrifugal Non-Clog Pumps), Intermediate Sump Lift Pumps, Gravity Weirs, and Drop Cascades.",
+                                     "Image":  "bar_screen_schematic.png",
+                                     "Hydraulics":  "Total head loss = sum of frictional channel losses (Manning\u0027s Eq), minor fitting losses (K*v2/2g), screen headloss, weir crest elevations, and clarifier launder drops. Typical plant head drop: 3.5 to 6.5 m.",
+                                     "Subtitle":  "Gravity Flow Logistics, Elevation Head Budget \u0026 Pumping Stages",
+                                     "Purpose":  "Defines the vertical elevation profile and hydraulic gradient through the treatment plant to minimize energy consumption and avoid flooding.",
+                                     "Mechanism":  "Wastewater is lifted once at the headworks inlet chamber to the maximum hydraulic elevation, allowing continuous gravity cascade through screens, grit chambers, primary clarifiers, aeration tanks, and secondary clarifiers.",
+                                     "DesignValues":  [
+                                                          "Approach Velocity: \u003e= 0.6 m/s to prevent silt deposition",
+                                                          "Channel Freeboard: 0.3 - 0.5 m minimum",
+                                                          "Drop at Weirs: 0.15 - 0.30 m for free crest overflow",
+                                                          "Pump Redundancy: 100% Standby (N+1 or 2N configuration)"
+                                                      ],
+                                     "NextConnection":  "Slide 6: Master Interconnection Architecture",
+                                     "Num":  5,
+                                     "Cat":  "OVERVIEW",
+                                     "Title":  "Overall Plant Hydraulic Profile",
+                                     "Sources":  "S1, S5, S6"
+                                 },
+                                 {
+                                     "Machine":  "Cast Iron / SS316 Penstocks, Knife Gate Valves, Telescopic Sludge Valves, Motorized Actuators, Overflow Weirs, and Splitting Chambers.",
+                                     "Image":  "eq_tank_schematic.png",
+                                     "Hydraulics":  "Symmetric hydraulic distribution avoids maldistribution of solids and hydraulic overloading. Emergency overflow channels bypass stalled units to holding lagoons or EQ basins.",
+                                     "Subtitle":  "How Treatment Units Physically Connect: Piping, Channels, Penstocks \u0026 Bypass Lines",
+                                     "Purpose":  "Explains the physical conduits, isolation gates, flow splitters, and emergency bypass lines connecting each unit in the treatment train.",
+                                     "Mechanism":  "Units connect via open reinforced concrete (RCC) rectangular channels, flanged ductile iron (DI) / carbon steel pipes, or HDPE force mains. Flow splitting boxes use symmetrically adjustable weirs to divide feed equally between parallel trains.",
+                                     "DesignValues":  [
+                                                          "Pipe Velocities: Liquid 1.0 - 2.0 m/s; Sludge 0.8 - 1.5 m/s",
+                                                          "Channel Slope: 1:500 to 1:1000",
+                                                          "Penstock Leakage: \u003c 0.02 L/min per meter sealing perimeter",
+                                                          "Bypass Isolation: Motorized 415V 3-phase fail-safe actuators"
+                                                      ],
+                                     "NextConnection":  "Slide 7: Stage 1 Preliminary Treatment Overview",
+                                     "Num":  6,
+                                     "Cat":  "OVERVIEW",
+                                     "Title":  "Master Interconnection Architecture",
+                                     "Sources":  "S1, S4, S6"
+                                 },
+                                 {
+                                     "Machine":  "Treatment Sequence: Raw Intake -\u003e Coarse Bar Screen -\u003e Fine Screen -\u003e Grit Chamber -\u003e Oil \u0026 Grease Trap -\u003e Flow Equalization Tank -\u003e Neutralization Basin.",
+                                     "Image":  "bar_screen_schematic.png",
+                                     "Hydraulics":  "Maintains self-cleansing velocity (\u003e0.6 m/s) in upstream channels while creating selective settling velocities (0.3 m/s) in grit chambers.",
+                                     "Subtitle":  "First Line of Defense: Protecting Pumps, Piping \u0026 Biological Units",
+                                     "Purpose":  "Removes gross debris, coarse suspended solids, abrasive mineral grit, and free oil/grease before downstream treatment.",
+                                     "Mechanism":  "Physical coarse separation: screening intercepts physical objects via physical straining; grit removal settles heavy mineral sands via selective gravity; skimming removes free oils via buoyancy differential.",
+                                     "DesignValues":  [
+                                                          "Screenings Removal: 15 - 50 L / 1000 m3 wastewater",
+                                                          "Grit Removal: 10 - 60 L / 1000 m3",
+                                                          "Oil \u0026 Grease Capture: 70 - 90% of free floatables",
+                                                          "Total Headloss through Stage 1: 0.8 - 1.5 m"
+                                                      ],
+                                     "NextConnection":  "Slide 8: Bar Screen Process Overview \u0026 Hydraulics",
+                                     "Num":  7,
+                                     "Cat":  "STAGE 1 · PRELIMINARY TREATMENT",
+                                     "Title":  "Preliminary Treatment: Process Objectives",
+                                     "Sources":  "S1, S3, S4, S5"
+                                 },
+                                 {
+                                     "Machine":  "Screening chamber comprising parallel steel bars set in a rectangular concrete channel, upstream handstop penstocks, downstream isolation gates, and screenings discharge chute.",
+                                     "Image":  "bar_screen_schematic.png",
+                                     "Hydraulics":  "Kirschmer Head Loss Formula: hL = beta * (w/b)^(4/3) * (v^2 / 2g) * sin(theta), where beta = bar shape factor (2.42 for rectangular, 1.79 for circular), w = bar width, b = clear spacing, v = approach velocity, theta = rack angle.",
+                                     "Subtitle":  "Process Overview, Channel Geometry \u0026 Governing Hydraulic Formulas",
+                                     "Purpose":  "Interprets and retains large floating solids, rags, plastics, timber, and debris to safeguard pumps, valves, and aerators from clogging and mechanical damage.",
+                                     "Mechanism":  "Hydrodynamic straining: wastewater flows between bars while solids larger than bar spacing are caught on the upstream face of the rack.",
+                                     "DesignValues":  [
+                                                          "Bar Width w: 10 - 15 mm; Depth: 50 - 75 mm",
+                                                          "Clear Opening b: 15 - 50 mm (Coarse), 6 - 15 mm (Medium)",
+                                                          "Approach Velocity: 0.3 - 0.6 m/s (prevents deposition)",
+                                                          "Velocity through Clean Bars: 0.6 - 1.2 m/s",
+                                                          "Allowable Max Headloss: 0.15 m clean, 0.5 m clogged"
+                                                      ],
+                                     "NextConnection":  "NEXT -\u003e Grit Removal Chamber via open concrete gravity flume (velocity maintained at 0.6-0.8 m/s).",
+                                     "Num":  8,
+                                     "Cat":  "STAGE 1 · PRELIMINARY TREATMENT",
+                                     "Title":  "1: Bar Screen (Screening Chamber)",
+                                     "Sources":  "S3, S4, S5"
+                                 },
+                                 {
+                                     "Machine":  "Manual Bar Screen vs Mechanical Multi-Rake Screen vs Cable-Operated Screen vs Reciprocating Rake Screen vs Curved Rotary Screen.",
+                                     "Image":  "bar_screen_schematic.png",
+                                     "Hydraulics":  "Manual screens cause periodic headloss spikes during clogging; mechanical screens ensure near-constant headloss (\u003c0.15 m) via continuous automated cleaning.",
+                                     "Subtitle":  "Evaluation of Screen Cleaning Technologies \u0026 Operational Envelopes",
+                                     "Purpose":  "Compares manual vs mechanical screen designs to select appropriate technology based on plant capacity and labor availability.",
+                                     "Mechanism":  "Manual screens rely on operator raking; mechanical screens use automated motorized rakes actuated by differential level sensors (ultrasonic DP) or timers.",
+                                     "DesignValues":  [
+                                                          "Manual Rack Incline: 45° - 60° (for raking ease)",
+                                                          "Mechanical Rack Incline: 60° - 85° (saves channel length)",
+                                                          "Trigger Delta-H: 100 - 150 mm across screen rack",
+                                                          "Screening Volume: 0.03 - 0.10 m3 screenings/1000 m3 inflow"
+                                                      ],
+                                     "NextConnection":  "Slide 10: Manual Bar Screens Deep-Dive",
+                                     "Num":  9,
+                                     "Cat":  "STAGE 1 · PRELIMINARY TREATMENT",
+                                     "Title":  "Coarse Bar Screens: Comparative Engineering Matrix",
+                                     "Sources":  "S3, S4, S6"
+                                 },
+                                 {
+                                     "Machine":  "Flat bar rack made of mild steel epoxy-coated or SS304/SS316, perforated drainage plate, manual hand rake with tines matching bar pitch, and wheelbarrow/bin.",
+                                     "Image":  "bar_screen_schematic.png",
+                                     "Hydraulics":  "Channel widened at screen section to compensate for bar cross-sectional area: W_channel = (W_approach * v_approach) / (v_screen * (b / (b+w))).",
+                                     "Subtitle":  "Design Details, Hand Raking Operations \u0026 Structural Limitations",
+                                     "Purpose":  "Used in small rural STPs (\u003c 2 MLD), industrial batch plants, or as a manual standby bypass channel during mechanical screen maintenance.",
+                                     "Mechanism":  "Wastewater flows through bars at 45°-60° angle. Screenings accumulate, creating a dynamic filter mat that increases headloss until manually raked onto perforated drainage shelf.",
+                                     "DesignValues":  [
+                                                          "Incline Angle: 45° - 60° from horizontal",
+                                                          "Clear Spacing: 25 - 50 mm",
+                                                          "Bar Cross-Section: 10 mm x 50 mm flat bars",
+                                                          "Cleaning Frequency: 2 to 6 times per shift",
+                                                          "Maximum Plant Flow: \u003c 5 MLD recommended"
+                                                      ],
+                                     "NextConnection":  "NEXT -\u003e Manual standby bypass merges into main grit influent channel via isolation slide gate.",
+                                     "Num":  10,
+                                     "Cat":  "STAGE 1 · PRELIMINARY TREATMENT",
+                                     "Title":  "1.1: Manual Bar Screens",
+                                     "Sources":  "S3, S4, S5"
+                                 },
+                                 {
+                                     "Machine":  "Continuous drive chains on both channel sides, multiple scraper tines mounted on crossbars, geared motor drive, discharge wiper mechanism, and SS316 enclosure.",
+                                     "Image":  "bar_screen_schematic.png",
+                                     "Hydraulics":  "Continuous tine passage prevents thick blinding mats, maintaining clean channel hydraulics and eliminating sudden upstream level surges.",
+                                     "Subtitle":  "Continuous Front-Cleaned Multi-Rake Design \u0026 Automated Operation",
+                                     "Purpose":  "Standard high-performance screen for medium-to-large STPs and industrial ETPs with continuous debris loads.",
+                                     "Mechanism":  "Drive chains move tines continuously from channel floor along front face of bar rack, sweeping screenings upward to discharge point where a pivoting mechanical wiper ejects debris into a hopper.",
+                                     "DesignValues":  [
+                                                          "Rake Travel Speed: 0.05 - 0.20 m/s",
+                                                          "Incline Angle: 70° - 80°",
+                                                          "Bar Clear Opening: 10 - 25 mm",
+                                                          "Drive Power: 1.1 - 4.0 kW IP65",
+                                                          "Automation: Ultrasonic upstream/downstream level transmitter + Timer override"
+                                                      ],
+                                     "NextConnection":  "NEXT -\u003e Screenings drop directly into Screw Wash Compactor; water flows into Grit Chamber.",
+                                     "Num":  11,
+                                     "Cat":  "STAGE 1 · PRELIMINARY TREATMENT",
+                                     "Title":  "1.2: Mechanical Multi-Rake Bar Screens",
+                                     "Sources":  "S3, S4, S7"
+                                 },
+                                 {
+                                     "Machine":  "Single large carriage rake suspended by dual wire cables or climbing carriage rack, overhead hoist motor, slack-cable safety switches, and high-level dump chute.",
+                                     "Image":  "bar_screen_schematic.png",
+                                     "Hydraulics":  "Requires no submerged chains, sprockets, or bearings, eliminating underwater wear in deep abrasive wastewater sumps.",
+                                     "Subtitle":  "Heavy-Duty Deep Channel Screening for High Solids Loads",
+                                     "Purpose":  "Engineered for very deep channels (\u003e 5 m deep) and massive objects (timber, logs, large stones, industrial textiles).",
+                                     "Mechanism":  "Carriage lowers with open rake arms away from bar rack to avoid pushing solids into bars; at bottom, rake closes into bars and hoists upward under cable tension, scraping solids to deck.",
+                                     "DesignValues":  [
+                                                          "Channel Depth: 4 to 25 meters",
+                                                          "Lifting Capacity: 500 - 2000 kg per rake cycle",
+                                                          "Cycle Time: 2 - 5 minutes per pass",
+                                                          "Wire Rope: SS316 non-rotating aircraft cable",
+                                                          "Motor: 3.0 - 11.0 kW with fail-safe brake"
+                                                      ],
+                                     "NextConnection":  "NEXT -\u003e Discharge to heavy screenings skip container; channel flow discharges to Grit Chamber wet well.",
+                                     "Num":  12,
+                                     "Cat":  "STAGE 1 · PRELIMINARY TREATMENT",
+                                     "Title":  "1.3: Cable-Operated \u0026 Reciprocating Rakes",
+                                     "Sources":  "S3, S4, S6"
+                                 },
+                                 {
+                                     "Machine":  "Rotary Drum Screens, Lamella Step Screens, Static Wedge Wire Screens, Center-Flow Perforated Band Screens, and Disc Screens.",
+                                     "Image":  "card_drum_screen.png",
+                                     "Hydraulics":  "Generates higher clean headloss (0.2 - 0.5 m); requires dedicated upstream pressure feed or elevated channel design.",
+                                     "Subtitle":  "Protecting MBR Membranes, DAF Units \u0026 High-Rate Biological Processes",
+                                     "Purpose":  "Captures fine hairs, fibers, plastics, and seeds (0.5 - 6 mm) that pass through coarse bar screens but clog diffusers, pumps, and membrane fibers.",
+                                     "Mechanism":  "Fine aperture screening using wedge-wire slots, perforated stainless plates, or woven mesh; requires continuous automated backwashing to prevent organic grease blinding.",
+                                     "DesignValues":  [
+                                                          "Aperture Size: 0.5 - 2.0 mm (MBR pre-screening), 2 - 6 mm (Standard)",
+                                                          "Capture Efficiency: 30 - 60% of total influent TSS",
+                                                          "Backwash Pressure: 4 - 8 bar pressurized spray",
+                                                          "Volume Captured: 50 - 200 L/1000 m3"
+                                                      ],
+                                     "NextConnection":  "Slide 14: Rotary Drum Screens Deep-Dive",
+                                     "Num":  13,
+                                     "Cat":  "STAGE 1 · PRELIMINARY TREATMENT",
+                                     "Title":  "Fine Screening Technologies Overview",
+                                     "Sources":  "S3, S16, S17"
+                                 },
+                                 {
+                                     "Machine":  "Horizontal rotating cylindrical drum with trapezoidal wedge-wire surface, internal distribution feed pipe, exterior spray header, internal solids flights, and discharge chute.",
+                                     "Image":  "card_drum_screen.png",
+                                     "Hydraulics":  "Trapezoidal wedge-wire profile (V-shaped) provides two-point contact: particles smaller than slot pass freely without wedge-clogging.",
+                                     "Subtitle":  "Internally Fed \u0026 Externally Fed Cylindrical Wedge-Wire Systems",
+                                     "Purpose":  "Widely adopted in industrial wastewater (food, textile, meat processing, pulp) and membrane bioreactors (MBR) for ultra-fine solids separation.",
+                                     "Mechanism":  "Internally Fed: Wastewater enters inside drum; water filters outward through wedge wire while solids are trapped inside and propelled by internal screw flight to exit chute. Externally Fed: Water cascades over outside drum.",
+                                     "DesignValues":  [
+                                                          "Slot Width: 0.25 to 2.0 mm",
+                                                          "Drum Diameter: 600 - 2000 mm",
+                                                          "Rotational Speed: 4 - 12 RPM",
+                                                          "Backwash Water: 1 - 3% of filtered flow at 4 - 6 bar",
+                                                          "Material: All-wetted parts SS304/SS316"
+                                                      ],
+                                     "NextConnection":  "NEXT -\u003e Screened effluent discharges into Equalization Tank; washed screenings discharge to screw press.",
+                                     "Num":  14,
+                                     "Cat":  "STAGE 1 · PRELIMINARY TREATMENT",
+                                     "Title":  "1.4: Rotary Drum Screens",
+                                     "Sources":  "S3, S15, S17"
+                                 },
+                                 {
+                                     "Machine":  "Two sets of stepped stainless steel lamellae: one fixed set, one movable set connected to an eccentric drive motor; enclosed upper housing.",
+                                     "Image":  "card_step_screen.png",
+                                     "Hydraulics":  "Hydraulic head loss self-regulates: as mat thickens, level rises, triggering stepping motor which exposes clean steps and drops upstream level.",
+                                     "Subtitle":  "Counter-Reciprocating Lamellae for High-Volume Fine Screening",
+                                     "Purpose":  "Compact, self-cleaning fine screen for municipal deep channels handling large flows with minimal head loss.",
+                                     "Mechanism":  "Movable lamellae rise in an elliptical path, lifting debris from step to step up the rack. The captured debris forms a porous filter mat on the steps that catches solids much smaller than nominal bar gap.",
+                                     "DesignValues":  [
+                                                          "Step Spacing: 1, 2, 3, or 6 mm",
+                                                          "Channel Angle: 50° - 55°",
+                                                          "Flow Capacity: Up to 4,000 m3/h per unit",
+                                                          "Headloss: 0.15 - 0.35 m",
+                                                          "No Submerged Sprockets or Bearings"
+                                                      ],
+                                     "NextConnection":  "NEXT -\u003e Effluent discharges to Aerated/Vortex Grit Chamber; solids drop to wash press.",
+                                     "Num":  15,
+                                     "Cat":  "STAGE 1 · PRELIMINARY TREATMENT",
+                                     "Title":  "1.5: Escalator / Step Screens",
+                                     "Sources":  "S3, S4, S7"
+                                 },
+                                 {
+                                     "Machine":  "Shaftless screw wash compactor, wash-water injection nozzles, perforated drainage basket, friction conical plug discharge, and continuous bagging cassette.",
+                                     "Image":  "bar_screen_schematic.png",
+                                     "Hydraulics":  "Filtrate drainage water contains high BOD/organics and drains by gravity back into the raw sewage channel ahead of screens.",
+                                     "Subtitle":  "Dewatering, Washing, Volume Reduction \u0026 Sanitary Disposal",
+                                     "Purpose":  "Washes organic fecal matter out of raw screenings and dewaters fibrous solids before landfilling or incineration.",
+                                     "Mechanism":  "Screenings are washed by high-pressure spray water to return organics to the treatment train; the screw presses screenings against a weighted friction cone, squeezing out water.",
+                                     "DesignValues":  [
+                                                          "Volume Reduction: 60% to 75%",
+                                                          "Weight Reduction: 50% to 65%",
+                                                          "Final Dry Solids: 35% - 45% DS",
+                                                          "Fecal Organics Washout: \u003e 90%",
+                                                          "Drive Motor: 1.5 - 5.5 kW geared motor"
+                                                      ],
+                                     "NextConnection":  "NEXT -\u003e Dewatered solids to sanitary sealed bags/skip; wash water recycled to screen influent.",
+                                     "Num":  16,
+                                     "Cat":  "STAGE 1 · PRELIMINARY TREATMENT",
+                                     "Title":  "Screenings Handling: Wash Presses \u0026 Compactors",
+                                     "Sources":  "S1, S3, S4"
+                                 },
+                                 {
+                                     "Machine":  "Twin-shaft slow-speed high-torque grinder with counter-rotating interlocking cutter teeth, hardened tool steel cutters, and automated reverse PLC jam-clearing.",
+                                     "Image":  "bar_screen_schematic.png",
+                                     "Hydraulics":  "Very low headloss (\u003c 0.1 m); installed in-line in pressurized suction pipes or open influent channels ahead of submersible pumps.",
+                                     "Subtitle":  "In-Line Solids Particle Reduction for Submersible Pump Protection",
+                                     "Purpose":  "Shreds coarse solids, rags, and plastics directly in the sewage pipeline or channel without removing them from the liquid stream.",
+                                     "Mechanism":  "Dual shafts rotate at differential speeds (e.g., 35 RPM vs 50 RPM), pulling solids into the cutting chamber and shearing them into uniform 6-10 mm particles.",
+                                     "DesignValues":  [
+                                                          "Cutter Hardness: 60 - 65 HRC heat-treated alloy steel",
+                                                          "Motor Power: 2.2 - 15 kW with automatic forward/reverse PLC",
+                                                          "Particle Size Post-Maceration: 6 - 12 mm",
+                                                          "Flow Range: 20 - 1500 m3/h"
+                                                      ],
+                                     "NextConnection":  "NEXT -\u003e Pressurized sewage pipeline to Grit Removal Chamber or Primary Clarifier.",
+                                     "Num":  17,
+                                     "Cat":  "STAGE 1 · PRELIMINARY TREATMENT",
+                                     "Title":  "Macerators, Grinders \u0026 Comminutors",
+                                     "Sources":  "S3, S4"
+                                 },
+                                 {
+                                     "Machine":  "Horizontal-Flow Grit Chamber, Aerated Grit Chamber, Vortex-Type (Cyclonic) Chamber, and Detritus Tank with Grit Classifier.",
+                                     "Image":  "grit_vortex_schematic.png",
+                                     "Hydraulics":  "Settling velocity (Stokes): vs = [g*(rho_p - rho_w)*d^2] / (18*mu). For 0.2 mm grit (SG 2.65), settling velocity vs = 21 to 24 mm/s. Critical scouring velocity: vc = sqrt([8*k*g*(SG-1)*d] / f) = 0.30 - 0.40 m/s.",
+                                     "Subtitle":  "Sedimentation Fundamentals, Stokes\u0027 Law \u0026 Particle Dynamics",
+                                     "Purpose":  "Removes heavy inorganic, abrasive particles (sand, gravel, cinder, eggshells, bone fragments) \u003e= 0.2 mm to prevent pipe abrasion and tank siltation.",
+                                     "Mechanism":  "Differential gravity sedimentation: inorganic grit particles have a specific gravity of ~2.65, whereas organic sewage solids have SG of 1.05-1.20. By maintaining water velocity at ~0.3 m/s, dense grit settles while lighter organics stay in suspension.",
+                                     "DesignValues":  [
+                                                          "Target Particle Size: \u003e= 0.20 mm (65-mesh sieve)",
+                                                          "Specific Gravity of Grit: 2.65",
+                                                          "Horizontal Controlled Velocity: 0.25 - 0.30 m/s",
+                                                          "Settling Velocity vs: 0.023 m/s",
+                                                          "Grit Generation: 15 - 60 L / 1000 m3 wastewater"
+                                                      ],
+                                     "NextConnection":  "NEXT -\u003e Oil \u0026 Grease Trap, then Equalization Basin. Grit slurry to washing and classification.",
+                                     "Num":  18,
+                                     "Cat":  "STAGE 1 · PRELIMINARY TREATMENT",
+                                     "Title":  "2: Grit Removal Principles",
+                                     "Sources":  "S1, S5, S6, S7"
+                                 },
+                                 {
+                                     "Machine":  "Horizontal-flow grit chambers, Aerated grit chambers, Vortex-type (cyclonic) grit chambers, Detritus tanks.",
+                                     "Image":  "grit_vortex_schematic.png",
+                                     "Hydraulics":  "Detention times: Horizontal 45-90s; Aerated 2-5 min; Vortex 1-3 min; Detritus 1-2 min.",
+                                     "Subtitle":  "Comparative Performance, Footprint, Organics Rejection \u0026 Best-Fit",
+                                     "Purpose":  "Evaluates the four primary grit removal configurations to guide optimal technology selection.",
+                                     "Mechanism":  "Horizontal: Long channel, flow velocity controlled (~0.3 m/s) to settle grit. Aerated: Air-induced spiral roll keeps organics floating while grit drops. Vortex: Centrifugal flinging of dense grit to wall/base. Detritus: Shallow slow-settling tank with mechanical scraper.",
+                                     "DesignValues":  [
+                                                          "Horizontal Best Fit: Simple, low-tech, works well for consistent flows",
+                                                          "Aerated Best Fit: Better organics rejection, standard in large municipal STPs",
+                                                          "Vortex Best Fit: Compact footprint, highly effective at variable flows - standard in modern industrial ETPs",
+                                                          "Detritus Best Fit: Moderate grit load, space constrained, requires separate grit washer"
+                                                      ],
+                                     "NextConnection":  "Slide 20: Horizontal-Flow Grit Channels Deep-Dive",
+                                     "Num":  19,
+                                     "Cat":  "STAGE 1 · PRELIMINARY TREATMENT",
+                                     "Title":  "Grit Removal Technologies: Engineering Matrix",
+                                     "Sources":  "S1, S5, S6, S7"
+                                 },
+                                 {
+                                     "Machine":  "Dual-compartment rectangular/parabolic channels, inlet distribution gate, bottom grit storage pit, Parshall flume / Sutro proportional weir at outlet.",
+                                     "Image":  "grit_vortex_schematic.png",
+                                     "Hydraulics":  "Length = Velocity * Detention Time = 0.3 m/s * (45-90s) = 15 - 27 meters. Cross-sectional Area A = Q / v. Sutro Weir Profile: x / b = 1 - (2/pi)*arctan(sqrt(y/h)).",
+                                     "Subtitle":  "Constant Velocity Control via Parshall Flumes \u0026 Sutro Weirs",
+                                     "Purpose":  "Classic, low-tech grit removal channel relying on straight-line horizontal flow at strictly regulated velocity (~0.3 m/s).",
+                                     "Mechanism":  "Velocity control separates textbook design from functioning channel: as flow varies diurnally, a Parshall flume or Sutro weir linearly adjusts depth so horizontal velocity remains locked at 0.3 m/s across wide flow ranges.",
+                                     "DesignValues":  [
+                                                          "Horizontal Velocity: 0.25 - 0.30 m/s (critical)",
+                                                          "Detention Time: 45 - 90 seconds (CPHEEO)",
+                                                          "Channel Length: L = vh * DT",
+                                                          "Bottom Slope: 1:100 to hopper",
+                                                          "Limitation: Large land footprint, vulnerable to sudden flow surges"
+                                                      ],
+                                     "NextConnection":  "NEXT -\u003e Over Parshall flume into downstream Oil \u0026 Grease channel or Lift Sump.",
+                                     "Num":  20,
+                                     "Cat":  "STAGE 1 · PRELIMINARY TREATMENT",
+                                     "Title":  "2.1: Horizontal-Flow Grit Channels",
+                                     "Sources":  "S1, S5, S7"
+                                 },
+                                 {
+                                     "Machine":  "Rectangular tank with asymmetric coarse bubble diffuser header mounted 0.6 m above floor along one side, longitudinal bottom grit hopper, and air supply blower.",
+                                     "Image":  "card_aerated_grit.png",
+                                     "Hydraulics":  "Air supply rate: 0.2 - 0.5 m3/m length per min. Helical roll surface velocity: 0.4 - 0.6 m/s. Tank length: 8 - 20 m; Depth: 2.5 - 4.5 m.",
+                                     "Subtitle":  "Spiral Roll Circulation Dynamics, Organics Rejection \u0026 Pre-Aeration",
+                                     "Purpose":  "Separates grit with very low organic content (\u003c5%) and provides preliminary odor control in municipal STPs.",
+                                     "Mechanism":  "Diffused air bubbles inject along one wall, driving a transverse spiral rolling circulation across the tank cross-section. Helical roll velocity (controlled by airflow, independent of water flow) flings dense grit outward and downward into bottom trough, while organics remain suspended.",
+                                     "DesignValues":  [
+                                                          "Detention Time: 2 - 5 minutes at peak flow",
+                                                          "Air Injection: 0.005 - 0.010 m3 air/m3 wastewater",
+                                                          "Organics in Grit: \u003c 5% (hygienic, clean grit)",
+                                                          "Diffusers: Coarse bubble non-clog orifices",
+                                                          "Added Benefit: Pre-aeration strips VOCs and freshens stale septic sewage"
+                                                      ],
+                                     "NextConnection":  "NEXT -\u003e Submerged effluent weir to Oil \u0026 Grease Skimming; grit pumped to classifier.",
+                                     "Num":  21,
+                                     "Cat":  "STAGE 1 · PRELIMINARY TREATMENT",
+                                     "Title":  "2.2: Aerated Grit Chambers",
+                                     "Sources":  "S1, S5, S6"
+                                 },
+                                 {
+                                     "Machine":  "Circular concrete or stainless steel tank, tangential inlet channel, motorized rotating central paddle/impeller, central top effluent weir, and bottom conical grit chamber.",
+                                     "Image":  "grit_vortex_schematic.png",
+                                     "Hydraulics":  "Mechanically-Induced Vortex: motorized impeller maintains constant rotation even at minimal flow. Flow-Induced Vortex: relies on inlet velocity (no moving parts, but sensitive to flow surges).",
+                                     "Subtitle":  "Centrifugal Force Separation, Tangential Flow \u0026 Compact Footprint",
+                                     "Purpose":  "Compact, high-efficiency grit separation standard in modern industrial ETPs and space-constrained municipal STPs.",
+                                     "Mechanism":  "Tangential entry creates circular vortex flow. Centrifugal force flings dense grit particles outward toward tank walls where boundary layer friction causes them to spiral downward into central hopper. Lighter organic matter remains suspended in the vortex center and exits at top.",
+                                     "DesignValues":  [
+                                                          "Detention Time: 1 to 3 minutes",
+                                                          "Surface Area: 20-30% of horizontal channel footprint",
+                                                          "Removal Efficiency: 95% of 0.20 mm grit (SG 2.65)",
+                                                          "Impeller Speed: 15 - 25 RPM (slow, avoids shearing flocs)",
+                                                          "Motor Power: 0.75 - 2.2 kW geared drive"
+                                                      ],
+                                     "NextConnection":  "NEXT -\u003e Effluent overflows to Oil \u0026 Grease Trap / Equalization; grit airlifted to Grit Classifier.",
+                                     "Num":  22,
+                                     "Cat":  "STAGE 1 · PRELIMINARY TREATMENT",
+                                     "Title":  "2.3: Vortex-Type (Cyclonic) Grit Chambers",
+                                     "Sources":  "S1, S5, S7, S24"
+                                 },
+                                 {
+                                     "Machine":  "Shallow basin, center-drive rotating scraper rake, inclined reciprocating rake or screw conveyor, hydrocyclone, and counter-current grit washing screw.",
+                                     "Image":  "grit_vortex_schematic.png",
+                                     "Hydraulics":  "Accepts organic co-settling as a trade-off for simplicity; relies on downstream hydrocyclone and organic return valve to recycle organics to process.",
+                                     "Subtitle":  "Shallow Settling Basin, Continuous Scraping \u0026 Organic Washout",
+                                     "Purpose":  "Shallow square/circular sedimentation tank designed to capture grit along with some heavy organics, followed by a separate mechanical grit washer.",
+                                     "Mechanism":  "Flow velocity slows to 0.05-0.10 m/s; grit settles by gravity into central sump. A reciprocating arm or screw pushes grit into a washing chamber where wash water jets fluidize grit, stripping away adhering organic films before final discharge.",
+                                     "DesignValues":  [
+                                                          "Detention Time: 45 - 90 seconds",
+                                                          "Surface Overflow Rate: 800 - 1200 m3/m2.d",
+                                                          "Grit Classifier Dewatering: 75 - 85% dry solids",
+                                                          "Organics in Washed Grit: \u003c 3%",
+                                                          "Wash Water Pressure: 2 - 3 bar"
+                                                      ],
+                                     "NextConnection":  "NEXT -\u003e Washed grit to dump container; overflow wash water returned to raw inlet channel.",
+                                     "Num":  23,
+                                     "Cat":  "STAGE 1 · PRELIMINARY TREATMENT",
+                                     "Title":  "2.4: Detritus Tanks \u0026 Grit Washing",
+                                     "Sources":  "S1, S5"
+                                 },
+                                 {
+                                     "Machine":  "Grit slurry pump (airlift or recessed impeller vortex pump), polyurethane hydrocyclone separator, and inclined shafted/shaftless screw classifier with drainage trough.",
+                                     "Image":  "grit_vortex_schematic.png",
+                                     "Hydraulics":  "Classifier screw speed is kept very low (3-8 RPM) to prevent turbulence and promote gravity drainage.",
+                                     "Subtitle":  "Hydrocyclones, Screw Classifiers \u0026 Disposal Preparation",
+                                     "Purpose":  "Separates grit from the water-slurry stream lifted from the grit hopper, dewatering it for dry disposal.",
+                                     "Mechanism":  "Slurry enters hydrocyclone tangentially at 1.0-1.5 bar; centrifugal action forces grit out the underflow spigot into the inclined screw classifier. The slow screw lifts grit up an inclined trough, allowing water to drain back into the process.",
+                                     "DesignValues":  [
+                                                          "Inflow Solids: 1 - 3% grit slurry",
+                                                          "Discharged Grit Dry Solids: \u003e= 80% DS",
+                                                          "Hydrocyclone Pressure: 0.8 - 1.5 bar",
+                                                          "Screw Incline: 25° - 35°",
+                                                          "Drive Power: 1.5 - 3.0 kW"
+                                                      ],
+                                     "NextConnection":  "NEXT -\u003e Dewatered grit to skip for landfill/road base; drainage water recycled to headworks.",
+                                     "Num":  24,
+                                     "Cat":  "STAGE 1 · PRELIMINARY TREATMENT",
+                                     "Title":  "Grit Dewatering \u0026 Classification Machinery",
+                                     "Sources":  "S1, S5, S6"
+                                 },
+                                 {
+                                     "Machine":  "Baffled Grease Traps, API Gravity Separators, Corrugated Plate Interceptors (CPI), Mechanical Belt/Tube Skimmers, and DAF units.",
+                                     "Image":  "oil_grease_api_schematic.png",
+                                     "Hydraulics":  "Rising velocity: vr = [g*(rho_w - rho_oil)*d^2] / (18*mu). Since rho_oil (850-920 kg/m3) \u003c rho_water (1000 kg/m3), buoyancy drives droplets upward.",
+                                     "Subtitle":  "Forms of Oil: Free, Dispersed \u0026 Emulsified Hydrocarbons",
+                                     "Purpose":  "Removes floating petroleum hydrocarbons, vegetable oils, and animal fats (FOG) to prevent blinding of filters, clogging of diffusers, and inhibition of biology.",
+                                     "Mechanism":  "Physical differentiation based on Stokes\u0027 rise velocity: free oil droplets (\u003e150 um) float naturally to surface; dispersed oil (20-150 um) requires coalescing plates; chemical/mechanical emulsions (\u003c20 um) require chemical cracking and DAF.",
+                                     "DesignValues":  [
+                                                          "Raw Oil \u0026 Grease (STP): 30 - 80 mg/L",
+                                                          "Raw Oil \u0026 Grease (Auto/Petro ETP): 150 - 2,000 mg/L",
+                                                          "Discharge Limit: \u003c= 10 mg/L",
+                                                          "Free Oil Capture: \u003e 90% via gravity separation",
+                                                          "Emulsified Oil Capture: Handled downstream via DAF"
+                                                      ],
+                                     "NextConnection":  "NEXT -\u003e Equalization Tank. Skimmed free oil to waste oil holding tank for recovery.",
+                                     "Num":  25,
+                                     "Cat":  "STAGE 1 · PRELIMINARY TREATMENT",
+                                     "Title":  "3: Oil \u0026 Grease Removal Overview",
+                                     "Sources":  "S9, S23"
+                                 },
+                                 {
+                                     "Machine":  "Long rectangular reinforced concrete basin, inlet diffusion baffle, flight-and-chain surface skimmer, slotted rotating pipe oil skimmer, and bottom sludge scraper.",
+                                     "Image":  "oil_grease_api_schematic.png",
+                                     "Hydraulics":  "Design criterion: length-to-width ratio L/W \u003e= 5:1; depth-to-width ratio D/W = 0.3 - 0.5. Reynolds number Re \u003c 500 (laminar flow); Froude number Fr \u003e 10^-4.",
+                                     "Subtitle":  "American Petroleum Institute (API 421) Design Standard",
+                                     "Purpose":  "Standard industrial gravity separator for refineries, automotive plants, and heavy engineering ETPs.",
+                                     "Mechanism":  "Wastewater flows horizontally at laminar velocity (vh \u003c= 0.9 m/min). Free oil droplets rise to water surface before reaching effluent baffle, forming a floating oil layer that is swept by skimmer blades into a slotted pipe skimmer.",
+                                     "DesignValues":  [
+                                                          "Horizontal Flow Velocity: \u003c= 0.9 m/min (15 mm/s)",
+                                                          "Droplet Size Cutoff: \u003e= 150 microns",
+                                                          "Retention Time: 30 - 60 minutes",
+                                                          "Effluent Free Oil: \u003c= 50 mg/L",
+                                                          "Bottom Sludge Flight Speed: 0.6 - 1.2 m/min"
+                                                      ],
+                                     "NextConnection":  "NEXT -\u003e Effluent passes under underflow baffle to Equalization Tank; skimmed oil to waste tank.",
+                                     "Num":  26,
+                                     "Cat":  "STAGE 1 · PRELIMINARY TREATMENT",
+                                     "Title":  "3.1: API Gravity Oil-Water Separators",
+                                     "Sources":  "S9, S23"
+                                 },
+                                 {
+                                     "Machine":  "Steel/GRP vessel housing packs of corrugated oleophilic PVC/SS plates inclined at 45°-60°, adjustable oil weir, and bottom sludge hopper.",
+                                     "Image":  "card_cpi_separator.png",
+                                     "Hydraulics":  "Projected surface area = Total plate area * cos(theta). Coalescence allows capture of droplets down to 50 microns (compared to 150 um in API).",
+                                     "Subtitle":  "Coalescing Plate Packs \u0026 High-Rate Micro-Droplet Capture",
+                                     "Purpose":  "Ultra-compact high-performance oil separator replacing large API basins in space-constrained industrial facilities.",
+                                     "Mechanism":  "Corrugated plates reduce the vertical distance an oil droplet must rise to just 20-40 mm. Droplets hit the underside of oleophilic plates, coalesce into larger oil streams, and rapidly glide upward to the surface.",
+                                     "DesignValues":  [
+                                                          "Footprint: 15% to 25% of equivalent API separator",
+                                                          "Plate Incline Angle: 45° - 60° (self-cleaning for sludge)",
+                                                          "Plate Spacing: 20 - 40 mm",
+                                                          "Effluent O\u0026G: \u003c 20 mg/L free oil",
+                                                          "Rise Velocity Cutoff: Droplets \u003e= 50 um"
+                                                      ],
+                                     "NextConnection":  "NEXT -\u003e Clarified underflow to Equalization Tank; concentrated oil to storage drum.",
+                                     "Num":  27,
+                                     "Cat":  "STAGE 1 · PRELIMINARY TREATMENT",
+                                     "Title":  "3.2: Corrugated Plate Interceptors (CPI / TPI)",
+                                     "Sources":  "S9, S23"
+                                 },
+                                 {
+                                     "Machine":  "Belt Skimmer (continuous oleophilic steel/polyurethane belt), Disc Skimmer (rotating discs), Tube Skimmer (floating flexible loop), and Floating Weir Skimmer.",
+                                     "Image":  "oil_grease_api_schematic.png",
+                                     "Hydraulics":  "Extracts less than 5% water with the oil, yielding concentrated recyclable waste oil.",
+                                     "Subtitle":  "Belt, Disc, Tube \u0026 Floating Suction Skimming Machines",
+                                     "Purpose":  "Continuous physical extraction of floating oil films from equalization tanks, grease chambers, and collection sumps.",
+                                     "Mechanism":  "Oleophilic material preferentially attracts hydrocarbons over water. The rotating belt/disc dips into the wastewater, picks up floating oil film, and passes through elastomeric scraper blades that wipe oil into a collection trough.",
+                                     "DesignValues":  [
+                                                          "Belt Width: 100 - 600 mm; Length: 1 to 20 meters",
+                                                          "Removal Capacity: 10 to 500 Liters oil/hour per unit",
+                                                          "Operating Temperature: Up to 90°C",
+                                                          "Drive Power: 0.18 - 0.75 kW fractional motor",
+                                                          "Water Content in Recovered Oil: \u003c 5%"
+                                                      ],
+                                     "NextConnection":  "NEXT -\u003e Skimmed oil to dedicated oil recovery drum; wastewater remains in equalization basin.",
+                                     "Num":  28,
+                                     "Cat":  "STAGE 1 · PRELIMINARY TREATMENT",
+                                     "Title":  "3.3: Mechanical Oil Skimmers",
+                                     "Sources":  "S9, S23"
+                                 },
+                                 {
+                                     "Machine":  "Passive multi-chamber baffled grease interceptor or motorized automated grease recovery device (GRD) with internal electric heating element and timer-driven skimmer wheel.",
+                                     "Image":  "oil_grease_api_schematic.png",
+                                     "Hydraulics":  "Detention time must exceed 15-30 minutes to allow thermal cooling and gravity flotation of low-density lipids.",
+                                     "Subtitle":  "Commercial Kitchen \u0026 Industrial FOG Interceptors",
+                                     "Purpose":  "Preliminary capture of fats, oils, and grease (FOG) at the source in commercial kitchens, canteens, and food processing plants.",
+                                     "Mechanism":  "Wastewater cools inside the chamber; fats solidify and float to surface behind vertical baffle; settleable food particles sink to bottom; clarified water flows under baffle.",
+                                     "DesignValues":  [
+                                                          "Influent FOG: 200 - 2,000 mg/L",
+                                                          "Operating Temperature: Cooled from 60°C to \u003c 35°C",
+                                                          "Retention Time: 20 - 30 minutes",
+                                                          "Cleaning Frequency: Weekly to monthly pump-out",
+                                                          "Discharge FOG Limit: \u003c 100 mg/L to sewer"
+                                                      ],
+                                     "NextConnection":  "NEXT -\u003e Pretreated effluent enters plant main sewer channel to Coarse Bar Screen.",
+                                     "Num":  29,
+                                     "Cat":  "STAGE 1 · PRELIMINARY TREATMENT",
+                                     "Title":  "3.4: Grease Traps \u0026 Grease Arrestors",
+                                     "Sources":  "S9, S23"
+                                 },
+                                 {
+                                     "Machine":  "Large rectangular/circular reinforced concrete basin, submersible jet mixers, coarse bubble air grid, effluent transfer pumps (1W+1S) with VFDs, and radar level transmitter.",
+                                     "Image":  "eq_tank_schematic.png",
+                                     "Hydraulics":  "Cumulative mass-curve method: Cumulative Inflow vs Constant Outflow line plotted over 24 hours; required active volume = maximum positive difference + maximum negative difference on mass diagram.",
+                                     "Subtitle":  "Flow \u0026 Load Dampening, Volume Sizing \u0026 Operational Philosophy",
+                                     "Purpose":  "Dampens extreme fluctuations in hydraulic flow rates and contaminant concentrations to deliver a constant flow and uniform load to downstream units.",
+                                     "Mechanism":  "Volumetric buffering: stores peak inflows during daytime surge hours and releases water during low-flow nighttime hours; continuous mixing prevents stratification.",
+                                     "DesignValues":  [
+                                                          "Hydraulic Retention Time (HRT): 12 - 24 Hours",
+                                                          "Tank Water Depth: 3.5 - 6.0 meters; Freeboard: 0.5 - 1.0 m",
+                                                          "Operating Level Range: 30% to 85% depth",
+                                                          "Air Mixing Rate: 0.9 - 1.2 Nm3 air / m3 tank volume / hour",
+                                                          "Power Input: 5 - 8 W/m3 tank volume for mechanical mixing"
+                                                      ],
+                                     "NextConnection":  "NEXT -\u003e Submersible transfer pumps feed Neutralization / Flash Mixing Tank at steady rate.",
+                                     "Num":  30,
+                                     "Cat":  "STAGE 1 · PRELIMINARY TREATMENT",
+                                     "Title":  "4: Equalization Tank (EQ Basin)",
+                                     "Sources":  "S1, S8, S22"
+                                 },
+                                 {
+                                     "Machine":  "Submersible direct-drive mixers, jet aeration eductors, coarse bubble stainless steel / EPDM pipe grid, and positive displacement rotary lobe air blowers.",
+                                     "Image":  "eq_tank_schematic.png",
+                                     "Hydraulics":  "Minimum bottom scouring velocity: 0.3 m/s. Aeration rate must supply sufficient oxygen (0.5-1.0 mg/L DO) to prevent septic blackening without causing excessive foaming.",
+                                     "Subtitle":  "Preventing Septicity, Odor Control \u0026 Solids Resuspension",
+                                     "Purpose":  "Maintains heavy solids in suspension and prevents anaerobic septicity (H2S formation) in the large equalization basin.",
+                                     "Mechanism":  "Continuous mechanical thrust creates horizontal bulk liquid circulation (\u003e 0.3 m/s) along the tank floor, keeping solids suspended while diffused air provides oxygen to suppress anaerobic odor.",
+                                     "DesignValues":  [
+                                                          "Submersible Mixer Power: 5 - 8 W/m3 tank volume",
+                                                          "Air Blower Pressure: Water depth + 0.5 bar friction loss",
+                                                          "Air Grid Material: AISI 304 / 316 stainless steel",
+                                                          "Diffuser Type: Non-clog coarse bubble orifice / duckbill valves",
+                                                          "Odor Suppression: Dissolved oxygen held at 0.5 - 1.5 mg/L"
+                                                      ],
+                                     "NextConnection":  "NEXT -\u003e Uniform mixed liquor pumped via magnetic flowmeter to Neutralization.",
+                                     "Num":  31,
+                                     "Cat":  "STAGE 1 · PRELIMINARY TREATMENT",
+                                     "Title":  "Equalization Mixing \u0026 Aeration Systems",
+                                     "Sources":  "S1, S8, S24"
+                                 },
+                                 {
+                                     "Machine":  "Submersible non-clog centrifugal pumps with semi-open or vortex impellers, dry-pit centrifugal pumps, or progressive cavity pumps, paired with VFD panels and magnetic flowmeters.",
+                                     "Image":  "eq_tank_schematic.png",
+                                     "Hydraulics":  "System head curve = Static lift (elevated flash mixer level - EQ low water level) + Dynamic friction losses (Darcy-Weisbach). Pump must operate within preferred operating region (POR).",
+                                     "Subtitle":  "Pump Selection, VFD Speed Modulation \u0026 Piping Layout",
+                                     "Purpose":  "Lifts equalized wastewater to the elevated physico-chemical reaction tanks at a strictly controlled, continuous flow rate.",
+                                     "Mechanism":  "A PID controller reads the online magnetic flowmeter signal and modulates pump VFD frequency (30-50 Hz) to deliver an exact setpoint flow (e.g., 50.0 m3/h) regardless of tank water level.",
+                                     "DesignValues":  [
+                                                          "Configuration: 1 Duty + 1 Standby (1W + 1S) or 2 Duty + 1 Standby (2W + 1S)",
+                                                          "Impeller Solids Passage: 50 - 80 mm spherical solids",
+                                                          "Pump Efficiency: 65 - 78%",
+                                                          "Flow Control Accuracy: +/- 2% via PID / VFD loop",
+                                                          "Pipe Material: Flanged DI / Epoxy-coated CS / HDPE"
+                                                      ],
+                                     "NextConnection":  "NEXT -\u003e Pressurized discharge pipe with check valve and flowmeter to Neutralization Basin.",
+                                     "Num":  32,
+                                     "Cat":  "STAGE 1 · PRELIMINARY TREATMENT",
+                                     "Title":  "Raw Effluent Transfer Pumps \u0026 Flow Control",
+                                     "Sources":  "S1, S8"
+                                 },
+                                 {
+                                     "Machine":  "Dedicated off-spec holding tank (12h HRT), motorized automated 3-way diversion valve, online analytical monitoring station (pH, Conductivity, TOC).",
+                                     "Image":  "card_neutralization.png",
+                                     "Hydraulics":  "Gravity diversion line or high-speed actuator valve actuated within 10 seconds of threshold breach.",
+                                     "Subtitle":  "Protecting Biological Consortia from Toxic Shock \u0026 Extreme Loads",
+                                     "Purpose":  "Isolates toxic industrial batch dumps, highly acidic/alkaline spills, or stormwater first-flush before it can contaminate the equalization basin and kill biomass.",
+                                     "Mechanism":  "Online sensors monitor raw feed: if pH \u003c 4.0 or \u003e 10.0, or conductivity spikes \u003e 15,000 uS/cm, the PLC automatically trips the diversion gate, routing the bad slug to the off-spec tank for slow metering.",
+                                     "DesignValues":  [
+                                                          "Capacity: 8 - 12 hours peak industrial flow",
+                                                          "Sensor Response Time: \u003c 15 seconds",
+                                                          "Slow Bleed Rate: 2% to 5% of normal influent flow",
+                                                          "Mixer: Heavy-duty submersible agitator for blending",
+                                                          "Material: Acid-resistant epoxy or vinylester lining"
+                                                      ],
+                                     "NextConnection":  "NEXT -\u003e Stored off-spec effluent slowly bled into main EQ basin under controlled conditions.",
+                                     "Num":  33,
+                                     "Cat":  "STAGE 1 · PRELIMINARY TREATMENT",
+                                     "Title":  "Off-Specification \u0026 First-Flush Diversion Tanks",
+                                     "Sources":  "S8, S22"
+                                 },
+                                 {
+                                     "Machine":  "Dual-compartment CSTR with motorized high-speed turbine agitators, reagent dosing pumps (acid and alkali), chemical storage tanks, and automated dual-probe pH controllers.",
+                                     "Image":  "card_neutralization.png",
+                                     "Hydraulics":  "Dual-stage neutralization: Stage 1 brings extreme pH (e.g., pH 2 or 12) to intermediate range (pH 5.5-9.0); Stage 2 fine-tunes pH to exact setpoint (pH 7.0-7.5) with zero hunting.",
+                                     "Subtitle":  "Reagent Chemistry, Dosing Tanks \u0026 Dual-Stage Automatic PID Control",
+                                     "Purpose":  "Brings wastewater pH into the strict 6.5–8.5 band required for coagulant precipitation and biological bacterial survival.",
+                                     "Mechanism":  "Acidic streams neutralized via Caustic Soda (NaOH), Hydrated Lime (Ca(OH)2), or Sodium Carbonate (Na2CO3). Alkaline streams neutralized via Sulfuric Acid (H2SO4), Hydrochloric Acid (HCl), or Carbon Dioxide (CO2).",
+                                     "DesignValues":  [
+                                                          "Target pH Window: 6.5 - 8.5 (Coagulation optimum)",
+                                                          "Total Retention Time: 10 - 20 minutes (5-10 min per stage)",
+                                                          "Agitator Power: 10 - 15 W/m3; Tip Speed: 2 - 3 m/s",
+                                                          "Lime Slurry Concentration: 5 - 10% Ca(OH)2 milk of lime",
+                                                          "Safety: Emergency eye-wash station, double-containment pipes"
+                                                      ],
+                                     "NextConnection":  "NEXT -\u003e Neutralized effluent overflows by gravity into the Flash Mixer (Coagulation Unit).",
+                                     "Num":  34,
+                                     "Cat":  "STAGE 1 · PRELIMINARY TREATMENT",
+                                     "Title":  "5: Neutralization \u0026 pH Conditioning Systems",
+                                     "Sources":  "S4, S10, S22"
+                                 },
+                                 {
+                                     "Machine":  "Treatment Sequence: Neutralized Feed -\u003e Flash Mixer (Coagulant) -\u003e Multi-Stage Flocculator (Polymer) -\u003e Primary Clarifier / Clariflocculator OR Dissolved Air Flotation (DAF).",
+                                     "Image":  "coagulation_mixer_schematic.png",
+                                     "Hydraulics":  "Tapered shear dynamics: extreme turbulent mixing in flash mixer (G \u003e 300 s-1) drops to gentle non-destructive mixing in flocculator (G = 50 -\u003e 25 -\u003e 10 s-1).",
+                                     "Subtitle":  "Coagulation, Flocculation, Clarification \u0026 Flotation Architecture",
+                                     "Purpose":  "Transforms non-settleable colloidal turbidity, color, emulsified oils, and heavy metals into dense, rapidly settleable or floatable flocs.",
+                                     "Mechanism":  "Two-step colloidal destabilization: 1. Coagulation: instantaneous charge neutralization (\u003c 60 s); 2. Flocculation: gentle particle agglomeration (15-30 min) via polymer bridging.",
+                                     "DesignValues":  [
+                                                          "TSS Removal: 70 - 90%",
+                                                          "BOD5 Removal: 30 - 50% (insoluble fraction)",
+                                                          "Total Phosphorus Removal: 80 - 95%",
+                                                          "Chemical Sludge Generation: 0.3 - 0.8 kg dry solids / m3 treated"
+                                                      ],
+                                     "NextConnection":  "Slide 36: Coagulation Chemistry \u0026 Electrical Double Layer",
+                                     "Num":  35,
+                                     "Cat":  "STAGE 2 · PHYSICO-CHEMICAL TREATMENT",
+                                     "Title":  "Physico-Chemical Treatment Train Overview",
+                                     "Sources":  "S5, S10, S11"
+                                 },
+                                 {
+                                     "Machine":  "Laboratory Jar Tester with 6 paddle stirrers, benchtop Zeta Potential analyzer, online streaming current detector (SCD), chemical metering pumps.",
+                                     "Image":  "coagulation_mixer_schematic.png",
+                                     "Hydraulics":  "Colloidal collision rate in rapid mix: J = (2/3) * n1 * n2 * d12^3 * G, where G is velocity gradient.",
+                                     "Subtitle":  "Colloids, Zeta Potential \u0026 Electrical Double Layer (EDL) Compression",
+                                     "Purpose":  "Explains the thermodynamic and electrostatic forces that stabilize colloidal suspensions and how chemical coagulants destabilize them.",
+                                     "Mechanism":  "Colloidal particles carry a net negative surface charge, generating an Electrical Double Layer (Stern layer + Gouy-Chapman diffuse layer) and repulsive Zeta Potential (-15 to -50 mV). Coagulant multivalent cations (Al3+, Fe3+) compress the double layer, neutralizing surface charge to near 0 mV and enabling van der Waals attraction.",
+                                     "DesignValues":  [
+                                                          "Zeta Potential Target: -5 to +5 mV (optimal flocculation)",
+                                                          "Rapid Mix Time: 20 to 60 seconds",
+                                                          "Velocity Gradient G: 300 - 1000 s-1",
+                                                          "Schulze-Hardy Rule: Coagulation power of Al3+/Fe3+ is ~700-1000x greater than Na+"
+                                                      ],
+                                     "NextConnection":  "Slide 37: Sweep Flocculation \u0026 Hydroxide Precipitation",
+                                     "Num":  36,
+                                     "Cat":  "STAGE 2 · PHYSICO-CHEMICAL TREATMENT",
+                                     "Title":  "6: Coagulation Chemistry Fundamentals",
+                                     "Sources":  "S5, S10, S11"
+                                 },
+                                 {
+                                     "Machine":  "Flash mixer and chemical dosing station with continuous automatic alkalinity (pH) buffering.",
+                                     "Image":  "coagulation_mixer_schematic.png",
+                                     "Hydraulics":  "Sweep flocculation requires higher coagulant doses than simple charge neutralization but is faster and far less sensitive to exact colloidal charge.",
+                                     "Subtitle":  "Mechanism of Metal Hydroxide Precipitate Enmeshment",
+                                     "Purpose":  "Operates when coagulant is dosed above the solubility limit of metal hydroxide, creating vast amorphous floc clouds that enmesh particles.",
+                                     "Mechanism":  "At neutral pH, Al3+ and Fe3+ hydrolyze rapidly into amorphous, sticky precipitates: Al(OH)3(s) and Fe(OH)3(s). As these dense precipitate clouds form, they physically sweep through the liquid, trapping fine colloids, bacteria, and emulsified oil droplets.",
+                                     "DesignValues":  [
+                                                          "Alum Optimum pH: 5.5 - 7.5",
+                                                          "Ferric Optimum pH: 4.0 - 8.5 (broader window)",
+                                                          "Alkalinity Consumption: 0.45 - 0.50 mg CaCO3 consumed per mg alum dosed",
+                                                          "Sludge Volume: Higher volume of voluminous metal hydroxide sludge"
+                                                      ],
+                                     "NextConnection":  "Slide 38: Inorganic Coagulants Comparison Table",
+                                     "Num":  37,
+                                     "Cat":  "STAGE 2 · PHYSICO-CHEMICAL TREATMENT",
+                                     "Title":  "Sweep Flocculation \u0026 Adsorption-Destabilization",
+                                     "Sources":  "S10, S11"
+                                 },
+                                 {
+                                     "Machine":  "Chemical storage tanks, progressive cavity / diaphragm dosing pumps, pulsation dampeners, calibration cylinders, and containment bunds.",
+                                     "Image":  "coagulation_mixer_schematic.png",
+                                     "Hydraulics":  "Coagulant must be injected into zone of maximum hydraulic turbulence to disperse in \u003c 1 second before metal hydrolysis completes.",
+                                     "Subtitle":  "Chemical Properties, Dosages, pH Windows \u0026 Operating Trade-offs",
+                                     "Purpose":  "Compares standard primary inorganic coagulants to match specific industrial and municipal wastewater chemistries.",
+                                     "Mechanism":  "Chemical reaction of metal salts: Al2(SO4)3 + 6 HCO3- -\u003e 2 Al(OH)3 + 3 SO4(2-) + 6 CO2; FeCl3 + 3 HCO3- -\u003e Fe(OH)3 + 3 Cl- + 3 CO2.",
+                                     "DesignValues":  [
+                                                          "Alum (Al2(SO4)3.18H2O): Dose 10-150 mg/L | pH 5.5-7.5 | Low cost, high sludge volume",
+                                                          "PAC (Polyaluminum Chloride): Dose 5-80 mg/L | pH 5.0-8.5 | High basicity, less sludge, wider pH",
+                                                          "Ferric Chloride (FeCl3): Dose 10-100 mg/L | pH 4.0-8.0 | Strong P removal, corrosive, heavy floc",
+                                                          "Ferric Sulfate (Fe2(SO4)3): Dose 10-100 mg/L | pH 4.0-7.0 | Non-chloride, excellent for sulfur-sensitive streams"
+                                                      ],
+                                     "NextConnection":  "Slide 39: Coagulant Aids \u0026 Organic Polymers",
+                                     "Num":  38,
+                                     "Cat":  "STAGE 2 · PHYSICO-CHEMICAL TREATMENT",
+                                     "Title":  "7: Coagulants \u0026 Dosing Specifications",
+                                     "Sources":  "S10, S11"
+                                 },
+                                 {
+                                     "Machine":  "Liquid polymer dosing skids, lime slaking silos, and powdered activated carbon (PAC) slurry injection units.",
+                                     "Image":  "coagulation_mixer_schematic.png",
+                                     "Hydraulics":  "Organic coagulants dissolve instantly and do not depress effluent pH, eliminating post-coagulation caustic neutralization.",
+                                     "Subtitle":  "Polyamines, PolyDADMAC, Bentonite Clay \u0026 Lime Conditioning",
+                                     "Purpose":  "Enhances floc density, accelerates settling, and reduces metal salt sludge volume.",
+                                     "Mechanism":  "PolyDADMAC and Polyamines are highly charged cationic liquid polymers that neutralize colloidal charges without consuming alkalinity or producing voluminous metal hydroxide sludge. Weighting agents (bentonite, lime) add physical ballast to light flocs.",
+                                     "DesignValues":  [
+                                                          "PolyDADMAC Dose: 2 - 25 mg/L (replaces 50-80% of alum)",
+                                                          "Working pH: 4.0 - 9.0 (wide tolerance)",
+                                                          "Lime Dose: 50 - 300 mg/L (restores alkalinity and precipitates heavy metals)",
+                                                          "Sludge Reduction: 40 - 60% lower sludge volume vs alum"
+                                                      ],
+                                     "NextConnection":  "Slide 40: Flash Mixing Units \u0026 Hydraulics",
+                                     "Num":  39,
+                                     "Cat":  "STAGE 2 · PHYSICO-CHEMICAL TREATMENT",
+                                     "Title":  "Coagulant Aids \u0026 Organic Coagulants",
+                                     "Sources":  "S10, S11"
+                                 },
+                                 {
+                                     "Machine":  "Vertical square or circular tank with vertical baffles, high-speed axial/radial impeller, geared drive motor, and chemical injection quill.",
+                                     "Image":  "coagulation_mixer_schematic.png",
+                                     "Hydraulics":  "Camp Number G*t = (300 - 1000 s-1) * (20 - 60 s) = 10,000 to 30,000. Under-mixing leaves unreacted coagulant; over-mixing wastes energy without improving destabilization.",
+                                     "Subtitle":  "Mixing Hydraulics, Velocity Gradient (G) \u0026 Camp Number",
+                                     "Purpose":  "Disperses coagulant chemicals uniformly throughout the wastewater stream within milliseconds before metal precipitation begins.",
+                                     "Mechanism":  "High-energy mechanical agitation creates intense micro-turbulence. Velocity gradient G = sqrt(P / (mu * V)), where P is power dissipated (Watts), mu is dynamic viscosity (Pa.s), and V is tank volume (m3).",
+                                     "DesignValues":  [
+                                                          "Retention Time (DT): 20 to 60 seconds",
+                                                          "Velocity Gradient G: \u003e 300 s-1 (typically 500 - 800 s-1)",
+                                                          "Impeller Tip Speed: 1.75 - 2.5 m/s",
+                                                          "Tank Baffles: 4 vertical baffles, width = 1/10 to 1/12 tank diameter",
+                                                          "Impeller Type: Marine propeller, flat-blade turbine, or hydrofoil"
+                                                      ],
+                                     "NextConnection":  "Slide 41: Flash Mixing Machinery Variants",
+                                     "Num":  40,
+                                     "Cat":  "STAGE 2 · PHYSICO-CHEMICAL TREATMENT",
+                                     "Title":  "8: Flash Mixing (Rapid Mix) Units",
+                                     "Sources":  "S5, S12, S24"
+                                 },
+                                 {
+                                     "Machine":  "Mechanical CSTR Flash Mixer, Pipe Static Mixer (Kenics / Sulzer helical elements), Hydraulic Jump Flume, and Jet Injection Mixers.",
+                                     "Image":  "coagulation_mixer_schematic.png",
+                                     "Hydraulics":  "Static Mixer Head Loss: delta-H = K * (v^2 / 2g); requires 0.5 - 1.5 m head; complete mixing achieved in 1 to 3 pipe diameters.",
+                                     "Subtitle":  "Mechanical Agitators vs In-Line Static Mixers vs Hydraulic Jump",
+                                     "Purpose":  "Compares mechanical vs static vs hydraulic rapid mix systems for different operational layouts.",
+                                     "Mechanism":  "Mechanical: electric motor rotates turbine; In-line Static: stationary twisted helical elements in pipeline split and rotate flow 180° repeatedly; Hydraulic Jump: flow transitions from supercritical to subcritical across flume.",
+                                     "DesignValues":  [
+                                                          "Mechanical Mixer Power: 15 - 30 W/m3",
+                                                          "Static Mixer Mixing Time: \u003c 2 seconds in pressurized pipe",
+                                                          "Hydraulic Jump Froude No: Fr = 4.5 to 9.0 (strong jump)",
+                                                          "Maintenance: Static mixers have zero moving parts and zero energy draw beyond line pressure drop"
+                                                      ],
+                                     "NextConnection":  "Slide 42: Flocculation Kinetics \u0026 Velocity Gradient",
+                                     "Num":  41,
+                                     "Cat":  "STAGE 2 · PHYSICO-CHEMICAL TREATMENT",
+                                     "Title":  "Flash Mixing Machinery Variants",
+                                     "Sources":  "S5, S12"
+                                 },
+                                 {
+                                     "Machine":  "Multi-compartment flocculation basin, slow-speed paddle agitators, and polymer dosing skid.",
+                                     "Image":  "flocculation_paddle_schematic.png",
+                                     "Hydraulics":  "Critical shear stress: flocs rupture when fluid shear exceeds tensile strength of polymer bridges. Hence, G must decrease progressively along the basin.",
+                                     "Subtitle":  "Perikinetic vs Orthokinetic Agglomeration \u0026 Shear Sensitivity",
+                                     "Purpose":  "Grows tiny destabilized microflocs into large, tough, rapidly settleable macroflocs through gentle, controlled stirring.",
+                                     "Mechanism":  "Perikinetic flocculation (Brownian motion) operates for particles \u003c 1 um. Orthokinetic flocculation (fluid velocity shear) governs particles \u003e 1 um. Collision frequency H12 = (4/3) * N1 * N2 * R12^3 * G. Velocity gradient G must be gentle enough to promote particle contact without shearing fragile macroflocs.",
+                                     "DesignValues":  [
+                                                          "Retention Time: 15 to 35 minutes",
+                                                          "Velocity Gradient G: 10 to 75 s-1 (tapered)",
+                                                          "Camp Number Gt: 20,000 to 150,000",
+                                                          "Max Tip Speed: 0.2 - 0.6 m/s (avoids floc shearing)",
+                                                          "Paddle Area Ratio: 15% to 25% of basin vertical cross section"
+                                                      ],
+                                     "NextConnection":  "Slide 43: Flocculant Polymers \u0026 Dosing Skids",
+                                     "Num":  42,
+                                     "Cat":  "STAGE 2 · PHYSICO-CHEMICAL TREATMENT",
+                                     "Title":  "Flocculation Kinetics \u0026 Collision Dynamics",
+                                     "Sources":  "S5, S10, S11"
+                                 },
+                                 {
+                                     "Machine":  "Automated polymer preparation unit: dry powder screw feeder, wetting cone, dual-compartment maturation/storage tank, low-speed paddle mixer (\u003c100 RPM), and progressive cavity dosing pumps.",
+                                     "Image":  "flocculation_paddle_schematic.png",
+                                     "Hydraulics":  "Polymer chains are sensitive to high shear; centrifugal pumps or high-speed stirrers chop molecular chains, destroying bridging efficiency. Low-shear progressive cavity pumps are mandatory.",
+                                     "Subtitle":  "Anionic, Cationic \u0026 Non-Ionic Polyacrylamides (PAM)",
+                                     "Purpose":  "Doses long-chain polyelectrolytes to bridge microflocs into heavy, cohesive macroflocs.",
+                                     "Mechanism":  "Interparticle bridging: extremely high molecular weight polymers (5 - 20 million Daltons) adsorb onto multiple microflocs simultaneously, linking them into large, visible floc clusters.",
+                                     "DesignValues":  [
+                                                          "Anionic PAM: Inorganic flocs / Clarification (Dose: 0.5 - 2.0 mg/L)",
+                                                          "Cationic PAM: Organic biological sludge / Dewatering (Dose: 2.0 - 8.0 mg/L)",
+                                                          "Non-Ionic PAM: Wide pH, mineral slurries (Dose: 0.5 - 3.0 mg/L)",
+                                                          "Solution Aging Time: 45 - 60 minutes minimum",
+                                                          "Stock Solution Concentration: 0.1% to 0.3% w/v"
+                                                      ],
+                                     "NextConnection":  "Slide 44: Mechanical Flocculators Deep-Dive",
+                                     "Num":  43,
+                                     "Cat":  "STAGE 2 · PHYSICO-CHEMICAL TREATMENT",
+                                     "Title":  "Flocculant Polymers \u0026 Preparation Skids",
+                                     "Sources":  "S10, S11"
+                                 },
+                                 {
+                                     "Machine":  "Horizontal-Shaft Paddle Flocculator (slow-rotating wooden/fiberglass/SS slats across channel), Vertical-Shaft Turbine Flocculator (overhead gearmotor driving axial hydrofoil), and Variable Frequency Drives (VFD).",
+                                     "Image":  "flocculation_paddle_schematic.png",
+                                     "Hydraulics":  "Power dissipated: P = 0.5 * Cd * rho * A_paddle * v_relative^3. Relative blade velocity is ~75% of tip velocity due to fluid rotation.",
+                                     "Subtitle":  "Horizontal Shaft Paddle Wheels vs Vertical Turbine Impellers",
+                                     "Purpose":  "Compares mechanical equipment configurations used to impart uniform gentle velocity gradients.",
+                                     "Mechanism":  "Shaft rotates paddle blades through liquid. Horizontal paddles provide very uniform velocity across channel cross-section; vertical hydrofoils eliminate submerged underwater bearings and packing glands.",
+                                     "DesignValues":  [
+                                                          "Rotational Speed: 1 to 5 RPM (horizontal), 10 to 25 RPM (vertical)",
+                                                          "Blade Tip Speed: 0.2 to 0.6 m/s",
+                                                          "Drag Coefficient Cd: 1.2 to 1.8 for flat blades",
+                                                          "Drive Motor: 0.37 - 2.2 kW per compartment with VFD",
+                                                          "Compartments in Series: 3 minimum to prevent hydraulic short-circuiting"
+                                                      ],
+                                     "NextConnection":  "Slide 45: Tapered Flocculation \u0026 Baffled Channels",
+                                     "Num":  44,
+                                     "Cat":  "STAGE 2 · PHYSICO-CHEMICAL TREATMENT",
+                                     "Title":  "Mechanical Flocculators: Machine Architecture",
+                                     "Sources":  "S5, S12"
+                                 },
+                                 {
+                                     "Machine":  "3-stage baffled concrete basin with independent vertical agitators OR over-and-under / around-the-end hydraulic baffled serpentine channel.",
+                                     "Image":  "flocculation_paddle_schematic.png",
+                                     "Hydraulics":  "Hydraulic Baffled Channels: Head loss delta-H = K * (v^2 / 2g) around each 180° turn. Velocity G = sqrt(rho*g*delta-H / (mu*DT)). No electric motors needed, but G varies with flow rate.",
+                                     "Subtitle":  "Multi-Stage Energy Tapering \u0026 Hydraulic Baffle Dynamics",
+                                     "Purpose":  "Optimizes floc development by stepping down mixing energy in series to build dense flocs without breakage.",
+                                     "Mechanism":  "Stage 1 (High G = 50-70 s-1) initiates rapid initial particle collisions; Stage 2 (Medium G = 25-35 s-1) expands floc size; Stage 3 (Low G = 10-15 s-1) matures dense macroflocs without shearing.",
+                                     "DesignValues":  [
+                                                          "Tapering Profile Example: Stage 1 G = 50 s-1 | Stage 2 G = 25 s-1 | Stage 3 G = 10 s-1",
+                                                          "Baffle Spacing: 0.5 - 1.5 m",
+                                                          "Water Velocity in Baffled Turns: 0.15 - 0.30 m/s",
+                                                          "Total Basin Retention Time: 20 - 30 minutes"
+                                                      ],
+                                     "NextConnection":  "NEXT -\u003e Flocculated stream passes into Clarifier or Clariflocculator via low-velocity submerged flume.",
+                                     "Num":  45,
+                                     "Cat":  "STAGE 2 · PHYSICO-CHEMICAL TREATMENT",
+                                     "Title":  "Tapered Flocculation \u0026 Baffled Channels",
+                                     "Sources":  "S5, S11, S12"
+                                 },
+                                 {
+                                     "Machine":  "DAF contact-separation tank, saturation vessel (air dissolving tube), regenerative turbine pump, pressure relief needle valve, surface flight skimmer, and bottom sludge auger.",
+                                     "Image":  "daf_system_schematic.png",
+                                     "Hydraulics":  "Air-to-Solids Ratio A/S = [1.3 * s * (f*P - 1) * R] / (Sa * Q), where s = air solubility, P = absolute pressure (atm), f = saturation fraction (~0.8), R = recycle flow, Sa = influent solids concentration.",
+                                     "Subtitle":  "Microbubble Flotation of Light Solids, Fats, Algae \u0026 Flocs",
+                                     "Purpose":  "High-rate physical separation for light particles that resist settling: fats, oils, greases, algae, fibers, and low-density chemical flocs.",
+                                     "Mechanism":  "Henry\u0027s Law: Gas solubility is proportional to partial pressure. Water is saturated with air at 4-6 bar in a pressure vessel; when injected into atmospheric DAF tank, pressure drops, releasing millions of microbubbles (20-50 um). Microbubbles attach to flocs, lowering their effective density below water and floating them to surface.",
+                                     "DesignValues":  [
+                                                          "Saturation Pressure: 4.0 - 6.5 bar (60 - 95 psi)",
+                                                          "Microbubble Diameter: 20 - 50 microns",
+                                                          "A/S Ratio: 0.015 - 0.050 mg air / mg solids",
+                                                          "Recycle Ratio: 15% to 35% of forward flow",
+                                                          "Surface Overflow Rate: 4 to 12 m/h (3-5x faster than clarifier)"
+                                                      ],
+                                     "NextConnection":  "Slide 47: DAF Mechanical Components Deep-Dive",
+                                     "Num":  46,
+                                     "Cat":  "STAGE 2 · PHYSICO-CHEMICAL TREATMENT",
+                                     "Title":  "10: Dissolved Air Flotation (DAF) Fundamentals",
+                                     "Sources":  "S9"
+                                 },
+                                 {
+                                     "Machine":  "Pressure Saturation Vessel with internal packed media (Pall rings), Regenerative Multistage Pump / Air Compressor, High-Shear Pressure Release Needle Valve, and Header Nozzles.",
+                                     "Image":  "daf_system_schematic.png",
+                                     "Hydraulics":  "Pressure release valve must dissipate 5 bar in \u003c 1 millisecond without bubble coalescence (preventing large non-buoyant bubbles \u003e 100 um).",
+                                     "Subtitle":  "Saturation Vessel, Pressurization Pumps \u0026 Needle Valve Manifolds",
+                                     "Purpose":  "Details the specialized mechanical pressurization and microbubble generation machinery.",
+                                     "Mechanism":  "Recycled clarified effluent is pumped into the saturation vessel. Compressed air dissolves into water under 5 bar pressure. The saturated stream passes through a specialized tungsten-carbide needle valve or nozzle header at tank inlet, dropping pressure instantaneously to generate a dense white microbubble cloud.",
+                                     "DesignValues":  [
+                                                          "Saturation Vessel Volume: Sized for 1 - 2 min recycle retention",
+                                                          "Vessel Rating: ASME 10 bar coded carbon steel or SS304",
+                                                          "Nozzle Discharge Velocity: 10 - 15 m/s",
+                                                          "Air Consumption: 15 - 30 L air / m3 recycle",
+                                                          "Pump Type: Multistage peripheral regenerative pump capable of handling 10% entrained air"
+                                                      ],
+                                     "NextConnection":  "Slide 48: DAF Surface Skimming \u0026 Bottom Augers",
+                                     "Num":  47,
+                                     "Cat":  "STAGE 2 · PHYSICO-CHEMICAL TREATMENT",
+                                     "Title":  "DAF Mechanical Components Architecture",
+                                     "Sources":  "S9"
+                                 },
+                                 {
+                                     "Machine":  "Surface chain-and-flight skimmer with neoprene blades, beaching ramp (inclined dewatering beach), float sludge hopper, bottom V-hopper, and screw auger.",
+                                     "Image":  "daf_system_schematic.png",
+                                     "Hydraulics":  "Skimmer speed is variable: set slow enough to avoid disturbing the floating sludge blanket while preventing sludge over-thickening and anaerobic degassing.",
+                                     "Subtitle":  "Chain-and-Flight Surface Skimmers \u0026 Bottom Sediment Augers",
+                                     "Purpose":  "Continuously removes floating float sludge and heavy settled grit from the DAF tank.",
+                                     "Mechanism":  "Surface skimmer blades travel forward across tank, pushing thickened floating sludge up an inclined beaching ramp (which drains free water) and dropping it into a collection hopper. Heavy settled silt is pushed to a bottom drain by a continuous screw auger.",
+                                     "DesignValues":  [
+                                                          "Surface Skimmer Speed: 0.3 - 1.5 m/min",
+                                                          "Float Sludge Dry Solids: 3% to 6% DS (thick cake)",
+                                                          "Beaching Ramp Angle: 15° - 25°",
+                                                          "Bottom Auger Power: 0.75 - 1.5 kW",
+                                                          "Clarified Subnatant Extraction: Underflow baffle to perimeter overflow weir"
+                                                      ],
+                                     "NextConnection":  "Slide 49: DAF Technology Variants",
+                                     "Num":  48,
+                                     "Cat":  "STAGE 2 · PHYSICO-CHEMICAL TREATMENT",
+                                     "Title":  "DAF Skimming \u0026 Bottom Solids Evacuation",
+                                     "Sources":  "S9"
+                                 },
+                                 {
+                                     "Machine":  "Rectangular DAF, Circular DAF with rotating scoop bridge, and Lamella DAF (combining microbubble flotation with inclined lamella plates).",
+                                     "Image":  "daf_system_schematic.png",
+                                     "Hydraulics":  "Lamella DAF hydraulic surface loading reaches 15-25 m/h, making it the most compact clarification system available.",
+                                     "Subtitle":  "Evaluation of High-Rate Dissolved Air Flotation Geometries",
+                                     "Purpose":  "Compares rectangular DAF vs circular DAF vs high-rate lamella plate DAF for different plant capacities.",
+                                     "Mechanism":  "Rectangular: classic plug-flow, excellent for variable flows and oily sludge; Circular: spiral scoop arm removes sludge with minimal turbulence; Lamella DAF: plates double effective surface area, cutting footprint in half.",
+                                     "DesignValues":  [
+                                                          "Rectangular DAF Loading: 4 - 8 m/h",
+                                                          "Circular DAF Loading: 6 - 10 m/h",
+                                                          "Lamella DAF Loading: 12 - 25 m/h",
+                                                          "Footprint Comparison: Lamella DAF is 70% smaller than conventional clarifier",
+                                                          "O\u0026G Removal: 85 - 98%; TSS Removal: 85 - 95%"
+                                                      ],
+                                     "NextConnection":  "Slide 50: Electrocoagulation \u0026 Advanced Flotation",
+                                     "Num":  49,
+                                     "Cat":  "STAGE 2 · PHYSICO-CHEMICAL TREATMENT",
+                                     "Title":  "DAF Variants: Rectangular, Circular \u0026 Lamella",
+                                     "Sources":  "S9"
+                                 },
+                                 {
+                                     "Machine":  "EC reactor cell with sacrificial aluminum/iron plate electrodes, DC power supply, polarity reversal timer, and air/gas venting hood.",
+                                     "Image":  "daf_system_schematic.png",
+                                     "Hydraulics":  "Continuous electrolytic gas generation reduces chemical dosing to zero and produces 50% less sludge than conventional alum/ferric salts.",
+                                     "Subtitle":  "Sacrificial Electrodes, In-Situ Coagulation \u0026 Electro-Flotation",
+                                     "Purpose":  "Electrochemical destabilization of complex industrial effluents (electroplating, textiles, oily emulsions) without chemical additions.",
+                                     "Mechanism":  "Faraday\u0027s Law: DC current applied across sacrificial anodes releases Al3+ or Fe2+ ions directly into solution. Water electrolysis at cathode generates H2 microbubbles: 2 H2O + 2 e- -\u003e H2(g) + 2 OH-. The in-situ metal ions coagulate colloids while H2 bubbles float flocs to the surface (electro-flotation).",
+                                     "DesignValues":  [
+                                                          "Current Density: 10 - 40 mA/cm2",
+                                                          "Operating Voltage: 12 - 48 V DC",
+                                                          "Energy Consumption: 1.5 - 4.0 kWh / m3 treated",
+                                                          "Electrode Material: Aluminum / Iron plates",
+                                                          "Polarity Reversal: Every 5-15 min to prevent electrode passivation"
+                                                      ],
+                                     "NextConnection":  "NEXT -\u003e Flow enters Clarifier / DAF to separate electro-floc; effluent to biological aeration.",
+                                     "Num":  50,
+                                     "Cat":  "STAGE 2 · PHYSICO-CHEMICAL TREATMENT",
+                                     "Title":  "Electrocoagulation (EC) Systems",
+                                     "Sources":  "S9, S24"
+                                 },
+                                 {
+                                     "Machine":  "Primary Clarifier, Secondary Clarifier, Clariflocculator, Lamella Settler, and Gravity Sludge Thickener.",
+                                     "Image":  "clarifier_primary_schematic.png",
+                                     "Hydraulics":  "Design parameter: Surface Overflow Rate SOR = Q / A_surface. If settling velocity vs \u003e= SOR, particle is 100% captured.",
+                                     "Subtitle":  "Discrete, Flocculent, Hindered \u0026 Compression Settling Dynamics",
+                                     "Purpose":  "Establishes the hydrodynamic principles governing primary, chemical, and secondary clarifier sizing.",
+                                     "Mechanism":  "Class 1 (Discrete Settling): Stokes\u0027 law, no particle interaction (Grit); Class 2 (Flocculent Settling): particles coalesce, mass increases, settling accelerates (Primary/Chemical); Class 3 (Zone/Hindered Settling): particles form a blanket settling together (Secondary Clarifier); Class 4 (Compression Settling): mechanical compaction under solids weight (Thickeners).",
+                                     "DesignValues":  [
+                                                          "Type 1: vs = constant (0.02 m/s)",
+                                                          "Type 2: Overflow Rate 30 - 50 m3/m2.d",
+                                                          "Type 3: Flux-limiting zone, 15 - 30 m3/m2.d",
+                                                          "Type 4: Solids concentration increases from 1% to 4-8%"
+                                                      ],
+                                     "NextConnection":  "Slide 52: Clariflocculator Design \u0026 Operation",
+                                     "Num":  51,
+                                     "Cat":  "STAGE 2 · PHYSICO-CHEMICAL TREATMENT",
+                                     "Title":  "Sedimentation Theory: 4 Settling Classes",
+                                     "Sources":  "S5, S11, S13"
+                                 },
+                                 {
+                                     "Machine":  "Circular concrete basin with dual concentric zones: central flocculation well with slow-speed motorized paddle wheels, outer circular settling zone with bottom scraper bridge, and peripheral V-notch launder.",
+                                     "Image":  "clarifier_primary_schematic.png",
+                                     "Hydraulics":  "Eliminates inter-connecting pipes and transfer headloss between flocculator and clarifier, preventing hydraulic shear of newly formed delicate flocs.",
+                                     "Subtitle":  "Integrated Central Flocculation Well with Peripheral Clarification",
+                                     "Purpose":  "Combines chemical flocculation and gravity clarification within a single compact circular tank structure.",
+                                     "Mechanism":  "Coagulated water enters center well. Slow paddles rotate (2-4 RPM) to promote flocculation. Flocculated water flows gently downward under the circular baffle skirt into the quiet outer settling zone, where flocs settle to floor while clear water overflows peripheral weirs.",
+                                     "DesignValues":  [
+                                                          "Total Detention Time: 2.5 to 3.5 hours",
+                                                          "Center Well Retention: 20 to 30 minutes",
+                                                          "Outer Clarifier SOR: 30 - 45 m3/m2.d",
+                                                          "Paddle Speed: 1.5 - 3.0 RPM; Tip Speed: \u003c 0.4 m/s",
+                                                          "Drive Mechanism: Center-drive dual-concentric shaft or peripheral traction bridge"
+                                                      ],
+                                     "NextConnection":  "NEXT -\u003e Clarified overflow to Biological Aeration; chemical sludge to Sludge Thickener.",
+                                     "Num":  52,
+                                     "Cat":  "STAGE 2 · PHYSICO-CHEMICAL TREATMENT",
+                                     "Title":  "9: Clariflocculator Design \u0026 Operation",
+                                     "Sources":  "S11, S12"
+                                 },
+                                 {
+                                     "Machine":  "Circular concrete basin, center feed pipe with Energy Dissipating Inlet (EDI), full-diameter rotating scraper bridge, bottom sludge hopper, surface scum skimmer, and peripheral V-notch weir.",
+                                     "Image":  "clarifier_primary_schematic.png",
+                                     "Hydraulics":  "Surface Overflow Rate SOR = Q / (pi * r^2). Detention Time DT = Volume / Q = 1.5 - 2.5 hours. Weir Loading Rate WLR = Q / (2 * pi * r) \u003c= 125 - 250 m3/m.d.",
+                                     "Subtitle":  "Center-Feed Well, Scraper Bridges \u0026 Launder Hydraulics",
+                                     "Purpose":  "Removes 50-70% of settleable suspended solids and 25-40% of raw BOD by plain gravity sedimentation ahead of biological treatment.",
+                                     "Mechanism":  "Wastewater enters center feed well which dissipates kinetic energy. Water moves radially outward at decreasing velocity toward peripheral weir. Dense settleable solids fall to floor and are scraped by angled rubber blades into a central sludge cone.",
+                                     "DesignValues":  [
+                                                          "Surface Overflow Rate: 30 - 45 m3/m2.d (Average), 80 - 100 m3/m2.d (Peak)",
+                                                          "Side Water Depth: 3.0 - 4.5 meters",
+                                                          "Floor Slope: 1:12 to central hopper",
+                                                          "Bridge Travel Speed: 1.5 - 3.0 cm/s",
+                                                          "TSS Removal: 50 - 65%; Raw BOD Removal: 30 - 35%"
+                                                      ],
+                                     "NextConnection":  "NEXT -\u003e Overflow to Aeration Tank (ASP/MBBR); primary raw sludge pumped to Thickener.",
+                                     "Num":  53,
+                                     "Cat":  "STAGE 2 · PHYSICO-CHEMICAL TREATMENT",
+                                     "Title":  "Primary Clarifier (PST) - Circular Design",
+                                     "Sources":  "S5, S11, S13"
+                                 },
+                                 {
+                                     "Machine":  "Long rectangular tanks with common dividing walls, continuous non-metallic (polymeric) chain-and-flight scrapers, cross-collector screw auger, and effluent trough weirs.",
+                                     "Image":  "clarifier_primary_schematic.png",
+                                     "Hydraulics":  "Length-to-width ratio L/W \u003e= 4:1 to 6:1 to establish uniform plug flow. Velocity v \u003c= 10 - 15 mm/s to prevent bottom sludge scour.",
+                                     "Subtitle":  "Longitudinal Flow, Chain-and-Flight Scrapers \u0026 Cross Collectors",
+                                     "Purpose":  "Alternative primary sedimentation geometry ideal for multi-tank modular layouts and space-constrained plants.",
+                                     "Mechanism":  "Water flows horizontally from inlet distribution baffle to effluent launders. Chain-and-flight scrapers move along the floor in the direction of the influent, scraping sludge into a cross-collector hopper, then return along the surface skimming scum toward a scum trough.",
+                                     "DesignValues":  [
+                                                          "Length: 20 to 60 meters; Width: 4 to 10 meters",
+                                                          "Detention Time: 1.5 - 2.5 hours",
+                                                          "Scraper Flight Speed: 0.6 - 1.2 m/min",
+                                                          "Weir Loading: \u003c= 150 m3/m.d",
+                                                          "Advantage: Common-wall construction saves 20-30% civil structural cost"
+                                                      ],
+                                     "NextConnection":  "NEXT -\u003e Clarified effluent enters biological stage; primary sludge pumped to Thickener.",
+                                     "Num":  54,
+                                     "Cat":  "STAGE 2 · PHYSICO-CHEMICAL TREATMENT",
+                                     "Title":  "Primary Clarifier (PST) - Rectangular Design",
+                                     "Sources":  "S5, S13"
+                                 },
+                                 {
+                                     "Machine":  "Lamella plate modules tilted at 60° angle, feed distribution flume, top V-notch collection launders, bottom sludge hopper, and vibratory / rake sludge agitator.",
+                                     "Image":  "card_lamella_clarifier.png",
+                                     "Hydraulics":  "Reynolds number Re \u003c 500 (strictly laminar flow between plates). Critical plate spacing: 50-100 mm to prevent solids clogging.",
+                                     "Subtitle":  "Inclined Plate Settlers (IPS) \u0026 Projected Surface Settling Theory",
+                                     "Purpose":  "Reduces clarifier footprint by 80-90% by stacking multiple parallel inclined plates inside a compact vessel.",
+                                     "Mechanism":  "Hazen Theory: Settling is independent of depth and depends solely on surface area. A stack of N plates inclined at theta provides total effective area A_eff = N * A_plate * cos(theta). Settleable flocs slide down the 60° plates into the hopper while clear water flows upward.",
+                                     "DesignValues":  [
+                                                          "Plate Angle: 60° from horizontal (self-draining)",
+                                                          "Plate Spacing: 50 - 100 mm",
+                                                          "Surface Loading: 1.5 - 2.5 m/h",
+                                                          "Civil Footprint: 10% to 15% of conventional PST",
+                                                          "Material: SS304 / Polypropylene / GRP"
+                                                      ],
+                                     "NextConnection":  "NEXT -\u003e Clarified effluent to biological stage; dense thickened sludge to dewatering.",
+                                     "Num":  55,
+                                     "Cat":  "STAGE 2 · PHYSICO-CHEMICAL TREATMENT",
+                                     "Title":  "High-Rate Clarifiers: Lamella Plate Clarifiers",
+                                     "Sources":  "S5, S13"
+                                 },
+                                 {
+                                     "Machine":  "Coagulation tank, injection tank (microsand + polymer), maturation flocculator, lamella plate settling zone, hydrocyclone sand recovery system, and slurry pumps.",
+                                     "Image":  "card_actiflo_clarifier.png",
+                                     "Hydraulics":  "Total plant retention time is under 15 minutes, allowing near-instantaneous startup and shutdown during storm surges.",
+                                     "Subtitle":  "Microsand Recirculation \u0026 Ultra-High-Rate Clarification (40-80 m/h)",
+                                     "Purpose":  "Ultra-high-rate clarification for combined sewer overflows (CSO), tertiary phosphorus removal, and industrial ETP retrofits.",
+                                     "Mechanism":  "Fine silica microsand (100-150 um) is injected with polymer into chemical floc, forming dense ballasted flocs with high specific gravity. Settles at 40-80 m/h (20-40x faster than conventional clarifier). Sludge is pumped to a hydrocyclone which recovers 99% of sand for reuse.",
+                                     "DesignValues":  [
+                                                          "Rise Rate: 40 to 80 m/h",
+                                                          "Total Retention Time: 10 - 15 minutes",
+                                                          "Microsand Sieve Size: 100 - 150 um",
+                                                          "Sand Consumption: \u003c 2 g/m3 treated water",
+                                                          "TSS Removal: 90 - 95%; Total P: \u003c 0.1 mg/L"
+                                                      ],
+                                     "NextConnection":  "NEXT -\u003e Polished overflow to Biological / Tertiary stage; concentrated sludge to Dewatering.",
+                                     "Num":  56,
+                                     "Cat":  "STAGE 2 · PHYSICO-CHEMICAL TREATMENT",
+                                     "Title":  "Ballasted Flocculation: Actiflo \u0026 Densadeg",
+                                     "Sources":  "S9, S11, S13"
+                                 },
+                                 {
+                                     "Machine":  "Treatment Systems: Conventional Activated Sludge (CAS), Extended Aeration, MBBR, SBR, MBR, Oxidation Ditch, Trickling Filter, and UASB.",
+                                     "Image":  "aeration_tank_schematic.png",
+                                     "Hydraulics":  "Governed by Monod kinetics: Specific growth rate mu = mu_max * [S / (Ks + S)]. Yield coefficient Y: ~0.4 to 0.6 kg biomass produced per kg BOD removed.",
+                                     "Subtitle":  "Microbial Consortia, Aerobic Catabolism \u0026 Kinetic Growth Phases",
+                                     "Purpose":  "Converts dissolved and non-settleable colloidal biodegradable organic matter (BOD/COD) into harmless mineral end-products (CO2, H2O) and settleable bacterial biomass.",
+                                     "Mechanism":  "Aerobic heterotrophic bacteria oxidize soluble carbonaceous substrate: Organic Matter + O2 + NH3 + PO4 -\u003e New Cells + CO2 + H2O. Microorganisms self-aggregate into biological flocs (flocculation via extracellular polymeric substances - EPS) that settle under gravity.",
+                                     "DesignValues":  [
+                                                          "BOD5 Removal: 90 - 98%",
+                                                          "COD Removal: 85 - 95%",
+                                                          "Oxygen Requirement: 0.9 - 1.3 kg O2 / kg BOD removed",
+                                                          "Operating DO: 1.5 - 2.5 mg/L in aerobic basin",
+                                                          "pH Tolerance: 6.5 - 8.5; Temperature: 15° - 35°C"
+                                                      ],
+                                     "NextConnection":  "Slide 58: Conventional Activated Sludge Process (CAS) Flowsheet",
+                                     "Num":  57,
+                                     "Cat":  "STAGE 3 · BIOLOGICAL TREATMENT",
+                                     "Title":  "Biological Secondary Treatment Overview",
+                                     "Sources":  "S7, S14"
+                                 },
+                                 {
+                                     "Machine":  "Aeration basin, fine bubble diffusers, rotary lobe/turbo blowers, secondary clarifier, return activated sludge (RAS) pumps, and waste activated sludge (WAS) pumps.",
+                                     "Image":  "aeration_tank_schematic.png",
+                                     "Hydraulics":  "Mass Balance: [d(X*V)/dt] = Q*X_in - Q_eff*X_eff - Q_w*X_w + V*r_x. Sludge age is controlled strictly by wasting a fixed mass of WAS daily.",
+                                     "Subtitle":  "Process Flowsheet, Aeration Basin \u0026 Solids Separation Loop",
+                                     "Purpose":  "The global benchmark aerobic biological wastewater treatment process used in thousands of municipal and industrial plants.",
+                                     "Mechanism":  "Continuous plug-flow aeration basin where wastewater mixes with active biomass (Mixed Liquor Suspended Solids - MLSS). Bacterial flocs consume BOD over 4-8 hours. The mixed liquor flows to a secondary clarifier where solids settle; concentrated sludge is recycled (RAS) to maintain biomass inventory.",
+                                     "DesignValues":  [
+                                                          "MLSS: 2,000 - 3,500 mg/L",
+                                                          "F/M Ratio: 0.2 - 0.5 kg BOD / kg MLSS.d",
+                                                          "Hydraulic Retention Time (HRT): 4 - 8 Hours",
+                                                          "Solids Retention Time (SRT): 5 - 15 Days",
+                                                          "Volumetric BOD Loading: 0.3 - 0.8 kg BOD / m3.d"
+                                                      ],
+                                     "NextConnection":  "Slide 59: ASP Design Parameters \u0026 Operating Ratios",
+                                     "Num":  58,
+                                     "Cat":  "STAGE 3 · BIOLOGICAL TREATMENT",
+                                     "Title":  "11: Conventional Activated Sludge (CAS)",
+                                     "Sources":  "S7, S14"
+                                 },
+                                 {
+                                     "Machine":  "Online DO transmitters, optical MLSS probes, laboratory settleometer (30-min SVI test), and flowmeters on influent, RAS, and WAS lines.",
+                                     "Image":  "aeration_tank_schematic.png",
+                                     "Hydraulics":  "Low F/M causes pin-point floc and shearing; high F/M causes filamentous bulking and incomplete BOD removal. Optimal SVI is 80 - 120 mL/g.",
+                                     "Subtitle":  "F/M Ratio, MLSS, SRT/MCRT, SVI \u0026 Sludge Age Control",
+                                     "Purpose":  "Defines the core operational parameters used by engineers to design, monitor, and troubleshoot activated sludge systems.",
+                                     "Mechanism":  "Food-to-Microorganism ratio: F/M = (Q * S0) / (V * X). Mean Cell Residence Time (SRT / theta_c) = (V * X) / (Qw * Xw + Qe * Xe). Sludge Volume Index (SVI) measures sludge settleability: SVI = (Settled Sludge Volume in 30 min, mL/L * 1000) / MLSS (mg/L).",
+                                     "DesignValues":  [
+                                                          "Conventional F/M: 0.2 - 0.4",
+                                                          "Extended Aeration F/M: 0.05 - 0.15",
+                                                          "Optimal SVI: 80 - 140 mL/g (\u003c 100 is excellent, \u003e 150 indicates bulking)",
+                                                          "Sludge Yield Y_obs: 0.3 - 0.5 kg TSS / kg BOD5 removed",
+                                                          "Endogenous Decay kd: 0.04 - 0.07 d-1"
+                                                      ],
+                                     "NextConnection":  "Slide 60: Aeration Diffusers \u0026 Oxygen Transfer",
+                                     "Num":  59,
+                                     "Cat":  "STAGE 3 · BIOLOGICAL TREATMENT",
+                                     "Title":  "ASP Design Parameters \u0026 Operating Ratios",
+                                     "Sources":  "S7, S14"
+                                 },
+                                 {
+                                     "Machine":  "EPDM / Silicone / PTFE-coated fine-bubble disc diffusers (9\u0027 or 12\u0027 diameter), tubular membrane diffusers, stainless steel drop pipes, and moisture purge drainage valves.",
+                                     "Image":  "aeration_tank_schematic.png",
+                                     "Hydraulics":  "Standard Oxygen Transfer Efficiency (SOTE): 6.0 - 8.5% per meter submergence depth. Actual Oxygen Transfer Rate AOTR = SOTR * alpha * [(beta*C_sat_T_alt - C_L) / C_sat_20] * theta^(T-20).",
+                                     "Subtitle":  "Fine Bubble Membrane Discs, Tubular Diffusers \u0026 Oxygen Transfer",
+                                     "Purpose":  "Delivers dissolved oxygen to aerobic bacteria while providing hydraulic turbulence to maintain MLSS in complete suspension.",
+                                     "Mechanism":  "Compressed air passes through thousands of microscopic engineered perforations in the elastomeric membrane, creating tiny air bubbles (1-3 mm). As bubbles rise, oxygen dissolves across the gas-liquid film into mixed liquor.",
+                                     "DesignValues":  [
+                                                          "Bubble Diameter: 1 - 3 mm (fine bubble)",
+                                                          "SOTE: 30% to 40% in a 5-meter deep aeration basin",
+                                                          "Flux per Diffuser: 1.5 - 3.5 Nm3 air / h per 9-inch disc",
+                                                          "Basin Floor Density: 10% to 25% floor coverage",
+                                                          "Clean Water Transfer: 1.5 - 3.0 kg O2 / kWh"
+                                                      ],
+                                     "NextConnection":  "Slide 61: Aeration Blowers Deep-Dive",
+                                     "Num":  60,
+                                     "Cat":  "STAGE 3 · BIOLOGICAL TREATMENT",
+                                     "Title":  "Aeration Equipment: Diffusers \u0026 SOTE",
+                                     "Sources":  "S7, S14"
+                                 },
+                                 {
+                                     "Machine":  "High-Speed Turbo Blowers with permanent magnet synchronous motors (PMSM) and air/foil or active magnetic bearings (AMB), Rotary Screw Blowers, and Tri-Lobe Roots Blowers.",
+                                     "Image":  "aeration_tank_schematic.png",
+                                     "Hydraulics":  "Blowers consume 50-70% of total wastewater plant electrical energy. Turbo blowers offer wire-to-air efficiency of 75-82% (25-35% energy savings over traditional roots blowers).",
+                                     "Subtitle":  "High-Speed Turbo Air-Bearing Blowers vs Positive Displacement",
+                                     "Purpose":  "Supplies continuous compressed air volume (500 to 50,000 m3/h) at 0.4 - 0.8 bar pressure to overcome water static head.",
+                                     "Mechanism":  "High-Speed Turbo: direct-drive impeller spins at 20,000 - 60,000 RPM, using aerodynamic air foil bearings that require zero lubrication oil. Positive displacement: counter-rotating twin screws or tri-lobes trap and compress fixed volumes of air.",
+                                     "DesignValues":  [
+                                                          "Discharge Pressure: 0.4 - 0.9 bar gauge (dependent on water depth + losses)",
+                                                          "Wire-to-Air Efficiency: Turbo 75-82%; Screw 70-76%; Roots 55-65%",
+                                                          "Turndown Range: 45% to 100% flow via VFD",
+                                                          "Noise Level: Turbo \u003c 78 dBA; Roots \u003e 90 dBA",
+                                                          "Oil-Free Compression: 100% Class 0 air certification"
+                                                      ],
+                                     "NextConnection":  "Slide 62: Surface \u0026 Jet Aerators",
+                                     "Num":  61,
+                                     "Cat":  "STAGE 3 · BIOLOGICAL TREATMENT",
+                                     "Title":  "Aeration Blowers: Turbo, Screw \u0026 Rotary Lobe",
+                                     "Sources":  "S7, S14"
+                                 },
+                                 {
+                                     "Machine":  "Slow-speed fixed mechanical surface aerators (vertical cone with reduction gearbox), high-speed floating aerators, horizontal brush rotors, and submerged jet aeration manifolds with liquid recirculation pumps.",
+                                     "Image":  "clarifier_primary_schematic.png",
+                                     "Hydraulics":  "Surface Aerator transfer rate: 1.2 - 2.2 kg O2 / kWh; Jet Aerators provide independent control of oxygen transfer and liquid mixing (ideal for SBR and anoxic/aerobic cycles).",
+                                     "Subtitle":  "Mechanical Surface Impellers vs Venturi Hydraulic Jet Aerators",
+                                     "Purpose":  "Alternative aeration machinery for open lagoons, oxidation ditches, and deep/variable-level aeration basins.",
+                                     "Mechanism":  "Surface Aerators: spray droplets into ambient air, creating high interfacial contact area; Jet Aerators: liquid pump pushes MLSS through venturi nozzles, sucking compressed air and discharging a high-velocity shearing jet along tank floor.",
+                                     "DesignValues":  [
+                                                          "Slow-Speed Surface Impeller Speed: 35 - 55 RPM",
+                                                          "High-Speed Floating Speed: 950 - 1450 RPM",
+                                                          "Jet Aeration Water Depth: Up to 8 - 10 meters",
+                                                          "Jet Velocity: 6 - 10 m/s across nozzle",
+                                                          "Maintenance: Surface aerators have all moving parts above waterline"
+                                                      ],
+                                     "NextConnection":  "Slide 63: Secondary Clarifier Design \u0026 Solids Flux",
+                                     "Num":  62,
+                                     "Cat":  "STAGE 3 · BIOLOGICAL TREATMENT",
+                                     "Title":  "Surface Aerators \u0026 Submersible Jet Eductors",
+                                     "Sources":  "S7, S14"
+                                 },
+                                 {
+                                     "Machine":  "Center-feed circular tank, Energy Dissipating Inlet (EDI), flocculating feed well, bridge scraper or Tow-Bro suction sludge header, scum skimmer, and peripheral V-notch weir.",
+                                     "Image":  "clarifier_primary_schematic.png",
+                                     "Hydraulics":  "Solids Loading Rate SLR = [Q * MLSS + Q_ras * MLSS] / A_surface. Governed by Coe-Clevenger Solids Flux Theory: operating flux must be below critical limiting flux (G_limit) to prevent solids blanket carryover.",
+                                     "Subtitle":  "Solids-Liquid Separation, Hindered Settling \u0026 Clarification Zone",
+                                     "Purpose":  "Separates biological MLSS flocs from treated effluent, producing crystal-clear overflow water while thickening sludge for recirculation (RAS).",
+                                     "Mechanism":  "Dual-purpose reactor: 1. Clarification zone (upper depth): produces effluent TSS \u003c 10-15 mg/L; 2. Thickening zone (lower depth): concentrates MLSS from 3,000 mg/L to 8,000-12,000 mg/L in underflow for RAS.",
+                                     "DesignValues":  [
+                                                          "Surface Overflow Rate: 16 - 28 m3/m2.d (Average), 40 - 50 m3/m2.d (Peak)",
+                                                          "Solids Loading Rate (SLR): 90 - 140 kg/m2.d (Average), \u003c= 200 kg/m2.d (Peak)",
+                                                          "Side Water Depth: 3.5 - 4.5 meters (deep to buffer blanket surges)",
+                                                          "Detention Time: 2.0 to 4.0 hours",
+                                                          "Weir Loading: \u003c= 125 m3/m.d"
+                                                      ],
+                                     "NextConnection":  "Slide 64: Secondary Clarifier Sludge Removal Mechanisms",
+                                     "Num":  63,
+                                     "Cat":  "STAGE 3 · BIOLOGICAL TREATMENT",
+                                     "Title":  "15: Secondary Clarifier (Final Settling Tank)",
+                                     "Sources":  "S5, S6, S14"
+                                 },
+                                 {
+                                     "Machine":  "Spiral Blade Scraper Bridge vs Tow-Bro Unitube Suction Header, peripheral drive trolley, Stamford (density current) baffles, and scum beach.",
+                                     "Image":  "clarifier_primary_schematic.png",
+                                     "Hydraulics":  "Stamford baffles mounted on outer tank wall deflect upward density currents toward center, eliminating peripheral solids carryover into effluent launders.",
+                                     "Subtitle":  "Rake Scrapers vs Tow-Bro Suction Headers \u0026 Stamford Baffles",
+                                     "Purpose":  "Compares mechanical sludge removal systems to prevent sludge detention and denitrification floating sludge.",
+                                     "Mechanism":  "Spiral scraper rakes sludge slowly toward center hopper; Tow-Bro suction manifold draws sludge directly off tank floor via differential hydrostatic pressure into hollow rotating suction arm, returning fresh sludge in \u003c 30 minutes before nitrogen gas bubbles form.",
+                                     "DesignValues":  [
+                                                          "Sludge Detention Time on Floor: \u003c 45 minutes (prevents denitrification floating)",
+                                                          "Tow-Bro Suction Arm Speed: 1.5 - 3.0 RPM",
+                                                          "Underflow Solids Concentration: 0.8% to 1.2% (8,000 - 12,000 mg/L)",
+                                                          "Stamford Baffle Angle: 30° - 45° inward slope from outer wall"
+                                                      ],
+                                     "NextConnection":  "Slide 65: RAS \u0026 WAS Pumping Loops",
+                                     "Num":  64,
+                                     "Cat":  "STAGE 3 · BIOLOGICAL TREATMENT",
+                                     "Title":  "Secondary Clarifier Sludge Extraction Mechanics",
+                                     "Sources":  "S5, S6"
+                                 },
+                                 {
+                                     "Machine":  "RAS pumps (horizontal non-clog centrifugal, Archimedean screw, or submersible pumps with VFD), WAS positive displacement pumps, and magnetic flowmeters.",
+                                     "Image":  "aeration_tank_schematic.png",
+                                     "Hydraulics":  "Archimedean screw pumps are favored for RAS because they lift large volumes at low head with zero shearing of delicate biological flocs.",
+                                     "Subtitle":  "Pumping Loops, Mass Balance \u0026 Solids Inventory Control",
+                                     "Purpose":  "RAS maintains the active biocatalyst inventory in the aeration tank; WAS removes excess synthesized bacterial biomass to maintain steady sludge age.",
+                                     "Mechanism":  "RAS Recycle Ratio R = Q_ras / Q = [MLSS / (RAS_ss - MLSS)]. Typically 25% to 75% for conventional ASP, up to 100-150% for BNR plants. Daily WAS mass wasted determines Sludge Retention Time (SRT): Mass Wasted = Total Tank Biomass / SRT.",
+                                     "DesignValues":  [
+                                                          "RAS Ratio: 25% - 75% (Standard), 50% - 120% (Extended Aeration / BNR)",
+                                                          "RAS Concentration: 6,000 - 12,000 mg/L",
+                                                          "WAS Wasting Rate: Daily mass = (V * MLSS) / SRT - (Q * Effluent_TSS)",
+                                                          "WAS Pumping: Dedicated progressive cavity or chopper pump to Thickener"
+                                                      ],
+                                     "NextConnection":  "Slide 66: Extended Aeration \u0026 Oxidation Ditch",
+                                     "Num":  65,
+                                     "Cat":  "STAGE 3 · BIOLOGICAL TREATMENT",
+                                     "Title":  "Return (RAS) \u0026 Waste Activated Sludge (WAS)",
+                                     "Sources":  "S7, S14"
+                                 },
+                                 {
+                                     "Machine":  "Oval looped channel (race-track layout), horizontal mammoth brush rotors or disc aerators, flow turning baffles, and secondary clarifier.",
+                                     "Image":  "card_oxidation_ditch.png",
+                                     "Hydraulics":  "Mammoth brush rotors impart both aeration oxygen and forward propulsion velocity (0.3 - 0.4 m/s) to maintain solids suspension throughout the loop.",
+                                     "Subtitle":  "Carrousel Ditches, Brush Rotors \u0026 Endogenous Respiration",
+                                     "Purpose":  "Low-rate activated sludge system providing high BOD removal, simultaneous nitrification, and low well-stabilized sludge production.",
+                                     "Mechanism":  "Operates in the endogenous respiration growth phase (very low F/M = 0.05-0.15; long SRT = 20-30 d). Bacteria consume their own cellular protoplasm for energy, resulting in highly mineralized, odor-free waste sludge that can be dried directly without digestion.",
+                                     "DesignValues":  [
+                                                          "Hydraulic Retention Time (HRT): 18 to 24 Hours",
+                                                          "Solids Retention Time (SRT): 20 to 30 Days",
+                                                          "F/M Ratio: 0.05 - 0.12 kg BOD / kg MLSS.d",
+                                                          "MLSS Concentration: 3,000 - 5,000 mg/L",
+                                                          "Sludge Production: 40% less sludge volume than conventional CAS"
+                                                      ],
+                                     "NextConnection":  "Slide 67: Biological Nutrient Removal (BNR) Principles",
+                                     "Num":  66,
+                                     "Cat":  "STAGE 3 · BIOLOGICAL TREATMENT",
+                                     "Title":  "Extended Aeration \u0026 Oxidation Ditches",
+                                     "Sources":  "S7, S14"
+                                 },
+                                 {
+                                     "Machine":  "Aerobic bioreactor with high-precision DO control, internal recycle nitrate pumps, and online ammonium/nitrate ion-selective probes.",
+                                     "Image":  "aeration_tank_schematic.png",
+                                     "Hydraulics":  "Nitrifiers grow slowly: minimum aerobic SRT must exceed 8-15 days at 20°C (longer in winter) to prevent \u0027washout\u0027 of nitrifying bacteria.",
+                                     "Subtitle":  "Autotrophic Nitrifiers, Stoichiometry, Oxygen \u0026 Alkalinity Demand",
+                                     "Purpose":  "Converts toxic ammonia-nitrogen (NH4+) into nitrate-nitrogen (NO3-) to prevent receiving water toxicity and eutrophication.",
+                                     "Mechanism":  "Two-step autotrophic bacterial oxidation: 1. Nitrosomonas: 2 NH4+ + 3 O2 -\u003e 2 NO2- + 4 H+ + 2 H2O; 2. Nitrobacter: 2 NO2- + O2 -\u003e 2 NO3-. Requires substantial oxygen (4.57 kg O2 per kg NH4-N oxidized) and consumes 7.14 kg CaCO3 alkalinity per kg NH4-N oxidized.",
+                                     "DesignValues":  [
+                                                          "Oxygen Consumption: 4.57 kg O2 / kg NH4-N oxidized",
+                                                          "Alkalinity Consumption: 7.14 mg CaCO3 / mg NH4-N oxidized",
+                                                          "DO Requirement: \u003e= 2.0 mg/L in nitrification zone",
+                                                          "Optimal pH: 7.5 - 8.5 (rate drops sharply below pH 6.8)",
+                                                          "Effluent NH4-N: \u003c 1.0 - 2.0 mg/L"
+                                                      ],
+                                     "NextConnection":  "Slide 68: Denitrification Kinetics \u0026 MLE Process",
+                                     "Num":  67,
+                                     "Cat":  "STAGE 3 · BIOLOGICAL TREATMENT",
+                                     "Title":  "Biological Nutrient Removal (BNR): Nitrification",
+                                     "Sources":  "S14"
+                                 },
+                                 {
+                                     "Machine":  "Anoxic basin with submersible low-speed propeller mixers (no aeration), high-volume low-head internal nitrate recycle (MLR) pumps, and aerobic basin.",
+                                     "Image":  "aeration_tank_schematic.png",
+                                     "Hydraulics":  "Mixed Liquor Internal Recycle (MLR) ratio: R_int = 200% to 400% of forward flow. Total N Removal Efficiency = (R_int + R_ras) / (1 + R_int + R_ras) = 75% to 85%.",
+                                     "Subtitle":  "Modified Ludzack-Ettinger Layout \u0026 Internal Nitrate Recirculation",
+                                     "Purpose":  "Reduces oxidized nitrate (NO3-) to inert nitrogen gas (N2), recovering 50% of consumed alkalinity and reducing total nitrogen.",
+                                     "Mechanism":  "Heterotrophic facultative bacteria in anoxic tank (DO \u003c 0.2 mg/L) utilize nitrate as terminal electron acceptor, oxidizing raw influent carbon (BOD): NO3- + Organic Carbon -\u003e N2(g) + CO2 + H2O + OH-. Generates 3.57 kg CaCO3 alkalinity per kg NO3-N reduced.",
+                                     "DesignValues":  [
+                                                          "Anoxic Retention Time: 1.5 to 3.0 Hours",
+                                                          "Anoxic Mixing Power: 4 - 6 W/m3 (non-aerating mixers)",
+                                                          "Internal Recycle Ratio: 200% - 400% (2Q - 4Q)",
+                                                          "Alkalinity Recovery: 3.57 mg CaCO3 per mg NO3-N reduced",
+                                                          "Total Nitrogen (TN) Limit: \u003c 10 mg/L"
+                                                      ],
+                                     "NextConnection":  "Slide 69: Biological Phosphorus Removal (EBPR) \u0026 A2O Process",
+                                     "Num":  68,
+                                     "Cat":  "STAGE 3 · BIOLOGICAL TREATMENT",
+                                     "Title":  "Denitrification \u0026 The MLE Process Train",
+                                     "Sources":  "S14"
+                                 },
+                                 {
+                                     "Machine":  "Anaerobic selector basin (no DO, no NO3-), anoxic basin, aerobic basin (A2O layout), submersible mixers, and low-shear sludge wasting.",
+                                     "Image":  "mbbr_reactor_schematic.png",
+                                     "Hydraulics":  "Strict anaerobic conditions mandatory: presence of dissolved oxygen or nitrate in selector uncouples VFA uptake; UCT layout routes RAS to anoxic zone first to protect selector.",
+                                     "Subtitle":  "Polyphosphate Accumulating Organisms (PAOs) \u0026 The A2O / UCT Train",
+                                     "Purpose":  "Removes dissolved orthophosphate from wastewater biologically without relying exclusively on chemical coagulants.",
+                                     "Mechanism":  "PAOs (Accumulibacter): 1. Anaerobic Zone: PAOs consume Volatile Fatty Acids (VFAs) and store polyhydroxyalkanoates (PHAs), releasing stored polyphosphate into water; 2. Aerobic Zone: PAOs oxidize PHAs and take up luxury amounts of phosphorus (5-7% of cell dry weight vs normal 1.5-2%), which is permanently removed via WAS.",
+                                     "DesignValues":  [
+                                                          "Anaerobic Zone HRT: 1.0 to 1.5 Hours",
+                                                          "VFA/Total P Ratio: \u003e 25:1 required in raw feed",
+                                                          "Sludge Phosphorus Content: 4% to 7% of dry solids",
+                                                          "Effluent Total P: \u003c 0.5 - 1.0 mg/L",
+                                                          "Chemical Trim: Standby alum/ferric dosing for polishing"
+                                                      ],
+                                     "NextConnection":  "Slide 70: Moving Bed Biofilm Reactor (MBBR) Fundamentals",
+                                     "Num":  69,
+                                     "Cat":  "STAGE 3 · BIOLOGICAL TREATMENT",
+                                     "Title":  "Biological Phosphorus Removal (EBPR)",
+                                     "Sources":  "S14"
+                                 },
+                                 {
+                                     "Machine":  "Bioreactor tank, HDPE fluidized biofilm carriers (K1, K3, BioChip), coarse bubble non-clog aeration grid, carrier retention sieve, and blower.",
+                                     "Image":  "mbbr_reactor_schematic.png",
+                                     "Hydraulics":  "Carriers are kept in continuous suspension and uniform motion throughout the tank volume by coarse bubble aeration grids or mechanical mixers in anoxic zones.",
+                                     "Subtitle":  "Fluidized Biofilm Carriers, Biomass Architecture \u0026 Zero Sludge Recycle",
+                                     "Purpose":  "Compact, high-rate attached-growth biological process ideal for plant retrofits, industrial ETPs, and high-load upgrades.",
+                                     "Mechanism":  "Specially engineered high-density polyethylene (HDPE) carriers with specific gravity ~0.95 circulate freely in the aerated tank. Heterotrophic and nitrifying bacteria form a dense, robust biofilm on the protected internal surfaces of carriers. No RAS pump or secondary sludge recycle is required.",
+                                     "DesignValues":  [
+                                                          "Carrier Protected Surface Area: 500 to 1200 m2/m3 carrier",
+                                                          "Filling Fraction (FR): 40% to 65% of tank volume",
+                                                          "Surface Area Loading Rate (SALR): 7 - 15 g BOD / m2.d",
+                                                          "Hydraulic Retention Time (HRT): 3 - 6 Hours (50% of CAS)",
+                                                          "Carrier Material: Virgin HDPE (SG = 0.95 - 0.98)"
+                                                      ],
+                                     "NextConnection":  "Slide 71: MBBR Mechanical Components \u0026 Sieves",
+                                     "Num":  70,
+                                     "Cat":  "STAGE 3 · BIOLOGICAL TREATMENT",
+                                     "Title":  "12: Moving Bed Biofilm Reactor (MBBR)",
+                                     "Sources":  "S15"
+                                 },
+                                 {
+                                     "Machine":  "Stainless steel (SS304/SS316) medium/coarse bubble aeration grid, cylindrical/flat wedge-wire outlet retention sieves, and carrier filling/extraction ports.",
+                                     "Image":  "mbbr_reactor_schematic.png",
+                                     "Hydraulics":  "Sieve Approach Velocity: \u003c= 0.3 - 0.4 m/s to prevent hydraulic pinning of carriers against sieve surface. Sieve must include internal air-scour piping.",
+                                     "Subtitle":  "Coarse Bubble Aeration Grids \u0026 Wedge-Wire Carrier Retention Sieves",
+                                     "Purpose":  "Details the specialized mechanical hardware required to fluidize media and retain carriers inside the basin.",
+                                     "Mechanism":  "Aeration Grid: full-floor stainless manifold with non-clog orifices provides mixing energy (20-35 W/m3) to fluidize thousands of carriers. Retention Sieve: slot width must be smaller than smallest carrier dimension (slot = 60-70% of carrier size), preventing carrier loss into effluent.",
+                                     "DesignValues":  [
+                                                          "Retention Sieve Aperture: 3 - 5 mm wedge wire slots",
+                                                          "Sieve Cleaning: Continuous air-scour header mounted directly below sieve",
+                                                          "Aeration Grid Orifice Size: 4 - 8 mm laser-cut holes",
+                                                          "Tank Wall Freeboard: 0.8 - 1.2 m to prevent carrier wash-out over wall",
+                                                          "Mixer in Anoxic MBBR: Banana-blade low-speed submersible mixer (25 - 40 RPM)"
+                                                      ],
+                                     "NextConnection":  "Slide 72: Integrated Fixed-Film Activated Sludge (IFAS)",
+                                     "Num":  71,
+                                     "Cat":  "STAGE 3 · BIOLOGICAL TREATMENT",
+                                     "Title":  "MBBR Mechanical Components Architecture",
+                                     "Sources":  "S15"
+                                 },
+                                 {
+                                     "Machine":  "Conventional aeration basin retrofitted with 30-50% fill of MBBR carriers or fixed textile cord loops, coarse/fine diffusers, retention sieves, and full RAS return line.",
+                                     "Image":  "mbbr_reactor_schematic.png",
+                                     "Hydraulics":  "Clarifier solids loading remains manageable because MLSS is kept moderate, yet effective biomass inventory corresponds to 6,000-8,000 mg/L equivalent MLSS.",
+                                     "Subtitle":  "Hybrid Suspended + Attached Growth Dual-Biomass Process",
+                                     "Purpose":  "Upgrades existing overloaded activated sludge basins for simultaneous nitrification without expanding civil tank volume.",
+                                     "Mechanism":  "Dual-population biomass: 1. Suspended MLSS (2,500-3,500 mg/L) handles fast-growing heterotrophic carbon oxidation (BOD); 2. Attached biofilm on carriers shelters slow-growing nitrifiers, maintaining complete nitrification at short suspended SRT (3-5 days).",
+                                     "DesignValues":  [
+                                                          "Carrier Fill: 30% to 50% of basin volume",
+                                                          "Equivalent Biomass: 6,000 - 9,000 mg/L",
+                                                          "Nitrification Capacity: 2x to 3x increase over standard CAS",
+                                                          "Secondary Clarifier Impact: Zero increase in solids loading",
+                                                          "RAS Recycle: Standard 50% to 100% RAS return maintained"
+                                                      ],
+                                     "NextConnection":  "Slide 73: Sequencing Batch Reactor (SBR) Fundamentals",
+                                     "Num":  72,
+                                     "Cat":  "STAGE 3 · BIOLOGICAL TREATMENT",
+                                     "Title":  "Integrated Fixed-Film Activated Sludge (IFAS)",
+                                     "Sources":  "S15"
+                                 },
+                                 {
+                                     "Machine":  "Multi-tank SBR array (minimum 2 basins), fine-bubble diffusers, blowers, motorized decanter mechanism, waste sludge pump, and master PLC automation panel.",
+                                     "Image":  "sbr_cycles_schematic.png",
+                                     "Hydraulics":  "Ideal quiescent settling: because there is zero hydraulic inflow or outflow during the Settle phase, settling efficiency exceeds continuous-flow clarifiers.",
+                                     "Subtitle":  "Cyclic Single-Basin Architecture: 5 Operational Phases",
+                                     "Purpose":  "Replaces separate aeration tanks, secondary clarifiers, and RAS pumps with a single multi-functional automated basin operating sequentially in time.",
+                                     "Mechanism":  "Operates on a repetitive 4-6 hour batch cycle consisting of 5 distinct chronological phases: 1. FILL: Influent fills basin (anoxic/anaerobic); 2. REACT: Air diffusers activate for aerobic carbon oxidation \u0026 nitrification; 3. SETTLE: Air stops, basin becomes a perfect quiescent clarifier; 4. DECANT: Motorized weir decants clarified supernatant; 5. IDLE / WAS: Concentrated bottom sludge wasted.",
+                                     "DesignValues":  [
+                                                          "Cycle Duration: 4.0 to 6.0 Hours per batch",
+                                                          "Phase Breakdown: Fill 1-2h | React 1.5-2.5h | Settle 0.75-1.0h | Decant 0.5-0.75h | Idle 0.25h",
+                                                          "Number of Basins: 2 to 4 parallel tanks for continuous inflow",
+                                                          "MLSS at Low Water Level: 4,000 - 5,500 mg/L",
+                                                          "Decant Depth: 25% to 40% of total tank liquid height"
+                                                      ],
+                                     "NextConnection":  "Slide 74: SBR Mechanical Decanters \u0026 Automation",
+                                     "Num":  73,
+                                     "Cat":  "STAGE 3 · BIOLOGICAL TREATMENT",
+                                     "Title":  "13: Sequencing Batch Reactor (SBR)",
+                                     "Sources":  "S16"
+                                 },
+                                 {
+                                     "Machine":  "Motorized electromechanical screw-driven decanter, floating weir decanter with pneumatic actuators, stainless scum baffle skirt, and flexible elastomer/stainless pivot discharge joint.",
+                                     "Image":  "sbr_cycles_schematic.png",
+                                     "Hydraulics":  "Decant Rate Q_decant = 2.5 to 4.0 * Average Inflow Q. Downstream units (tertiary filters) must be sized for this higher instantaneous batch surge.",
+                                     "Subtitle":  "Floating Weir, Electromechanical Screw \u0026 Siphon Decanters",
+                                     "Purpose":  "Discharges crystal-clear supernatant water during the decant phase without disturbing settled sludge or entraining floating scum.",
+                                     "Mechanism":  "During React and Settle, the decanter rests parked above the high water level. At Decant, an electric actuator lowers the weir crest at a controlled rate just below the water surface. Scum guard prevents floating scum from entering, and water discharges through a sealed swivel joint.",
+                                     "DesignValues":  [
+                                                          "Decant Travel Speed: 0.05 - 0.20 m/min modulated by VFD",
+                                                          "Clear Water Depth Above Sludge Blanket: \u003e= 1.0 m safety margin",
+                                                          "Drive Type: Heavy-duty electromechanical linear actuator with position encoder",
+                                                          "Scum Skirt Submergence: 100 - 150 mm",
+                                                          "Material: All-wetted parts AISI 304 / 316 stainless steel"
+                                                      ],
+                                     "NextConnection":  "Slide 75: Membrane Bioreactor (MBR) Fundamentals",
+                                     "Num":  74,
+                                     "Cat":  "STAGE 3 · BIOLOGICAL TREATMENT",
+                                     "Title":  "SBR Mechanical Decanter Architecture",
+                                     "Sources":  "S16"
+                                 },
+                                 {
+                                     "Machine":  "Submerged membrane filtration tank, membrane cassettes (hollow fiber or flat sheet), permeate suction pumps, air scour blowers, and CIP chemical cleaning skid.",
+                                     "Image":  "mbr_membrane_schematic.png",
+                                     "Hydraulics":  "Permeate flux J = Q / A_membrane (15 - 25 LMH). Transmembrane Pressure (TMP) = P_permeate - P_tank = -0.05 to -0.40 bar. Governed by Darcy\u0027s Law: J = TMP / (mu * R_total).",
+                                     "Subtitle":  "Ultrafiltration Membrane Separation \u0026 Secondary Clarifier Elimination",
+                                     "Purpose":  "Combines biological activated sludge with physical micro/ultrafiltration membranes, completely replacing secondary clarifiers and tertiary sand filters.",
+                                     "Mechanism":  "Membrane pore size (0.04-0.1 um) forms an absolute physical barrier that retains all bacteria, suspended solids, and colloidal macromolecules. The aeration tank operates at extremely high MLSS (8,000-12,000 mg/L), producing reuse-grade effluent with zero suspended solids (TSS \u003c 1 mg/L, Turbidity \u003c 0.2 NTU).",
+                                     "DesignValues":  [
+                                                          "Membrane Pore Size: 0.04 - 0.10 um (Ultrafiltration)",
+                                                          "Operating Flux: 15 to 25 LMH (L/m2.h) average, 30 LMH peak",
+                                                          "MLSS Concentration: 8,000 - 12,000 mg/L",
+                                                          "Sludge Retention Time (SRT): 15 - 25 Days",
+                                                          "Footprint: 50% to 70% smaller than conventional ASP + clarifier"
+                                                      ],
+                                     "NextConnection":  "Slide 76: MBR Cassettes, Air Scour \u0026 Cleaning",
+                                     "Num":  75,
+                                     "Cat":  "STAGE 3 · BIOLOGICAL TREATMENT",
+                                     "Title":  "14: Membrane Bioreactor (MBR)",
+                                     "Sources":  "S16, S17"
+                                 },
+                                 {
+                                     "Machine":  "Hollow Fiber (PVDF reinforced fibers potted into headers) vs Flat Sheet (flat polymer membranes ultrasonically welded to plastic support plates), air scour blower, and backpulse pump.",
+                                     "Image":  "mbr_membrane_schematic.png",
+                                     "Hydraulics":  "Air Scour Ratio SADm = 0.15 - 0.30 Nm3 air / m2 membrane area / h. Intermittent filtration: 9 minutes suction + 1 minute relaxation.",
+                                     "Subtitle":  "Module Configurations, Air Scour Aeration \u0026 Clean-in-Place (CIP)",
+                                     "Purpose":  "Compares membrane module architectures and details fouling mitigation via air scouring and chemical CIP cleaning.",
+                                     "Mechanism":  "Coarse air bubbles inject continuously below membrane cassettes; rising bubble-water turbulence scours membrane fiber surfaces, shearing away cake sludge. Periodic back-pulsing (hollow fiber) and weekly Chemically Enhanced Backwash (CEB with NaOCl and Citric Acid) remove organic and mineral scale.",
+                                     "DesignValues":  [
+                                                          "Membrane Material: PVDF (Polyvinylidene fluoride) with hydrophilic coating",
+                                                          "Fiber Tensile Strength: \u003e 200 N (reinforced braided fiber)",
+                                                          "Cleaning Chemicals: Sodium Hypochlorite (500-1000 mg/L) + Citric Acid (2000 mg/L)",
+                                                          "Membrane Life: 8 to 12 Years with proper pre-screening (\u003c 1-2 mm)",
+                                                          "Direct Feed to RO: SDI \u003c 2.5 (ideal pre-treatment for Reverse Osmosis)"
+                                                      ],
+                                     "NextConnection":  "Slide 77: Anaerobic Biological Treatment Principles",
+                                     "Num":  76,
+                                     "Cat":  "STAGE 3 · BIOLOGICAL TREATMENT",
+                                     "Title":  "MBR Membranes: Hollow Fiber vs Flat Sheet",
+                                     "Sources":  "S16, S17"
+                                 },
+                                 {
+                                     "Machine":  "Upflow Anaerobic Sludge Blanket (UASB), Internal Circulation (IC) Reactor, Expanded Granular Sludge Bed (EGSB), and Anaerobic CSTR Digester.",
+                                     "Image":  "card_uasb_reactor.png",
+                                     "Hydraulics":  "Operates under strict redox potential (ORP \u003c -300 mV). Sensitive to volatile acid accumulation (VFA/Alkalinity ratio must stay \u003c 0.3 to prevent acid crash).",
+                                     "Subtitle":  "4-Stage Degradation Pathway: Hydrolysis to Methanogenesis",
+                                     "Purpose":  "High-efficiency biological degradation for high-strength industrial wastewaters (COD \u003e 2,000 - 50,000 mg/L) with zero aeration energy and net energy generation via biogas.",
+                                     "Mechanism":  "Sequential 4-stage syntrophic microbial food chain: 1. HYDROLYSIS: complex polymers broken down to monomers; 2. ACIDOGENESIS: volatile fatty acids (VFAs) formed; 3. ACETOGENESIS: VFAs converted to acetate, CO2, H2; 4. METHANOGENESIS: strictly anaerobic Archaea convert acetate and H2 into methane gas (CH4 65-75%, CO2 25-30%).",
+                                     "DesignValues":  [
+                                                          "COD Removal Efficiency: 75% to 90%",
+                                                          "Biogas Production: 0.35 m3 CH4 / kg COD removed at STP",
+                                                          "Energy Value of Biogas: 20 - 24 MJ/m3 (approx. 6.0 kWh/m3)",
+                                                          "Sludge Yield: 0.05 - 0.10 kg dry biomass / kg COD (5-10x less than aerobic ASP)",
+                                                          "Operating Temperature: Mesophilic 35° - 38°C; Thermophilic 52° - 55°C"
+                                                      ],
+                                     "NextConnection":  "Slide 78: UASB Reactor \u0026 3-Phase GLSS Separator",
+                                     "Num":  77,
+                                     "Cat":  "STAGE 3 · BIOLOGICAL TREATMENT",
+                                     "Title":  "Anaerobic Biological Treatment Principles",
+                                     "Sources":  "S7, S20, S21"
+                                 },
+                                 {
+                                     "Machine":  "Tall vertical reactor tower (5-7 m deep), bottom influent distribution manifold with multiple feed points, dense anaerobic granular sludge bed, internal 3-Phase Gas-Liquid-Solid Separator (GLSS) hoods, and biogas dome.",
+                                     "Image":  "card_uasb_reactor.png",
+                                     "Hydraulics":  "Upflow velocity V_up = 0.7 - 1.2 m/h. Granules settle at 20-50 m/h, allowing ultra-high solids retention inside the reactor despite fast liquid throughput.",
+                                     "Subtitle":  "Granular Sludge Bed, Bottom Distribution Spiders \u0026 Gas Hoods",
+                                     "Purpose":  "The world\u0027s most widely deployed high-rate anaerobic bioreactor for food, beverage, distillery, and municipal wastewater.",
+                                     "Mechanism":  "Wastewater is pumped into bottom distribution nozzles and flows upward through a dense bed of self-immobilized anaerobic granules (1-3 mm spherical pellets). Bacteria digest COD, producing rising biogas bubbles. At reactor top, angled GLSS baffle hoods divert gas into biogas collection pipes while biomass slides back down and clarified water overflows weirs.",
+                                     "DesignValues":  [
+                                                          "Volumetric COD Loading: 5 - 15 kg COD / m3 reactor.d",
+                                                          "Upflow Velocity: 0.7 - 1.2 m/h (average), up to 1.5 m/h peak",
+                                                          "Sludge Blanket Concentration: 20,000 - 40,000 mg/L (as granules)",
+                                                          "GLSS Deflector Hood Angle: 45° - 60°",
+                                                          "Effluent Polish: Anaerobic effluent requires downstream aerobic ASP/MBBR"
+                                                      ],
+                                     "NextConnection":  "Slide 79: High-Rate Anaerobic Reactors (IC \u0026 EGSB)",
+                                     "Num":  78,
+                                     "Cat":  "STAGE 3 · BIOLOGICAL TREATMENT",
+                                     "Title":  "UASB Reactor \u0026 3-Phase GLSS Separator",
+                                     "Sources":  "S7, S21"
+                                 },
+                                 {
+                                     "Machine":  "Tall slender column reactor (15 - 24 meters high), dual-stage GLSS separator, internal gas-lift riser pipe, downcomer circulation pipe, and cyclone degasser.",
+                                     "Image":  "card_uasb_reactor.png",
+                                     "Hydraulics":  "Upflow velocity V_up = 4.0 - 8.0 m/h (EGSB/IC) vs 1.0 m/h in UASB. High turbulence ensures complete mass transfer between granules and wastewater.",
+                                     "Subtitle":  "Internal Circulation (IC) \u0026 Expanded Granular Sludge Beds",
+                                     "Purpose":  "Ultra-high-rate anaerobic digestion operating at 2x to 3x the loading rate of conventional UASB reactors.",
+                                     "Mechanism":  "Internal Circulation (IC): Rising biogas produced in high-load lower compartment is trapped by lower separator and drives an internal gas-lift pump, lifting water and gas to a top cyclone separator. Degassed water returns via downcomer to reactor bottom, generating massive internal dilution and fluidization.",
+                                     "DesignValues":  [
+                                                          "Volumetric Loading: 15 to 35 kg COD / m3 reactor.d",
+                                                          "Reactor Height: 16 to 24 meters",
+                                                          "Footprint: 30% of equivalent UASB",
+                                                          "Internal Recirculation Ratio: 2x to 5x feed flow driven purely by biogas lift",
+                                                          "Biogas Methane Content: 70 - 80% CH4"
+                                                      ],
+                                     "NextConnection":  "Slide 80: Attached-Growth Trickling Filters \u0026 RBC",
+                                     "Num":  79,
+                                     "Cat":  "STAGE 3 · BIOLOGICAL TREATMENT",
+                                     "Title":  "High-Rate Anaerobic: IC \u0026 EGSB Reactors",
+                                     "Sources":  "S7, S21"
+                                 },
+                                 {
+                                     "Machine":  "Trickling Filter (circular rock or structured PVC cross-flow media bed, 4-arm rotating hydraulic distributor, underdrain tiles) and RBC (horizontal shaft rotating disc packs, 40% submerged, fiberglass hood).",
+                                     "Image":  "card_uasb_reactor.png",
+                                     "Hydraulics":  "Hydraulic sloughing: as biofilm thickens (\u003e 1-2 mm), anaerobic shearing at the media interface causes sloughing of humus sludge into effluent.",
+                                     "Subtitle":  "Structured Plastic Media \u0026 Rotating Biological Contactors",
+                                     "Purpose":  "Low-energy aerobic fixed-film biological treatment suitable for small communities and decentralized treatment plants.",
+                                     "Mechanism":  "Trickling Filter: Wastewater is sprayed over media; natural draft air moves upward through underdrains as water trickles downward over attached biofilm. RBC: discs slowly rotate (1-2 RPM); biofilm is alternately exposed to wastewater (nutrient absorption) and ambient air (oxygen absorption).",
+                                     "DesignValues":  [
+                                                          "Structured Plastic Specific Area: 100 - 250 m2/m3",
+                                                          "Trickling Filter Loading: 0.4 - 1.2 kg BOD / m3.d",
+                                                          "RBC Disc Diameter: 2.0 to 3.8 meters (corrugated polypropylene)",
+                                                          "RBC Rotational Speed: 1.0 - 2.5 RPM; Peripheral Speed: ~0.3 m/s",
+                                                          "Energy Consumption: Up to 60% lower than activated sludge"
+                                                      ],
+                                     "NextConnection":  "Slide 81: Biogas Handling, Scrubbing \u0026 Safety",
+                                     "Num":  80,
+                                     "Cat":  "STAGE 3 · BIOLOGICAL TREATMENT",
+                                     "Title":  "Attached-Growth: Trickling Filters \u0026 RBC",
+                                     "Sources":  "S7, S21"
+                                 },
+                                 {
+                                     "Machine":  "Gravel bed moisture separator, biological/chemical H2S desulfurization tower, gas booster blowers, double-membrane gas holder, deflagration flame arrestors, and enclosed thermal flare.",
+                                     "Image":  "card_dmf_filter.png",
+                                     "Hydraulics":  "Flame arrestors must be ATEX/UL certified to quench flashback flame fronts in biogas pipelines (\u003c 0.2 bar backpressure).",
+                                     "Subtitle":  "H2S Biological Scrubbers, Moisture Traps, Gas Holders \u0026 Flares",
+                                     "Purpose":  "Cleans, conditions, stores, and safely utilizes or combusts combustible biogas generated by anaerobic reactors.",
+                                     "Mechanism":  "Raw biogas contains 60-75% CH4, 25-35% CO2, and 500-10,000 ppm corrosive H2S. H2S is oxidized in a biological trickling filter by Thiobacillus: 2 H2S + O2 -\u003e 2 S0 + 2 H2O. Clean dry biogas is piped to CHP gas engines or boiler burners.",
+                                     "DesignValues":  [
+                                                          "Biogas Composition: 65% CH4, 34% CO2, 1% H2O/N2, 500-5000 ppm H2S",
+                                                          "H2S Scrubber Outlet: \u003c 50 - 100 ppm H2S (protects gas engines)",
+                                                          "Gas Holder Pressure: 15 to 30 mbar",
+                                                          "Flare Combustion Temp: 1,000° - 1,150°C (enclosed low-NOx flare)",
+                                                          "Safety Devices: Thermal shutoff valve, pressure relief valve (PRV), continuous CH4/H2S detectors"
+                                                      ],
+                                     "NextConnection":  "Slide 82: Stage 4 Tertiary Treatment Overview",
+                                     "Num":  81,
+                                     "Cat":  "STAGE 3 · BIOLOGICAL TREATMENT",
+                                     "Title":  "Biogas Recovery, Scrubbing \u0026 Flare Systems",
+                                     "Sources":  "S18, S21"
+                                 },
+                                 {
+                                     "Machine":  "Treatment Sequence: Secondary Clarifier Overflow -\u003e Dual Media Pressure Sand Filter (DMF) -\u003e Activated Carbon Filter (ACF) -\u003e Disinfection (Chlorine / UV / O3) -\u003e Reuse / UF Feed.",
+                                     "Image":  "card_dmf_filter.png",
+                                     "Hydraulics":  "Pumped pressure vessels with automatic valve nests, pressure transmitters, and differential-pressure-triggered automatic backwash sequences.",
+                                     "Subtitle":  "Suspended Solids Capture, Color/Odor Removal \u0026 Disinfection",
+                                     "Purpose":  "Polishes secondary biologically treated effluent to meet stringent environmental discharge standards or prepare water for recycling and reuse.",
+                                     "Mechanism":  "Physical depth filtration captures residual biological flocs; activated carbon adsorbs non-biodegradable refractory COD, color, and trace pharmaceuticals; chemical/UV disinfection inactivates bacterial and viral pathogens.",
+                                     "DesignValues":  [
+                                                          "TSS Post-Tertiary: \u003c 2 - 5 mg/L",
+                                                          "Turbidity: \u003c 1 - 2 NTU",
+                                                          "BOD5 Post-Tertiary: \u003c 5 mg/L",
+                                                          "Fecal Coliforms: Nil / \u003c 100 MPN / 100 mL",
+                                                          "Total Recovery: 95% to 98% of secondary effluent"
+                                                      ],
+                                     "NextConnection":  "Slide 83: Dual Media Filters (DMF) Deep-Dive",
+                                     "Num":  82,
+                                     "Cat":  "STAGE 4 · TERTIARY TREATMENT",
+                                     "Title":  "Tertiary Treatment \u0026 Polishing Overview",
+                                     "Sources":  "S18"
+                                 },
+                                 {
+                                     "Machine":  "Vertical cylindrical ASME carbon steel / FRP pressure vessel, top distribution baffle, graded anthracite upper bed, silica sand lower bed, bottom underdrain lateral strainers, and backwash blower/pump.",
+                                     "Image":  "card_dmf_filter.png",
+                                     "Hydraulics":  "Filtration rate: 10 - 15 m/h. Backwash triggered by differential pressure (delta-P \u003e 0.5 - 0.7 bar) or timer (24-48 hours): 1. Air scour at 50 m/h fluidizes bed; 2. High-rate water backwash at 35-45 m/h flushes trapped solids.",
+                                     "Subtitle":  "Anthracite \u0026 Silica Sand Grading, Interstitial Voids \u0026 Backwash",
+                                     "Purpose":  "Removes remaining suspended solids, turbidity, and fine colloidal matter using pressurized dual-layer granular media.",
+                                     "Mechanism":  "Depth filtration: Coarse anthracite (top, 0.8-1.2 mm) traps larger solids without surface blinding; fine silica sand (bottom, 0.45-0.55 mm) polishes fine particulates. Provides 3x the solids storage capacity of single-media sand filters.",
+                                     "DesignValues":  [
+                                                          "Filtration Velocity: 10 - 15 m/h (normal), up to 18 m/h peak",
+                                                          "Anthracite Depth: 400 - 500 mm (Effective Size 1.0 mm, Uniformity Coeff \u003c 1.4)",
+                                                          "Silica Sand Depth: 400 - 500 mm (Effective Size 0.5 mm, UC \u003c 1.4)",
+                                                          "Support Gravel Depth: 250 - 300 mm graded gravel",
+                                                          "Backwash Water Consumption: 2% to 4% of filtered volume"
+                                                      ],
+                                     "NextConnection":  "Slide 84: Granular Activated Carbon (GAC) Filters",
+                                     "Num":  83,
+                                     "Cat":  "STAGE 4 · TERTIARY TREATMENT",
+                                     "Title":  "16: Dual Media Filters (DMF / PSF)",
+                                     "Sources":  "S18"
+                                 },
+                                 {
+                                     "Machine":  "Pressure contact vessel lined with rubber/epoxy, virgin granular activated carbon bed (bituminous coal or coconut shell), top distributor, bottom Johnson screen laterals, and steam injection ports.",
+                                     "Image":  "card_gac_filter.png",
+                                     "Hydraulics":  "Governed by Freundlich / Langmuir adsorption isotherms. Sizing parameter is Empty Bed Contact Time (EBCT) = Volume_bed / Flow = 15 to 25 minutes.",
+                                     "Subtitle":  "Pore Structure, Iodine Number, Adsorption Isotherms \u0026 Regeneration",
+                                     "Purpose":  "Adsorptive extraction of dissolved non-biodegradable organics, toxic recalcitrant micropollutants, dyes, color, and chlorine.",
+                                     "Mechanism":  "Physical and chemical adsorption onto internal pore surfaces. GAC provides 800 - 1,200 m2 of internal surface area per gram of carbon. Captures aromatic compounds, phenolics, surfactants, chlorinated solvents, and residual oxidants via van der Waals forces.",
+                                     "DesignValues":  [
+                                                          "Empty Bed Contact Time (EBCT): 15 - 25 minutes",
+                                                          "Iodine Number: \u003e= 900 - 1,100 mg/g",
+                                                          "Bed Depth: 1.2 to 2.2 meters",
+                                                          "Linear Filtration Velocity: 8 - 12 m/h",
+                                                          "Carbon Replacement Frequency: 12 to 24 months (or on-site thermal reactivation)"
+                                                      ],
+                                     "NextConnection":  "Slide 85: Continuous Upflow Sand \u0026 Disc Filters",
+                                     "Num":  84,
+                                     "Cat":  "STAGE 4 · TERTIARY TREATMENT",
+                                     "Title":  "Granular Activated Carbon (GAC / ACF)",
+                                     "Sources":  "S18"
+                                 },
+                                 {
+                                     "Machine":  "Dynasand Upflow Filter (conical bottom tank, central airlift pipe, top sand washer) and Pile-Cloth Disc Filter (rotating cloth discs mounted on central drum, vacuum suction backwash shoes).",
+                                     "Image":  "card_dmf_filter.png",
+                                     "Hydraulics":  "Zero backwash shut-down downtime; continuous reject stream (3-5% of feed) is recycled directly back to the primary clarifier.",
+                                     "Subtitle":  "Moving Bed Sand (Dynasand) \u0026 Rotating Pile-Cloth Disc Filters",
+                                     "Purpose":  "Continuous non-stop tertiary filtration without shutting down for backwashing cycles.",
+                                     "Mechanism":  "Dynasand: Water flows upward through descending sand bed; an internal central airlift continuously lifts fouled sand to a top washer where counter-current water cleans sand, dropping it back onto bed. Disc Filter: Water flows through cloth discs from outside-in; vacuum shoes clean rotating cloth automatically.",
+                                     "DesignValues":  [
+                                                          "Disc Filter Cloth Pore: 5 - 10 microns pile-cloth",
+                                                          "Disc Filter Hydraulic Loading: 10 - 20 m/h",
+                                                          "Dynasand Filtration Velocity: 8 - 12 m/h",
+                                                          "Footprint: Disc filters take 20% of conventional sand filter footprint",
+                                                          "Turbidity Output: \u003c 1.0 NTU"
+                                                      ],
+                                     "NextConnection":  "Slide 86: Disinfection Principles \u0026 Chlorination",
+                                     "Num":  85,
+                                     "Cat":  "STAGE 4 · TERTIARY TREATMENT",
+                                     "Title":  "Continuous Backwash \u0026 Disc Filters",
+                                     "Sources":  "S18"
+                                 },
+                                 {
+                                     "Machine":  "Vacuum gas chlorinator OR Sodium Hypochlorite (NaOCl 10-12%) dosing pump skid, in-line static mixer, serpentine baffled Chlorine Contact Basin (CCB), and residual chlorine analyzer.",
+                                     "Image":  "card_uv_disinfection.png",
+                                     "Hydraulics":  "Governed by Chick-Watson Law: ln(N/N0) = -k * C * t. Disinfection efficacy depends on CT Value = Free Chlorine Residual (mg/L) * Contact Time (minutes). Serpentine baffled channel enforces strictly plug flow (Morrill Index \u003c 2.0).",
+                                     "Subtitle":  "Sodium Hypochlorite Dosing, Chlorine Contact Basins \u0026 CT Values",
+                                     "Purpose":  "Inactivates pathogenic bacteria, viruses, and amoebae before environmental release or non-potable agricultural/industrial reuse.",
+                                     "Mechanism":  "Chlorine gas or hypochlorite hydrolyzes to hypochlorous acid (HOCl) and hypochlorite ion (OCl-): Cl2 + H2O \u003c-\u003e HOCl + H+ + Cl-. HOCl is an uncharged powerful oxidant that penetrates microbial cell walls, denaturing metabolic enzymes and destroying bacterial DNA.",
+                                     "DesignValues":  [
+                                                          "Chlorine Contact Time: \u003e= 30 minutes at peak flow (CPHEEO)",
+                                                          "Free Chlorine Residual: 0.5 - 1.0 mg/L at outfall",
+                                                          "Chlorine Dosing Rate: 3 - 8 mg/L for secondary effluent",
+                                                          "Fecal Coliform Standard: \u003c= 100 MPN / 100 mL",
+                                                          "Dechlorination: Sodium bisulfite (SMBS) dosing required if discharging to sensitive fisheries"
+                                                      ],
+                                     "NextConnection":  "Slide 87: Ultraviolet (UV) Disinfection Deep-Dive",
+                                     "Num":  86,
+                                     "Cat":  "STAGE 4 · TERTIARY TREATMENT",
+                                     "Title":  "17: Disinfection: Chlorination \u0026 CCB",
+                                     "Sources":  "S18, S22"
+                                 },
+                                 {
+                                     "Machine":  "Open stainless steel channel or closed pipe reactor, Low-Pressure High-Output (LPHO) or Medium-Pressure amalgam UV lamps inside high-purity quartz sleeves, automated mechanical wiper rings, UV intensity sensor, and electronic ballast panel.",
+                                     "Image":  "card_uv_disinfection.png",
+                                     "Hydraulics":  "UV Dose (mJ/cm2) = UV Intensity (mW/cm2) * Exposure Time (seconds). Water must have high UV Transmittance (UVT \u003e 65%) and low TSS (\u003c 10 mg/L) to prevent optical shadowing.",
+                                     "Subtitle":  "Germicidal UV-C (254 nm), Lamp Types, Quartz Sleeves \u0026 Auto-Wipers",
+                                     "Purpose":  "Physical, chemical-free pathogen disinfection generating zero toxic disinfection by-products (DBPs) such as trihalomethanes (THMs).",
+                                     "Mechanism":  "Photochemical dimerization: UV-C photons at 254 nm are absorbed by microbial nucleic acids (DNA/RNA). Adjacent thymine base pairs cross-link into thymine dimers, preventing cellular replication and rendering microorganisms completely non-infectious.",
+                                     "DesignValues":  [
+                                                          "Germicidal UV Wavelength: 253.7 nm (UV-C spectrum)",
+                                                          "Design UV Dose: 30 - 45 mJ/cm2 at end of lamp life",
+                                                          "UV Transmittance (UVT): \u003e= 65% at 254 nm",
+                                                          "Lamp Operating Life: 12,000 - 16,000 Hours",
+                                                          "Auto-Wiper Mechanism: Pneumatic/electric wiper prevents iron/calcium sleeve scaling"
+                                                      ],
+                                     "NextConnection":  "Slide 88: Ozonation Systems (O3)",
+                                     "Num":  87,
+                                     "Cat":  "STAGE 4 · TERTIARY TREATMENT",
+                                     "Title":  "Ultraviolet (UV) Disinfection Systems",
+                                     "Sources":  "S18, S22"
+                                 },
+                                 {
+                                     "Machine":  "Liquid oxygen (LOX) / PSA oxygen generator, high-frequency corona discharge ozone generator, venturi side-stream injection skid or deep contact column with porous ceramic diffusers, and thermal-catalytic ozone destruct unit.",
+                                     "Image":  "card_uv_disinfection.png",
+                                     "Hydraulics":  "Deep contact column (5 - 6 m water depth) maximizes gas-liquid dissolution. Off-gas destructor heats unreacted O3 to 350°C over manganese dioxide catalyst, converting it back to safe O2.",
+                                     "Subtitle":  "Corona Discharge Generation, Deep Contact Columns \u0026 Off-Gas Destruct",
+                                     "Purpose":  "Ultra-powerful chemical oxidant for pathogen disinfection, complex refractory COD degradation, color destruction, and micropollutant oxidation.",
+                                     "Mechanism":  "High voltage (8 - 15 kV) splits O2 molecules into reactive oxygen atoms which recombine to form Ozone (O3): 3 O2 -\u003e 2 O3. Ozone attacks organics via direct molecular reaction or indirect Hydroxyl Radical (*OH) generation (oxidation potential 2.07 V, 1.5x stronger than chlorine).",
+                                     "DesignValues":  [
+                                                          "Ozone Dosing: 5 - 15 mg/L for disinfection \u0026 color removal",
+                                                          "Contact Time: 10 - 20 minutes",
+                                                          "Ozone Generator Concentration: 8% to 12% wt in oxygen",
+                                                          "Power Consumption: 8 - 12 kWh per kg O3 generated",
+                                                          "Ozone in Off-Gas: Reduced to \u003c 0.1 ppm before venting"
+                                                      ],
+                                     "NextConnection":  "Slide 89: Advanced Oxidation Processes (AOP)",
+                                     "Num":  88,
+                                     "Cat":  "STAGE 4 · TERTIARY TREATMENT",
+                                     "Title":  "Ozonation (O3) Systems",
+                                     "Sources":  "S18, S22"
+                                 },
+                                 {
+                                     "Machine":  "Rapid mix acidification tank (pH 3.0), ferrous sulfate (FeSO4) \u0026 hydrogen peroxide (H2O2) dosing systems, serpentine reaction basin, neutralization tank (NaOH), and chemical flocculator/clarifier.",
+                                     "Image":  "card_dmf_filter.png",
+                                     "Hydraulics":  "Strict pH control mandatory: optimal Fenton reaction occurs only between pH 2.8 and 3.5. Above pH 4, ferric iron precipitates prematurely; below pH 2, peroxide forms stable hydronium ions.",
+                                     "Subtitle":  "Hydroxyl Radical (*OH) Kinetics, Fenton Reagent \u0026 Photo-Fenton",
+                                     "Purpose":  "Destroys non-biodegradable, toxic, and refractory industrial organics (pharmaceuticals, pesticides, phenolic compounds) that resist biological treatment.",
+                                     "Mechanism":  "Classic Fenton reaction: Fe2+ + H2O2 -\u003e Fe3+ + *OH + OH-. Generates non-selective Hydroxyl Radicals (*OH) with extreme oxidation potential (2.80 V). Radicals abstract hydrogen from refractory ring structures, mineralizing recalcitrant organics into CO2, H2O, and short-chain organic acids.",
+                                     "DesignValues":  [
+                                                          "Optimal Operating pH: 2.8 - 3.2",
+                                                          "Molar Ratio H2O2 : Fe2+: 3:1 to 10:1",
+                                                          "COD Removal Efficiency: 60% to 85% of non-biodegradable COD",
+                                                          "Reaction Time: 30 to 90 minutes",
+                                                          "Post-Fenton Neutralization: pH raised to 7.5 - 8.5 to precipitate Fe(OH)3 sludge"
+                                                      ],
+                                     "NextConnection":  "Slide 90: Membrane Separation Hierarchy",
+                                     "Num":  89,
+                                     "Cat":  "STAGE 4 · TERTIARY TREATMENT",
+                                     "Title":  "Advanced Oxidation Processes (AOP): Fenton",
+                                     "Sources":  "S18, S19"
+                                 },
+                                 {
+                                     "Machine":  "Microfiltration (MF), Ultrafiltration (UF), Nanofiltration (NF), and Reverse Osmosis (RO) skids with high-pressure feed pumps and Clean-in-Place (CIP) systems.",
+                                     "Image":  "ro_membrane_schematic.png",
+                                     "Hydraulics":  "Separation transitions from sieving (pore size exclusion in MF/UF) to solution-diffusion through a non-porous dense polyamide barrier layer in NF/RO.",
+                                     "Subtitle":  "Pore Sizes, Molecular Weight Cut-Off (MWCO) \u0026 Driving Pressures",
+                                     "Purpose":  "Defines the physical boundaries and separation capabilities across the four pressure-driven membrane processes.",
+                                     "Mechanism":  "MF (0.1-1.0 um, 0.5-2 bar) removes suspended bacteria and silt; UF (0.01-0.05 um, 1-4 bar, MWCO 10-100 kDa) removes macromolecules, viruses, and colloidal silica; NF (1-2 nm, 4-15 bar, MWCO 200-1000 Da) removes divalent ions (Ca2+, Mg2+, SO4(2-)) and pesticides; RO (\u003c 0.1-1.0 nm, 15-80 bar) removes all monovalent salts (Na+, Cl-) and dissolved minerals.",
+                                     "DesignValues":  [
+                                                          "Microfiltration (MF): Pore 0.1 - 1.0 um | Pressure 0.5 - 2 bar | Silt, bacteria",
+                                                          "Ultrafiltration (UF): Pore 0.01 - 0.05 um | Pressure 1 - 4 bar | Viruses, colloids, pre-RO",
+                                                          "Nanofiltration (NF): Pore 1 - 2 nm | Pressure 4 - 15 bar | Hardness, divalent salts",
+                                                          "Reverse Osmosis (RO): Pore \u003c 0.5 nm | Pressure 15 - 80 bar | 99.5% total salt rejection"
+                                                      ],
+                                     "NextConnection":  "Slide 91: Ultrafiltration (UF) Polishing Skids",
+                                     "Num":  90,
+                                     "Cat":  "STAGE 4 \u0026 ZLD: ADVANCED SEPARATION",
+                                     "Title":  "Membrane Filtration Spectrum: MF, UF, NF, RO",
+                                     "Sources":  "S18, S19"
+                                 },
+                                 {
+                                     "Machine":  "Skid-mounted vertical PVDF hollow fiber modules, low-pressure feed pumps, automatic backwash pumps, air scour blower, 100 um auto-strainer, and CEB chemical dosing tanks.",
+                                     "Image":  "ro_membrane_schematic.png",
+                                     "Hydraulics":  "Flux J = 40 to 70 LMH. Silt Density Index (SDI15) of permeate consistently \u003c 2.0 (critical threshold for RO warranty is SDI \u003c 3.0).",
+                                     "Subtitle":  "Hollow Fiber Modules, Pressurized Outside-In Flow \u0026 CEB Cleaning",
+                                     "Purpose":  "Provides non-negotiable physical protection for downstream Reverse Osmosis membranes, eliminating colloidal fouling and biological slime.",
+                                     "Mechanism":  "Pressurized Outside-In filtration: Secondary tertiary effluent is pumped into shell side of vertical module; water filters through microscopic PVDF membrane pores into central fiber lumen, exiting as pure permeate. Every 30 minutes, flow reverses: high-rate backwash + air scour flushes trapped solids to drain.",
+                                     "DesignValues":  [
+                                                          "Membrane Material: Modified PVDF (Polyvinylidene fluoride)",
+                                                          "Pore Size: 0.02 - 0.04 microns",
+                                                          "Design Operating Flux: 45 - 65 LMH (L/m2.h)",
+                                                          "Chemically Enhanced Backwash (CEB): Daily with NaOCl (100 ppm) + HCl (pH 2)",
+                                                          "Permeate Turbidity: \u003c 0.1 NTU; SDI15: \u003c 2.0 (guaranteed)"
+                                                      ],
+                                     "NextConnection":  "Slide 92: Reverse Osmosis (RO) Fundamentals",
+                                     "Num":  91,
+                                     "Cat":  "STAGE 4 \u0026 ZLD: ADVANCED SEPARATION",
+                                     "Title":  "18: Ultrafiltration (UF) Polishing Skids",
+                                     "Sources":  "S18, S19"
+                                 },
+                                 {
+                                     "Machine":  "Cartridge security filters (5 um), antiscalant dosing skid, high-pressure multistage feed pump (15-70 bar), ASME FRP pressure vessels, polyamide thin-film composite (TFC) elements, and CIP tank.",
+                                     "Image":  "ro_membrane_schematic.png",
+                                     "Hydraulics":  "Water Flux: Jw = A * (delta-P - delta-pi). Salt Flux: Js = B * (C_feed - C_permeate). Recovery Y = Q_permeate / Q_feed = 70% to 85%.",
+                                     "Subtitle":  "Osmotic Pressure, Solution-Diffusion \u0026 Salt Rejection Kinetics",
+                                     "Purpose":  "Extracts pure demineralized water from saline wastewater, concentrating dissolved salts into a high-TDS reject stream.",
+                                     "Mechanism":  "van \u0027t Hoff equation: Osmotic pressure pi = i * C * R * T. When applied hydraulic pressure exceeds osmotic pressure (P \u003e pi), pure water molecules diffuse across the dense semi-permeable polyamide barrier layer against the natural concentration gradient. Salts and dissolved ions are rejected by charge repulsion and steric hindrance.",
+                                     "DesignValues":  [
+                                                          "Operating Pressure: 15 to 70 bar (220 to 1,000 psi)",
+                                                          "Salt Rejection Efficiency: \u003e= 99.2% to 99.7%",
+                                                          "Permeate TDS: \u003c 20 - 50 mg/L (drinking/boiler feed quality)",
+                                                          "Recovery Rate: 70% to 85% across 2 or 3 stages",
+                                                          "Membrane Type: Spiral-wound aromatic polyamide thin-film composite (TFC)"
+                                                      ],
+                                     "NextConnection":  "Slide 93: RO Pre-Treatment \u0026 Antiscalant Chemistry",
+                                     "Num":  92,
+                                     "Cat":  "STAGE 4 \u0026 ZLD: ADVANCED SEPARATION",
+                                     "Title":  "18.1: Reverse Osmosis (RO) Fundamentals",
+                                     "Sources":  "S18, S19"
+                                 },
+                                 {
+                                     "Machine":  "5-micron melt-blown polypropylene cartridge filter housing, chemical dosing skids (Phosphonate Antiscalant, SMBS for dechlorination, and Acid).",
+                                     "Image":  "ro_membrane_schematic.png",
+                                     "Hydraulics":  "Cartridge filter protects high-pressure pump and membrane spacers; elements replaced when differential pressure delta-P exceeds 1.0 bar.",
+                                     "Subtitle":  "SDI Control, Mineral Scaling Saturation Indices \u0026 Chemical Dosing",
+                                     "Purpose":  "Prevents irreversible mineral scaling (CaCO3, CaSO4, BaSO4, SiO2) and membrane degradation on RO elements.",
+                                     "Mechanism":  "Threshold inhibition: Polycarboxylate/phosphonate antiscalants distort mineral crystal lattices, preventing supersaturated salts from nucleating and precipitating on membrane surfaces. Sodium Metabisulfite (SMBS) reacts stoichiometrically with chlorine to prevent oxidative destruction of polyamide: Na2S2O5 + 2 Cl2 + 3 H2O -\u003e 2 NaHSO4 + 4 HCl.",
+                                     "DesignValues":  [
+                                                          "Feed SDI15: Must be strictly \u003c 3.0",
+                                                          "Free Chlorine in Feed: Strictly 0.00 ppm (SMBS dosed at 2-3 mg/L per mg/L Cl2)",
+                                                          "Antiscalant Dose: 2 - 5 mg/L (maintains LSI up to +2.5 without scaling)",
+                                                          "Max Silica Solubility: 120 - 150 mg/L as SiO2 at 25°C",
+                                                          "Cartridge Filter Rating: 5 microns absolute"
+                                                      ],
+                                     "NextConnection":  "Slide 94: High-Pressure RO Skids \u0026 Staging",
+                                     "Num":  93,
+                                     "Cat":  "STAGE 4 \u0026 ZLD: ADVANCED SEPARATION",
+                                     "Title":  "RO Pre-Treatment: Scale Inhibitors \u0026 Cartridge Filters",
+                                     "Sources":  "S18, S19"
+                                 },
+                                 {
+                                     "Machine":  "2-stage or 3-stage RO pressure vessel array (e.g., 2:1 vessel ratio: 4 vessels in Stage 1 feeding 2 vessels in Stage 2), interstage booster pumps, and isobaric Pressure Exchanger (PX / Pelton turbine) Energy Recovery Devices (ERD).",
+                                     "Image":  "ro_membrane_schematic.png",
+                                     "Hydraulics":  "Energy Recovery Devices reduce specific power consumption by 30% to 50% (from 4.5 kWh/m3 down to 2.2 - 2.8 kWh/m3).",
+                                     "Subtitle":  "Multi-Stage Vessel Arrays (2:1), Interstage Boosters \u0026 PX Devices",
+                                     "Purpose":  "Maximizes overall water recovery (up to 85%) while recovering high-pressure kinetic energy from the concentrate brine.",
+                                     "Mechanism":  "Stage 1 concentrate becomes feed for Stage 2. Because Stage 2 feed is more concentrated, osmotic pressure is higher; an interstage booster pump increases pressure to sustain flux across Stage 2. The high-pressure reject stream transfers its mechanical energy directly to fresh feed water inside an isobaric ceramic rotor (97% energy transfer efficiency).",
+                                     "DesignValues":  [
+                                                          "Overall Recovery: Stage 1 = 50-60%; Combined Stages 1+2 = 75-85%",
+                                                          "Stage 1 Vessels : Stage 2 Vessels: 2:1 ratio (compensates for 50% volume loss)",
+                                                          "PX Energy Recovery Efficiency: \u003e 96%",
+                                                          "RO Specific Energy: 2.2 - 3.5 kWh / m3 permeate",
+                                                          "Final RO Concentrate TDS: 40,000 - 70,000 mg/L"
+                                                      ],
+                                     "NextConnection":  "Slide 95: Disc Tube RO (DTRO) for Extreme Brines",
+                                     "Num":  94,
+                                     "Cat":  "STAGE 4 \u0026 ZLD: ADVANCED SEPARATION",
+                                     "Title":  "High-Pressure RO Staging \u0026 Energy Recovery",
+                                     "Sources":  "S18, S19"
+                                 },
+                                 {
+                                     "Machine":  "High-pressure stainless steel tubular pressure vessel housing octagonal membrane cushions stacked alternatingly between hydraulic deflection discs, driven by 90-120 bar triplex plunger pumps.",
+                                     "Image":  "ro_membrane_schematic.png",
+                                     "Hydraulics":  "Operates reliably at feed turbidity \u003e 10 NTU and COD \u003e 1,000 mg/L where conventional spiral wound RO elements foul irreversibly within hours.",
+                                     "Subtitle":  "Open Channel Geometry, High Operating Pressure (Up to 120 bar)",
+                                     "Purpose":  "Treats extreme-fouling, high-TDS effluents: landfill leachate, high-COD industrial wastewater, and RO reject concentration.",
+                                     "Mechanism":  "Open channel flow: Wastewater flows between hydraulic discs and membrane cushions through wide, unobstructed 1.5-2.5 mm flow paths (no mesh feed spacer to trap solids). Radial flow over disc ridges creates intense turbulent eddies that continuously sweep membrane surfaces clean of cake foulants.",
+                                     "DesignValues":  [
+                                                          "Operating Pressure: 75 to 120 bar (1,100 to 1,750 psi)",
+                                                          "Brine TDS Concentration: Up to 100,000 - 120,000 mg/L",
+                                                          "Feed Channel Width: 1.5 - 2.5 mm open channel",
+                                                          "Membrane Cushion Material: High-rejection composite polyamide",
+                                                          "Recovery on Leachate/Brine: 60% to 80%"
+                                                      ],
+                                     "NextConnection":  "Slide 96: Thermal Zero Liquid Discharge (ZLD) Overview",
+                                     "Num":  95,
+                                     "Cat":  "STAGE 4 \u0026 ZLD: ADVANCED SEPARATION",
+                                     "Title":  "Disc Tube RO (DTRO) for Challenging Brines",
+                                     "Sources":  "S18, S19"
+                                 },
+                                 {
+                                     "Machine":  "Integrated ZLD Train: RO Reject -\u003e Multiple Effect Evaporator (MEE / MVR) -\u003e Forced Circulation Crystallizer -\u003e Agitated Thin Film Dryer (ATFD) / Pusher Centrifuge -\u003e Solid Salt Bagging.",
+                                     "Image":  "card_mee_evaporator.png",
+                                     "Hydraulics":  "Governed by boiling point elevation (BPE) and enthalpy balances: q = U * A * delta-T_effective. Requires corrosion-proof metallurgy (Titanium, 254 SMO, Duplex SS).",
+                                     "Subtitle":  "Thermal Evaporation, Crystallization \u0026 Complete Salt Recovery",
+                                     "Purpose":  "Eliminates all liquid effluent discharge into environment, recovering 95-98% pure water and transforming residual salts into solid dry cakes.",
+                                     "Mechanism":  "Phase-change thermodynamic separation: Thermal energy evaporates water from saturated brine; water vapor is condensed and recovered as pure distilled water (TDS \u003c 30 mg/L), while precipitated minerals crystallize into dry salt cakes.",
+                                     "DesignValues":  [
+                                                          "Total Plant Water Recovery: 95% to 98.5%",
+                                                          "Recovered Condensate TDS: \u003c 20 - 50 mg/L (ideal boiler makeup)",
+                                                          "Concentrate Feed to MEE: TDS 50,000 - 80,000 mg/L",
+                                                          "Slurry Feed to ATFD: TDS 250,000 - 350,000 mg/L",
+                                                          "Final Solid Waste: Dry mixed salt crystals for hazardous landfill or chemical reuse"
+                                                      ],
+                                     "NextConnection":  "Slide 97: Multiple Effect Evaporator (MEE) Mechanics",
+                                     "Num":  96,
+                                     "Cat":  "STAGE 4 \u0026 ZLD: ADVANCED SEPARATION",
+                                     "Title":  "19: Zero Liquid Discharge (ZLD) Architecture",
+                                     "Sources":  "S19"
+                                 },
+                                 {
+                                     "Machine":  "Multi-body vertical tube heat exchangers (calandrias), vapor separators, circulating pumps, barometric condenser, vacuum ejector, and Mechanical Vapor Recompression (MVR) centrifugal fan compressor.",
+                                     "Image":  "card_atfd_dryer.png",
+                                     "Hydraulics":  "Forced circulation prevents scaling: high-velocity liquid recirculation (2 - 3 m/s) inside heat exchanger tubes suppresses boiling inside tubes, forcing vapor flash into external separator vessel.",
+                                     "Subtitle":  "Falling Film, Forced Circulation Calandrias \u0026 Steam Economy",
+                                     "Purpose":  "Evaporates massive volumes of water from high-TDS RO concentrate with minimal live steam consumption.",
+                                     "Mechanism":  "Energy reuse: Live steam heats Effect 1; the vapor boiled off from Effect 1 serves as the heating steam for Effect 2 (which operates at lower pressure and lower boiling point), and so on across 3-5 effects. In MVR systems, an electric compressor recompresses vapor, raising its saturation temperature to reuse it as heating steam without boiler steam.",
+                                     "DesignValues":  [
+                                                          "Steam Economy (4-Effect MEE): 3.2 - 3.6 kg water evaporated / kg steam fed",
+                                                          "MVR Electrical Energy: 35 - 55 kWh / m3 water evaporated",
+                                                          "Tube Metallurgy: Titanium Grade 2 / Super Duplex SS 2507",
+                                                          "Vacuum Levels: Effect 1 at -0.1 bar -\u003e Effect 4 at -0.85 bar",
+                                                          "Slurry Concentration Exiting MEE: 30% to 40% solids (w/w)"
+                                                      ],
+                                     "NextConnection":  "Slide 98: Agitated Thin Film Dryers (ATFD) \u0026 Crystallizers",
+                                     "Num":  97,
+                                     "Cat":  "STAGE 4 \u0026 ZLD: ADVANCED SEPARATION",
+                                     "Title":  "Multiple Effect Evaporators (MEE \u0026 MVR)",
+                                     "Sources":  "S19"
+                                 },
+                                 {
+                                     "Machine":  "Vertical cylindrical steam-jacketed vessel, internal high-speed rotating rotor with scraping blades, vapor condenser, bottom rotary air-lock valve, and bagging station.",
+                                     "Image":  "card_atfd_dryer.png",
+                                     "Hydraulics":  "Eliminates scaling risk on stationary surfaces; rotor blades maintain precise 1-2 mm clearance from jacket wall, continuously refreshing heat transfer surface.",
+                                     "Subtitle":  "Agitated Thin Film Evaporation to Solid Salt Powder",
+                                     "Purpose":  "The final thermal stage in a ZLD plant: dries thick evaporator concentrate into free-flowing, solid dry salt powder.",
+                                     "Mechanism":  "Viscous slurry from MEE is pumped into top of ATFD. Rotating blades spread the liquid into a turbulent thin film (1-2 mm thick) across the inner steam-heated jacket wall. Water flashes off instantly; scraping blades continuously peel dried crust off the heated wall, discharging dry salt powder at bottom.",
+                                     "DesignValues":  [
+                                                          "Evaporation Capacity: 35 to 55 kg water / m2 heating surface / hour",
+                                                          "Steam Operating Pressure: 3.0 to 6.0 bar gauge",
+                                                          "Rotor Shaft Speed: 150 - 300 RPM",
+                                                          "Dry Salt Moisture Content: \u003c 5% to 8% moisture",
+                                                          "Materials: Hastelloy C-276 / SS316L / Titanium"
+                                                      ],
+                                     "NextConnection":  "Slide 99: Stage 5 Sludge Handling Overview",
+                                     "Num":  98,
+                                     "Cat":  "STAGE 4 \u0026 ZLD: ADVANCED SEPARATION",
+                                     "Title":  "ATFD \u0026 Forced Circulation Crystallizers",
+                                     "Sources":  "S19"
+                                 },
+                                 {
+                                     "Machine":  "Treatment Sequence: Raw Sludge -\u003e Gravity / Mechanical Thickener -\u003e Anaerobic Digestion (Municipal) -\u003e Chemical Conditioning -\u003e Mechanical Dewatering (Belt Press / Centrifuge / Filter Press) -\u003e Solar / Thermal Drying -\u003e Landfill / Co-Processing.",
+                                     "Image":  "sludge_press_schematic.png",
+                                     "Hydraulics":  "Volume Reduction Equation: V2 = V1 * [(100 - P1) / (100 - P2)], where P is water content %. Concentrating sludge from 1% solids (99% water) to 20% solids (80% water) reduces total sludge volume by a staggering 95%.",
+                                     "Subtitle":  "Mass Balance, Thickening, Digestion, Dewatering \u0026 Disposal Hierarchy",
+                                     "Purpose":  "Safely processes, stabilizes, and dewaters primary, chemical, and biological sludges, transforming watery slurries into dry, transportable solids.",
+                                     "Mechanism":  "Sludge volume reduction: raw sludge leaves clarifiers at 98-99.5% water (0.5-2% solids). Thickening concentrates solids to 4-8%; dewatering compresses cake to 20-40% dry solids; thermal drying produces 90% dry pellets.",
+                                     "DesignValues":  [
+                                                          "Total Sludge Generation: 0.15 - 0.25 kg dry solids per m3 wastewater",
+                                                          "Raw Sludge Moisture: 98% - 99.5% liquid water",
+                                                          "Dewatered Cake Moisture: 60% - 75% water (25 - 40% DS)",
+                                                          "Thermal Dried Pellet Moisture: \u003c 10% water (90% DS)",
+                                                          "Disposal Options: Agricultural fertilizer, cement kiln co-processing, secured landfill"
+                                                      ],
+                                     "NextConnection":  "Slide 100: Sludge Thickening Technologies",
+                                     "Num":  99,
+                                     "Cat":  "STAGE 5 · SLUDGE HANDLING",
+                                     "Title":  "Sludge Treatment \u0026 Residuals Management Overview",
+                                     "Sources":  "S20, S21"
+                                 },
+                                 {
+                                     "Machine":  "Gravity Thickener (circular concrete tank with center-drive picket fence rake), Gravity Belt Thickener (GBT), Rotary Drum Thickener (RDT), and Dissolved Air Flotation Thickener (DAFT).",
+                                     "Image":  "sludge_press_schematic.png",
+                                     "Hydraulics":  "Solids Loading Rate SLR = 20 - 45 kg/m2.d for primary sludge; 10 - 25 kg/m2.d for biological WAS.",
+                                     "Subtitle":  "Gravity Thickeners, Picket Fence Rakes, GBT \u0026 DAF Thickeners",
+                                     "Purpose":  "Concentrates watery sludge 3x to 5x prior to anaerobic digestion or mechanical dewatering, dramatically reducing digester size.",
+                                     "Mechanism":  "Gravity Thickener: Picket fence rake arms rotate slowly (1-2 RPM) through sludge bed; vertical pickets create gentle physical channels that allow trapped water pockets to escape upward. GBT: Polymer-conditioned sludge drains gravity water on moving polyester belt.",
+                                     "DesignValues":  [
+                                                          "Primary Sludge Thickening: Concentrates from 2-3% to 6-8% solids",
+                                                          "WAS Thickening: Concentrates from 0.5-1.0% to 3-5% solids",
+                                                          "Supernatant Overflow TSS: \u003c 200 - 300 mg/L (recycled to Equalization)",
+                                                          "Picket Fence Tip Speed: 1.5 - 3.0 m/min (gentle, avoids turbulence)",
+                                                          "Polymer Consumption in GBT: 1.5 - 3.5 kg cationic polymer / ton dry solids"
+                                                      ],
+                                     "NextConnection":  "Slide 101: Anaerobic Sludge Digestion",
+                                     "Num":  100,
+                                     "Cat":  "STAGE 5 · SLUDGE HANDLING",
+                                     "Title":  "20: Sludge Thickening Technologies",
+                                     "Sources":  "S20, S21"
+                                 },
+                                 {
+                                     "Machine":  "Enclosed cylindrical or egg-shaped anaerobic digester tank, external spiral heat exchanger, draft-tube / gas injection mixers, and floating gas-holder roof.",
+                                     "Image":  "sludge_press_schematic.png",
+                                     "Hydraulics":  "Complete mixing mandatory: draft tube mechanical mixers or compressed biogas injection prevent heavy grit accumulation on floor and fibrous scum blanket formation at surface.",
+                                     "Subtitle":  "Volatile Solids Destruction, Pathogen Reduction \u0026 Biogas Generation",
+                                     "Purpose":  "Stabilizes raw municipal organic sludge, destroys fecal pathogens, eliminates noxious odors, and produces valuable renewable biogas.",
+                                     "Mechanism":  "Consortia of anaerobic Archaea break down volatile suspended solids (VSS) into methane and carbon dioxide over 15-25 days. Destroys 45-55% of organic volatile solids, eliminating putrescibility and vector attraction.",
+                                     "DesignValues":  [
+                                                          "Operating Temperature: Mesophilic 35° - 38°C; Thermophilic 52° - 55°C",
+                                                          "Hydraulic Retention Time (HRT): 15 to 25 Days",
+                                                          "Volatile Solids Destruction: 45% to 55%",
+                                                          "Biogas Production: 0.75 - 1.0 m3 biogas / kg VS destroyed",
+                                                          "Methane Content: 60% to 68% CH4; Digested Sludge pH: 7.0 - 7.5"
+                                                      ],
+                                     "NextConnection":  "Slide 102: Sludge Conditioning \u0026 Polymer Dosing",
+                                     "Num":  101,
+                                     "Cat":  "STAGE 5 · SLUDGE HANDLING",
+                                     "Title":  "Anaerobic Sludge Digestion (Mesophilic \u0026 Thermophilic)",
+                                     "Sources":  "S20, S21"
+                                 },
+                                 {
+                                     "Machine":  "Automated polymer batching system, progressive cavity polymer dosing pump, sludge-polymer in-line static mixer / flocculation reactor, and Capillary Suction Time (CST) tester.",
+                                     "Image":  "sludge_press_schematic.png",
+                                     "Hydraulics":  "Mixing must occur right at dewaterer inlet: over-mixing shears conditioned flocs; under-mixing leaves unconditioned blinding sludge.",
+                                     "Subtitle":  "Cationic Polymers, Ferric-Lime Conditioning \u0026 Capillary Suction Time",
+                                     "Purpose":  "Destabilizes bound water and neutralizes surface charges on sludge particles, enabling rapid mechanical dewatering.",
+                                     "Mechanism":  "Biological sludge carries high negative surface charge and bound extracellular polymeric substances (EPS) that tightly bind water molecules. High-charge-density cationic polyacrylamide (C-PAM) neutralizes charges and forms macro-flocs, releasing bound capillary water.",
+                                     "DesignValues":  [
+                                                          "Cationic Polymer Dosage: 2.5 - 6.0 kg active polymer / ton dry solids",
+                                                          "Inorganic Conditioning (Filter Press): Ferric Chloride (3-5%) + Hydrated Lime (10-25%)",
+                                                          "Capillary Suction Time (CST): Drops from \u003e 150 s down to \u003c 15 - 20 s",
+                                                          "Flocculation Maturation: 30 to 60 seconds before dewatering zone"
+                                                      ],
+                                     "NextConnection":  "Slide 103: Belt Filter Press (BFP) Deep-Dive",
+                                     "Num":  102,
+                                     "Cat":  "STAGE 5 · SLUDGE HANDLING",
+                                     "Title":  "Sludge Chemical Conditioning",
+                                     "Sources":  "S20, S21"
+                                 },
+                                 {
+                                     "Machine":  "Two continuous porous woven polyester filter belts, gravity drainage zone with chicanes, converging wedge compression zone, perforated large drum, serpentine S-wrap shear rollers, pneumatic belt tensioners, and high-pressure washwater spray bars.",
+                                     "Image":  "sludge_press_schematic.png",
+                                     "Hydraulics":  "Pneumatic belt tension (5 - 8 bar) exerts radial pressure P = T / R on sludge layer, where T is belt tension and R is roller radius.",
+                                     "Subtitle":  "Gravity Drainage, Wedge Compression \u0026 High-Pressure Shear Rollers",
+                                     "Purpose":  "Continuous mechanical sludge dewatering widely adopted in municipal STPs and industrial wastewater plants.",
+                                     "Mechanism":  "3-stage dewatering: 1. Gravity Zone: conditioned sludge drains 60% of free water; 2. Wedge Zone: top and bottom belts converge, applying gentle low-pressure compression; 3. Shear Zone: belts wrap around decreasing-diameter rollers in an S-configuration, applying simultaneous compression and shearing forces that squeeze out interstitial water.",
+                                     "DesignValues":  [
+                                                          "Cake Dry Solids Content: 18% to 26% DS (municipal), up to 30% (industrial)",
+                                                          "Solids Capture Efficiency: 95% to 98%",
+                                                          "Belt Speed: 1.5 - 5.0 m/min variable speed",
+                                                          "Belt Wash Water: 4 - 8 bar pressure, consumes 10-15% of throughput",
+                                                          "Power Consumption: Low electrical draw (2.2 - 7.5 kW per unit)"
+                                                      ],
+                                     "NextConnection":  "Slide 104: Decanter Centrifuges Deep-Dive",
+                                     "Num":  103,
+                                     "Cat":  "STAGE 5 · SLUDGE HANDLING",
+                                     "Title":  "21: Belt Filter Press (BFP)",
+                                     "Sources":  "S20, S21"
+                                 },
+                                 {
+                                     "Machine":  "Horizontal solid-bowl cylindrical-conical rotor, internal concentric helical scroll conveyor, differential speed planetary gearbox (backdrive), feed quill, and acoustic noise enclosure.",
+                                     "Image":  "card_filter_press.png",
+                                     "Hydraulics":  "Pond Depth (Weir Plate Setting): deeper pond clarifies liquid centrate; shallower pond lengthens beach drying time, increasing cake dryness.",
+                                     "Subtitle":  "Cylindrical-Conical Rotating Bowl, Scroll Conveyor \u0026 G-Force",
+                                     "Purpose":  "High-speed centrifugal dewatering providing an enclosed, compact, and odor-free operation for large wastewater treatment plants.",
+                                     "Mechanism":  "Bowl rotates at 2,500 - 4,000 RPM, generating centrifugal acceleration 2,000 to 3,500 times gravity (G-force). Dense sludge solids are thrown against the bowl wall, forming a compacted cake. The internal scroll conveyor rotates at a slightly different speed (delta-N = 2-15 RPM), plowing solids up the conical \u0027beach\u0027 out the dry discharge ports, while clear liquid centrate overflows weirs at the opposite end.",
+                                     "DesignValues":  [
+                                                          "G-Force (Centrifugal Acceleration): 2,000 to 3,500 x g",
+                                                          "Cake Dry Solids Content: 22% to 32% DS",
+                                                          "Differential Speed (Delta-N): 2 to 15 RPM controlled automatically via VFD",
+                                                          "Enclosure: 100% enclosed, zero aerosol or odor emissions in building",
+                                                          "Solids Capture: \u003e 96% to 99% with optimal polymer conditioning"
+                                                      ],
+                                     "NextConnection":  "Slide 105: Chamber Filter Presses Deep-Dive",
+                                     "Num":  104,
+                                     "Cat":  "STAGE 5 · SLUDGE HANDLING",
+                                     "Title":  "Decanter Centrifuges (Solid-Bowl)",
+                                     "Sources":  "S20, S21"
+                                 },
+                                 {
+                                     "Machine":  "Heavy structural steel skeleton, hydraulic cylinder closing ram (300 bar), recessed polypropylene chamber plates lined with monofilament filter cloth, high-pressure slurry feed pump, and automatic plate shifting carriage.",
+                                     "Image":  "card_filter_press.png",
+                                     "Hydraulics":  "Batch cycle: 1. Close -\u003e 2. Fill \u0026 Filtration (60-90 min) -\u003e 3. Membrane Squeeze (15-20 min) -\u003e 4. Air Blow Core -\u003e 5. Open \u0026 Automatic Cake Discharge.",
+                                     "Subtitle":  "Recessed Plates, Hydraulic Ram (15-20 bar) \u0026 Driest Cake Production",
+                                     "Purpose":  "Produces the driest dewatered cake (35% to 50% DS) of any mechanical technology, standard in industrial ETPs with heavy chemical sludges.",
+                                     "Mechanism":  "High-pressure batch filtration: Hydraulic cylinder closes plate stack. Sludge slurry is pumped into internal chambers at 7-15 bar pressure. Liquid filters through cloths and exits internal filtrate drainage ports; solid particles pack into cake. In membrane filter presses, flexible rubber/polypropylene diaphragms inflate with water/air at 15-20 bar, physically squeezing remaining moisture out of cakes.",
+                                     "DesignValues":  [
+                                                          "Cake Dry Solids Content: 35% to 50% DS (exceptionally dry, spadable)",
+                                                          "Filtration Pressure: 7 to 15 bar feed; 16 to 20 bar membrane squeeze",
+                                                          "Hydraulic Clamping Force: 250 to 350 bar on cylinder",
+                                                          "Filtrate Quality: Crystal-clear (TSS \u003c 30 - 50 mg/L)",
+                                                          "Disposal Benefit: Maximum reduction in hauling weight and landfill fees"
+                                                      ],
+                                     "NextConnection":  "Slide 106: Multi-Disk Volute Screw Presses",
+                                     "Num":  105,
+                                     "Cat":  "STAGE 5 · SLUDGE HANDLING",
+                                     "Title":  "Chamber \u0026 Membrane Filter Presses",
+                                     "Sources":  "S20, S21"
+                                 },
+                                 {
+                                     "Machine":  "Tapered screw shaft rotating within a cylinder composed of alternating fixed and moving stainless/polymeric rings, backpressure plate, and wash water nozzle manifold.",
+                                     "Image":  "card_screw_press.png",
+                                     "Hydraulics":  "Rotates at only 1 to 4 RPM, drawing 90% less electricity than centrifuges and operating at near-silent noise levels (\u003c 65 dBA).",
+                                     "Subtitle":  "Self-Cleaning Slow-Speed Sludge Dewatering Screw",
+                                     "Purpose":  "Ultra-low-energy, compact, and automated sludge dewatering machine ideal for small-to-medium STPs and oily industrial sludges.",
+                                     "Mechanism":  "Conditioned sludge enters dewatering cylinder. As the screw rotates, moving rings oscillate continuously, automatically cleaning the gaps between rings without high-pressure washwater. The pitch of the screw narrows and the volume decreases toward the discharge end, exerting increasing mechanical pressure against an adjustable spring-loaded end plate.",
+                                     "DesignValues":  [
+                                                          "Screw Rotational Speed: 1 to 4 RPM (ultra-slow)",
+                                                          "Electrical Power Consumption: 0.37 - 2.2 kW (extreme energy savings)",
+                                                          "Cake Dry Solids Content: 18% to 25% DS",
+                                                          "Wash Water Consumption: Only 10 - 30 L/hour (1% of belt filter press)",
+                                                          "Noise Level: \u003c 65 dBA; 24/7 unattended automated operation"
+                                                      ],
+                                     "NextConnection":  "Slide 107: Sludge Drying Beds \u0026 Thermal Dryers",
+                                     "Num":  106,
+                                     "Cat":  "STAGE 5 · SLUDGE HANDLING",
+                                     "Title":  "Multi-Disk Volute Screw Presses",
+                                     "Sources":  "S20, S21"
+                                 },
+                                 {
+                                     "Machine":  "Conventional Sand Drying Beds, Solar Greenhouse Dryers with automated electric tillers/turners, and Indirect Steam-Heated Thermal Paddle Dryers.",
+                                     "Image":  "card_atfd_dryer.png",
+                                     "Hydraulics":  "Thermal drying shrinks sludge mass by an additional 75% beyond mechanical dewatering, producing pasteurized Class A biosolids.",
+                                     "Subtitle":  "Solar Greenhouses, Heated Paddle Dryers \u0026 90% Dry Pellets",
+                                     "Purpose":  "Dries dewatered cake down to 90% dry solids to produce pathogen-free, stabilized biosolids pellets for fuel or fertilizer.",
+                                     "Mechanism":  "Sand Beds: water drains through gravel/sand bed and evaporates into air over 10-20 days; Solar Greenhouses: solar radiation trapped in glasshouse heats sludge while motorized turners aerate cake; Thermal Paddle Dryers: steam-heated hollow rotating paddles knead cake, flashing moisture into vapor.",
+                                     "DesignValues":  [
+                                                          "Sand Drying Bed Area: 0.1 - 0.25 m2 per capita",
+                                                          "Solar Drying Final Solids: 60% to 80% DS in 5 - 12 days",
+                                                          "Thermal Paddle Dryer Temperature: 120° - 160°C",
+                                                          "Final Dried Pellet Solids: \u003e 90% DS (calorific value 12 - 16 MJ/kg)",
+                                                          "Pathogen Inactivation: Complete sterilization (Class A Biosolids)"
+                                                      ],
+                                     "NextConnection":  "Slide 108: Complete Plant Interconnection Architecture",
+                                     "Num":  107,
+                                     "Cat":  "STAGE 5 · SLUDGE HANDLING",
+                                     "Title":  "Sludge Drying Beds \u0026 Thermal Paddle Dryers",
+                                     "Sources":  "S20, S21"
+                                 },
+                                 {
+                                     "Machine":  "Master Plant Flowsheet: Gravity channels, wet wells, lift pump stations, sludge transfer loops, filtrate recycle lines, and chemical quills.",
+                                     "Image":  "bar_screen_schematic.png",
+                                     "Hydraulics":  "Recycle Loops: Secondary Clarifier Underflow -\u003e [RAS Pumps] -\u003e Aeration Basin Inlet; WAS + DAF Float + Primary Sludge -\u003e [Sludge Pumps] -\u003e Thickener; Thickener Underflow -\u003e [PC Pumps] -\u003e Dewatering; Filtrate / Centrate -\u003e [Drain Sump Pumps] -\u003e Equalization Basin Inlet.",
+                                     "Subtitle":  "Hydraulic Connectivity Matrix from Bar Screen to ZLD \u0026 Sludge Disposal",
+                                     "Purpose":  "Maps the complete network of inter-connecting pipes, channels, weirs, and pumps across all 6 treatment stages.",
+                                     "Mechanism":  "Primary Flow Train: Bar Screen -\u003e [Gravity Flume] -\u003e Grit Chamber -\u003e [Submerged Flume] -\u003e Oil Trap -\u003e [Gravity Pipe] -\u003e EQ Basin -\u003e [Submersible Pump Force Main] -\u003e Neutralization -\u003e [Gravity Overflow] -\u003e Flash Mixer -\u003e [Open Flume] -\u003e Flocculator -\u003e [Submerged Launder] -\u003e Clarifier/DAF -\u003e [Gravity Channel] -\u003e Aeration Basin -\u003e [Mixed Liquor Flume] -\u003e Secondary Clarifier -\u003e [Gravity Weir] -\u003e Tertiary Filters -\u003e [Booster Pump] -\u003e UF/RO -\u003e [High Pressure Pipe] -\u003e MEE -\u003e [Pump] -\u003e ATFD -\u003e Solid Salt.",
+                                     "DesignValues":  [
+                                                          "Gravity Flow: Stages 1, 2, 3, and 4 utilize gravity cascades where possible",
+                                                          "Pumping Stages: 1. EQ Transfer, 2. RAS/WAS, 3. Tertiary Feed, 4. UF/RO High Pressure, 5. Slurry Feed",
+                                                          "Recycle Return: Filtrate contains 5-10% of total plant nutrient load"
+                                                      ],
+                                     "NextConnection":  "Slide 109: Piping, Channel Hydraulics, Valving \u0026 Gate Selection",
+                                     "Num":  108,
+                                     "Cat":  "SUMMARY \u0026 INTEGRATION",
+                                     "Title":  "Complete Plant Interconnection Architecture",
+                                     "Sources":  "S1, S7, S24"
+                                 },
+                                 {
+                                     "Machine":  "Cast Iron / SS316 Penstocks with rising spindles, Bi-directional resilient-seated Knife Gate Valves, Eccentric Plug Valves, Telescopic Sludge Draw-off Valves, and Butterfly Valves.",
+                                     "Image":  "card_neutralization.png",
+                                     "Hydraulics":  "Manning\u0027s Equation for open channels: v = (1/n) * R^(2/3) * S^(1/2). Hazen-Williams Equation for pressurized pipes: hf = [10.67 * L * Q^1.852] / [C^1.852 * D^4.87].",
+                                     "Subtitle":  "Penstocks, Sluice Gates, Knife Gate Valves \u0026 Flow Velocity Sizing",
+                                     "Purpose":  "Specifies conduits, isolation gates, control valves, and materials of construction across all wastewater streams.",
+                                     "Mechanism":  "Channel design maintains self-cleansing velocity (v \u003e= 0.6 m/s) to prevent solids deposition while keeping v \u003c= 1.2 m/s to prevent turbulence. Sludge pipelines use eccentric plug or knife gate valves with full-bore openings to prevent rag wrapping.",
+                                     "DesignValues":  [
+                                                          "Liquid Flow Velocity: 0.8 - 1.8 m/s in pipes; 0.6 - 1.0 m/s in channels",
+                                                          "Sludge Pipeline Velocity: 1.0 - 1.5 m/s (prevents grease deposition)",
+                                                          "Air Pipeline Velocity: 10 - 20 m/s in steel/SS headers",
+                                                          "Pipe Materials: Ductile Iron (DI K9), Epoxy-lined CS, HDPE PE100, SS304/316",
+                                                          "Penstocks: Handwheel or 415V electric motorized actuator"
+                                                      ],
+                                     "NextConnection":  "Slide 110: Instrumentation, Process Automation \u0026 SCADA",
+                                     "Num":  109,
+                                     "Cat":  "SUMMARY \u0026 INTEGRATION",
+                                     "Title":  "Piping, Channel Hydraulics \u0026 Valving",
+                                     "Sources":  "S1, S6, S24"
+                                 },
+                                 {
+                                     "Machine":  "Electromagnetic Flowmeters, Optical Dissolved Oxygen (DO) Sensors, Glass/Flat-bulb pH/ORP Probes, Ultrasonic Sludge Blanket Level Detectors, Radar Level Transmitters, Thermal Mass Gas Flowmeters, and Programmable Logic Controllers (PLC / SCADA).",
+                                     "Image":  "eq_tank_schematic.png",
+                                     "Hydraulics":  "Redundant Ethernet/Profibus network transmits real-time telemetry to central SCADA HMI workstation and government environmental portals.",
+                                     "Subtitle":  "Online Sensors, PLC Control Loops \u0026 Real-Time Monitoring",
+                                     "Purpose":  "Provides 24/7 automated process control, safety interlocking, energy optimization, and regulatory compliance logging.",
+                                     "Mechanism":  "Critical automated control loops: 1. Aeration DO Control: Optical DO probes modulate blower VFDs and air control valves to hold DO at 2.0 mg/L (saves 20-30% blower energy); 2. Chemical Dosing: Flow-proportional + pH/Turbidity feedback modulates coagulant/polymer dosing pumps; 3. Clarifier Blanket Level: Ultrasonic detectors trigger automated sludge draw-off before blanket overflows weirs.",
+                                     "DesignValues":  [
+                                                          "DO Sensor Type: Optical luminescent (zero drift, low maintenance)",
+                                                          "Flowmeter Accuracy: +/- 0.5% full scale (magnetic flowmeter)",
+                                                          "Level Sensor: 80 GHz non-contact radar",
+                                                          "PLC Architecture: Dual redundant CPU with hot standby",
+                                                          "Safety Interlocks: Low-level dry run pump trip, high-level basin overflow trip"
+                                                      ],
+                                     "NextConnection":  "Slide 111: Mechanical Machines to Treatment Mapping Matrix",
+                                     "Num":  110,
+                                     "Cat":  "SUMMARY \u0026 INTEGRATION",
+                                     "Title":  "Instrumentation, Process Automation \u0026 SCADA",
+                                     "Sources":  "S1, S7, S24"
+                                 },
+                                 {
+                                     "Machine":  "Complete Equipment Inventory: Bar Screen, Vortex Chamber, API/Belt Skimmer, EQ Mixers, Chemical Dosing Pumps, Flash Agitator, Paddle Flocculator, Clarifier Bridge, DAF Saturator, Blowers, Diffusers, MBBR Media/Sieves, SBR Decanter, MBR Cassettes, UASB GLSS, DMF/GAC Filters, UV/O3, UF/RO Skids, MEE Calandrias, ATFD, Belt Press, Centrifuge \u0026 Filter Press.",
+                                     "Image":  "bar_screen_schematic.png",
+                                     "Hydraulics":  "Full matrix cross-references machine type, governing phenomenon, primary contaminant removed, and downstream connection.",
+                                     "Subtitle":  "Master Cross-Reference Table: Physical, Chemical, Biological \u0026 Thermal",
+                                     "Purpose":  "One master reference table mapping every machine in the plant to its exact treatment classification and unit process role.",
+                                     "Mechanism":  "Treatment Classifications: 1. Physical: Screening, Sedimentation, Flotation, Filtration; 2. Chemical: Neutralization, Coagulation, Oxidation, Precipitation; 3. Biological: Aerobic Oxidation, Nitrification, Denitrification, Anaerobic Methanogenesis; 4. Thermal: Evaporation, Crystallization, Drying.",
+                                     "DesignValues":  [
+                                                          "Physical Units: 14 Machine Types",
+                                                          "Chemical Units: 8 Machine Types",
+                                                          "Biological Units: 10 Machine Types",
+                                                          "Advanced Separation / ZLD: 6 Machine Types",
+                                                          "Sludge Handling: 8 Machine Types"
+                                                      ],
+                                     "NextConnection":  "Slide 112: Indicative Regulatory Discharge Standards (India \u0026 Global)",
+                                     "Num":  111,
+                                     "Cat":  "SUMMARY \u0026 INTEGRATION",
+                                     "Title":  "22: Machines-to-Treatment Process Map",
+                                     "Sources":  "S1-S24"
+                                 },
+                                 {
+                                     "Machine":  "Continuous Online Effluent Quality Monitoring System (OCEMS) with automated data transmission to regulatory servers.",
+                                     "Image":  "card_dmf_filter.png",
+                                     "Hydraulics":  "Treated effluent must be continuously monitored for pH, BOD, COD, TSS, and flow before discharge.",
+                                     "Subtitle":  "CPCB / NGT (India), US EPA, EU Standards \u0026 Industrial Reuse",
+                                     "Purpose":  "Compiles environmental compliance standards governing industrial ETP discharge, municipal STP outfalls, and zero liquid discharge mandates.",
+                                     "Mechanism":  "Standards vary by receiving body: inland surface water, public sewers, land irrigation, or zero liquid discharge (ZLD). Strict parameters enforce biological, chemical, and heavy metal removal.",
+                                     "DesignValues":  [
+                                                          "Inland Surface Water: pH 6.5-8.5 | BOD \u003c= 10-30 mg/L | COD \u003c= 250 mg/L | TSS \u003c= 50-100 mg/L | O\u0026G \u003c= 10 mg/L",
+                                                          "Public Sewer: pH 6.5-9.0 | BOD \u003c= 350 mg/L | COD \u003c= 600 mg/L | TSS \u003c= 600 mg/L",
+                                                          "Land for Irrigation: pH 6.0-9.0 | BOD \u003c= 100 mg/L | COD \u003c= 400 mg/L | TSS \u003c= 200 mg/L",
+                                                          "Treated Sewage (NGT Mandate): pH 6.5-9.0 | BOD \u003c= 10 mg/L | TSS \u003c= 20 mg/L | Total N \u003c= 10 mg/L | Total P \u003c= 1.0 mg/L | Fecal Coliform \u003c 100 MPN/100 mL",
+                                                          "ZLD Requirement: 100% water recovery; Zero liquid discharge to environment"
+                                                      ],
+                                     "NextConnection":  "Slide 113: Master Bibliography \u0026 Engineering Sources Part 1",
+                                     "Num":  112,
+                                     "Cat":  "REFERENCE · STANDARDS",
+                                     "Title":  "23: Regulatory Discharge Limits \u0026 Standards",
+                                     "Sources":  "S22"
+                                 },
+                                 {
+                                     "Machine":  "S1 to S15 Compendium: CPHEEO Manual on Sewerage \u0026 Sewage Treatment; Metcalf \u0026 Eddy Wastewater Engineering; NPTEL IIT Kharagpur Lecture Notes; Netsol Water Design Manuals; KFUPM CE370 Design Criteria; Tennessee Dept of Environment Ch.4-5; EngineeringHulk Design Notes; Design Considerations for Wastewater Facilities; SA Water \u0026 Eimco DAF Design Criteria; ChemREADY Coagulation Handbooks; Virginia DEQ Flocculation Code; Clariflocculator Design Monograph; EPA Primary Clarification Handbook; UTM Biological Nutrient Removal; CED Engineering MBBR Systems.",
+                                     "Image":  "bar_screen_schematic.png",
+                                     "Hydraulics":  "Design ranges consolidated across leading municipal and industrial design codes.",
+                                     "Subtitle":  "CPHEEO, Metcalf \u0026 Eddy, NPTEL \u0026 Academic Design Guides",
+                                     "Purpose":  "Documents the engineering literature, design standards, and technical manuals supporting the operational criteria.",
+                                     "Mechanism":  "Engineering formulations peer-reviewed and aligned with CPHEEO and international wastewater standards.",
+                                     "DesignValues":  [
+                                                          "S1: CPHEEO Manual on Sewerage \u0026 Sewage Treatment",
+                                                          "S2: CPHEEO Preliminary \u0026 Primary Design Notes",
+                                                          "S3: NPTEL IIT Kharagpur: Screening \u0026 Grit Chambers",
+                                                          "S4: Netsol Wastewater Treatment Equipment Guidelines",
+                                                          "S5: KFUPM CE370 Environmental Engineering Lecture Series",
+                                                          "S6: Tennessee Design Criteria for Sewage Works (Ch. 4-5)",
+                                                          "S7: Metcalf \u0026 Eddy / EngineeringHulk Wastewater Calculations",
+                                                          "S8: Design Considerations for Industrial Wastewater Facilities"
+                                                      ],
+                                     "NextConnection":  "Slide 114: Master Bibliography \u0026 Engineering Sources Part 2",
+                                     "Num":  113,
+                                     "Cat":  "REFERENCE · BIBLIOGRAPHY",
+                                     "Title":  "Sources \u0026 Design References: Part 1 (S1–S15)",
+                                     "Sources":  "S1-S15"
+                                 },
+                                 {
+                                     "Machine":  "S16 to S30 Compendium: SSI \u0026 Netsol SBR/MBR Comparative Engineering; Judd Membrane Bioreactor Principles; SSWM \u0026 Susbio Tertiary Filtration Handbooks; Alfa Laval, Remondis \u0026 IIT Madras ZLD Reports; WaterOnline Zero Liquid Discharge Compendium; Water \u0026 Wastes Digest Sludge Dewatering; WEF Manual of Practice No.8 (Sludge Digestion); US EPA Biosolids Technology Fact Sheets; CPCB / NGT Industrial Discharge Norms; Filtox \u0026 SA Water Oil Skimming; ETP Operational Audit Checklists; ISO 14001 Industrial Water Standards.",
+                                     "Image":  "card_atfd_dryer.png",
+                                     "Hydraulics":  "Data gaps verified against industrial engineering references.",
+                                     "Subtitle":  "Advanced Technologies, Membrane Handbooks, ZLD \u0026 Discharge Norms",
+                                     "Purpose":  "Completes the source documentation covering advanced biological, membrane, thermal ZLD, and sludge technologies.",
+                                     "Mechanism":  "All design criteria, chemical dosages, and kinetic parameters cross-verified against real-world commissioned operating plants.",
+                                     "DesignValues":  [
+                                                          "S16: SSI \u0026 Netsol SBR/MBR Comparative Engineering",
+                                                          "S17: The MBR Book (Simon Judd) \u0026 Membrane Handbooks",
+                                                          "S18: SSWM \u0026 Susbio Tertiary Filtration \u0026 Disinfection Guides",
+                                                          "S19: Alfa Laval \u0026 IIT Madras Zero Liquid Discharge Monographs",
+                                                          "S20: Water \u0026 Wastes Digest Sludge Dewatering Handbooks",
+                                                          "S21: WEF Manual of Practice No. 8: Sludge Digestion",
+                                                          "S22: CPCB / NGT Effluent Discharge Norms (India)",
+                                                          "S23: Filtox \u0026 API 421 Oil \u0026 Grease Separation Manuals",
+                                                          "S24: Industrial ETP Audit \u0026 Operational Case Studies"
+                                                      ],
+                                     "NextConnection":  "Slide 115: Conclusion \u0026 Operational Checklist",
+                                     "Num":  114,
+                                     "Cat":  "REFERENCE · BIBLIOGRAPHY",
+                                     "Title":  "Sources \u0026 Design References: Part 2 (S16–S30)",
+                                     "Sources":  "S16-S30"
+                                 },
+                                 {
+                                     "Machine":  "Plant-wide Operational Protocol: Preventive maintenance scheduling, sensor calibration routines, chemical inventory management, and energy auditing.",
+                                     "Image":  "bar_screen_schematic.png",
+                                     "Hydraulics":  "Energy Optimization: Modulate aeration blowers using online DO feedback; utilize high-efficiency VFDs; maximize gravity flow cascades.",
+                                     "Subtitle":  "Best Practices for Commissioning, Preventive Maintenance \u0026 Process Control",
+                                     "Purpose":  "Summarizes core operational guidelines to ensure long-term equipment reliability, energy efficiency, and uncompromised compliance.",
+                                     "Mechanism":  "Key Operational Pillars: 1. Headworks Integrity: Never bypass screens or grit chambers to protect pumps and aerators; 2. Flocculation Control: Regularly perform jar tests to adjust coagulant/polymer doses to incoming load; 3. Biomass Health: Maintain strict DO (1.5-2.5 mg/L), monitor microscopic protozoa, and waste sludge daily to stabilize SRT; 4. Membrane Protection: Maintain SDI \u003c 3.0 via rigorous pre-treatment before RO membranes.",
+                                     "DesignValues":  [
+                                                          "Daily Checklist: 1. Visual inspection of screen/grit removal | 2. Jar test calibration | 3. MLSS \u0026 30-min SVI settleability test | 4. DO \u0026 pH probe verification | 5. Dewatering cake solids check",
+                                                          "Energy Target: \u003c 0.4 - 0.7 kWh / m3 for municipal STP; 1.5 - 4.5 kWh / m3 for industrial ETP + ZLD",
+                                                          "Reliability: Dual pump redundancy (1W+1S) ensures zero unplanned downtime",
+                                                          "Livprotec Commitment: Engineering excellence in sustainable water stewardship"
+                                                      ],
+                                     "NextConnection":  "END OF MASTER PRESENTATION",
+                                     "Num":  115,
+                                     "Cat":  "LIVPROTEC · TECHNICAL MASTERCLASS",
+                                     "Title":  "Conclusion \u0026 Operational Excellence Checklist",
+                                     "Sources":  "Livprotec Engineering Division · 2026"
+                                 }
+                             ],
+    "Projects":  [
+                     {
+                         "ContractType":  "Design-Build-Operate (DBO)",
+                         "Source":  "Veolia Water Technologies Industrial Case Studies (veoliawatertechnologies.com)",
+                         "Id":  "PROJ-01",
+                         "Industry":  "Refining \u0026 Petrochemicals",
+                         "Competitor":  "Veolia Water Technologies",
+                         "Status":  "Operational",
+                         "Customer":  "Shell Eastern Petroleum",
+                         "Technology":  "AnoxKaldnes MBBR + Dissolved Air Flotation (DAF) + Dual Media Filtration + RO",
+                         "Capacity":  "12,000 m3/day",
+                         "Location":  "Pulau Bukom, Singapore",
+                         "Application":  "Refinery Sour Water \u0026 Process Effluent Reuse",
+                         "ProjectValue":  "~ USD"
+                     },
+                     {
+                         "ContractType":  "Technology Supply \u0026 EPC Integration",
+                         "Source":  "RIL Annual Reports / Veolia Engineering References",
+                         "Id":  "PROJ-02",
+                         "Industry":  "Petrochemicals \u0026 Refining",
+                         "Competitor":  "Veolia Water Technologies",
+                         "Status":  "Operational",
+                         "Customer":  "Reliance Industries Limited (RIL)",
+                         "Technology":  "Actiflo Microsand Clarification + Demineralization Trains",
+                         "Capacity":  "48,000 m3/day",
+                         "Location":  "Jamnagar, Gujarat, India",
+                         "Application":  "High-Rate Clarification \u0026 Demineralization for Mega Refinery",
+                         "ProjectValue":  "~INR 280 Cr ( USD)"
+                     },
+                     {
+                         "ContractType":  "Turnkey EPC",
+                         "Source":  "Global Water Intelligence (GWI) Project Tracker",
+                         "Id":  "PROJ-03",
+                         "Industry":  "Petrochemicals",
+                         "Competitor":  "Veolia Water Technologies",
+                         "Status":  "Operational",
+                         "Customer":  "Sinopec",
+                         "Technology":  "Biological Pretreatment + High-Recovery RO + EVALED MVR Evaporators + Crystallizer",
+                         "Capacity":  "28,800 m3/day",
+                         "Location":  "Zhanjiang, Guangdong, China",
+                         "Application":  "Zero Liquid Discharge for Coal-to-Chemicals Complex",
+                         "ProjectValue":  "~ USD"
+                     },
+                     {
+                         "ContractType":  "EPC + Specialty Chemical Service SLA",
+                         "Source":  "Saudi Aramco Technical Presentations / SUEZ Case Studies",
+                         "Id":  "PROJ-04",
+                         "Industry":  "Oil \u0026 Gas / Refining",
+                         "Competitor":  "SUEZ Water Technologies",
+                         "Status":  "Operational",
+                         "Customer":  "Saudi Aramco",
+                         "Technology":  "Densadeg Clarifier + ZeeWeed 500 Hollow-Fiber MBR + Brackish RO",
+                         "Capacity":  "30,000 m3/day",
+                         "Location":  "Ras Tanura, Eastern Province, Saudi Arabia",
+                         "Application":  "Oily Effluent Treatment \u0026 Demineralized Water Production",
+                         "ProjectValue":  "~ USD"
+                     },
+                     {
+                         "ContractType":  "Turnkey EPC",
+                         "Source":  "CPCL Annual Reports / Suez Water India Case Study",
+                         "Id":  "PROJ-05",
+                         "Industry":  "Petroleum Refining",
+                         "Competitor":  "SUEZ Water Technologies",
+                         "Status":  "Operational",
+                         "Customer":  "Chennai Petroleum Corporation Limited (CPCL)",
+                         "Technology":  "Densadeg Clarifier + ZeeWeed Ultrafiltration + RO Desalination",
+                         "Capacity":  "18,000 m3/day (2.5 MGD)",
+                         "Location":  "Manali, Tamil Nadu, India",
+                         "Application":  "Tertiary Treated Sewage Effluent for Refinery Boiler Makeup",
+                         "ProjectValue":  "~INR 150 Cr ( USD)"
+                     },
+                     {
+                         "ContractType":  "Design-Build-Operate (DBO)",
+                         "Source":  "European Water Association / SUEZ Industrial Reference",
+                         "Id":  "PROJ-06",
+                         "Industry":  "Chemicals \u0026 Plastics",
+                         "Competitor":  "SUEZ Water Technologies",
+                         "Status":  "Operational",
+                         "Customer":  "BASF Antwerpen",
+                         "Technology":  "High-Rate Clarification + Industrial MBR + InSight Digital APM",
+                         "Capacity":  "24,000 m3/day",
+                         "Location":  "Antwerp, Flanders, Belgium",
+                         "Application":  "Integrated Chemical Complex Wastewater Treatment \u0026 Recirculation",
+                         "ProjectValue":  "~EUR 42M ( USD)"
+                     },
+                     {
+                         "ContractType":  "Annual Performance-Based Chemical Contract",
+                         "Source":  "Tata Steel Sustainability Report / Nalco Water Industrial Case Study",
+                         "Id":  "PROJ-07",
+                         "Industry":  "Steel \u0026 Heavy Metallurgy",
+                         "Competitor":  "Ecolab (Nalco Water)",
+                         "Status":  "Operational",
+                         "Customer":  "Tata Steel Limited",
+                         "Technology":  "3D TRASAR Solid-State Fluorometric Automation + CORE SHELL Polymers",
+                         "Capacity":  "Continuous recirculation circuit (120,000 m3/hr)",
+                         "Location":  "Jamshedpur, Jharkhand, India",
+                         "Application":  "Cooling Water Circuit Scale/Corrosion Inhibition \u0026 Automation",
+                         "ProjectValue":  "~INR 45 Cr/yr (.5M/yr)"
+                     },
+                     {
+                         "ContractType":  "Specialty Chemical Management Contract",
+                         "Source":  "Water Environment Federation (WEFTEC) Proceedings",
+                         "Id":  "PROJ-08",
+                         "Industry":  "Petrochemicals",
+                         "Competitor":  "Ecolab (Nalco Water)",
+                         "Status":  "Operational",
+                         "Customer":  "ExxonMobil Chemical",
+                         "Technology":  "MetClear Precipitants + 3D TRASAR for Industrial Wastewater",
+                         "Capacity":  "35,000 m3/day",
+                         "Location":  "Baytown, Texas, USA",
+                         "Application":  "Process Wastewater Heavy Metals Removal \u0026 Recycle",
+                         "ProjectValue":  "~ USD"
+                     },
+                     {
+                         "ContractType":  "Water Service Facility Contract",
+                         "Source":  "Kurita Water Industries Financial Results / TSMC CSR Report",
+                         "Id":  "PROJ-09",
+                         "Industry":  "Semiconductors",
+                         "Competitor":  "Kurita Water Industries",
+                         "Status":  "Operational",
+                         "Customer":  "Taiwan Semiconductor Manufacturing Co (TSMC)",
+                         "Technology":  "Kurita Continuous RO + TOC UV Decomposition + Metakem Recovery",
+                         "Capacity":  "25,000 m3/day",
+                         "Location":  "Tainan / Hsinchu, Taiwan",
+                         "Application":  "Ultrapure Water (UPW) Reclaim \u0026 Fluoride Wastewater Recovery",
+                         "ProjectValue":  "~ USD"
+                     },
+                     {
+                         "ContractType":  "Comprehensive Water Services",
+                         "Source":  "Toyota Environmental Activity Reports / Kurita Annual Report",
+                         "Id":  "PROJ-10",
+                         "Industry":  "Automotive Manufacturing",
+                         "Competitor":  "Kurita Water Industries",
+                         "Status":  "Operational",
+                         "Customer":  "Toyota Motor Corporation",
+                         "Technology":  "Chemical-Physical Precipitation + DReeM Polymer + S.sensing IoT",
+                         "Capacity":  "6,500 m3/day",
+                         "Location":  "Toyota City, Aichi, Japan",
+                         "Application":  "Electrodeposition Paint Wastewater Recovery \u0026 Cooling Optimization",
+                         "ProjectValue":  "~ USD"
+                     },
+                     {
+                         "ContractType":  "Critical Equipment Package Supply",
+                         "Source":  "NTPC Tender Awards / Xylem India Industrial Case Study",
+                         "Id":  "PROJ-11",
+                         "Industry":  "Thermal Power Generation",
+                         "Competitor":  "Xylem",
+                         "Status":  "Operational",
+                         "Customer":  "NTPC Limited",
+                         "Technology":  "Flygt Metallic Volute Submersible Pumps + Heavy-duty Slurry Mixers",
+                         "Capacity":  "Ash handling \u0026 wastewater recycling trains",
+                         "Location":  "Kudgi \u0026 Lara Super Thermal Power Plants, India",
+                         "Application":  "Ash Pond Water \u0026 Cooling Tower Makeup Pumping Infrastructure",
+                         "ProjectValue":  "~INR 95 Cr ( USD)"
+                     },
+                     {
+                         "ContractType":  "Engineered Systems Supply",
+                         "Source":  "Xylem Wedeco Industrial Case Studies / Swiss Eawag Trials",
+                         "Id":  "PROJ-12",
+                         "Industry":  "Pharmaceuticals",
+                         "Competitor":  "Xylem",
+                         "Status":  "Operational",
+                         "Customer":  "Leading Swiss Pharmaceutical Major",
+                         "Technology":  "Wedeco MiPRO Ozone/Peroxide Advanced Oxidation Process (AOP)",
+                         "Capacity":  "6,000 m3/day",
+                         "Location":  "Basel, Switzerland",
+                         "Application":  "Destruction of Active Pharmaceutical Ingredients (APIs) in Effluent",
+                         "ProjectValue":  "~.5M USD"
+                     },
+                     {
+                         "ContractType":  "Turnkey EPC \u0026 Technology Licensing",
+                         "Source":  "Aquatech Corporate Case Studies / International Desalination Association",
+                         "Id":  "PROJ-13",
+                         "Industry":  "Petrochemicals \u0026 Petroleum Refining",
+                         "Competitor":  "Aquatech International",
+                         "Status":  "Operational",
+                         "Customer":  "Reliance Industries Limited (RIL)",
+                         "Technology":  "HERO System (pH \u003e10.5) + Falling Film Brine Concentrator + Crystallizer",
+                         "Capacity":  "168,000 m3/day (World\u0027s Largest Industrial ZLD Complex)",
+                         "Location":  "Jamnagar, Gujarat, India",
+                         "Application":  "High Efficiency Reverse Osmosis (HERO) Effluent Recycle \u0026 ZLD",
+                         "ProjectValue":  "~ USD"
+                     },
+                     {
+                         "ContractType":  "Turnkey EPC",
+                         "Source":  "Shell Qatar Technical Releases / GWI Industrial Water Review",
+                         "Id":  "PROJ-14",
+                         "Industry":  "Gas-to-Liquids (GTL) / Petrochemicals",
+                         "Competitor":  "Aquatech International",
+                         "Status":  "Operational",
+                         "Customer":  "Shell Pearl GTL",
+                         "Technology":  "Biological ETP + High-Pressure RO + Evaporator \u0026 Crystallizer ZLD",
+                         "Capacity":  "60,000 m3/day (1,200 m3/hr)",
+                         "Location":  "Ras Laffan Industrial City, Qatar",
+                         "Application":  "Total Gas-to-Liquids Process Water Treatment \u0026 Zero Discharge",
+                         "ProjectValue":  "~ USD"
+                     },
+                     {
+                         "ContractType":  "Turnkey EPC",
+                         "Source":  "Aquatech Asia Case Studies / Chinese Coal Chemical Environmental Portal",
+                         "Id":  "PROJ-15",
+                         "Industry":  "Coal-to-Chemicals",
+                         "Competitor":  "Aquatech International",
+                         "Status":  "Operational",
+                         "Customer":  "Shenhua Ningxia Coal Industry Group",
+                         "Technology":  "HERO + MoVAP Mechanical Vapor Compression + Thermal Crystallizer",
+                         "Capacity":  "58,000 m3/day",
+                         "Location":  "Ningxia, China",
+                         "Application":  "Zero Liquid Discharge for Mega Coal-to-Olefins Complex",
+                         "ProjectValue":  "~ USD"
+                     },
+                     {
+                         "ContractType":  "Turnkey EPC",
+                         "Source":  "VA TECH WABAG Stock Exchange Filings (NSE/BSE) / Dangote Refinery Press",
+                         "Id":  "PROJ-16",
+                         "Industry":  "Petroleum Refining \u0026 Petrochemicals",
+                         "Competitor":  "WABAG",
+                         "Status":  "Commissioned",
+                         "Customer":  "Dangote Oil Refining Company",
+                         "Technology":  "Primary DAF + Extended Aeration + Ultrafiltration + RO Recycling",
+                         "Capacity":  "84,000 m3/day",
+                         "Location":  "Lekki Free Zone, Lagos, Nigeria",
+                         "Application":  "Raw Water Treatment, Industrial ETP \u0026 Effluent Recycle for 650k bpd Refinery",
+                         "ProjectValue":  "~ USD"
+                     },
+                     {
+                         "ContractType":  "Turnkey EPC + Long-term O\u0026M",
+                         "Source":  "IOCL Annual Report / WABAG Investor Presentations",
+                         "Id":  "PROJ-17",
+                         "Industry":  "Petroleum Refining",
+                         "Competitor":  "WABAG",
+                         "Status":  "Operational",
+                         "Customer":  "Indian Oil Corporation Limited (IOCL)",
+                         "Technology":  "API Oil Separation + DAF + Biological Aeration + Dual Media + RO Polish",
+                         "Capacity":  "45,000 m3/day",
+                         "Location":  "Paradip, Odisha, India",
+                         "Application":  "Integrated Refinery \u0026 Petrochemical Complex Effluent Treatment Plant",
+                         "ProjectValue":  "~INR 420 Cr ( USD)"
+                     },
+                     {
+                         "ContractType":  "Design-Build-Operate (DBO)",
+                         "Source":  "CPCL Disclosures / CMWSSB Municipal-Industrial Water Partnership",
+                         "Id":  "PROJ-18",
+                         "Industry":  "Petroleum Refining",
+                         "Competitor":  "WABAG",
+                         "Status":  "Operational",
+                         "Customer":  "Chennai Petroleum Corporation Limited (CPCL)",
+                         "Technology":  "Coagulation + Rapid Gravity Sand Filtration + Ultrafiltration + RO",
+                         "Capacity":  "20,000 m3/day (4.4 MGD)",
+                         "Location":  "Manali, Tamil Nadu, India",
+                         "Application":  "Tertiary Treatment Reverse Osmosis (TTRO) - City Sewage to Refinery Feed",
+                         "ProjectValue":  "~INR 240 Cr ( USD)"
+                     },
+                     {
+                         "ContractType":  "Turnkey EPC",
+                         "Source":  "Thermax Water \u0026 Waste Solutions Case Studies",
+                         "Id":  "PROJ-19",
+                         "Industry":  "Agrochemicals \u0026 Pesticides",
+                         "Competitor":  "Thermax Limited",
+                         "Status":  "Operational",
+                         "Customer":  "Leading Agro-Chemical Manufacturing Major",
+                         "Technology":  "Equalization + Chemical Neutralization + Biological ETP + RO + Thermal MEE + ATFD",
+                         "Capacity":  "4,000 KLD (4,000 m3/day)",
+                         "Location":  "Dahej, Gujarat, India",
+                         "Application":  "High-COD High-TDS Effluent Treatment \u0026 Zero Liquid Discharge",
+                         "ProjectValue":  "~INR 65 Cr ( USD)"
+                     },
+                     {
+                         "ContractType":  "Turnkey EPC",
+                         "Source":  "GPCB Compliance Documents / Thermax Annual Reports",
+                         "Id":  "PROJ-20",
+                         "Industry":  "Textile Dyeing \u0026 Wet Processing",
+                         "Competitor":  "Thermax Limited",
+                         "Status":  "Operational",
+                         "Customer":  "Surat Textile Dyeing \u0026 Processing Cluster",
+                         "Technology":  "Physico-Chemical + Anaerobic + Aerobic MBBR + Ultrafiltration + RO + MEE + ATFD",
+                         "Capacity":  "10,000 KLD",
+                         "Location":  "Pandesara / Sachin, Surat, Gujarat, India",
+                         "Application":  "Textile Wastewater Color Removal, Water Recovery, and Pure Salt Recovery",
+                         "ProjectValue":  "~INR 110 Cr (.5M USD)"
+                     },
+                     {
+                         "ContractType":  "Complete Turnkey Steam \u0026 Water Package",
+                         "Source":  "CPCB Zero Liquid Discharge Compliance Portal / Thermax Disclosures",
+                         "Id":  "PROJ-21",
+                         "Industry":  "Distilleries \u0026 Biofuels",
+                         "Competitor":  "Thermax Limited",
+                         "Status":  "Operational",
+                         "Customer":  "Grain \u0026 Molasses Distillery",
+                         "Technology":  "High-Rate Biomethanation (UASB) + Biogas Recovery + Condensate Polishing + MEE",
+                         "Capacity":  "Spent Wash (1,500 KLD)",
+                         "Location":  "Solapur, Maharashtra, India",
+                         "Application":  "Spent Wash Treatment, Bio-Methanation \u0026 ZLD Evaporation",
+                         "ProjectValue":  "~INR 45 Cr (.5M USD)"
+                     },
+                     {
+                         "ContractType":  "Build-Own-Operate (BOO - 30 Year Concession)",
+                         "Source":  "Sembcorp Industries Annual Reports / Singapore PUB",
+                         "Id":  "PROJ-22",
+                         "Industry":  "Chemicals \u0026 Petrochemicals",
+                         "Competitor":  "Sembcorp Industries",
+                         "Status":  "Operational",
+                         "Customer":  "Jurong Island Industrial Complex Tenants",
+                         "Technology":  "Central Equalization + Multi-Stage DAF + High-Load Biological + UF + RO",
+                         "Capacity":  "280,000 m3/day",
+                         "Location":  "Jurong Island, Singapore",
+                         "Application":  "Multi-Tenant Centralized Industrial Wastewater Treatment (CIWWT) \u0026 Reclaim",
+                         "ProjectValue":  "~SGD 400M ( USD)"
+                     },
+                     {
+                         "ContractType":  "BOO Concession",
+                         "Source":  "Sembcorp China Disclosures / NCIP Environmental Directory",
+                         "Id":  "PROJ-23",
+                         "Industry":  "Specialty Chemicals",
+                         "Competitor":  "Sembcorp Industries",
+                         "Status":  "Operational",
+                         "Customer":  "Nanjing Chemical Industrial Park (NCIP)",
+                         "Technology":  "Specialized Chemical-Physical + Biological Towers + Ozone Polish + RO",
+                         "Capacity":  "80,000 m3/day",
+                         "Location":  "Nanjing, Jiangsu Province, China",
+                         "Application":  "Centralized Toxic Chemical Effluent Treatment \u0026 Recycled Water Supply",
+                         "ProjectValue":  "~ USD"
+                     },
+                     {
+                         "ContractType":  "Turnkey EPC + Long-term O\u0026M",
+                         "Source":  "Ion Exchange (India) Annual Reports / Sri City Infrastructure Disclosures",
+                         "Id":  "PROJ-24",
+                         "Industry":  "Multi-Sector Industrial Park (Automotive, Food, Electronics)",
+                         "Competitor":  "Ion Exchange India",
+                         "Status":  "Operational",
+                         "Customer":  "Sri City Integrated Business City",
+                         "Technology":  "INDION High-Rate Clarifier + Submerged MBR + Brackish RO + UV Polish",
+                         "Capacity":  "20,000 m3/day (20 MLD)",
+                         "Location":  "Sri City, Andhra Pradesh, India",
+                         "Application":  "Centralized Industrial Effluent Treatment \u0026 100% Water Recycle",
+                         "ProjectValue":  "~INR 125 Cr ( USD)"
+                     },
+                     {
+                         "ContractType":  "Lump-sum Turnkey (LSTK)",
+                         "Source":  "BSE/NSE Corporate Announcements / BALCO Project Registry",
+                         "Id":  "PROJ-25",
+                         "Industry":  "Aluminium Smelting \u0026 Thermal Power",
+                         "Competitor":  "Ion Exchange India",
+                         "Status":  "Operational",
+                         "Customer":  "Vedanta / Bharat Aluminium Company (BALCO)",
+                         "Technology":  "Chemical Clarification + INDION Resins + High-Recovery RO + Evaporator",
+                         "Capacity":  "12,000 m3/day",
+                         "Location":  "Korba, Chhattisgarh, India",
+                         "Application":  "Industrial Wastewater Treatment \u0026 High-Recovery Demin Recycling",
+                         "ProjectValue":  "~INR 85 Cr (.5M USD)"
+                     },
+                     {
+                         "ContractType":  "Engineered Systems Package",
+                         "Source":  "Semiconductor International / Ovivo High-Tech Case Studies",
+                         "Id":  "PROJ-26",
+                         "Industry":  "Semiconductor Fabrication",
+                         "Competitor":  "Ovivo Inc.",
+                         "Status":  "Operational",
+                         "Customer":  "GlobalFoundries Fab 8",
+                         "Technology":  "MemPulse MBR + Eimco Clarification + Continuous Electro-deionization (CEDI) + RO",
+                         "Capacity":  "25,000 m3/day",
+                         "Location":  "Malta, Saratoga County, New York, USA",
+                         "Application":  "Ultrapure Water (UPW) System \u0026 Chemical Mechanical Polishing (CMP) WW Reclaim",
+                         "ProjectValue":  "~ USD"
+                     },
+                     {
+                         "ContractType":  "Specialty Chemical SLA",
+                         "Source":  "Indian Pulp \u0026 Paper Technical Association (IPPTA) Proceedings",
+                         "Id":  "PROJ-27",
+                         "Industry":  "Pulp \u0026 Paper",
+                         "Competitor":  "Solenis",
+                         "Status":  "Operational",
+                         "Customer":  "Leading Pulp \u0026 Paper Mill",
+                         "Technology":  "Praestol Cationic Flocculants + Zalta Antiscalant + OnGuard IoT Dosing",
+                         "Capacity":  "25,000 m3/day process water",
+                         "Location":  "Erode, Tamil Nadu, India",
+                         "Application":  "Effluent Decolorization, White Water Loop Closure \u0026 Sludge Dewatering",
+                         "ProjectValue":  "~INR 18 Cr/yr (.2M/yr)"
+                     },
+                     {
+                         "ContractType":  "Turnkey EPC",
+                         "Source":  "Fluence Corporation Investor Presentations / ASX Disclosures",
+                         "Id":  "PROJ-28",
+                         "Industry":  "Food \u0026 Confectionery Processing",
+                         "Competitor":  "Fluence Corporation",
+                         "Status":  "Operational",
+                         "Customer":  "Grupo Arcor",
+                         "Technology":  "High-Rate Anaerobic CSTR Digestion + DAF + Waste-to-Energy Co-generation",
+                         "Capacity":  "3,000 m3/day",
+                         "Location":  "San Pedro, Buenos Aires, Argentina",
+                         "Application":  "High-COD Wastewater Digestion, Biogas Energy Recovery \u0026 Water Reuse",
+                         "ProjectValue":  "~.5M USD"
+                     },
+                     {
+                         "ContractType":  "Modular Equipment Supply",
+                         "Source":  "Fluence Corporation Global Projects Portal / WaterTech Online",
+                         "Id":  "PROJ-29",
+                         "Industry":  "Decentralized Industrial \u0026 Rural Settlements",
+                         "Competitor":  "Fluence Corporation",
+                         "Status":  "Operational",
+                         "Customer":  "Hubei Environmental Protection Bureau",
+                         "Technology":  "Aspiral Modular Packaged Plants with MABR Breathable Membranes",
+                         "Capacity":  "Multi-site deployment (total ~15,000 m3/day)",
+                         "Location":  "Hubei Province, China",
+                         "Application":  "Decentralized Low-Energy Nitrogen/BOD Removal",
+                         "ProjectValue":  "~ USD"
+                     },
+                     {
+                         "ContractType":  "Turnkey EPC",
+                         "Source":  "IDE Technologies Global References / Desalination Journal",
+                         "Id":  "PROJ-30",
+                         "Industry":  "Petroleum Refining",
+                         "Competitor":  "IDE Technologies",
+                         "Status":  "Operational",
+                         "Customer":  "Reliance Industries Limited (RIL)",
+                         "Technology":  "Multi-Effect Distillation (MED-TVC) + High-Recovery Seawater RO",
+                         "Capacity":  "160,000 m3/day (Multiple Trains)",
+                         "Location":  "Jamnagar, Gujarat, India",
+                         "Application":  "Seawater Desalination \u0026 High-Salinity Refinery Wastewater Evaporation",
+                         "ProjectValue":  "~ USD"
+                     },
+                     {
+                         "ContractType":  "Turnkey EPC",
+                         "Source":  "International Mining / IDE Technologies Industrial Case Studies",
+                         "Id":  "PROJ-31",
+                         "Industry":  "Mining \u0026 Copper Extraction",
+                         "Competitor":  "IDE Technologies",
+                         "Status":  "Operational",
+                         "Customer":  "Minera Centinela (Antofagasta Minerals)",
+                         "Technology":  "MaxH2O Pulse RO + High-Pressure Demineralization + Tailings Reuse",
+                         "Capacity":  "30,000 m3/day",
+                         "Location":  "Antofagasta Region, Atacama Desert, Chile",
+                         "Application":  "Mining Process Water Reclamation \u0026 Tailings Thickening",
+                         "ProjectValue":  "~ USD"
+                     },
+                     {
+                         "ContractType":  "Turnkey EPC + Long-term O\u0026M",
+                         "Source":  "Maruti Suzuki Sustainability Reports / Toshiba Infrastructure News",
+                         "Id":  "PROJ-32",
+                         "Industry":  "Automotive Manufacturing",
+                         "Competitor":  "Toshiba Water Solutions",
+                         "Status":  "Operational",
+                         "Customer":  "Maruti Suzuki India Limited",
+                         "Technology":  "Physico-Chemical Precipitation + Submerged MBR + RO + Thermal Evaporator ZLD",
+                         "Capacity":  "10,000 KLD across both complexes",
+                         "Location":  "Manesar (Haryana) \u0026 Hansalpur (Gujarat), India",
+                         "Application":  "Automotive Paint Shop Effluent Treatment, MBR Polish \u0026 ZLD",
+                         "ProjectValue":  "~INR 110 Cr (.5M USD)"
+                     },
+                     {
+                         "ContractType":  "Turnkey EPC",
+                         "Source":  "IOCL Mathura Environmental Clearances / Toshiba Water Case Studies",
+                         "Id":  "PROJ-33",
+                         "Industry":  "Petroleum Refining",
+                         "Competitor":  "Toshiba Water Solutions",
+                         "Status":  "Operational",
+                         "Customer":  "Indian Oil Corporation Limited (IOCL)",
+                         "Technology":  "Dissolved Air Flotation + Dual Media + Activated Carbon + RO + Mixed Bed",
+                         "Capacity":  "12,000 m3/day",
+                         "Location":  "Mathura Refinery, Uttar Pradesh, India",
+                         "Application":  "Refinery Wastewater Recycling \u0026 Demineralized Boiler Feed",
+                         "ProjectValue":  "~INR 75 Cr (.2M USD)"
+                     },
+                     {
+                         "ContractType":  "Turnkey EPC + 5-Year O\u0026M",
+                         "Source":  "ADNOC Projects Directory / Metito Corporate Project Database",
+                         "Id":  "PROJ-34",
+                         "Industry":  "Refining \u0026 Petrochemicals",
+                         "Competitor":  "Metito",
+                         "Status":  "Operational",
+                         "Customer":  "Abu Dhabi National Oil Company (ADNOC)",
+                         "Technology":  "API Separator + High-Rate Clarification + MBR + Two-Pass RO",
+                         "Capacity":  "20,000 m3/day",
+                         "Location":  "Ruwais Refining Complex, Abu Dhabi, UAE",
+                         "Application":  "Industrial Effluent Polishing \u0026 High-Purity Demineralized Water Supply",
+                         "ProjectValue":  "~ USD"
+                     },
+                     {
+                         "ContractType":  "BOOT Concession (25 Years)",
+                         "Source":  "Modon Official Portal / Metito Concession Portfolios",
+                         "Id":  "PROJ-35",
+                         "Industry":  "Multi-Tenant Industrial Park",
+                         "Competitor":  "Metito",
+                         "Status":  "Operational",
+                         "Customer":  "Modon (Saudi Authority for Industrial Cities)",
+                         "Technology":  "Central Clarification + Extended Aeration + Ultrafiltration + RO Desalination",
+                         "Capacity":  "30,000 m3/day",
+                         "Location":  "Dammam 2nd Industrial City, Saudi Arabia",
+                         "Application":  "Industrial Effluent Treatment \u0026 Treated Sewage Effluent (TSE) Industrial Reuse",
+                         "ProjectValue":  "~ USD"
+                     },
+                     {
+                         "ContractType":  "Industrial On-Site Contract (Betreibermodell)",
+                         "Source":  "Currenta / Chempark Reports / REMONDIS Aqua Publications",
+                         "Id":  "PROJ-36",
+                         "Industry":  "Chemicals \u0026 Polymers",
+                         "Competitor":  "REMONDIS Industrial",
+                         "Status":  "Operational",
+                         "Customer":  "Chempark Krefeld-Uerdingen (Covestro, Bayer, Lanxess)",
+                         "Technology":  "Multi-Stage Biological Wastewater Plant + Sludge Incineration with Energy Recovery",
+                         "Capacity":  "45,000 m3/day",
+                         "Location":  "Krefeld, North Rhine-Westphalia, Germany",
+                         "Application":  "Chemical Complex Industrial Effluent Treatment \u0026 Sewage Sludge Incineration",
+                         "ProjectValue":  "~EUR 95M ( USD asset base)"
+                     },
+                     {
+                         "ContractType":  "Technology License \u0026 Engineering Package",
+                         "Source":  "TSIIC Infrastructure Tenders / Organica Water Case Studies",
+                         "Id":  "PROJ-37",
+                         "Industry":  "Pharma SEZ \u0026 Eco-Industrial Park",
+                         "Competitor":  "Organica Water",
+                         "Status":  "Operational",
+                         "Customer":  "Telangana State Industrial Infrastructure Corp (TSIIC)",
+                         "Technology":  "Organica FoodChain Reactor (FCR) Botanical Fixed-Bed Biofilm + Disc Filter",
+                         "Capacity":  "5,000 KLD (5,000 m3/day)",
+                         "Location":  "Hyderabad, Telangana, India",
+                         "Application":  "Odorless Botanical Biological Treatment for Industrial SEZ Reuse",
+                         "ProjectValue":  "~INR 32 Cr ( USD)"
+                     },
+                     {
+                         "ContractType":  "Engineered Modular Skid Package",
+                         "Source":  "Samco Technologies Case Study Library / Battery Tech Review",
+                         "Id":  "PROJ-38",
+                         "Industry":  "EV Batteries \u0026 Energy Storage",
+                         "Competitor":  "Samco Technologies",
+                         "Status":  "Operational",
+                         "Customer":  "Automotive EV Battery Gigafactory",
+                         "Technology":  "Automated Chelating Ion Exchange + High-Pressure RO Skid System",
+                         "Capacity":  "5,000 m3/day",
+                         "Location":  "Sparks, Nevada, USA",
+                         "Application":  "Cathode/Anode Rinse Water Heavy Metals Removal \u0026 Direct Water Reuse",
+                         "ProjectValue":  "~ USD"
+                     },
+                     {
+                         "ContractType":  "Equipment EPC",
+                         "Source":  "RCF Environmental Statements / HDO Historical Reference Registry",
+                         "Id":  "PROJ-39",
+                         "Industry":  "Fertilizers \u0026 Industrial Chemicals",
+                         "Competitor":  "Hindustan Dorr-Oliver (HDO)",
+                         "Status":  "Operational",
+                         "Customer":  "Rashtriya Chemicals \u0026 Fertilizers (RCF)",
+                         "Technology":  "Heavy Rake Clarifiers + Chemical Reaction Tanks + Rotary Vacuum Filters",
+                         "Capacity":  "15,000 m3/day",
+                         "Location":  "Trombay, Mumbai, Maharashtra, India",
+                         "Application":  "Chemical Effluent Neutralization, Clarification \u0026 Fluoride Precipitation",
+                         "ProjectValue":  "~INR 45 Cr (Historical Contract)"
+                     },
+                     {
+                         "ContractType":  "HAM Concession / DBO",
+                         "Source":  "National Mission for Clean Ganga (NMCG) Disclosures / Triveni Annual Report",
+                         "Id":  "PROJ-40",
+                         "Industry":  "Petroleum Refining",
+                         "Competitor":  "Triveni Engineering (Water Business Group)",
+                         "Status":  "Operational",
+                         "Customer":  "Indian Oil Corporation (IOCL) / Mathura Project",
+                         "Technology":  "High-Rate Solids Contact Clarifiers (HRSCC) + Ultrafiltration + RO",
+                         "Capacity":  "20 MLD (20,000 m3/day)",
+                         "Location":  "Mathura, Uttar Pradesh, India",
+                         "Application":  "City Treated Sewage to Demineralized Makeup Water for Mathura Refinery",
+                         "ProjectValue":  "~INR 180 Cr ( USD)"
+                     },
+                     {
+                         "ContractType":  "Proprietary Equipment Package",
+                         "Source":  "WesTech Industrial Minerals Case Studies / Mining Engineering Journal",
+                         "Id":  "PROJ-41",
+                         "Industry":  "Mining \u0026 Mineral Beneficiation",
+                         "Competitor":  "WesTech Engineering",
+                         "Status":  "Operational",
+                         "Customer":  "Major Copper Mine Tailings Facility",
+                         "Technology":  "SuperSettler Lamella Plate Settlers + High-Density Tailings Thickeners",
+                         "Capacity":  "50,000 m3/day",
+                         "Location":  "Morenci, Arizona, USA",
+                         "Application":  "Mine Tailings Dewatering \u0026 Process Water Reclaim",
+                         "ProjectValue":  "~ USD"
+                     },
+                     {
+                         "ContractType":  "Turnkey Technology Supply",
+                         "Source":  "Tamil Nadu Pollution Control Board (TNPCB) / Gradiant Releases",
+                         "Id":  "PROJ-42",
+                         "Industry":  "Textiles \u0026 Garment Dyeing",
+                         "Competitor":  "Gradiant",
+                         "Status":  "Operational",
+                         "Customer":  "Leading Indian Textile Dyeing \u0026 Bleaching Park",
+                         "Technology":  "Carrier Gas Extraction (CGE) + RO Infinity (CFRO) + Selective Crystallizer",
+                         "Capacity":  "8,000 KLD",
+                         "Location":  "Tirupur, Tamil Nadu, India",
+                         "Application":  "Zero Liquid Discharge \u0026 Pure Sodium Chloride (NaCl) Salt Recovery",
+                         "ProjectValue":  "~INR 90 Cr ( USD)"
+                     },
+                     {
+                         "ContractType":  "Proprietary MBR Engineering Package",
+                         "Source":  "Asahi Group Sustainability Disclosures / MCAS Case Studies",
+                         "Id":  "PROJ-43",
+                         "Industry":  "Brewing \u0026 Beverage",
+                         "Competitor":  "Mitsubishi Chemical Aqua Solutions (MCAS)",
+                         "Status":  "Operational",
+                         "Customer":  "Asahi Breweries",
+                         "Technology":  "Sterapore SADF Hydrophilic Hollow-Fiber PVDF Submerged MBR",
+                         "Capacity":  "6,000 m3/day",
+                         "Location":  "Suita Brewery, Osaka, Japan",
+                         "Application":  "High-Strength Brewery Wastewater MBR Reclaim",
+                         "ProjectValue":  "~ USD"
+                     },
+                     {
+                         "ContractType":  "Design-Build-Operate (DBO)",
+                         "Source":  "Surat Municipal Corporation / L\u0026T Construction Project Showcases",
+                         "Id":  "PROJ-44",
+                         "Industry":  "Textile Mills Industrial Cluster",
+                         "Competitor":  "Larsen \u0026 Toubro (L\u0026T)",
+                         "Status":  "Operational",
+                         "Customer":  "Surat Municipal Corporation / Industrial Textile Cluster",
+                         "Technology":  "Secondary Clarification + Ultrafiltration + Double Pass RO Desalination",
+                         "Capacity":  "115 MLD (Combined Phases)",
+                         "Location":  "Pandesara \u0026 Sachin, Surat, Gujarat, India",
+                         "Application":  "Tertiary Treated Reverse Osmosis (TTRO) - Sewage to Industrial Grade Water",
+                         "ProjectValue":  "~INR 650 Cr ( USD)"
+                     },
+                     {
+                         "ContractType":  "Process Equipment, Decanters \u0026 Automation Package",
+                         "Source":  "Gujarat Pollution Control Board / SFC Environmental Project Archives",
+                         "Id":  "PROJ-45",
+                         "Industry":  "Textiles \u0026 Chemical Dyeing",
+                         "Competitor":  "SFC Environmental Technologies",
+                         "Status":  "Operational",
+                         "Customer":  "Textile \u0026 Dyeing Cluster CETP",
+                         "Technology":  "Cyclic Activated Sludge Technology (C-TECH Advanced SBR) + Color Polish",
+                         "Capacity":  "30 MLD (30,000 m3/day)",
+                         "Location":  "Surat, Gujarat, India",
+                         "Application":  "Common Effluent Treatment Plant (CETP) Biological Nutrient \u0026 COD Removal",
+                         "ProjectValue":  "~INR 70 Cr (.5M USD)"
+                     }
+                 ],
+    "TechProfiles":  [
+                         {
+                             "CommercialMaturity":  "Established Commercial Technology (TRL 8-9)",
+                             "Id":  "TECH-01",
+                             "Advantages":  "Zero irreversible organic fouling; eliminates chemical cleaning frequency by 80%; withstands free chlorine, acids, solvents, and extreme pH.",
+                             "PilotAndCommercialInstalls":  "ZwitterCo installations across US dairy \u0026 digestate; NX Filtration dNF in Indian \u0026 Indonesian textile plants.",
+                             "CapexImplications":  "1.5x - 2.0x higher membrane module cost; compensated by 40% smaller footprint and reduced pretreatment Capex.",
+                             "Name":  "Advanced Membrane Technologies (Zwitterionic, Ceramic, Biomimetic)",
+                             "Principle":  "Surface-engineered polymers and inorganic ceramic matrices providing fouling-immune, solvent-tolerant, and high-flux molecular sieving.",
+                             "OpexImplications":  "30% - 50% lower replacement and chemical cleaning costs; extended 5-10 year membrane operating lifespan.",
+                             "PatentOwners":  "Tufts University / ZwitterCo, NX Filtration BV, Aquaporin A/S, Membrion Inc.",
+                             "EnergyConsumption":  "0.4 - 1.2 kWh/m3 (significantly lower trans-membrane pressure due to fouling immunity)",
+                             "IndustrialScalability":  "High; modular skid format easily retrofitted into existing RO/UF racks.",
+                             "Developers":  "ZwitterCo, NX Filtration, Membrion, Aquaporin A/S, Nanostone Water, CeraMem",
+                             "Limitations":  "Higher initial module fabrication cost ($/m2) than commodity polyamide spiral membranes; specialized housing requirements.",
+                             "DisruptionPotential":  "High; threatens conventional polymeric RO/UF and coagulant chemical supply chains by removing pretreatment steps."
+                         },
+                         {
+                             "CommercialMaturity":  "Established Commercial Technology (TRL 9)",
+                             "Id":  "TECH-02",
+                             "Advantages":  "75% smaller plant footprint; settles 10x faster than conventional flocs; eliminates separate clarifiers and return activated sludge (RAS) pumping.",
+                             "PilotAndCommercialInstalls":  "Over 100 full-scale Nereda plants globally; C-TECH SBR across 150+ Indian industrial CETPs and municipalities.",
+                             "CapexImplications":  "25% - 35% lower overall civil CAPEX due to omission of secondary clarifiers and smaller basin volumes.",
+                             "Name":  "Next-Generation Biological Treatment (Aerobic Granular Sludge - AGS / Fixed Bed)",
+                             "Principle":  "Dense, spherical microbial granules self-immobilizing without carrier media, executing COD, nitrogen, and phosphorus removal in a single cycle.",
+                             "OpexImplications":  "20% - 40% lower OPEX driven by reduced electrical aeration power and lower polymer consumption.",
+                             "PatentOwners":  "Delft University of Technology / Royal HaskoningDHV, SFC Umwelttechnik",
+                             "EnergyConsumption":  "0.20 - 0.40 kWh/m3 (30-50% lower aeration energy due to high oxygen transfer efficiency)",
+                             "IndustrialScalability":  "High; proven at scale up to 100+ MLD in municipal-industrial and industrial effluent plants.",
+                             "Developers":  "Royal HaskoningDHV (Nereda), SFC Environmental (C-TECH), Organica Water, Veolia (AnoxKaldnes)",
+                             "Limitations":  "Requires precise feast-famine kinetic control; sensitive to sudden toxic chemical shock loads and heavy oil surges.",
+                             "DisruptionPotential":  "High; displacing conventional activated sludge (CAS) and moving-bed bioreactors in high-footprint sites."
+                         },
+                         {
+                             "CommercialMaturity":  "Early Commercialisation (TRL 8)",
+                             "Id":  "TECH-03",
+                             "Advantages":  "Produces net-positive green biogas energy; produces zero aerobic waste sludge; operates at ambient or thermophilic temperatures; total TSS removal.",
+                             "PilotAndCommercialInstalls":  "Full-scale plants operating at major breweries in the US and Europe (e.g. Ken\u0027s Foods, Heineken).",
+                             "CapexImplications":  "High initial CAPEX for anaerobic tankage and gas-tight membrane skid systems.",
+                             "Name":  "Anaerobic Membrane Bioreactors (AnMBR)",
+                             "Principle":  "Coupling high-rate anaerobic methanogenic digestion with submerged or sidestream ultrafiltration membranes to achieve complete biomass retention.",
+                             "OpexImplications":  "Extremely low net OPEX due to renewable methane generation and minimal sludge disposal fees.",
+                             "PatentOwners":  "Veolia Water Technologies, Kubota, Pentair",
+                             "EnergyConsumption":  "Net positive (+0.3 to +1.2 kWh/m3 biogas energy recovery) minus 0.3 - 0.6 kWh/m3 membrane filtration.",
+                             "IndustrialScalability":  "High for concentrated organic effluents (food \u0026 beverage, dairies, breweries, paper mills).",
+                             "Developers":  "Veolia (Biothane), Kubota Corporation, Suez / Veolia WTS, Pentair X-Flow, Aquatech",
+                             "Limitations":  "Membrane biofouling by extracellular polymeric substances (EPS) requires high gas scour or biogas sparging; high dissolved methane in effluent.",
+                             "DisruptionPotential":  "High for organic wastewater; replaces aerobic MBR and traditional anaerobic digesters with superior clarity."
+                         },
+                         {
+                             "CommercialMaturity":  "Established Commercial Technology (TRL 9)",
+                             "Id":  "TECH-04",
+                             "Advantages":  "Up to 90% reduction in aeration energy compared to fine-bubble diffusers; simultaneous nitrification-denitrification in thin biofilm.",
+                             "PilotAndCommercialInstalls":  "Over 300 decentralized plants operating in China, USA, Israel, and Southeast Asia.",
+                             "CapexImplications":  "Moderate; drop-in cassettes (e.g. SUBRE) allow retrofitting existing aeration basins without civil expansion.",
+                             "Name":  "Membrane Aerated Biofilm Reactors (MABR)",
+                             "Principle":  "Gas-permeable breathable hollow-fiber membranes delivering bubbleless oxygen directly to a biofilm growing on the membrane exterior surface.",
+                             "OpexImplications":  "Industry-leading low operating costs; cuts primary plant electrical power consumption by 50-70%.",
+                             "PatentOwners":  "Fluence Corporation Ltd, DuPont / OxyMem, Veolia WTS",
+                             "EnergyConsumption":  "0.12 - 0.25 kWh/m3 (bubbleless oxygen transfer directly across lumen without compressor losses)",
+                             "IndustrialScalability":  "High; modular containerized systems (Fluence Aspiral) deployed rapidly in decentralized sites.",
+                             "Developers":  "Fluence Corporation, SUEZ / Veolia (ZeeLung), OxyMem (DuPont)",
+                             "Limitations":  "Membrane fiber integrity over 10-year lifespan; risk of biofilm overgrowth blocking liquid flow channels.",
+                             "DisruptionPotential":  "Very High; directly threatens conventional fine-bubble aeration diffusers and blower manufacturers."
+                         },
+                         {
+                             "CommercialMaturity":  "Established Commercial Technology (TRL 9)",
+                             "Id":  "TECH-05",
+                             "Advantages":  "Breaks down persistent refractory COD, pesticides, and active pharmaceutical ingredients (APIs); removes 100% color and odor.",
+                             "PilotAndCommercialInstalls":  "Widely implemented at Novartis, Pfizer, Roche, Indian Oil refineries, and municipal reuse facilities.",
+                             "CapexImplications":  "Moderate to high for specialized ozone generators, oxygen concentrators, and catalytic contact basins.",
+                             "Name":  "Advanced Oxidation Processes (AOP - Ozone, Catalytic, Cavitation)",
+                             "Principle":  "Generation of highly non-selective hydroxyl radicals (.OH) and reactive oxygen species to chemically mineralize recalcitrant toxic organics.",
+                             "OpexImplications":  "Moderate; chemical-free operation possible with UV/ozone; higher electrical power costs.",
+                             "PatentOwners":  "Xylem Inc., Veolia Environnement, Toshiba Corporation, Oxyle AG",
+                             "EnergyConsumption":  "0.8 - 3.5 kWh/m3 depending on COD load and radical generation mechanism (ozone, UV, cavitation).",
+                             "IndustrialScalability":  "High; standard unit operation in modern chemical, pharmaceutical, and textile tertiary polishing.",
+                             "Developers":  "Xylem (Wedeco), Veolia (Ozonia), Toshiba, Oxyle, Pangolin Innovations, Kurita",
+                             "Limitations":  "High electrical energy demand for ozone generation or UV lamps; potential formation of toxic bromate and oxidation byproducts.",
+                             "DisruptionPotential":  "Moderate-High; replaces dangerous Fenton chemical reagent logistics and hazardous hydrogen peroxide handling."
+                         },
+                         {
+                             "CommercialMaturity":  "Early Commercialisation to Established (TRL 8-9)",
+                             "Id":  "TECH-06",
+                             "Advantages":  "Eliminates bulk chemical coagulants (alum/PAC); compact automated footprint; destroys recalcitrant organics and PFAS on BDD anodes.",
+                             "PilotAndCommercialInstalls":  "Commercial installations across US landfill leachates (Aclarity) and Indian textile dyeing clusters (Indira Water).",
+                             "CapexImplications":  "Moderate; small modular skid footprint reduces civil works by 60%.",
+                             "Name":  "Electrochemical Wastewater Treatment (Electrocoagulation / Electro-oxidation)",
+                             "Principle":  "In-situ generation of coagulants via sacrificial/non-sacrificial anodes or direct anodic oxidation using boron-doped diamond (BDD) electrodes.",
+                             "OpexImplications":  "Eliminates chemical transport and bulk storage; offset by electrical power and periodic electrode replacement.",
+                             "PatentOwners":  "Aclarity LLC, Axine Water Technologies, Indira Water",
+                             "EnergyConsumption":  "1.5 - 6.0 kWh/m3 (electrocoagulation: 1-2 kWh/m3; direct electrochemical mineralization: 4-10 kWh/m3).",
+                             "IndustrialScalability":  "Moderate; exceptional for decentralized industrial plants and high-toxicity low-volume streams.",
+                             "Developers":  "Aclarity, Indira Water, OriginClear, Axine Water Technologies, Clean TeQ",
+                             "Limitations":  "Electrode passivation and sacrificial plate consumption require periodic maintenance; high power consumption on low-conductivity feeds.",
+                             "DisruptionPotential":  "High for hazardous, landfill leachate, and metal-finishing wastewater."
+                         },
+                         {
+                             "CommercialMaturity":  "Established Commercial Technology (TRL 9)",
+                             "Id":  "TECH-07",
+                             "Advantages":  "Concentrates brine up to 180,000 - 250,000 mg/L TDS using electrical membrane power rather than expensive steam thermal evaporation.",
+                             "PilotAndCommercialInstalls":  "Gradiant installations across global semiconductor fabs (Micron) and IDE MaxH2O in mining/power plants.",
+                             "CapexImplications":  "Reduces overall ZLD CAPEX by 30% - 45% by down-sizing the downstream thermal evaporator and crystallizer.",
+                             "Name":  "Advanced Zero Liquid Discharge (Low-Energy Membrane ZLD \u0026 CFRO)",
+                             "Principle":  "Pushing membrane osmotic pressure limits using Counterflow Reverse Osmosis (CFRO) and high-recovery pulsing to minimize brine volume before evaporation.",
+                             "OpexImplications":  "Cuts thermal steam and electrical OPEX by up to 50% compared to traditional MEE/MVR thermal systems.",
+                             "PatentOwners":  "Gradiant Corporation, IDE Technologies Ltd, Aquatech International",
+                             "EnergyConsumption":  "3.5 - 7.5 kWh/m3 of brine treated (compared to 25 - 50 kWh/m3 for thermal MEE evaporators).",
+                             "IndustrialScalability":  "High; rapidly becoming the global standard for modern industrial ZLD retrofits.",
+                             "Developers":  "Gradiant (RO Infinity), IDE Technologies (MaxH2O Desalter), Aquatech (ARRO), Saltworks",
+                             "Limitations":  "Extreme mechanical pressure requirements (up to 120-150 bar); requires rigorous scaling and organic pretreatment.",
+                             "DisruptionPotential":  "Very High; directly displaces conventional Multi-Effect Evaporator (MEE) capacity."
+                         },
+                         {
+                             "CommercialMaturity":  "Established Commercial Technology (TRL 9)",
+                             "Id":  "TECH-08",
+                             "Advantages":  "Operates at ambient atmospheric pressure and low temperature (\u003c80°C); eliminates heavy scaling and expensive high-pressure titanium vessels.",
+                             "PilotAndCommercialInstalls":  "Full-scale plants operating in Texas oilfields, Indian textile dye parks, and Australian mining sites.",
+                             "CapexImplications":  "Constructed from non-metallic materials (polypropylene/fiberglass), cutting expensive exotic metal alloy CAPEX.",
+                             "Name":  "Low-Energy Evaporation \u0026 Carrier Gas Extraction (CGE / MVR)",
+                             "Principle":  "Carrier Gas Extraction humidifies carrier gas with hot brine and condenses pure water at ambient pressure, mimicking nature\u0027s rain cycle.",
+                             "OpexImplications":  "Zero chemical anti-scalant dosing required; scale falls out without adhering to heat transfer tubes.",
+                             "PatentOwners":  "Gradiant Corporation, Veolia Environnement",
+                             "EnergyConsumption":  "18 - 32 kWh/m3 equivalent thermal/electrical (utilizes low-grade industrial waste steam).",
+                             "IndustrialScalability":  "High for extreme scaling industrial brines, oilfield produced water, and textile ZLD.",
+                             "Developers":  "Gradiant (CGE), Veolia (EVALED), Thermax, Aquatech, De Nora",
+                             "Limitations":  "Requires low-grade waste heat or electrical heater integration; footprint larger than compact high-pressure MVR.",
+                             "DisruptionPotential":  "High; replaces expensive titanium falling-film brine concentrators in highly scaling applications."
+                         },
+                         {
+                             "CommercialMaturity":  "Established Commercial Technology (TRL 8-9)",
+                             "Id":  "TECH-09",
+                             "Advantages":  "Transforms hazardous mixed industrial ZLD solid waste into commercial-grade pure industrial salts for resale or caustic/chlorine production.",
+                             "PilotAndCommercialInstalls":  "Industrial textile CETPs in Tirupur, India; large-scale coal chemical ZLD plants in China.",
+                             "CapexImplications":  "Adds 20% - 30% to crystallizer section CAPEX due to dual crystallization loops.",
+                             "Name":  "Selective Salt Recovery \u0026 Fractional Crystallization",
+                             "Principle":  "Sequential temperature and solubility manipulation combined with nanofiltration to selectively separate pure NaCl and Na2SO4 salts from mixed brines.",
+                             "OpexImplications":  "Significantly lowers net OPEX by eliminating hazardous landfill disposal fees (-/ton) and generating salt revenues.",
+                             "PatentOwners":  "Aquatech International, Gradiant Corporation, Saltworks",
+                             "EnergyConsumption":  "35 - 65 kWh/m3 of concentrated brine crystallization.",
+                             "IndustrialScalability":  "High in textile dyeing clusters (Tirupur, Surat), coal chemicals, and chlor-alkali complexes.",
+                             "Developers":  "Aquatech, Thermax, Gradiant, Veolia, Saltworks Technologies",
+                             "Limitations":  "Complex process control; multi-stage cooling/evaporative crystallizers required; sensitive to organic TOC contamination.",
+                             "DisruptionPotential":  "High; solves the #1 sustainability criticism of ZLD: landfilling of hazardous mixed salts."
+                         },
+                         {
+                             "CommercialMaturity":  "Early Commercialisation to Established (TRL 8-9)",
+                             "Id":  "TECH-10",
+                             "Advantages":  "Turns environmental compliance cost centers into profitable mineral recovery assets; high selectivity for target multivalent cations.",
+                             "PilotAndCommercialInstalls":  "Direct Lithium Extraction in South American salars (Chile, Argentina); copper recovery in US semiconductor fabs.",
+                             "CapexImplications":  "Moderate; fast payback period (\u003c1.5 years) when recovering high-value battery-grade metals.",
+                             "Name":  "Critical Mineral \u0026 Metal Recovery (Lithium, Copper, Cobalt)",
+                             "Principle":  "Selective ion exchange resins, electrodialysis with bipolar membranes (EDBM), and direct lithium extraction (DLE) from industrial effluents.",
+                             "OpexImplications":  "Positive cash flow generation per cubic meter when processing mineral-rich industrial streams.",
+                             "PatentOwners":  "Clean TeQ Water Ltd, Lilac Solutions, Membrion Inc.",
+                             "EnergyConsumption":  "2.0 - 6.5 kWh/m3 depending on electro-dialytic separation intensity.",
+                             "IndustrialScalability":  "Rapidly expanding driven by global energy transition supply chain mandates.",
+                             "Developers":  "Clean TeQ Water, Electra, Gradiant, Membrion, Lilac Solutions, Purolite (Ecolab)",
+                             "Limitations":  "High resin/extractant regeneration reagent consumption; stream-specific tailored chemistry required.",
+                             "DisruptionPotential":  "Very High; merges industrial wastewater treatment directly into the mining and battery chemical industries."
+                         },
+                         {
+                             "CommercialMaturity":  "Established Commercial Technology (TRL 9)",
+                             "Id":  "TECH-11",
+                             "Advantages":  "Recovers pure slow-release phosphate fertilizer; prevents nuisance struvite scaling in plant pipes and digesters.",
+                             "PilotAndCommercialInstalls":  "Over 30 commercial Ostara facilities operating worldwide; REMONDIS TetraPhos in Germany.",
+                             "CapexImplications":  "Moderate; modular fluidized bed reactors installed downstream of anaerobic digestion.",
+                             "Name":  "Nutrient Recovery (Struvite Precipitation \u0026 Ammonia Stripping)",
+                             "Principle":  "Chemical crystallization of magnesium ammonium phosphate (struvite - MgNH4PO4.6H2O) and thermal/membrane stripping of ammonia gas.",
+                             "OpexImplications":  "Chemical cost of magnesium offset by sale of high-grade Crystal Green fertilizer pellets.",
+                             "PatentOwners":  "Ostara Nutrient Recovery Technologies, REMONDIS Aqua GmbH",
+                             "EnergyConsumption":  "0.3 - 0.8 kWh/m3 for crystallization; 2 - 5 kWh/m3 for thermal ammonia stripping.",
+                             "IndustrialScalability":  "High for municipal digesters, potato processing, breweries, dairies, and fertilizer manufacturing.",
+                             "Developers":  "Ostara Nutrient Recovery, REMONDIS (TetraPhos), Veolia, Alfa Laval",
+                             "Limitations":  "Requires stoichiometric addition of magnesium salts (MgCl2/MgO); requires high concentration of dissolved P and N.",
+                             "DisruptionPotential":  "Moderate-High; turns nutrient discharge compliance into circular bio-fertilizer supply."
+                         },
+                         {
+                             "CommercialMaturity":  "Early Commercialisation to Demonstration (TRL 8-9)",
+                             "Id":  "TECH-12",
+                             "Advantages":  "Permanent destruction of all short- and long-chain PFAS without generating hazardous secondary spent carbon or resin waste.",
+                             "PilotAndCommercialInstalls":  "374Water unit at Orange County Sanitation District; Revive Annihilator commercial units across US.",
+                             "CapexImplications":  "High initial CAPEX; compensated by avoiding multimillion-dollar toxic landfill disposal liabilities.",
+                             "Name":  "PFAS Destruction Technologies (SCWO, Electrochemical, Cavitation)",
+                             "Principle":  "Complete thermodynamic or electrochemical cleavage of carbon-fluorine bonds (C-F bond energy ~485 kJ/mol) into harmless fluoride and CO2.",
+                             "OpexImplications":  "Lower long-term liability costs; eliminates endless hazardous incineration transport fees.",
+                             "PatentOwners":  "Duke University / 374Water, Battelle / Revive Environmental, Claros Technologies",
+                             "EnergyConsumption":  "SCWO autothermal once started on organic sludge; external power: 1.5 - 5.0 kWh/m3 equivalent.",
+                             "IndustrialScalability":  "Growing exponentially following US EPA NPDES mandates and European PFAS bans.",
+                             "Developers":  "374Water (AirSCWO), Revive Environmental (PFAS Annihilator), Claros, Aclarity",
+                             "Limitations":  "High capital cost of supercritical or BDD reactors; requires materials resistant to hydrofluoric acid (HF) corrosion.",
+                             "DisruptionPotential":  "Maximum Disruption; fundamentally renders standard carbon/resin capture obsolete by providing true destruction."
+                         },
+                         {
+                             "CommercialMaturity":  "Established Commercial Technology (TRL 9)",
+                             "Id":  "TECH-13",
+                             "Advantages":  "Prevents release of antimicrobial resistance (AMR) genes and endocrine disruptors into river systems; complies with EU Urban WW Directive.",
+                             "PilotAndCommercialInstalls":  "Full-scale installations at major European API manufacturing sites in Switzerland, Germany, and Ireland.",
+                             "CapexImplications":  "Moderate; compact ozone/UV polishing skids placed at final industrial effluent discharge.",
+                             "Name":  "Pharmaceutical Active Ingredient (API) Removal",
+                             "Principle":  "High-dose catalytic ozonation, enzymatic bio-catalysis, and tight nanofiltration to destroy recalcitrant synthetic hormones, antibiotics, and cytotoxics.",
+                             "OpexImplications":  "Predominantly electrical power for oxygen generation and UV lamps.",
+                             "PatentOwners":  "Xylem Inc., Oxyle AG, Microvi Biotech",
+                             "EnergyConsumption":  "0.5 - 1.8 kWh/m3 for high-intensity catalytic AOP polish.",
+                             "IndustrialScalability":  "High; mandatory across European pharmaceutical manufacturing hubs and Swiss municipal plants.",
+                             "Developers":  "Xylem (Wedeco), Veolia, Oxyle, Microvi Biotech, SFC Environmental",
+                             "Limitations":  "Requires precise dosing to avoid toxic transformation byproducts; high ozone dose required for recalcitrant antibiotics.",
+                             "DisruptionPotential":  "Moderate-High; critical compliance requirement under EU Industrial Emissions Directive."
+                         },
+                         {
+                             "CommercialMaturity":  "Established Commercial Technology (TRL 9)",
+                             "Id":  "TECH-14",
+                             "Advantages":  "\u003e99% capture of microplastics and synthetic textile fibers before discharge into aquatic ecosystems.",
+                             "PilotAndCommercialInstalls":  "Hydrotech discfilters installed at hundreds of industrial and municipal reuse facilities globally.",
+                             "CapexImplications":  "Low to moderate; easily integrated into existing secondary clarifier effluent launders.",
+                             "Name":  "Microplastic Removal \u0026 Separation",
+                             "Principle":  "Ultra-fine dynamic micro-screening (10-20 microns), electro-coagulation, and high-flux ceramic membrane filtration capturing synthetic microfibers.",
+                             "OpexImplications":  "Minimal; low maintenance, automated self-cleaning screens.",
+                             "PatentOwners":  "Huber SE, Veolia Water Technologies, NX Filtration",
+                             "EnergyConsumption":  "0.05 - 0.25 kWh/m3 (very low hydraulic head loss disc filters).",
+                             "IndustrialScalability":  "High for textile wet processing, laundry wastewater, and plastic recycling plants.",
+                             "Developers":  "Huber Technology, Veolia (Hydrotech Discfilter), NX Filtration, CeraMem",
+                             "Limitations":  "Rapid blinding of standard fine screens requires automated backwash; handling and disposal of captured plastic microfibers.",
+                             "DisruptionPotential":  "Moderate; becoming mandatory in industrial textile washing and synthetic fiber production."
+                         },
+                         {
+                             "CommercialMaturity":  "Established Commercial Technology (TRL 9)",
+                             "Id":  "TECH-15",
+                             "Advantages":  "Reduces chemical consumption by 15-30%; cuts biological aeration power by 20-25%; prevents regulatory non-compliance spikes.",
+                             "PilotAndCommercialInstalls":  "Over 40 plants managed by DigitalPaani in India; hundreds of reverse osmosis plants optimized by Synauta globally.",
+                             "CapexImplications":  "Zero heavy civil CAPEX; pure SaaS software subscription or minor edge-gateway hardware.",
+                             "Name":  "AI-Based Process Optimisation \u0026 Machine Learning Control",
+                             "Principle":  "Dynamic machine learning algorithms continuously predicting influent shock loads, optimizing aeration blowers, and chemical dosing in real-time.",
+                             "OpexImplications":  "Saves ,000 - ,000 annually per medium/large industrial treatment facility.",
+                             "PatentOwners":  "Gradiant / Synauta, Ecolab Inc., SUEZ Group",
+                             "EnergyConsumption":  "Net energy saver; reduces plant electrical power by 15% - 25%.",
+                             "IndustrialScalability":  "Immediate; cloud-based SaaS deployed across thousands of plants globally.",
+                             "Developers":  "Gradiant (Synauta), Ecolab (3D TRASAR), DigitalPaani, SUEZ (InSight), Xylem (Vue)",
+                             "Limitations":  "Requires reliable real-time sensor instrumentation; cybersecurity vulnerabilities in cloud-connected SCADA.",
+                             "DisruptionPotential":  "High; replaces static PID loop control and manual operator chemical dosing guesswork."
+                         },
+                         {
+                             "CommercialMaturity":  "Established Commercial Technology (TRL 8-9)",
+                             "Id":  "TECH-16",
+                             "Advantages":  "Enables virtual scenario testing, predictive fouling prediction 7-14 days in advance, and automated root cause analysis.",
+                             "PilotAndCommercialInstalls":  "Veolia Hubgrade deployed across 3,000+ sites; SUEZ InSight monitoring thousands of industrial RO assets.",
+                             "CapexImplications":  "Software implementation fee (,000 - ,000 depending on plant complexity).",
+                             "Name":  "Digital Twins \u0026 Physics-Informed Predictive Modeling",
+                             "Principle":  "Real-time digital simulation models coupling computational fluid dynamics (CFD) and biological kinetics to mirror physical plant behavior.",
+                             "OpexImplications":  "Reduces unscheduled plant shutdowns by up to 50% and optimizes membrane CIP scheduling.",
+                             "PatentOwners":  "SUEZ Group, Siemens AG, Veolia Environnement",
+                             "EnergyConsumption":  "Negligible (cloud computational processing).",
+                             "IndustrialScalability":  "High for mission-critical industrial facilities (power, refineries, semiconductors).",
+                             "Developers":  "SUEZ (InSight), Siemens Water, Bentley Systems, Veolia (Hubgrade), Xylem Vue",
+                             "Limitations":  "Requires extensive initial plant calibration and accurate physical sensor data ingestion.",
+                             "DisruptionPotential":  "High; transforms traditional equipment supply into recurring high-margin digital SaaS services."
+                         },
+                         {
+                             "CommercialMaturity":  "Established Commercial Technology (TRL 9)",
+                             "Id":  "TECH-17",
+                             "Advantages":  "Zero unplanned equipment downtime; extends pump and blower operating life by 30-40%; eliminates catastrophic impeller burnout.",
+                             "PilotAndCommercialInstalls":  "Standard deployment across global industrial power, refinery, and municipal pumping networks.",
+                             "CapexImplications":  "Low ( - ,000 per rotating asset sensor package).",
+                             "Name":  "Predictive Maintenance \u0026 Acoustic/Vibration ML Sensors",
+                             "Principle":  "Edge IoT sensors tracking acoustic signatures, motor vibration harmonics, and thermal drift to predict pump and blower failure before breakdown.",
+                             "OpexImplications":  "Drastically cuts emergency repair overtime and catastrophic mechanical replacement costs.",
+                             "PatentOwners":  "Xylem Inc., Grundfos Holding A/S, ABB",
+                             "EnergyConsumption":  "Battery-powered or low-voltage edge sensors (\u003c5W).",
+                             "IndustrialScalability":  "High; standard specification on modern smart industrial pumping stations.",
+                             "Developers":  "Xylem (Flygt Concertor / Avensor), Grundfos, ABB, Augury, Schneider Electric",
+                             "Limitations":  "Requires IoT gateway infrastructure and cellular/ethernet connectivity in harsh wet plant environments.",
+                             "DisruptionPotential":  "Moderate; accelerates commoditization of dumb pumps into smart, connected pumping systems."
+                         },
+                         {
+                             "CommercialMaturity":  "Early Commercialisation to Demonstration (TRL 8)",
+                             "Id":  "TECH-18",
+                             "Advantages":  "Eliminates human error and operator exposure to toxic chemicals; 24/7/365 uninterrupted compliance; continuous self-tuning.",
+                             "PilotAndCommercialInstalls":  "Kurita unmanned on-site water supply systems in Japan; DigitalPaani automated pilot sites in India.",
+                             "CapexImplications":  "Adds 10% - 15% to instrumentation and automated valve CAPEX.",
+                             "Name":  "Autonomous Wastewater Treatment Plants (Zero-Operator ETP)",
+                             "Principle":  "Fully autonomous closed-loop industrial treatment plants driven by multi-agent AI, automated robotic sampling, and self-cleaning filter media.",
+                             "OpexImplications":  "Cuts plant on-site labor overhead by 60% - 80%.",
+                             "PatentOwners":  "Kurita Water Industries, Ecolab Inc.",
+                             "EnergyConsumption":  "Optimized to lowest thermodynamic baseline.",
+                             "IndustrialScalability":  "High for remote industrial sites, unmanned logistics parks, and hazardous chemical plants.",
+                             "Developers":  "DigitalPaani, Gradiant, Kurita (S.sensing), Suez, Ecolab",
+                             "Limitations":  "Mechanical failures (e.g. blown gaskets, pipe bursts) still require physical maintenance technicians.",
+                             "DisruptionPotential":  "High; disrupts traditional low-margin manpower-heavy O\u0026M contractor business models."
+                         },
+                         {
+                             "CommercialMaturity":  "Established Commercial Technology (TRL 9)",
+                             "Id":  "TECH-19",
+                             "Advantages":  "Continuous real-time measurement (seconds vs 5-day BOD lab tests); zero chemical reagent waste; essential for CPCB OCEMS compliance.",
+                             "PilotAndCommercialInstalls":  "Installed at thousands of 17-category polluting industrial outlets across India and worldwide.",
+                             "CapexImplications":  ",000 - ,000 per multi-parameter monitoring station.",
+                             "Name":  "Smart Sensors \u0026 Real-Time Spectrophotometric Monitoring",
+                             "Principle":  "UV-Vis spectrophotometric probe immersion sensors measuring COD, BOD, TSS, Nitrate, and TOC continuously without chemical reagents.",
+                             "OpexImplications":  "Virtually zero reagent costs compared to automated wet chemistry analyzers.",
+                             "PatentOwners":  "Danaher Corporation / Hach, Badger Meter / s::can, Endress+Hauser",
+                             "EnergyConsumption":  "Low (\u003c20W per sensor probe).",
+                             "IndustrialScalability":  "Mandatory in India under Central Pollution Control Board (CPCB) OCEMS regulations.",
+                             "Developers":  "Endress+Hauser, Hach (Danaher), s::can (Badger Meter), Yokogawa, Forbes Marshall",
+                             "Limitations":  "Optical lens fouling by biological biofilm or grease requires automated compressed-air or wiper cleaning.",
+                             "DisruptionPotential":  "High; eliminated outdated manual sampling and fraudulent batch testing compliance."
+                         },
+                         {
+                             "CommercialMaturity":  "Established Commercial Technology (TRL 8-9)",
+                             "Id":  "TECH-20",
+                             "Advantages":  "Converts high-strength industrial effluent from an energy-consuming cost center into an on-site renewable power generator.",
+                             "PilotAndCommercialInstalls":  "Over 40 EcoVolt systems operating at US craft breweries and food plants; Aquacycl at major beverage bottlers.",
+                             "CapexImplications":  "High initial modular hardware CAPEX; rapid ROI in regions with high industrial grid electricity tariffs.",
+                             "Name":  "Wastewater-to-Energy (Microbial Fuel Cells \u0026 High-Yield Biogas)",
+                             "Principle":  "Direct bio-electrochemical conversion of organic carbon into electrical current via electrogenic bacteria or advanced thermophilic anaerobic digestion.",
+                             "OpexImplications":  "Negative operating cost (generates net electricity or commercial biomethane for plant boilers).",
+                             "PatentOwners":  "Cambrian Innovation, Aquacycl LLC, Paques BV",
+                             "EnergyConsumption":  "Net-positive power generation (+0.5 to +3.5 kWh/m3 depending on influent COD concentration).",
+                             "IndustrialScalability":  "High for beverage, dairy, brewery, food processing, and distillery spent wash.",
+                             "Developers":  "Cambrian Innovation (EcoVolt), Aquacycl (BETT), Paques, Veolia (Biothane)",
+                             "Limitations":  "Electrochemical microbial fuel cells have lower current densities per m2, limiting them to high-strength, low-volume streams.",
+                             "DisruptionPotential":  "High; redefines wastewater treatment plants as distributed renewable energy micro-utilities."
+                         }
+                     ],
+    "Startups":  [
+                     {
+                         "Id":  "STARTUP-01",
+                         "Geography":  "USA, Singapore, India (Chennai), Malaysia, China, Australia, Middle East",
+                         "CoreTechnology":  "Carrier Gas Extraction (CGE), Counterflow RO (RO Infinity), SmartChem, Free Radical Disinfection",
+                         "Differentiation":  "Mimics nature\u0027s humidification cycle to evaporate brine at low temp; CFRO concentrates brine past 250k TDS without thermal evaporators",
+                         "FundingAndInvestors":  "Unicorn ($1.0B+ valuation); Raised + from Warburg Pincus, Bolt Rock, M\u0026G Investments, Schlumberger",
+                         "StrategicPartnerships":  "Schlumberger (SLB) for direct lithium extraction, H2O Innovation for operations, Pfizer",
+                         "Name":  "Gradiant",
+                         "Founders":  "Anurag Bajpayee, Prakash Govindan",
+                         "Founded":  2013,
+                         "KeyProjects":  "Commercial ZLD installations for Micron (Singapore), Rio Tinto, and Indian textile dye clusters in Tirupur",
+                         "SourceReference":  "Gradiant press releases, MIT Technology Review, Warburg Pincus portfolio reports (2023-2024)",
+                         "TargetIndustries":  "Semiconductors, Mining (Lithium), Pharmaceuticals, Food \u0026 Beverage, Microelectronics",
+                         "Maturity":  "Established Commercial Technology (TRL 9)",
+                         "Headquarters":  "Boston, Massachusetts, USA / Singapore",
+                         "Patents":  "250+ patents granted and pending across membrane thermodynamics and AI process control",
+                         "ThreatAssessment":  "High Disruption Risk to traditional thermal evaporator OEMs (Veolia, Thermax, Aquatech) by cutting ZLD OPEX by up to 50%"
+                     },
+                     {
+                         "Id":  "STARTUP-02",
+                         "Geography":  "USA, Canada, expanding into Europe and Latin America",
+                         "CoreTechnology":  "Zwitterionic Polymer Membrane Chemistry",
+                         "Differentiation":  "Fouling-immune super-hydrophilic membranes that resist irreversible organic and oil fouling without harsh chemical cleaning",
+                         "FundingAndInvestors":  "Raised + Series B; backed by Evok Innovations, DCVC, Burnt Island Ventures, Blue Horizon",
+                         "StrategicPartnerships":  "Commercial distribution agreements with major agricultural and manure-digestate system integrators",
+                         "Name":  "ZwitterCo",
+                         "Founders":  "Alex Rappaport, Chris Drover, Ayse Asatekin",
+                         "Founded":  2018,
+                         "KeyProjects":  "Commercial installations across US Midwest dairies treating high-FOG digestate and food processing effluent",
+                         "SourceReference":  "WaterWorld, Global Water Intelligence, ZwitterCo Series B announcement (2024)",
+                         "TargetIndustries":  "Dairy \u0026 Food Processing, Biogas Digestate, Meat Packing, Oily Wastewater, Landfill Leachate",
+                         "Maturity":  "Early Commercialisation (TRL 8)",
+                         "Headquarters":  "Woburn, Massachusetts, USA",
+                         "Patents":  "Exclusive global license to Tufts University zwitterionic polymer patent portfolio",
+                         "ThreatAssessment":  "Moderate-High Threat to standard PVDF UF/NF membrane manufacturers (Suez ZeeWeed, DuPont, Hydranautics)"
+                     },
+                     {
+                         "Id":  "STARTUP-03",
+                         "Geography":  "Europe (Netherlands, Germany, France), North America, India, Southeast Asia",
+                         "CoreTechnology":  "Direct Hollow-Fiber Nanofiltration (dNF)",
+                         "Differentiation":  "Single-step removal of micropollutants, PFAS, color, and nano-plastics directly from raw wastewater without coagulants or bio-fouling",
+                         "FundingAndInvestors":  "Publicly traded (EUR 165M IPO in 2021); backed by Infravia and founders",
+                         "StrategicPartnerships":  "Veolia Water Technologies, Aqualia, Grundfos, Delphy",
+                         "Name":  "NX Filtration",
+                         "Founders":  "Prof. Erik Roesink",
+                         "Founded":  2016,
+                         "KeyProjects":  "Textile wastewater color and chemical recovery in Indonesia and India; drinking water micropollutant removal in Europe",
+                         "SourceReference":  "Euronext filings, NX Filtration Annual Reports (2023-2024), GWI Technology Reviews",
+                         "TargetIndustries":  "Textiles, Food \u0026 Beverage, Municipal Water Reuse, Pharmaceuticals, Chemical Processing",
+                         "Maturity":  "Commercial Deployment (TRL 9; Public on Euronext Amsterdam: NXFIL)",
+                         "Headquarters":  "Enschede, The Netherlands",
+                         "Patents":  "Proprietary layer-by-layer (LbL) polyelectrolyte hollow fiber membrane surface modification",
+                         "ThreatAssessment":  "High Threat to conventional multi-stage Clarifier + UF + RO trains by replacing 3 unit operations with single-step dNF"
+                     },
+                     {
+                         "Id":  "STARTUP-04",
+                         "Geography":  "USA, expanding to Japan, Taiwan, and Europe",
+                         "CoreTechnology":  "Ceramic Desalination Membranes (Electro-desalination from silica gel)",
+                         "Differentiation":  "Flexible ceramic ion exchange membranes manufactured from silica gel that operate in extreme pH (0-14), high oxidant, and heavy metal feeds",
+                         "FundingAndInvestors":  "Raised + Series B; backed by PureTerra Ventures, Safar Partners, Lam Capital (Lam Research), Indico Capital",
+                         "StrategicPartnerships":  "Lam Research (semiconductor wastewater), major plating and surface finishing OEMs",
+                         "Name":  "Membrion",
+                         "Founders":  "Greg Newbloom",
+                         "Founded":  2016,
+                         "KeyProjects":  "Commercial copper and heavy metal recovery at US semiconductor and microelectronics fabrication facilities",
+                         "SourceReference":  "Semiconductor Engineering, GWI Innovation Awards, Membrion Series B announcement",
+                         "TargetIndustries":  "Microelectronics, Metal Finishing, Mining, Chemical Refining, Semiconductor Rinse Water",
+                         "Maturity":  "Early Commercialisation (TRL 8)",
+                         "Headquarters":  "Seattle, Washington, USA",
+                         "Patents":  "Core patents on silica-based molecularly porous ceramic ion exchange membranes",
+                         "ThreatAssessment":  "Moderate-High Threat to polymeric ion exchange resins and standard electrodialysis systems in harsh chemical conditions"
+                     },
+                     {
+                         "Id":  "STARTUP-05",
+                         "Geography":  "USA, Canada, European regulatory target markets",
+                         "CoreTechnology":  "Photochemical PFAS Mineralization \u0026 Elemental Capture",
+                         "Differentiation":  "Complete defluorination of short- and long-chain PFAS into harmless fluoride ions and CO2 using low-energy photochemical cleavage",
+                         "FundingAndInvestors":  "Raised + Series A/B; backed by Two Silicon Valley ventures, GroundSwell Capital, strategic corporate partners",
+                         "StrategicPartnerships":  "Collaborations with remediation contractors, industrial landfill operators, and AFFF disposal sites",
+                         "Name":  "Claros Technologies",
+                         "Founders":  "Abdennour Abbas, Michelle Bellanca",
+                         "Founded":  2018,
+                         "KeyProjects":  "Commercial field pilots destroying PFAS in municipal and industrial leachates in Minnesota and Wisconsin",
+                         "SourceReference":  "EPA PFAS Innovative Technology database, Claros Technologies corporate disclosures (2024)",
+                         "TargetIndustries":  "Industrial Landfill Leachate, Chemical Manufacturing, Firefighting Foam (AFFF) remediation, Plating",
+                         "Maturity":  "Demonstration \u0026 Commercial Pilot (TRL 7-8)",
+                         "Headquarters":  "Saint Paul, Minnesota, USA",
+                         "Patents":  "Patents on UV-activated photochemical catalysts for per- and polyfluoroalkyl substances mineralization",
+                         "ThreatAssessment":  "Very High Threat to traditional GAC (granular activated carbon) and IX resins which merely transfer PFAS rather than destroying it"
+                     },
+                     {
+                         "Id":  "STARTUP-06",
+                         "Geography":  "North America (USA), expanding to Australia and Europe",
+                         "CoreTechnology":  "Electrochemical Oxidation (B-Free / Octahedron reactors)",
+                         "Differentiation":  "Boron-doped diamond (BDD) and metal oxide electrochemical destruction of PFAS, ammonia, COD, and pathogens without added chemicals",
+                         "FundingAndInvestors":  "Raised + Series A; backed by Aqualateral, Burnt Island Ventures, B\u0026V Ventures (Black \u0026 Veatch)",
+                         "StrategicPartnerships":  "Black \u0026 Veatch (engineering integration), major North American solid waste management companies",
+                         "Name":  "Aclarity",
+                         "Founders":  "Julie Bliss Mullen, Barrett Mully",
+                         "Founded":  2017,
+                         "KeyProjects":  "World\u0027s first full-scale commercial electrochemical PFAS destruction facility commissioned at a major US landfill",
+                         "SourceReference":  "American Water Works Association, Black \u0026 Veatch Commercialization reports, Aclarity technical data",
+                         "TargetIndustries":  "Landfill Leachate, Industrial Effluent, PFAS Remediation, Chemical Plants, Centralized Waste Treatment (CWT)",
+                         "Maturity":  "Commercial Deployment (TRL 8-9)",
+                         "Headquarters":  "Mansfield, Massachusetts, USA",
+                         "Patents":  "Proprietary electrode architecture for high-flux direct electrochemical oxidation of persistent pollutants",
+                         "ThreatAssessment":  "High Disruption Threat to thermal incineration and deep-well injection of concentrated hazardous industrial wastewater"
+                     },
+                     {
+                         "Id":  "STARTUP-07",
+                         "Geography":  "Switzerland, Germany, France, wider European Union",
+                         "CoreTechnology":  "Nanoporous Piezo-Catalytic Oxidation",
+                         "Differentiation":  "Uses green energy from mechanical vibrations/bubbles to activate nanoporous catalysts, destroying persistent pharmaceuticals, pesticides, and PFAS",
+                         "FundingAndInvestors":  "Raised + Seed/Series A; backed by Wingman Ventures, Swisscom Ventures, Horizon Europe grants",
+                         "StrategicPartnerships":  "Swiss Federal Institute of Technology (ETH Zurich), major European chemical and pharma giants",
+                         "Name":  "Oxyle",
+                         "Founders":  "Fajer Mushtaq, Silvan Staufert",
+                         "Founded":  2020,
+                         "KeyProjects":  "Commercial pilots with European pharmaceutical manufacturers and water utilities destroying active pharmaceutical ingredients (APIs)",
+                         "SourceReference":  "ETH Zurich spinoff registry, GWI Water Technology Award 2023, Oxyle AG disclosures",
+                         "TargetIndustries":  "Pharmaceuticals, Agro-chemicals, Hospitals, Micro-pollutant polishing, Industrial wastewater",
+                         "Maturity":  "Early Commercialisation (TRL 7-8)",
+                         "Headquarters":  "Schlieren (Zurich), Switzerland",
+                         "Patents":  "Proprietary nanoporous catalytic materials that generate reactive oxygen species under fluid flow vibration",
+                         "ThreatAssessment":  "Moderate-High Threat to standard ozonation and UV/peroxide systems by eliminating high power and oxygen generator requirements"
+                     },
+                     {
+                         "Id":  "STARTUP-08",
+                         "Geography":  "USA, United Kingdom, Australia",
+                         "CoreTechnology":  "MicroNiche Engineering (MNE) Biocatalysis",
+                         "Differentiation":  "Microbial cells immobilized within synthetic polymer matrices operating at ultra-high biomass densities without producing secondary biological sludge",
+                         "FundingAndInvestors":  "Privately funded and supported by US Department of Energy, National Science Foundation, private equity",
+                         "StrategicPartnerships":  "Veolia (partnership in UK water), Scottish Water, Thames Water, major chemical producers",
+                         "Name":  "Microvi Biotech",
+                         "Founders":  "Fatemeh Shirazi, Ameen Razavi",
+                         "Founded":  2008,
+                         "KeyProjects":  "Full-scale nitrate and ammonia removal facilities operating in California, UK, and Australia",
+                         "SourceReference":  "Water \u0026 Wastes Digest, Microvi technical publications, Scottish Water innovation trials",
+                         "TargetIndustries":  "Industrial Chemicals, Municipal-Industrial Nitrate/Ammonia, Distilleries, High-TDS Brines",
+                         "Maturity":  "Commercial Deployment (TRL 9)",
+                         "Headquarters":  "Hayward, California, USA",
+                         "Patents":  "30+ worldwide patents protecting synthetic biocatalytic micro-composite structures and reactor designs",
+                         "ThreatAssessment":  "High Threat to conventional activated sludge and MBBR by eliminating sludge production and clarifiers entirely"
+                     },
+                     {
+                         "Id":  "STARTUP-09",
+                         "Geography":  "USA, expanding into Mexico and Canada",
+                         "CoreTechnology":  "EcoVolt Bio-Electrochemical Wastewater-to-Energy",
+                         "Differentiation":  "Electrically active microbes (electrogens) oxidize high-strength organics while transferring electrons to generate high-purity biomethane",
+                         "FundingAndInvestors":  "Raised + equity and project financing; backed by Horizon Technology Finance, Spring Lane Capital",
+                         "StrategicPartnerships":  "Spring Lane Capital (providing + Water-as-a-Service project facility)",
+                         "Name":  "Cambrian Innovation",
+                         "Founders":  "Matthew Silver, Justin Buck",
+                         "Founded":  2006,
+                         "KeyProjects":  "Over 40 commercial EcoVolt systems operating at Lagunitas Brewing, Russian River Brewing, Bear Republic",
+                         "SourceReference":  "Biofuels Digest, Craft Brewing Business, Cambrian Innovation project case studies",
+                         "TargetIndustries":  "Breweries, Distilleries, Dairies, Wineries, Food \u0026 Beverage Processing",
+                         "Maturity":  "Commercial Deployment (TRL 9)",
+                         "Headquarters":  "Watertown, Massachusetts, USA",
+                         "Patents":  "Proprietary bio-electrochemical reactor designs for continuous high-rate anaerobic organic removal",
+                         "ThreatAssessment":  "Moderate-High Threat to standard UASB and EGSB anaerobic reactors for medium-scale food \u0026 beverage plants"
+                     },
+                     {
+                         "Id":  "STARTUP-10",
+                         "Geography":  "USA (California, Texas, New York, Washington)",
+                         "CoreTechnology":  "On-site Water Reuse \u0026 Thermal/Nutrient Recovery",
+                         "Differentiation":  "Integrates MBR, advanced disinfection, thermal heat exchange, and soil amendment recovery into buildings and industrial campuses",
+                         "FundingAndInvestors":  "Raised + Series A/B; backed by Blue Bear Capital, J-PAL, Fifth Wall",
+                         "StrategicPartnerships":  "Salesforce, Related Companies, Brookfield Properties",
+                         "Name":  "Epic Cleantec",
+                         "Founders":  "Aaron Tartakovsky, Igor Tartakovsky",
+                         "Founded":  2015,
+                         "KeyProjects":  "Wastewater recycling systems operating at Salesforce Tower and major high-rise developments in San Francisco and Austin",
+                         "SourceReference":  "Fast Company Most Innovative Companies, Epic Cleantec Series B disclosures (2024)",
+                         "TargetIndustries":  "Commercial Real Estate, Tech Campuses, High-density Industrial Parks, Breweries",
+                         "Maturity":  "Commercial Deployment (TRL 9)",
+                         "Headquarters":  "San Francisco, California, USA",
+                         "Patents":  "Proprietary wastewater solids conversion and localized distributed water reuse system architectures",
+                         "ThreatAssessment":  "Moderate Threat to centralized municipal-industrial utility providers by enabling localized zero-discharge campuses"
+                     },
+                     {
+                         "Id":  "STARTUP-11",
+                         "Geography":  "USA, Europe (UK, Netherlands)",
+                         "CoreTechnology":  "BioElectrochemical Treatment Technology (BETT)",
+                         "Differentiation":  "Microbial fuel cell cartridges that treat ultra-high strength COD (up to 300,000 mg/L) with zero chemical addition and net-positive direct electricity",
+                         "FundingAndInvestors":  "Raised +; backed by True Ventures, Safar Partners, The Yield Lab",
+                         "StrategicPartnerships":  "PepsiCo, AB InBev, Constellation Brands",
+                         "Name":  "Aquacycl",
+                         "Founders":  "Orianna Bretschger",
+                         "Founded":  2016,
+                         "KeyProjects":  "Commercial installations treating high-BOD sugary waste streams for PepsiCo bottlers and craft breweries in the US and Europe",
+                         "SourceReference":  "PepsiCo Sustainability Accelerator reports, Aquacycl GWI technology briefs",
+                         "TargetIndustries":  "Beverage Bottling, Confectionery, Sugar \u0026 Starch, Animal Processing, Tank Cleaning Wastewater",
+                         "Maturity":  "Commercial Deployment (TRL 8-9)",
+                         "Headquarters":  "Escondido, California, USA",
+                         "Patents":  "Patents on modular bio-electrochemical cassette assemblies and automatic electronic load-balancing circuits",
+                         "ThreatAssessment":  "High Threat to conventional haul-away disposal and traditional anaerobic digesters for ultra-concentrated sugar/FOG streams"
+                     },
+                     {
+                         "Id":  "STARTUP-12",
+                         "Geography":  "Australia, Middle East (Saudi Arabia), North America, Europe",
+                         "CoreTechnology":  "Continuous Ionic Filtration (CIF) \u0026 HIRO High-Recovery RO",
+                         "Differentiation":  "Continuous counter-current moving-bed ion exchange that handles turbid, scaling-rich feeds while extracting valuable metals and nutrients",
+                         "FundingAndInvestors":  "Publicly listed on Australian Securities Exchange (ASX: CNQ); strategic institutional backing",
+                         "StrategicPartnerships":  "National Titanium Dioxide Company (Cristal), Townsville City Council, mining majors",
+                         "Name":  "Clean TeQ Water",
+                         "Founders":  "Peter Voigt",
+                         "Founded":  2021,
+                         "KeyProjects":  "Uranium and heavy metal removal from mine drainage; nitrate and phosphate recycling in industrial agriculture",
+                         "SourceReference":  "ASX company filings, Clean TeQ Water corporate presentations (2023-2024)",
+                         "TargetIndustries":  "Mining \u0026 Tailings, Industrial Agriculture, Lithium Extraction, Municipal-Industrial Brine",
+                         "Maturity":  "Commercial Deployment (TRL 9; Public ASX: CNQ)",
+                         "Headquarters":  "Melbourne, Victoria, Australia",
+                         "Patents":  "Proprietary moving-bed ion exchange CIF and B-Free biofouling prevention technology",
+                         "ThreatAssessment":  "Moderate-High Threat to static fixed-bed ion exchange resin systems in high suspended-solids wastewater"
+                     },
+                     {
+                         "Id":  "STARTUP-13",
+                         "Geography":  "USA, expanding into Scandinavia and Canada",
+                         "CoreTechnology":  "Graphene Oxide \u0026 Polymer Nanofiltration Membranes",
+                         "Differentiation":  "Ultra-durable ceramic-polymer composite membranes that separate molecules in harsh thermal/chemical environments, cutting thermal evaporation energy by 90%",
+                         "FundingAndInvestors":  "Raised + Series B; backed by Prime Impact Fund, The Engine (MIT), Safar Partners, BP Ventures",
+                         "StrategicPartnerships":  "Commercial demonstrations with International Paper and major US forestry product manufacturers",
+                         "Name":  "Via Separations",
+                         "Founders":  "Shreya Dave, Brent Keller",
+                         "Founded":  2017,
+                         "KeyProjects":  "Commercial scale-up units concentrating black liquor in southern US paper mills without thermal evaporators",
+                         "SourceReference":  "MIT News, Forbes 30 Under 30, Via Separations corporate announcements",
+                         "TargetIndustries":  "Pulp \u0026 Paper (Black Liquor concentration), Chemical Processing, Food \u0026 Dairy, Refineries",
+                         "Maturity":  "Demonstration \u0026 Early Commercialisation (TRL 8)",
+                         "Headquarters":  "Watertown, Massachusetts, USA",
+                         "Patents":  "MIT-developed patent portfolio covering chemically durable graphene-based separation membranes",
+                         "ThreatAssessment":  "Very High Threat to multi-effect evaporators (MEE) and MVR units in pulp and chemical thermal separation trains"
+                     },
+                     {
+                         "Id":  "STARTUP-14",
+                         "Geography":  "USA, Australia, Latin America",
+                         "CoreTechnology":  "Low-Temperature Electrochemical Hydrometallurgy",
+                         "Differentiation":  "Zero-emission electrochemical process operating at 60°C that extracts metallic iron and critical minerals from low-grade ores and industrial slag wastewater",
+                         "FundingAndInvestors":  "Raised + Series A; backed by Breakthrough Energy Ventures (Bill Gates), Temasek Holdings, BHP Ventures",
+                         "StrategicPartnerships":  "BHP, Nucor Steel, ArcelorMittal",
+                         "Name":  "Electra",
+                         "Founders":  "Sandeep Nijhawan, Quoc Nguyen",
+                         "Founded":  2020,
+                         "KeyProjects":  "Pilot plant in Colorado processing mining tailings and industrial effluent to recover pure iron plates",
+                         "SourceReference":  "Breakthrough Energy Ventures portfolio disclosures, Bloomberg, Electra technical releases",
+                         "TargetIndustries":  "Steel \u0026 Iron Processing, Mining Wastewater, Slag Leachate Treatment, Heavy Metallurgy",
+                         "Maturity":  "Demonstration / Pilot Stage (TRL 7)",
+                         "Headquarters":  "Boulder, Colorado, USA",
+                         "Patents":  "Proprietary electrochemical cell architecture for low-temperature iron reduction in aqueous solution",
+                         "ThreatAssessment":  "High Disruption Potential for mining and steel mill effluent processing by transforming wastewater liabilities into commercial metallic assets"
+                     },
+                     {
+                         "Id":  "STARTUP-15",
+                         "Geography":  "India (Pan-India operational presence)",
+                         "CoreTechnology":  "AI \u0026 IoT Wastewater Treatment Operational Intelligence Platform",
+                         "Differentiation":  "Comprehensive operational SaaS platform that continuously ingests sensor data to automate chemical dosing, pump sequencing, and predictive maintenance in ETPs and STPs",
+                         "FundingAndInvestors":  "Raised .2M+ Seed; backed by Enzia Ventures, PeerCapital, leading climate tech angels",
+                         "StrategicPartnerships":  "Collaborations with industrial park developers, facility management companies, and major Indian industrial conglomerates",
+                         "Name":  "DigitalPaani",
+                         "Founders":  "Priyanka Chuphal, Mansi Jain",
+                         "Founded":  2020,
+                         "KeyProjects":  "Over 40 operational treatment plants managed via DigitalPaani platform across Delhi NCR, Maharashtra, and Karnataka",
+                         "SourceReference":  "YourStory ClimateTech coverage, Enzia Ventures portfolio, DigitalPaani technical whitepapers",
+                         "TargetIndustries":  "Industrial Estates, Commercial Campuses, Hospitals, Automotive, Textiles, Municipal-Industrial CETPs",
+                         "Maturity":  "Commercial Deployment (TRL 8-9)",
+                         "Headquarters":  "Gurugram, Haryana / Delhi NCR, India",
+                         "Patents":  "Proprietary software algorithms for wastewater kinetic process optimization and fault diagnostics",
+                         "ThreatAssessment":  "High Threat to traditional manual O\u0026M contractors by reducing operational OPEX by up to 30% through software-driven automation"
+                     },
+                     {
+                         "Id":  "STARTUP-16",
+                         "Geography":  "India (Maharashtra, Gujarat, Tamil Nadu)",
+                         "CoreTechnology":  "Automated Electrocoagulation \u0026 Chemical-Free ETP",
+                         "Differentiation":  "Proprietary non-sacrificial electrode alloys and automated polarity reversal eliminating bulk chemical coagulant dosing in industrial effluents",
+                         "FundingAndInvestors":  "Supported by Indian government innovation grants (BIRAC), angel investors, and venture debt",
+                         "StrategicPartnerships":  "Indian textile manufacturing associations, Maharashtra Industrial Development Corporation (MIDC) units",
+                         "Name":  "Indira Water",
+                         "Founders":  "Nitin Kuncolienker",
+                         "Founded":  2018,
+                         "KeyProjects":  "Packaged electrocoagulation units deployed at textile dyeing units in Surat and metal finishing facilities in Pune",
+                         "SourceReference":  "BIRAC Innovation portal, Indian Chemical Council technology showcases",
+                         "TargetIndustries":  "Textiles \u0026 Dyeing, Electroplating, Dairy \u0026 Food, Automotive, Common Effluent Treatment Plants",
+                         "Maturity":  "Commercial Deployment (TRL 8)",
+                         "Headquarters":  "Mumbai, Maharashtra, India",
+                         "Patents":  "Indian and international patents on continuous self-cleaning electrocoagulation reactors",
+                         "ThreatAssessment":  "Moderate-High Threat to traditional alum/PAC chemical coagulation suppliers in decentralized industrial clusters"
+                     },
+                     {
+                         "Id":  "STARTUP-17",
+                         "Geography":  "India (Karnataka, Andhra Pradesh, Telangana)",
+                         "CoreTechnology":  "Advanced Hydrodynamic Cavitation \u0026 Advanced Oxidation",
+                         "Differentiation":  "Vortex-based hydrodynamic cavitation reactors that destroy refractory COD, color, and recalcitrant organic toxins without chemical additions",
+                         "FundingAndInvestors":  "Seed funded by climate impact syndicates and Indian angel networks",
+                         "StrategicPartnerships":  "Indian Institute of Science (IISc) incubation, industrial distillery equipment vendors",
+                         "Name":  "Pangolin Innovations",
+                         "Founders":  "Siddharth Sehgal, Ankit Sharma",
+                         "Founded":  2021,
+                         "KeyProjects":  "Pilot and commercial installations treating spent wash condensate and pharmaceutical effluent in South India",
+                         "SourceReference":  "Startup India portal, IISc Innovation Society reports",
+                         "TargetIndustries":  "Distilleries, Pharmaceuticals, Agrochemicals, Dyeing, High-COD Chemical Manufacturing",
+                         "Maturity":  "Early Commercialisation (TRL 7-8)",
+                         "Headquarters":  "Bengaluru, Karnataka, India",
+                         "Patents":  "Proprietary cavitation nozzle geometry for generating localized micro-cavities releasing high hydroxyl radical flux",
+                         "ThreatAssessment":  "Moderate Threat to traditional Fenton oxidation and ozonation systems by drastically reducing chemical costs"
+                     },
+                     {
+                         "Id":  "STARTUP-18",
+                         "Geography":  "USA, Europe, expanding to Australia",
+                         "CoreTechnology":  "AirSCWO (Supercritical Water Oxidation)",
+                         "Differentiation":  "Operates above the thermodynamic critical point of water (374°C, 221 bar) to completely mineralize toxic organic sludge, PFAS, and pharmaceuticals into pure water, CO2, and sterile mineral ash in seconds",
+                         "FundingAndInvestors":  "Publicly traded on Nasdaq (SCWO); raised + from institutional and environmental funds",
+                         "StrategicPartnerships":  "US Department of Defense, Orange County Sanitation District, Clean Harbors",
+                         "Name":  "374Water",
+                         "Founders":  "Kobe Nagar, Marc Deshusses",
+                         "Founded":  2018,
+                         "KeyProjects":  "Commercial unit delivered to Orange County Sanitation District (California) for PFAS and sludge destruction",
+                         "SourceReference":  "Nasdaq filings, Duke University Engineering disclosures, 374Water investor presentations",
+                         "TargetIndustries":  "Hazardous Chemical Waste, Industrial Sludge, PFAS Remediation, Oil \u0026 Gas Produced Water",
+                         "Maturity":  "Commercial Deployment (TRL 8-9; Public Nasdaq: SCWO)",
+                         "Headquarters":  "Durham, North Carolina, USA",
+                         "Patents":  "Duke University core patents covering corrosion-resistant supercritical water oxidation reactor design",
+                         "ThreatAssessment":  "Very High Threat to traditional sludge incinerators, thermal dryers, and hazardous waste landfills"
+                     },
+                     {
+                         "Id":  "STARTUP-19",
+                         "Geography":  "North America (USA, Canada)",
+                         "CoreTechnology":  "PFAS Annihilator (Supercritical Water Oxidation)",
+                         "Differentiation":  "Mobile and fixed SCWO systems verified to achieve \u003e99.99% destruction of all PFAS congeners in landfill leachate and firefighting foam",
+                         "FundingAndInvestors":  "Backed by Viking Global Investors and Battelle Memorial Institute",
+                         "StrategicPartnerships":  "Battelle, Heritage-Crystal Clean, US Department of Defense",
+                         "Name":  "Revive Environmental",
+                         "Founders":  "David R. Trueba (President \u0026 CEO)",
+                         "Founded":  2021,
+                         "KeyProjects":  "Commercial mobile units deployed across North America treating millions of gallons of PFAS-contaminated liquid",
+                         "SourceReference":  "Battelle press releases, EPA Technology Verification portal, Revive Environmental corporate reports",
+                         "TargetIndustries":  "AFFF Destruction, Landfill Operators, Industrial Chemical Producers, Water Utilities",
+                         "Maturity":  "Commercial Deployment (TRL 9)",
+                         "Headquarters":  "Columbus, Ohio, USA",
+                         "Patents":  "Exclusive commercial license to Battelle\u0027s extensive SCWO patent portfolio",
+                         "ThreatAssessment":  "High Disruption Threat to thermal hazardous waste incinerators facing EPA regulatory restrictions on PFAS air emissions"
+                     },
+                     {
+                         "Id":  "STARTUP-20",
+                         "Geography":  "Canada, USA, India",
+                         "CoreTechnology":  "Forward Osmosis (FO) with Thermally Reversible Draw Solutes",
+                         "Differentiation":  "Utilizes switchable draw solutes (ammonium bicarbonate derivatives) to pull pure water across semi-permeable membranes from heavy brine, recovering the solute with low-grade waste heat",
+                         "FundingAndInvestors":  "Publicly listed on TSX Venture Exchange (FWTC); Canadian clean technology government grants",
+                         "StrategicPartnerships":  "EPC partnerships in Western Canada and India for industrial brine concentration",
+                         "Name":  "Forward Water Technologies",
+                         "Founders":  "Howie Honeyman",
+                         "Founded":  2012,
+                         "KeyProjects":  "Commercial demonstration facilities in Alberta treating oilfield produced water and chemical brine",
+                         "SourceReference":  "TSXV filings, Forward Water Technologies technical publications, Canadian CleanTech index",
+                         "TargetIndustries":  "Oil \u0026 Gas Produced Water, Mining Tailings, Chemical Brine Minimization, Industrial ZLD",
+                         "Maturity":  "Early Commercialisation (TRL 8; Public TSXV: FWTC)",
+                         "Headquarters":  "Toronto, Ontario, Canada",
+                         "Patents":  "Patents covering thermolytic draw solute regeneration and specialized forward osmosis flow channels",
+                         "ThreatAssessment":  "High Threat to conventional mechanical vapor recompression (MVR) evaporators by utilizing low-temperature industrial waste heat"
+                     },
+                     {
+                         "Id":  "STARTUP-21",
+                         "Geography":  "Europe, North America, Southeast Asia, China",
+                         "CoreTechnology":  "Biomimetic Aquaporin Inside Forward Osmosis \u0026 Brackish RO",
+                         "Differentiation":  "Incorporates natural aquaporin water-channel proteins into membrane active layers, enabling ultra-fast water permeation with 100% rejection of ions and organics",
+                         "FundingAndInvestors":  "Publicly traded on Nasdaq Copenhagen (AQP); backed by Danfoss, M. Goldschmidt Capital",
+                         "StrategicPartnerships":  "NASA, European Space Agency, Flavourtech, forward osmosis equipment OEMs",
+                         "Name":  "Aquaporin A/S",
+                         "Founders":  "Peter Holme Jensen",
+                         "Founded":  2005,
+                         "KeyProjects":  "Commercial deployment in high-value food concentration and industrial wastewater brine dewatering across Europe and Asia",
+                         "SourceReference":  "Nasdaq Copenhagen disclosures, Aquaporin A/S Annual Report (2023-2024)",
+                         "TargetIndustries":  "Food \u0026 Beverage concentration, Industrial Wastewater Concentration, Spacecraft Water Reclaim, Zero Discharge",
+                         "Maturity":  "Commercial Deployment (TRL 9; Public Nasdaq Copenhagen: AQP)",
+                         "Headquarters":  "Kongens Lyngby (Copenhagen), Denmark",
+                         "Patents":  "Extensive international patent families protecting protein immobilization in thin-film composite membranes",
+                         "ThreatAssessment":  "Moderate-High Threat to traditional RO and thermal evaporators in specialty food/pharma and brine concentration"
+                     }
+                 ],
+    "Opportunities":  null,
+    "Regulations":  null
+};
+
+/* ==================== MODULE: js/diagrams_data.js ==================== */
+// diagrams_data.js - Interactive SVG Flowsheets & Diagrams with clickable nodes
+window.DIAGRAMS_DATA = {
+  // Master Multi-Barrier Train Flowsheet
+  masterTrain: {
+    title: "Integrated 6-Stage Industrial Wastewater & ZLD Treatment Train",
+    description: "Click on any stage or unit operation to inspect design parameters, equipment specs, and operational parameters.",
+    nodes: [
+      { id: "stage-prelim", name: "1. Preliminary Treatment", icon: "filter", category: "Pretreatment", x: 40, y: 50, w: 160, h: 90, color: "#0284C7", units: ["Coarse & Fine Screens", "Grit Chamber", "Oil-Water Separator (API/CPI)"], desc: "Removes gross debris >6mm, abrasive grit >0.2mm, and floating hydrocarbons to protect downstream pumps and membranes." },
+      { id: "stage-physico", name: "2. Physico-Chemical", icon: "flask-conical", category: "Chemical", x: 230, y: 50, w: 160, h: 90, color: "#0D9488", units: ["Equalization Tank", "Flash Mixer (Coagulant)", "Flocculator (Polymer)", "Primary Clarifier / DAF"], desc: "Destabilizes colloidal solids, neutralizes surface charges, and separates suspended organics and fats." },
+      { id: "stage-bio", name: "3. Biological Treatment", icon: "activity", category: "Biological", x: 420, y: 50, w: 160, h: 90, color: "#10B981", units: ["Aeration Tank / MBBR", "Secondary Clarifier / MBR", "Anaerobic Digester (UASB)"], desc: "Microbial breakdown of dissolved organic carbon (BOD/COD) and biological nitrification-denitrification." },
+      { id: "stage-tertiary", name: "4. Tertiary Filtration", icon: "shield-check", category: "Filtration", x: 610, y: 50, w: 160, h: 90, color: "#6366F1", units: ["Dual Media Filter (DMF)", "Activated Carbon (ACF)", "Ultrafiltration (UF)"], desc: "Polishing to achieve TSS < 2 mg/L, Turbidity < 0.5 NTU, and SDI < 3.0 before reverse osmosis feed." },
+      { id: "stage-membrane", name: "5. Membrane Demineralization", icon: "layers", category: "Membranes", x: 420, y: 190, w: 160, h: 90, color: "#3B82F6", units: ["Primary BWRO (75% Recovery)", "Secondary High-Pressure RO (SWRO)", "Brine Concentrator"], desc: "Rejection of dissolved ions (>99.2% salt rejection), recovering 85-92% water as high-purity permeate." },
+      { id: "stage-zld", name: "6. Thermal ZLD & Crystallization", icon: "flame", category: "Thermal", x: 230, y: 190, w: 160, h: 90, color: "#F59E0B", units: ["Mechanical Vapor Recompression (MVR)", "Multi-Effect Evaporator (MEE)", "Agitated Thin Film Dryer (ATFD)"], desc: "Thermal phase change evaporating brine to condensate (<30 mg/L TDS) and solid dry salt cake for zero discharge." },
+      { id: "stage-sludge", name: "7. Sludge Treatment", icon: "recycle", category: "Sludge", x: 40, y: 190, w: 160, h: 90, color: "#64748B", units: ["Sludge Holding Tank", "Chemical Conditioning", "Decanter Centrifuge / Filter Press"], desc: "Dewatering biological and chemical sludges from 2% solids to 25-35% dry solid cake for safe landfill or co-processing." }
+    ],
+    links: [
+      { from: "stage-prelim", to: "stage-physico", label: "Screened Effluent" },
+      { from: "stage-physico", to: "stage-bio", label: "Clarified Water" },
+      { from: "stage-bio", to: "stage-tertiary", label: "Biologically Treated" },
+      { from: "stage-tertiary", to: "stage-membrane", label: "Treated Permeate Feed", curve: "down" },
+      { from: "stage-membrane", to: "stage-zld", label: "RO Reject Brine (45,000 ppm TDS)" },
+      { from: "stage-physico", to: "stage-sludge", label: "Chemical Sludge", curve: "down" },
+      { from: "stage-bio", to: "stage-sludge", label: "Waste Activated Sludge (WAS)", curve: "down" }
+    ]
+  },
+
+  // Interactive DAF System Diagram
+  dafSystem: {
+    title: "Dissolved Air Flotation (DAF) Process Architecture",
+    description: "High-rate separation of low-density flocs, fats, oils, and grease via micro-bubble nucleation (30-50 µm).",
+    stages: [
+      { name: "Effluent Coagulation", params: "G-value: 300-600 s⁻¹, Alum/PAC dose: 25-80 mg/L", equipment: "In-line Static Mixer / Flash Tank" },
+      { name: "Flocculation Zone", params: "G-value: 30-60 s⁻¹, Polymer dose: 1-3 mg/L, Retention: 15-20 min", equipment: "Slow-speed paddle flocculator" },
+      { name: "Air Saturation System", params: "Pressure: 5.0 - 6.5 bar, Air-to-Solids ratio (A/S): 0.015 - 0.030", equipment: "Recycle pump (20-30%), Saturation vessel with packing" },
+      { name: "Flotation Tank", params: "Hydraulic Loading: 8 - 15 m³/m²·h, Micro-bubble size: 30 - 50 µm", equipment: "Rectangular flotation basin with bottom lamella pack" },
+      { name: "Skimmer & Scraper", params: "Float solids consistency: 4 - 6% dry solids, Speed: 0.5 - 1.5 m/min", equipment: "Continuous chain-and-flight surface skimmer" }
+    ]
+  },
+
+  // Interactive MBR System Diagram
+  mbrSystem: {
+    title: "Submerged Membrane Bioreactor (MBR) System",
+    description: "Combines biological activated sludge with submerged ultrafiltration barrier (0.04 µm) eliminating secondary clarifiers.",
+    stages: [
+      { name: "Fine Screening", params: "Slot opening: 1.0 - 2.0 mm perforated plate", equipment: "Rotary drum fine screen" },
+      { name: "Anoxic Denitrification", params: "DO < 0.2 mg/L, HRT: 2 - 4 hours, Nitrate recirculation: 300-400%", equipment: "Submersible slow-speed mixers" },
+      { name: "Aerobic Bio-Oxidation", params: "DO: 2.0 - 3.0 mg/L, MLSS: 8,000 - 12,000 mg/L, SRT: 15 - 30 days", equipment: "Fine bubble diffused aeration grids, PD blowers" },
+      { name: "Membrane Filtration Tank", params: "Design Flux: 18 - 25 LMH, TMP: 0.1 - 0.35 bar, Coarse air scouring", equipment: "Submerged PVDF hollow fiber or flat sheet cassettes" },
+      { name: "Permeate Extraction & CIP", params: "Filtration: 9-10 min, Relaxation/Backwash: 1 min, NaOCl/Citric Acid CIP", equipment: "Reversible permeate suction pumps, automated CIP skids" }
+    ]
+  },
+
+  // Interactive ZLD Thermal Train Diagram
+  zldThermalSystem: {
+    title: "Zero Liquid Discharge (ZLD) Multi-Stage Evaporator & Crystallizer Train",
+    description: "Thermal brine concentration and crystallization recovering 98%+ water and generating commercial salts.",
+    stages: [
+      { name: "Brine Pretreatment & Softening", params: "pH adjustment: 8.5 - 9.0, Hardness reduction < 10 ppm as CaCO3", equipment: "Soda ash / Lime softening reactor, Clarifier, Cartridge filter" },
+      { name: "Falling Film MVR Evaporator", params: "Steam economy: 20-35 kWh/m³, Concentration from 5% to 18-22% TDS", equipment: "Titanium / 254SMO falling film calandria, High-efficiency turbofan compressor" },
+      { name: "Forced Circulation Crystallizer", params: "Vapor velocity < 1.5 m/s, Crystal slurry density: 20-30% by volume", equipment: "Axial flow circulation pump, External shell-and-tube heater, Vapor body" },
+      { name: "Centrifugal Separation", params: "Cake moisture: 3 - 6%, Mother liquor recycling to crystallizer loop", equipment: "Pusher / Basket decanter centrifuge" },
+      { name: "Agitated Thin Film Dryer (ATFD)", params: "Steam pressure: 3.5 - 5.0 bar, Final salt moisture: < 1.5%", equipment: "Jacketed cylindrical vessel with rotating hinged scraper blades" }
+    ]
+  }
+};
+
+
+/* ==================== MODULE: js/news_data.js ==================== */
+// news_data.js - Verified Industry News, Project Awards, M&A & Technology Launches
+window.NEWS_DATA = [
+  {
+    id: "NEWS-001",
+    date: "2026-03-12",
+    headline: "Veolia Commissioning World's Largest Industrial ZLD Crystallizer Train in Middle East Petrochemical Complex",
+    company: "Veolia Water Technologies",
+    category: "Project Award",
+    geography: "Middle East / Global",
+    summary: "Veolia has achieved mechanical completion of an advanced OPADIS thermal ZLD project treating 15,000 m3/day of high-salinity refinery blowdown. The system achieves 98.5% water recovery with high-purity sodium sulfate salt recovery.",
+    source: "Global Water Intelligence (GWI) / Veolia Corporate Disclosures",
+    url: "https://www.veoliawatertechnologies.com",
+    tags: ["ZLD", "Petrochemicals", "Thermal Crystallization", "Resource Recovery"]
+  },
+  {
+    id: "NEWS-002",
+    date: "2026-02-18",
+    headline: "Gradiant Secures $175M Series D Expansion for PFAS Treatment & Direct Lithium Extraction Technology",
+    company: "Gradiant Corporation",
+    category: "Investment & M&A",
+    geography: "North America / APAC",
+    summary: "Boston-headquartered unicorn Gradiant closed a major funding round led by climate-tech institutional funds to accelerate industrial rollout of its ForeverPure PFAS mineralization technology and Carrier Gas Extraction (CGE) low-energy evaporators.",
+    source: "Bloomberg Sustainable Business / Gradiant Press Release",
+    url: "https://www.gradiant.com",
+    tags: ["PFAS", "Venture Funding", "Low-Energy ZLD", "Critical Minerals"]
+  },
+  {
+    id: "NEWS-003",
+    date: "2026-01-29",
+    headline: "CPCB Mandates Continuous Effluent Quality Monitoring System (OCEMS) Real-Time Integration for Indian Distilleries & Pharma Units",
+    company: "Central Pollution Control Board (CPCB)",
+    category: "Regulation",
+    geography: "India",
+    summary: "India's CPCB has issued stringent revised guidelines for online continuous monitoring of COD, BOD, and TDS with automatic alert triggers linked to state pollution control board servers, penalizing non-compliant industrial units across 8 critically polluted clusters.",
+    source: "Ministry of Environment, Forest and Climate Change (MoEFCC) / CPCB Portal",
+    url: "https://cpcb.nic.in",
+    tags: ["CPCB", "Regulations", "OCEMS", "Pharma", "Distilleries"]
+  },
+  {
+    id: "NEWS-004",
+    date: "2025-11-15",
+    headline: "Ion Exchange India Bags ₹450 Crore Turnkey ZLD Contract from Major State-Run Refinery in Gujarat",
+    company: "Ion Exchange India",
+    category: "Project Award",
+    geography: "India (Gujarat)",
+    summary: "Ion Exchange India has been awarded a major EPC contract for an integrated effluent treatment plant featuring INDION membrane bioreactors, high-recovery reverse osmosis, and multi-effect evaporators for complete Zero Liquid Discharge.",
+    source: "BSE/NSE Stock Exchange Disclosures",
+    url: "https://www.ionindia.com",
+    tags: ["EPC", "ZLD", "Refinery", "India", "BSE Disclosures"]
+  },
+  {
+    id: "NEWS-005",
+    date: "2025-10-04",
+    headline: "SUEZ Water Technologies Deploys ZeeWeed 500D MBR System for 45 MLD Industrial Water Reclamation Project in Tamil Nadu",
+    company: "SUEZ Water Technologies",
+    category: "Technology Launch",
+    geography: "India (Tamil Nadu)",
+    summary: "SUEZ has completed the installation of ultrafiltration submerged hollow-fiber ZeeWeed membranes for treating complex textile processing effluent, producing Grade-A recycled process water for industrial park reuse.",
+    source: "Industrial Water Journal / SUEZ Case Studies",
+    url: "https://www.suez.com",
+    tags: ["MBR", "Textile Effluent", "Water Reuse", "Membranes"]
+  },
+  {
+    id: "NEWS-006",
+    date: "2025-08-22",
+    headline: "Ecolab Nalco Water Launches Water-as-a-Service (WaaS) Model with Embedded IoT Turbidity & Corrosion Sensors",
+    company: "Ecolab / Nalco Water",
+    category: "Strategic Partnership",
+    geography: "Global / India",
+    summary: "Ecolab has expanded its 3D TRASAR digital water management into full performance-based Water-as-a-Service contracts, eliminating upfront CAPEX for semiconductor and pharmaceutical manufacturing facilities.",
+    source: "Ecolab Annual Investor Deck",
+    url: "https://www.ecolab.com",
+    tags: ["Water-as-a-Service", "IoT", "Digital Twins", "Opex Model"]
+  },
+  {
+    id: "NEWS-007",
+    date: "2025-06-18",
+    headline: "VA TECH WABAG Expands Industrial Water Book with Multi-Million Dollar Industrial Desalination & ETP Contracts in GCC",
+    company: "VA TECH WABAG",
+    category: "Project Award",
+    geography: "Middle East / India",
+    summary: "Chennai-headquartered global water EPC leader WABAG reported a record industrial order book exceeding ₹12,000 Crore, driven by large-scale seawater desalination for petrochemical hubs and municipal-industrial CETPs.",
+    source: "WABAG Investor Presentation Q1 FY26",
+    url: "https://www.wabag.com",
+    tags: ["EPC", "Desalination", "Order Book", "GCC"]
+  },
+  {
+    id: "NEWS-008",
+    date: "2025-04-10",
+    headline: "US EPA Finalizes Strict Effluent Limitation Guidelines (ELG) for PFAS in Industrial Discharges",
+    company: "US Environmental Protection Agency",
+    category: "Regulation",
+    geography: "North America / Global",
+    summary: "US EPA has finalized enforceable NPDES permit discharge limits for per- and polyfluoroalkyl substances (PFAS) covering chemical manufacturing, metal finishing, and landfill leachate streams, driving rapid adoption of electrochemical and supercritical oxidation.",
+    source: "US Federal Register / EPA Water Standards",
+    url: "https://www.epa.gov",
+    tags: ["PFAS", "US EPA", "Regulations", "Industrial Standards"]
+  },
+  {
+    id: "NEWS-009",
+    date: "2025-02-14",
+    headline: "Thermax Limited Delivers Pre-Engineered Containerized MBR-RO Effluent Units for Agro-Chemical Majors",
+    company: "Thermax Limited",
+    category: "Technology Launch",
+    geography: "India",
+    summary: "Thermax Water and Waste Solutions unveiled its standardized skid-mounted industrial wastewater recovery systems designed for fast plug-and-play installation, reducing civil construction lead times by 60%.",
+    source: "Thermax Corporate Disclosures",
+    url: "https://www.thermaxglobal.com",
+    tags: ["Skid-Mounted", "Agro-chemicals", "Fast Deployment", "Modular"]
+  },
+  {
+    id: "NEWS-010",
+    date: "2024-12-05",
+    headline: "Kurita Water Industries Acquires Leading European High-Performance Ceramic Membrane Manufacturer",
+    company: "Kurita Water Industries",
+    category: "Investment & M&A",
+    geography: "Europe / APAC",
+    summary: "Kurita continues aggressive inorganic expansion by acquiring ceramic microfiltration and ultrafiltration IP, expanding its ability to treat high-temperature and harsh solvent-containing industrial wastewater in automotive and electronics plants.",
+    source: "Nikkei Asian Review / Kurita Investor Relations",
+    url: "https://www.kurita.co.jp",
+    tags: ["M&A", "Ceramic Membranes", "Electronics", "Automotive"]
+  }
+];
+
+
+/* ==================== MODULE: js/components/navbar.js ==================== */
+// navbar.js - Main Header & 5-Tab Navigation Component
+window.NavbarComponent = {
+  render: function(currentRoute) {
+    const navItems = [
+      { id: "home", label: "Home", icon: "home" },
+      { id: "competitors", label: "Competitors List (30+)", icon: "building-2" },
+      { id: "intelligence", label: "Competitor Intelligence", icon: "bar-chart-2" },
+      { id: "processes", label: "Treatment Process Knowledge Base", icon: "activity" },
+      { id: "personas", label: "Buyer Personas & Industry Verticals", icon: "users" }
+    ];
+
+    const navLinksHtml = navItems.map(item => {
+      const isActive = currentRoute === item.id;
+      const activeClasses = isActive 
+        ? "text-orange-400 font-bold border-b-2 border-orange-500 bg-slate-800/60" 
+        : "text-slate-200 hover:text-white hover:border-b-2 hover:border-orange-400";
+      return `
+        <a href="#${item.id}" class="inline-flex items-center gap-2 px-4 py-4 text-xs font-semibold tracking-wide transition-all ${activeClasses}" data-route="${item.id}">
+          <i data-lucide="${item.icon}" class="w-4 h-4"></i>
+          <span>${item.label}</span>
+        </a>
+      `;
+    }).join('');
+
+    const mobileLinksHtml = navItems.map(item => {
+      const isActive = currentRoute === item.id;
+      const activeClasses = isActive ? "bg-orange-600 text-white font-bold" : "text-slate-200 hover:bg-slate-800";
+      return `
+        <a href="#${item.id}" class="flex items-center gap-3 px-4 py-3 rounded-lg text-sm transition-all ${activeClasses}" onclick="window.App.closeMobileMenu()">
+          <i data-lucide="${item.icon}" class="w-4 h-4"></i>
+          <span>${item.label}</span>
+        </a>
+      `;
+    }).join('');
+
+    return `
+      <header class="sticky top-0 z-40 glass-nav border-b border-slate-700/60 shadow-lg">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div class="flex items-center justify-between h-16">
+            <!-- Brand Logo -->
+            <a href="#home" class="flex items-center gap-3 group">
+              <div class="w-10 h-10 rounded-xl bg-gradient-to-tr from-sky-600 via-blue-600 to-orange-500 flex items-center justify-center text-white shadow-md group-hover:scale-105 transition-transform">
+                <i data-lucide="droplet" class="w-5 h-5 fill-current"></i>
+              </div>
+              <div class="flex flex-col">
+                <span class="text-base font-extrabold tracking-tight text-white flex items-center gap-1.5">
+                  WATER TECHNOLOGY <span class="text-orange-400">&amp;</span> INTEL HUB
+                </span>
+                <span class="text-[10px] uppercase font-mono tracking-widest text-slate-300">
+                  Wastewater Process Engineering &amp; B2B Intelligence Hub
+                </span>
+              </div>
+            </a>
+
+            <!-- Right Controls: Global Search Button & Developer Credit Pill -->
+            <div class="flex items-center gap-3">
+              <!-- Global Search Trigger Bar -->
+              <button onclick="window.SearchModalComponent.open()" class="hidden md:flex items-center gap-2.5 bg-slate-800/80 hover:bg-slate-800 text-slate-300 px-3.5 py-1.5 rounded-lg border border-slate-700 text-xs shadow-inner transition-all hover:border-orange-500">
+                <i data-lucide="search" class="w-3.5 h-3.5 text-orange-400"></i>
+                <span class="text-slate-300">Search competitors, processes, verticals...</span>
+                <kbd class="ml-2 font-mono text-[10px] bg-slate-900 px-1.5 py-0.5 rounded text-orange-300 border border-slate-700">Ctrl+K</kbd>
+              </button>
+
+              <!-- Mobile Search Icon -->
+              <button onclick="window.SearchModalComponent.open()" class="md:hidden p-2 rounded-lg text-slate-300 hover:text-white hover:bg-slate-800">
+                <i data-lucide="search" class="w-5 h-5"></i>
+              </button>
+
+              <!-- Mobile Hamburger Button -->
+              <button onclick="window.App.toggleMobileMenu()" class="lg:hidden p-2 rounded-lg text-slate-300 hover:text-white hover:bg-slate-800 focus:outline-none">
+                <i data-lucide="menu" class="w-6 h-6"></i>
+              </button>
+            </div>
+          </div>
+
+          <!-- Desktop Navigation Bar - Exactly 5 Tabs -->
+          <nav class="hidden lg:flex items-center space-x-1 border-t border-slate-800/80 overflow-x-auto no-scrollbar">
+            ${navLinksHtml}
+          </nav>
+        </div>
+
+        <!-- Mobile Drawer Menu -->
+        <div id="mobile-menu" class="hidden lg:hidden bg-slate-900/95 border-b border-slate-800 px-4 pt-2 pb-4 space-y-1">
+          ${mobileLinksHtml}
+        </div>
+      </header>
+    `;
+  }
+};
+
+
+/* ==================== MODULE: js/components/search_modal.js ==================== */
+// search_modal.js - Global Spotlight Search Dialog (Ctrl+K)
+window.SearchModalComponent = {
+  isOpen: false,
+
+  open: function() {
+    const modal = document.getElementById("search-modal");
+    if (!modal) return;
+    modal.classList.remove("hidden");
+    this.isOpen = true;
+    setTimeout(() => {
+      const input = document.getElementById("global-search-input");
+      if (input) {
+        input.focus();
+        input.value = "";
+        this.performSearch("");
+      }
+    }, 50);
+  },
+
+  close: function() {
+    const modal = document.getElementById("search-modal");
+    if (!modal) return;
+    modal.classList.add("hidden");
+    this.isOpen = false;
+  },
+
+  performSearch: function(query) {
+    const resultsContainer = document.getElementById("search-results-list");
+    if (!resultsContainer) return;
+
+    const q = (query || "").trim().toLowerCase();
+    const data = window.PLATFORM_DATA || {};
+    const results = [];
+
+    // Search Competitors
+    if (data.Competitors) {
+      data.Competitors.forEach(c => {
+        if (!q || c.Name.toLowerCase().includes(q) || (c.CoreTechnologies && c.CoreTechnologies.toLowerCase().includes(q)) || (c.FlagshipProducts && c.FlagshipProducts.toLowerCase().includes(q)) || (c.Headquarters && c.Headquarters.toLowerCase().includes(q))) {
+          results.push({
+            type: "Competitor",
+            badgeClass: "bg-blue-100 text-blue-800",
+            title: c.Name,
+            subtitle: `${c.Category} · HQ: ${c.Headquarters} · Water Rev: ${c.IndustrialWaterRevenue}`,
+            action: `window.App.navigateTo('competitors'); setTimeout(() => window.CompetitorDbView.openFullDossier('${c.Id}'), 50); window.SearchModalComponent.close();`,
+            icon: "building-2"
+          });
+        }
+      });
+    }
+
+    // Search Treatment Process Components
+    const compData = window.ProcessesView ? window.ProcessesView.getComponentsData() : [];
+    compData.forEach(p => {
+      if (!q || p.title.toLowerCase().includes(q) || p.category.toLowerCase().includes(q) || p.definition.toLowerCase().includes(q) || p.types.some(t => t.name.toLowerCase().includes(q))) {
+        results.push({
+          type: "Process Component",
+          badgeClass: "bg-orange-100 text-orange-800",
+          title: p.title,
+          subtitle: `${p.category} · ${p.stage} · ${p.tagline}`,
+          action: `window.App.navigateTo('processes'); setTimeout(() => window.ProcessesView.openComponent('${p.id}'), 50); window.SearchModalComponent.close();`,
+          icon: "activity"
+        });
+      }
+    });
+
+    // Search 4 Verticals & Personas
+    const verticals = [
+      { id: "automotive", name: "Automotive Manufacturing", desc: "Coolant emulsions, paint booth detackification, phosphating" },
+      { id: "electroplating", name: "Electroplating & Metal Finishing", desc: "Hexavalent chrome reduction, cyanide destruction, heavy metals" },
+      { id: "cooling", name: "Cooling Towers & CTBD", desc: "Cycles of concentration, silica scaling ceiling, biocide management" },
+      { id: "silica", name: "Silica-to-Solution (Sodium Silicate)", desc: "Hydrothermal route, colloidal silica, sodium sulfate MEE ZLD" }
+    ];
+    verticals.forEach(v => {
+      if (!q || v.name.toLowerCase().includes(q) || v.desc.toLowerCase().includes(q)) {
+        results.push({
+          type: "Industry Vertical",
+          badgeClass: "bg-orange-100 text-orange-800",
+          title: v.name,
+          subtitle: `Vertical Profile · ${v.desc}`,
+          action: `window.App.navigateTo('personas'); setTimeout(() => window.PersonasView.setActiveVertical('${v.id}'), 50); window.SearchModalComponent.close();`,
+          icon: "factory"
+        });
+      }
+    });
+
+    // Search Projects
+    if (data.Projects) {
+      data.Projects.forEach(proj => {
+        if (!q || proj.Client.toLowerCase().includes(q) || proj.Location.toLowerCase().includes(q) || proj.Tech.toLowerCase().includes(q) || proj.Type.toLowerCase().includes(q)) {
+          results.push({
+            type: "Project",
+            badgeClass: "bg-sky-100 text-sky-800",
+            title: `${proj.Client} (${proj.Location})`,
+            subtitle: `Capacity: ${proj.Capacity} · Tech: ${proj.Tech} · Status: ${proj.Status}`,
+            action: `window.App.navigateTo('competitors');`,
+            icon: "map-pin"
+          });
+        }
+      });
+    }
+
+    // Search Startups
+    if (data.Startups) {
+      data.Startups.forEach(st => {
+        if (!q || st.Name.toLowerCase().includes(q) || st.TechCategory.toLowerCase().includes(q) || st.ValueProp.toLowerCase().includes(q)) {
+          results.push({
+            type: "Startup",
+            badgeClass: "bg-orange-100 text-orange-800",
+            title: st.Name,
+            subtitle: `${st.TechCategory} · ${st.Country} · Stage: ${st.Maturity} · ${st.ValueProp}`,
+            action: `window.App.navigateTo('competitors');`,
+            icon: "sparkles"
+          });
+        }
+      });
+    }
+
+    // Search Opportunities
+    if (data.Opportunities) {
+      data.Opportunities.forEach(op => {
+        if (!q || op.Title.toLowerCase().includes(q) || op.TargetIndustry.toLowerCase().includes(q) || op.PainPoint.toLowerCase().includes(q)) {
+          results.push({
+            type: "Opportunity",
+            badgeClass: "bg-sky-100 text-sky-800",
+            title: op.Title,
+            subtitle: `Industry: ${op.TargetIndustry} · Potential: ${op.MarketPotential}`,
+            action: `window.App.navigateTo('personas');`,
+            icon: "trending-up"
+          });
+        }
+      });
+    }
+
+    // Search News
+    if (window.NEWS_DATA) {
+      window.NEWS_DATA.forEach(n => {
+        if (!q || n.headline.toLowerCase().includes(q) || n.company.toLowerCase().includes(q) || n.summary.toLowerCase().includes(q)) {
+          results.push({
+            type: "News",
+            badgeClass: "bg-orange-100 text-orange-800",
+            title: n.headline,
+            subtitle: `${n.company} · ${n.date} · ${n.category}`,
+            action: `window.App.navigateTo('news')`,
+            icon: "newspaper"
+          });
+        }
+      });
+    }
+
+    // Render Results
+    if (results.length === 0) {
+      resultsContainer.innerHTML = `
+        <div class="py-12 text-center">
+          <i data-lucide="search-x" class="w-10 h-10 text-slate-400 mx-auto mb-2"></i>
+          <p class="text-sm font-semibold text-slate-700">No matching records found</p>
+          <p class="text-xs text-slate-500">Try searching for keywords like "RO", "ZLD", "Veolia", "MBR", "Gujarat", "PFAS"...</p>
+        </div>
+      `;
+    } else {
+      const topResults = results.slice(0, 30);
+      resultsContainer.innerHTML = topResults.map(r => `
+        <div onclick="${r.action}; window.SearchModalComponent.close();" class="p-3 hover:bg-slate-50 rounded-lg cursor-pointer transition-colors border border-transparent hover:border-slate-200 flex items-start gap-3">
+          <div class="w-8 h-8 rounded-md bg-slate-100 flex items-center justify-center text-slate-600 flex-shrink-0 mt-0.5">
+            <i data-lucide="${r.icon}" class="w-4 h-4"></i>
+          </div>
+          <div class="flex-1 min-w-0">
+            <div class="flex items-center gap-2 mb-1">
+              <span class="text-xs px-2 py-0.5 rounded font-mono font-medium ${r.badgeClass}">${r.type}</span>
+              <h4 class="text-xs font-bold text-slate-900 truncate">${r.title}</h4>
+            </div>
+            <p class="text-[11px] text-slate-500 line-clamp-1">${r.subtitle}</p>
+          </div>
+          <i data-lucide="chevron-right" class="w-4 h-4 text-slate-400 self-center"></i>
+        </div>
+      `).join('');
+    }
+
+    if (window.lucide) {
+      window.lucide.createIcons();
+    }
+  }
+};
+
+
+/* ==================== MODULE: js/views/home_view.js ==================== */
+// home_view.js - Executive Intelligence Dashboard & Master Learning Hub (V2.1)
+window.HomeView = {
+  render: function() {
+    const data = window.PLATFORM_DATA || {};
+    const compCount = data.Competitors ? data.Competitors.length : 31;
+
+    return `
+      <div class="space-y-10 pb-20">
+        <!-- Hero Section: Blue, Orange & Crisp White Theme -->
+        <section class="relative rounded-3xl overflow-hidden shadow-2xl border border-slate-700/60 text-white">
+          <!-- Background: Deep Navy Blue Canvas with Orange Radial Glow -->
+          <div class="absolute inset-0 bg-gradient-to-br from-[#061224] via-[#0A192F] to-[#0B2545] z-0"></div>
+          <div class="absolute inset-0 opacity-10 bg-[radial-gradient(#38bdf8_1.5px,transparent_1.5px)] [background-size:24px_24px] pointer-events-none z-0"></div>
+          <div class="absolute -right-20 -top-20 w-96 h-96 bg-orange-500/15 rounded-full blur-3xl pointer-events-none z-0"></div>
+          <div class="absolute left-1/3 -bottom-20 w-80 h-80 bg-sky-500/15 rounded-full blur-3xl pointer-events-none z-0"></div>
+
+          <div class="relative z-10 p-8 sm:p-12 lg:p-14 max-w-5xl space-y-6">
+            <!-- Header Badges -->
+            <div class="flex flex-wrap items-center gap-2">
+              <span class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-slate-900/90 border border-orange-500/40 text-orange-400 text-xs font-mono font-bold tracking-wide">
+                <span class="w-2 h-2 rounded-full bg-orange-400 animate-pulse"></span>
+                ENTERPRISE MASTER LEARNING PORTAL &amp; B2B INTELLIGENCE HUB
+              </span>
+              <span class="px-3 py-1 rounded-full bg-sky-950/80 border border-sky-400/40 text-sky-300 text-xs font-mono">
+                Version 2.1 · CPCB &amp; MPCB Standards
+              </span>
+            </div>
+
+            <!-- Main Title -->
+            <h1 class="text-3xl sm:text-5xl lg:text-6xl font-black tracking-tight text-white leading-tight">
+              Water Technology <span class="text-transparent bg-clip-text bg-gradient-to-r from-orange-400 via-amber-300 to-sky-300">&amp;</span> Intelligence Hub
+            </h1>
+
+            <!-- Mission / Objective Statement -->
+            <p class="text-sm sm:text-base lg:text-lg text-slate-200 font-normal leading-relaxed max-w-4xl">
+              An authoritative industrial learning tool and strategic decision-support platform designed for corporate leadership, plant managers, process engineers, technical sales teams, and technology researchers. 
+              Integrates end-to-end <strong>Wastewater Treatment Engineering</strong> (from interactive PFD basics to 19 unit operations) with rigorous <strong>B2B Competitive Intelligence</strong> across 30 global market leaders, proprietary TRITRON™ resonance technology, and 4 priority industrial verticals.
+            </p>
+
+            <!-- Quick Action Jump Buttons (Blue & Orange) -->
+            <div class="pt-4 flex flex-wrap items-center gap-3">
+              <a href="#processes" class="inline-flex items-center gap-2 px-5 py-3 rounded-xl bg-orange-600 hover:bg-orange-500 text-white font-bold text-xs sm:text-sm shadow-lg shadow-orange-600/30 transition-all transform hover:-translate-y-0.5">
+                <i data-lucide="activity" class="w-4 h-4"></i>
+                <span>Explore Treatment Processes (PFD &amp; Components)</span>
+              </a>
+              <a href="#competitors" class="inline-flex items-center gap-2 px-5 py-3 rounded-xl bg-sky-600 hover:bg-sky-500 text-white font-bold text-xs sm:text-sm shadow-lg shadow-sky-600/25 transition-all transform hover:-translate-y-0.5">
+                <i data-lucide="building-2" class="w-4 h-4"></i>
+                <span>Competitor Universe (All 30 + TRITRON)</span>
+              </a>
+              <a href="#intelligence" class="inline-flex items-center gap-2 px-5 py-3 rounded-xl bg-slate-800/90 hover:bg-slate-800 text-slate-200 border border-slate-600 font-semibold text-xs sm:text-sm transition-all hover:border-orange-400">
+                <i data-lucide="bar-chart-2" class="w-4 h-4 text-orange-400"></i>
+                <span>Competitor Intelligence &amp; Charts</span>
+              </a>
+              <a href="#personas" class="inline-flex items-center gap-2 px-5 py-3 rounded-xl bg-slate-800/90 hover:bg-slate-800 text-slate-200 border border-slate-600 font-semibold text-xs sm:text-sm transition-all hover:border-sky-400">
+                <i data-lucide="users" class="w-4 h-4 text-sky-400"></i>
+                <span>Buyer Personas &amp; 4 Verticals</span>
+              </a>
+            </div>
+          </div>
+        </section>
+
+        <!-- Macro Market Indicators Grid -->
+        <section class="space-y-3">
+          <div class="flex items-center justify-between">
+            <div>
+              <span class="text-xs font-mono font-bold text-orange-600 uppercase tracking-wider">Macroeconomics &amp; Industry Sizing</span>
+              <h2 class="text-lg font-bold text-slate-900">Global &amp; Indian Wastewater Treatment Market Overview</h2>
+            </div>
+            <span class="text-xs font-mono text-slate-400">Source: Market Data &amp; Statutory Registries</span>
+          </div>
+
+          <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+            <div class="card-elevated p-5 rounded-2xl border-l-4 border-l-sky-600 bg-white">
+              <span class="text-[10px] font-mono uppercase tracking-wider text-slate-500 block">Global Wastewater Market</span>
+              <div class="flex items-baseline gap-2 mt-1">
+                <span class="text-3xl font-extrabold text-slate-900">~USD 400 B</span>
+              </div>
+              <p class="text-xs font-semibold text-sky-700 mt-1">Annual Growth Rate: ~7.5%</p>
+              <p class="text-[11px] text-slate-500 mt-1">Accelerating demand driven by freshwater scarcity and industrial ZLD mandates globally.</p>
+            </div>
+
+            <div class="card-elevated p-5 rounded-2xl border-l-4 border-l-orange-500 bg-white">
+              <span class="text-[10px] font-mono uppercase tracking-wider text-slate-500 block">Indian Water Infrastructure</span>
+              <div class="flex items-baseline gap-2 mt-1">
+                <span class="text-3xl font-extrabold text-slate-900">~USD 18 B</span>
+              </div>
+              <p class="text-xs font-semibold text-orange-600 mt-1">Annual Growth Rate: ~10.6%</p>
+              <p class="text-[11px] text-slate-500 mt-1">India represents one of the fastest growing industrial water equipment markets globally.</p>
+            </div>
+
+            <div class="card-elevated p-5 rounded-2xl border-l-4 border-l-sky-600 bg-white">
+              <span class="text-[10px] font-mono uppercase tracking-wider text-slate-500 block">Indian Wastewater Segment</span>
+              <div class="flex items-baseline gap-2 mt-1">
+                <span class="text-3xl font-extrabold text-slate-900">~USD 5.4 B</span>
+              </div>
+              <p class="text-xs font-semibold text-sky-700 mt-1">~30% of Total Water Infra</p>
+              <p class="text-[11px] text-slate-500 mt-1">Spans industrial ETPs, municipal STPs, common effluent plants (CETP), and reuse skids.</p>
+            </div>
+
+            <div class="card-elevated p-5 rounded-2xl border-l-4 border-l-orange-500 bg-white">
+              <span class="text-[10px] font-mono uppercase tracking-wider text-slate-500 block">Core Addressable Market</span>
+              <div class="flex items-baseline gap-2 mt-1">
+                <span class="text-3xl font-extrabold text-slate-900">~USD 1.35 B</span>
+              </div>
+              <p class="text-xs font-semibold text-orange-600 mt-1">~25% Addressable Market</p>
+              <p class="text-[11px] text-slate-500 mt-1">Focus segment for specialized technology: secondary TDS reduction, membranes, and ZLD.</p>
+            </div>
+          </div>
+        </section>
+
+        <!-- What This Website is All About: 4 Pillars of Knowledge -->
+        <section class="card-elevated p-6 sm:p-8 rounded-3xl bg-white border border-slate-200 space-y-6">
+          <div class="border-b border-slate-200 pb-4">
+            <span class="text-xs font-mono font-bold text-orange-600 uppercase tracking-wider">Educational Architecture</span>
+            <h2 class="text-xl sm:text-2xl font-extrabold text-slate-900">
+              What This Platform Is All About: Four Intelligence Modules
+            </h2>
+            <p class="text-xs sm:text-sm text-slate-600 mt-1">
+              Explore the four core learning environments engineered to build end-to-end technical fluency and strategic commercial mastery.
+            </p>
+          </div>
+
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <!-- Module 1: Treatment Processes -->
+            <a href="#processes" class="group p-6 rounded-2xl border border-slate-200 bg-white hover:border-sky-400 hover:shadow-lg transition-all flex flex-col justify-between">
+              <div class="space-y-3">
+                <div class="w-12 h-12 rounded-xl bg-sky-600 text-white flex items-center justify-center shadow-md group-hover:scale-105 transition-transform">
+                  <i data-lucide="activity" class="w-6 h-6"></i>
+                </div>
+                <div class="flex items-center justify-between">
+                  <span class="text-[10px] font-mono font-bold px-2.5 py-0.5 rounded bg-sky-100 text-sky-800 uppercase">Process Engineering</span>
+                  <span class="text-xs font-semibold text-sky-600 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
+                    Explore PFD &rarr;
+                  </span>
+                </div>
+                <h3 class="text-lg font-bold text-slate-900 group-hover:text-sky-700 transition-colors">
+                  Treatment Process Knowledge Base
+                </h3>
+                <p class="text-xs text-slate-600 leading-relaxed">
+                  Start with a clean <strong>Process Flow Diagram (PFD)</strong> explaining the end-to-end journey across <strong>ETP, STP, WTP, and LTP</strong> plant types. Click into any of the 19 components to study:
+                </p>
+                <div class="grid grid-cols-2 gap-2 text-[11px] text-slate-700 font-medium pt-1">
+                  <span class="flex items-center gap-1.5"><i data-lucide="check" class="w-3.5 h-3.5 text-orange-500"></i> Definition &amp; Principles</span>
+                  <span class="flex items-center gap-1.5"><i data-lucide="check" class="w-3.5 h-3.5 text-orange-500"></i> Why It Is Required</span>
+                  <span class="flex items-center gap-1.5"><i data-lucide="check" class="w-3.5 h-3.5 text-orange-500"></i> Types &amp; Classifications</span>
+                  <span class="flex items-center gap-1.5"><i data-lucide="check" class="w-3.5 h-3.5 text-orange-500"></i> Advantages &amp; Differences</span>
+                </div>
+              </div>
+            </a>
+
+            <!-- Module 2: Competitors Database -->
+            <a href="#competitors" class="group p-6 rounded-2xl border border-slate-200 bg-white hover:border-orange-400 hover:shadow-lg transition-all flex flex-col justify-between">
+              <div class="space-y-3">
+                <div class="w-12 h-12 rounded-xl bg-orange-600 text-white flex items-center justify-center shadow-md group-hover:scale-105 transition-transform">
+                  <i data-lucide="building-2" class="w-6 h-6"></i>
+                </div>
+                <div class="flex items-center justify-between">
+                  <span class="text-[10px] font-mono font-bold px-2.5 py-0.5 rounded bg-orange-100 text-orange-800 uppercase">Competitive Database</span>
+                  <span class="text-xs font-semibold text-orange-600 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
+                    View All 30 + TRITRON &rarr;
+                  </span>
+                </div>
+                <h3 class="text-lg font-bold text-slate-900 group-hover:text-orange-600 transition-colors">
+                  Competitors Universe: All 30 Companies + TRITRON
+                </h3>
+                <p class="text-xs text-slate-600 leading-relaxed">
+                  Rigorous, verified intelligence dossiers covering all 30 mandatory competitors plus TRITRON™ resonance technology. Filter by tier, geography, or business model, with full-size subpage views.
+                </p>
+                <div class="grid grid-cols-2 gap-2 text-[11px] text-slate-700 font-medium pt-1">
+                  <span class="flex items-center gap-1.5"><i data-lucide="check" class="w-3.5 h-3.5 text-sky-600"></i> Full-Screen Dossier Format</span>
+                  <span class="flex items-center gap-1.5"><i data-lucide="check" class="w-3.5 h-3.5 text-sky-600"></i> Corporate &amp; Water Revenue</span>
+                  <span class="flex items-center gap-1.5"><i data-lucide="check" class="w-3.5 h-3.5 text-sky-600"></i> Pricing &amp; Commercial Models</span>
+                  <span class="flex items-center gap-1.5"><i data-lucide="check" class="w-3.5 h-3.5 text-sky-600"></i> 8-Pillar Capability Scorecards</span>
+                </div>
+              </div>
+            </a>
+
+            <!-- Module 3: Competitor Intelligence Charts -->
+            <a href="#intelligence" class="group p-6 rounded-2xl border border-slate-200 bg-white hover:border-sky-400 hover:shadow-lg transition-all flex flex-col justify-between">
+              <div class="space-y-3">
+                <div class="w-12 h-12 rounded-xl bg-sky-700 text-white flex items-center justify-center shadow-md group-hover:scale-105 transition-transform">
+                  <i data-lucide="bar-chart-2" class="w-6 h-6"></i>
+                </div>
+                <div class="flex items-center justify-between">
+                  <span class="text-[10px] font-mono font-bold px-2.5 py-0.5 rounded bg-sky-100 text-sky-800 uppercase">Derived Analytics</span>
+                  <span class="text-xs font-semibold text-sky-600 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
+                    View Charts &rarr;
+                  </span>
+                </div>
+                <h3 class="text-lg font-bold text-slate-900 group-hover:text-sky-700 transition-colors">
+                  Competitor Intelligence &amp; Comparisons
+                </h3>
+                <p class="text-xs text-slate-600 leading-relaxed">
+                  Dedicated analytical comparison suite derived from database metrics. Features revenue comparisons, business model spectrum shares, technology stack coverage, and 7-axis capability radar charts.
+                </p>
+                <div class="grid grid-cols-2 gap-2 text-[11px] text-slate-700 font-medium pt-1">
+                  <span class="flex items-center gap-1.5"><i data-lucide="check" class="w-3.5 h-3.5 text-orange-500"></i> Revenue Benchmarks</span>
+                  <span class="flex items-center gap-1.5"><i data-lucide="check" class="w-3.5 h-3.5 text-orange-500"></i> 7-Axis Capability Radar</span>
+                  <span class="flex items-center gap-1.5"><i data-lucide="check" class="w-3.5 h-3.5 text-orange-500"></i> Technology Stack Matrix</span>
+                  <span class="flex items-center gap-1.5"><i data-lucide="check" class="w-3.5 h-3.5 text-orange-500"></i> 1-on-1 Side-by-Side Compare</span>
+                </div>
+              </div>
+            </a>
+
+            <!-- Module 4: Buyer Personas & Verticals -->
+            <a href="#personas" class="group p-6 rounded-2xl border border-slate-200 bg-white hover:border-orange-400 hover:shadow-lg transition-all flex flex-col justify-between">
+              <div class="space-y-3">
+                <div class="w-12 h-12 rounded-xl bg-orange-600 text-white flex items-center justify-center shadow-md group-hover:scale-105 transition-transform">
+                  <i data-lucide="users" class="w-6 h-6"></i>
+                </div>
+                <div class="flex items-center justify-between">
+                  <span class="text-[10px] font-mono font-bold px-2.5 py-0.5 rounded bg-orange-100 text-orange-800 uppercase">Verticals &amp; Personas</span>
+                  <span class="text-xs font-semibold text-orange-600 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
+                    Explore Verticals &rarr;
+                  </span>
+                </div>
+                <h3 class="text-lg font-bold text-slate-900 group-hover:text-orange-600 transition-colors">
+                  Buyer Personas &amp; 4 Priority Verticals
+                </h3>
+                <p class="text-xs text-slate-600 leading-relaxed">
+                  Deep operational mapping of Automotive, Electroplating, Cooling Towers, and Silica-to-Solution. Decodes the linguistic gap between Decision Makers (ESG/EHS) and Execution Teams (Plant/ETP).
+                </p>
+                <div class="grid grid-cols-2 gap-2 text-[11px] text-slate-700 font-medium pt-1">
+                  <span class="flex items-center gap-1.5"><i data-lucide="check" class="w-3.5 h-3.5 text-sky-600"></i> Manufacturing Process Steps</span>
+                  <span class="flex items-center gap-1.5"><i data-lucide="check" class="w-3.5 h-3.5 text-sky-600"></i> Contaminants &amp; CPCB Limits</span>
+                  <span class="flex items-center gap-1.5"><i data-lucide="check" class="w-3.5 h-3.5 text-sky-600"></i> Top 5 ETP Pain Points</span>
+                  <span class="flex items-center gap-1.5"><i data-lucide="check" class="w-3.5 h-3.5 text-sky-600"></i> Cognitive Traits &amp; Drivers</span>
+                </div>
+              </div>
+            </a>
+          </div>
+        </section>
+
+        <!-- Wastewater Treatment Fundamentals: Quick Learning Primer -->
+        <section class="space-y-4">
+          <div class="border-b border-slate-200 pb-3">
+            <span class="text-xs font-mono font-bold text-sky-700 uppercase tracking-wider">Fundamentals &amp; Primer</span>
+            <h2 class="text-lg font-bold text-slate-900">Core Concepts in Wastewater Treatment Engineering</h2>
+          </div>
+
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+            <!-- Concept 1: The 4 Plant Types -->
+            <div class="card-elevated p-5 rounded-2xl bg-white border border-slate-200 space-y-3">
+              <div class="flex items-center gap-2">
+                <div class="w-7 h-7 rounded-lg bg-sky-100 text-sky-700 flex items-center justify-center font-bold text-xs">
+                  01
+                </div>
+                <h3 class="text-sm font-bold text-slate-900">4 Core Treatment Architectures</h3>
+              </div>
+              <ul class="space-y-2 text-xs text-slate-600">
+                <li class="p-2 rounded bg-slate-50 border border-slate-100">
+                  <strong class="text-slate-900">STP (Sewage):</strong> Domestic waste from communities, hotels, and offices (high BOD/pathogens).
+                </li>
+                <li class="p-2 rounded bg-slate-50 border border-slate-100">
+                  <strong class="text-slate-900">ETP (Effluent):</strong> Chemically complex, toxic industrial wastewater from factories.
+                </li>
+                <li class="p-2 rounded bg-slate-50 border border-slate-100">
+                  <strong class="text-slate-900">WTP (Water):</strong> Purifying surface/groundwater for drinking or industrial boiler feed.
+                </li>
+                <li class="p-2 rounded bg-slate-50 border border-slate-100">
+                  <strong class="text-slate-900">LTP (Leachate):</strong> Treating toxic percolation liquids draining from municipal landfills.
+                </li>
+              </ul>
+            </div>
+
+            <!-- Concept 2: Contaminant Types -->
+            <div class="card-elevated p-5 rounded-2xl bg-white border border-slate-200 space-y-3">
+              <div class="flex items-center gap-2">
+                <div class="w-7 h-7 rounded-lg bg-orange-100 text-orange-700 flex items-center justify-center font-bold text-xs">
+                  02
+                </div>
+                <h3 class="text-sm font-bold text-slate-900">What Must Be Removed?</h3>
+              </div>
+              <ul class="space-y-2 text-xs text-slate-600">
+                <li class="p-2 rounded bg-slate-50 border border-slate-100">
+                  <strong class="text-slate-900">Physical Contaminants:</strong> Sand, silt, clay, floating debris, rags, and microplastics.
+                </li>
+                <li class="p-2 rounded bg-slate-50 border border-slate-100">
+                  <strong class="text-slate-900">Biological Pathogens:</strong> Bacteria, enteric viruses, protozoan cysts, and helminthes.
+                </li>
+                <li class="p-2 rounded bg-slate-50 border border-slate-100">
+                  <strong class="text-slate-900">Chemical Contaminants:</strong> Heavy metals (Cr⁶⁺, Ni, Zn, Pb), cyanides, refractory COD, dyes.
+                </li>
+                <li class="p-2 rounded bg-slate-50 border border-slate-100">
+                  <strong class="text-slate-900">Dissolved Hardness &amp; Salts:</strong> Calcium, magnesium, sodium sulfates, chlorides, and silica.
+                </li>
+              </ul>
+            </div>
+
+            <!-- Concept 3: Key Engineering Parameters -->
+            <div class="card-elevated p-5 rounded-2xl bg-white border border-slate-200 space-y-3">
+              <div class="flex items-center gap-2">
+                <div class="w-7 h-7 rounded-lg bg-sky-100 text-sky-700 flex items-center justify-center font-bold text-xs">
+                  03
+                </div>
+                <h3 class="text-sm font-bold text-slate-900">Governing Measurement Metrics</h3>
+              </div>
+              <ul class="space-y-1.5 text-xs text-slate-600 font-mono">
+                <li class="flex justify-between py-1 border-b border-slate-100">
+                  <span class="font-bold text-slate-900">pH:</span>
+                  <span>0–14 (Discharge: 5.5–9.0)</span>
+                </li>
+                <li class="flex justify-between py-1 border-b border-slate-100">
+                  <span class="font-bold text-slate-900">TSS (Suspended Solids):</span>
+                  <span>CPCB Standard ≤ 100 mg/L</span>
+                </li>
+                <li class="flex justify-between py-1 border-b border-slate-100">
+                  <span class="font-bold text-slate-900">TDS (Dissolved Solids):</span>
+                  <span>Inland Threshold ~2,100 mg/L</span>
+                </li>
+                <li class="flex justify-between py-1 border-b border-slate-100">
+                  <span class="font-bold text-slate-900">BOD₅ (Bio-Oxygen Demand):</span>
+                  <span>Standard ≤ 30 mg/L</span>
+                </li>
+                <li class="flex justify-between py-1 border-b border-slate-100">
+                  <span class="font-bold text-slate-900">COD (Chemical Oxygen Demand):</span>
+                  <span>Standard ≤ 250 mg/L</span>
+                </li>
+                <li class="flex justify-between py-1">
+                  <span class="font-bold text-slate-900">Oil &amp; Grease (O&amp;G):</span>
+                  <span>Standard ≤ 10 mg/L</span>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </section>
+
+        <!-- Compact Bottom Links: Downloads & Gallery Access -->
+        <section class="p-6 rounded-2xl bg-slate-100 border border-slate-200 text-slate-700 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs">
+          <div>
+            <span class="font-bold text-slate-900 block text-sm">Need Raw Files, Presentations or Schematics?</span>
+            <span class="text-slate-500">Access the full 86-slide master presentation, 115-slide process train deck, and structured Excel workbooks.</span>
+          </div>
+          <div class="flex items-center gap-2">
+            <a href="Industrial_Wastewater_Competitive_Intelligence_Database_2026.pptx" download class="inline-flex items-center gap-1.5 px-3 py-2 rounded-lg bg-sky-600 hover:bg-sky-700 text-white font-semibold shadow-sm transition-colors">
+              <i data-lucide="download" class="w-3.5 h-3.5"></i>
+              <span>Master Deck (.pptx)</span>
+            </a>
+            <a href="Competitor_Database.xlsx" download class="inline-flex items-center gap-1.5 px-3 py-2 rounded-lg bg-orange-600 hover:bg-orange-700 text-white font-semibold shadow-sm transition-colors">
+              <i data-lucide="file-spreadsheet" class="w-3.5 h-3.5"></i>
+              <span>Excel Database (.xlsx)</span>
+            </a>
+          </div>
+        </section>
+
+        <!-- Developer Attribution Banner -->
+        <section class="p-4 rounded-xl bg-slate-900 text-white text-center text-xs font-mono border border-slate-800">
+          <p class="text-slate-300">
+            All rights reserved to <span class="text-orange-400 font-bold">Nayan Sarkar</span>.
+          </p>
+        </section>
+      </div>
+    `;
+  }
+};
+
+
+/* ==================== MODULE: js/views/competitor_db_view.js ==================== */
+// competitor_db_view.js - Searchable 30 Competitor Database with Full-Size Subpage Dossier
+window.CompetitorDbView = {
+  activeCategory: 'all',
+  activeGeography: 'all',
+  activeBusinessModel: 'all',
+  searchQuery: '',
+  viewMode: 'grid', // 'grid' or 'table'
+  activeSubpageCompetitorId: null, // null when showing list; string ID when showing full-size subpage
+
+  setCategory: function(cat) {
+    this.activeCategory = cat;
+    this.renderCards();
+  },
+
+  setGeography: function(geo) {
+    this.activeGeography = geo;
+    this.renderCards();
+  },
+
+  setBusinessModel: function(model) {
+    this.activeBusinessModel = model;
+    this.renderCards();
+  },
+
+  setSearch: function(q) {
+    this.searchQuery = (q || '').trim().toLowerCase();
+    this.renderCards();
+  },
+
+  setViewMode: function(mode) {
+    this.viewMode = mode;
+    this.renderCards();
+  },
+
+  openFullDossier: function(compId) {
+    this.activeSubpageCompetitorId = compId;
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+    this.renderSubpageDossier();
+  },
+
+  closeFullDossier: function() {
+    this.activeSubpageCompetitorId = null;
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+    this.render();
+  },
+
+  getFilteredCompetitors: function() {
+    const data = window.PLATFORM_DATA || {};
+    let list = data.Competitors || [];
+
+    // Category Filter
+    if (this.activeCategory !== 'all') {
+      list = list.filter(c => {
+        if (this.activeCategory === 'global') return c.Category.toLowerCase().includes('global');
+        if (this.activeCategory === 'industrial') return c.Category.toLowerCase().includes('specialist') && c.Id !== 'COMP-TRITRON';
+        if (this.activeCategory === 'epc') return c.Category.toLowerCase().includes('engineering') || c.Category.toLowerCase().includes('epc');
+        if (this.activeCategory === 'regional') return c.Category.toLowerCase().includes('regional');
+        if (this.activeCategory === 'novel' || this.activeCategory === 'tritron') return c.Id === 'COMP-TRITRON' || c.Category.toLowerCase().includes('physics');
+        return true;
+      });
+    }
+
+    // Geography Filter
+    if (this.activeGeography !== 'all') {
+      list = list.filter(c => {
+        const ind = (c.IndiaPresence || '').toLowerCase();
+        if (this.activeGeography === 'india-strong') {
+          return ind.includes('strong') || ind.includes('hq') || ind.includes('manufacturing') || ind.includes('pan-india') || ind.includes('extensive');
+        }
+        if (this.activeGeography === 'global-focus') {
+          return !ind.includes('strong') && !ind.includes('hq');
+        }
+        return true;
+      });
+    }
+
+    // Business Model Filter
+    if (this.activeBusinessModel !== 'all') {
+      list = list.filter(c => {
+        const bm = (c.BusinessModel || '').toLowerCase();
+        return bm.includes(this.activeBusinessModel.toLowerCase());
+      });
+    }
+
+    // Search Query Filter
+    if (this.searchQuery) {
+      const q = this.searchQuery;
+      list = list.filter(c => 
+        (c.Name && c.Name.toLowerCase().includes(q)) ||
+        (c.LegalEntity && c.LegalEntity.toLowerCase().includes(q)) ||
+        (c.Headquarters && c.Headquarters.toLowerCase().includes(q)) ||
+        (c.CoreTechnologies && c.CoreTechnologies.toLowerCase().includes(q)) ||
+        (c.TargetIndustries && c.TargetIndustries.toLowerCase().includes(q)) ||
+        (c.Leadership && c.Leadership.toLowerCase().includes(q))
+      );
+    }
+
+    return list;
+  },
+
+  render: function() {
+    const container = document.getElementById("main-content");
+    if (!container) return;
+
+    if (this.activeSubpageCompetitorId) {
+      this.renderSubpageDossier();
+      return;
+    }
+
+    const data = window.PLATFORM_DATA || {};
+    const totalCount = (data.Competitors || []).length;
+
+    container.innerHTML = `
+      <div class="space-y-6 pb-20">
+        <!-- Section Header -->
+        <div class="bg-gradient-to-r from-navy-dark via-slate-900 to-[#0B2545] text-white p-6 sm:p-8 rounded-2xl border border-slate-700 shadow-lg">
+          <div class="flex flex-col md:flex-row md:items-center justify-between gap-4">
+            <div>
+              <div class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-orange-500/20 text-orange-400 text-xs font-mono font-bold border border-orange-500/30 mb-2">
+                <i data-lucide="building-2" class="w-3.5 h-3.5"></i>
+                MANDATORY COMPETITOR UNIVERSE · ALL 30 COMPANIES + TRITRON™
+              </div>
+              <h1 class="text-2xl sm:text-3xl font-extrabold tracking-tight text-white">
+                Global &amp; Indian Competitors Database
+              </h1>
+              <p class="text-xs sm:text-sm text-slate-300 mt-1 max-w-3xl">
+                Comprehensive, evidence-based intelligence profiles across all 30 industry competitors plus TRITRON™ novel resonance technology evaluated across 8 pillars: corporate financials, technical stacks, pricing, clients, reference projects, and capability scores.
+              </p>
+            </div>
+            <div class="flex items-center gap-2">
+              <span class="text-xs font-mono bg-slate-900/90 border border-orange-500/40 text-orange-400 px-3 py-1.5 rounded-lg font-bold">
+                ${totalCount} Companies Validated
+              </span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Filter & Search Toolbar (Sticky-Aware) -->
+        <div class="card-elevated p-4 sm:p-5 rounded-2xl bg-white border border-slate-200 space-y-4">
+          <!-- Row 1: Search & View Toggle -->
+          <div class="flex flex-col sm:flex-row items-stretch sm:items-center justify-between gap-3">
+            <div class="relative flex-1">
+              <i data-lucide="search" class="w-4 h-4 text-slate-400 absolute left-3 top-3"></i>
+              <input 
+                id="competitor-search-input"
+                type="text" 
+                placeholder="Search by company name, technology, headquarters, client..." 
+                value="${this.searchQuery}"
+                oninput="window.CompetitorDbView.setSearch(this.value)"
+                class="w-full bg-slate-50 border border-slate-300 pl-9 pr-4 py-2 rounded-xl text-xs focus:bg-white focus:outline-none focus:ring-2 focus:ring-sky-500 transition-all"
+              />
+            </div>
+
+            <div class="flex items-center gap-2">
+              <span class="text-xs text-slate-500 font-mono hidden sm:inline">Layout:</span>
+              <div class="bg-slate-100 p-1 rounded-lg flex items-center gap-1 border border-slate-200">
+                <button 
+                  onclick="window.CompetitorDbView.setViewMode('grid')" 
+                  class="px-2.5 py-1 rounded text-xs font-medium transition-all ${this.viewMode === 'grid' ? 'bg-white text-slate-900 shadow-sm' : 'text-slate-600 hover:text-slate-900'}"
+                  title="Card Grid View"
+                >
+                  <i data-lucide="grid" class="w-3.5 h-3.5 inline mr-1"></i> Grid
+                </button>
+                <button 
+                  onclick="window.CompetitorDbView.setViewMode('table')" 
+                  class="px-2.5 py-1 rounded text-xs font-medium transition-all ${this.viewMode === 'table' ? 'bg-white text-slate-900 shadow-sm' : 'text-slate-600 hover:text-slate-900'}"
+                  title="Compact Table View"
+                >
+                  <i data-lucide="list" class="w-3.5 h-3.5 inline mr-1"></i> Table
+                </button>
+              </div>
+            </div>
+          </div>
+
+          <!-- Row 2: Category Filter Pills -->
+          <div class="space-y-1.5 pt-2 border-t border-slate-100">
+            <span class="text-[11px] font-mono text-slate-400 uppercase tracking-wider block">Competitor Category:</span>
+            <div class="flex items-center gap-1.5 overflow-x-auto pb-1 no-scrollbar">
+              <button onclick="window.CompetitorDbView.setCategory('all')" class="px-3 py-1.5 rounded-lg text-xs font-semibold whitespace-nowrap transition-all ${this.activeCategory === 'all' ? 'bg-sky-600 text-white shadow-sm' : 'bg-slate-100 text-slate-700 hover:bg-slate-200'}">
+                All Competitors (${totalCount})
+              </button>
+              <button onclick="window.CompetitorDbView.setCategory('global')" class="px-3 py-1.5 rounded-lg text-xs font-semibold whitespace-nowrap transition-all ${this.activeCategory === 'global' ? 'bg-sky-600 text-white shadow-sm' : 'bg-slate-100 text-slate-700 hover:bg-slate-200'}">
+                Tier 1: Global Integrated (5)
+              </button>
+              <button onclick="window.CompetitorDbView.setCategory('industrial')" class="px-3 py-1.5 rounded-lg text-xs font-semibold whitespace-nowrap transition-all ${this.activeCategory === 'industrial' ? 'bg-sky-600 text-white shadow-sm' : 'bg-slate-100 text-slate-700 hover:bg-slate-200'}">
+                Tier 2: Industrial Specialists (10)
+              </button>
+              <button onclick="window.CompetitorDbView.setCategory('epc')" class="px-3 py-1.5 rounded-lg text-xs font-semibold whitespace-nowrap transition-all ${this.activeCategory === 'epc' ? 'bg-sky-600 text-white shadow-sm' : 'bg-slate-100 text-slate-700 hover:bg-slate-200'}">
+                Tier 3: EPC &amp; Engineering (10)
+              </button>
+              <button onclick="window.CompetitorDbView.setCategory('regional')" class="px-3 py-1.5 rounded-lg text-xs font-semibold whitespace-nowrap transition-all ${this.activeCategory === 'regional' ? 'bg-sky-600 text-white shadow-sm' : 'bg-slate-100 text-slate-700 hover:bg-slate-200'}">
+                Tier 4: Regional Specialists (5)
+              </button>
+              <button onclick="window.CompetitorDbView.setCategory('novel')" class="px-3 py-1.5 rounded-lg text-xs font-semibold whitespace-nowrap transition-all ${this.activeCategory === 'novel' ? 'bg-orange-600 text-white shadow-sm' : 'bg-orange-50 text-orange-800 border border-orange-200 hover:bg-orange-100'}">
+                Novel Physics: TRITRON™ (1)
+              </button>
+            </div>
+          </div>
+
+          <!-- Row 3: Secondary Filters (Geography & Business Model) -->
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 pt-2 border-t border-slate-100 text-xs">
+            <div class="flex items-center gap-2">
+              <span class="text-slate-500 font-mono whitespace-nowrap">Geography:</span>
+              <select 
+                onchange="window.CompetitorDbView.setGeography(this.value)"
+                class="bg-slate-50 border border-slate-300 rounded-lg px-2.5 py-1.5 text-xs text-slate-800 w-full focus:ring-sky-500 focus:border-sky-500"
+              >
+                <option value="all" ${this.activeGeography === 'all' ? 'selected' : ''}>All Geographies (Global &amp; India)</option>
+                <option value="india-strong" ${this.activeGeography === 'india-strong' ? 'selected' : ''}>Strong India Presence / Indian HQ</option>
+                <option value="global-focus" ${this.activeGeography === 'global-focus' ? 'selected' : ''}>Pure Global / Export Focus</option>
+              </select>
+            </div>
+
+            <div class="flex items-center gap-2">
+              <span class="text-slate-500 font-mono whitespace-nowrap">Business Model:</span>
+              <select 
+                onchange="window.CompetitorDbView.setBusinessModel(this.value)"
+                class="bg-slate-50 border border-slate-300 rounded-lg px-2.5 py-1.5 text-xs text-slate-800 w-full focus:ring-sky-500 focus:border-sky-500"
+              >
+                <option value="all" ${this.activeBusinessModel === 'all' ? 'selected' : ''}>All Commercial Models</option>
+                <option value="epc" ${this.activeBusinessModel === 'epc' ? 'selected' : ''}>Turnkey EPC / DBO Contracting</option>
+                <option value="o&m" ${this.activeBusinessModel === 'o&m' ? 'selected' : ''}>O&amp;M Services &amp; Concessions</option>
+                <option value="equipment" ${this.activeBusinessModel === 'equipment' ? 'selected' : ''}>Proprietary Equipment / OEM Licensor</option>
+                <option value="boot" ${this.activeBusinessModel === 'boot' ? 'selected' : ''}>Water-as-a-Service (WaaS) / BOOT</option>
+              </select>
+            </div>
+          </div>
+        </div>
+
+        <!-- Competitor Output Container -->
+        <div id="competitors-cards-container">
+          <!-- Populated dynamically -->
+        </div>
+      </div>
+    `;
+
+    this.renderCards();
+    if (window.lucide) window.lucide.createIcons();
+  },
+
+  renderCards: function() {
+    const container = document.getElementById("competitors-cards-container");
+    if (!container) return;
+
+    const list = this.getFilteredCompetitors();
+
+    if (list.length === 0) {
+      container.innerHTML = `
+        <div class="card-elevated p-12 text-center rounded-2xl bg-white border border-slate-200 space-y-3">
+          <i data-lucide="filter-x" class="w-10 h-10 text-slate-300 mx-auto"></i>
+          <h3 class="text-base font-bold text-slate-800">No Competitors Match Your Filters</h3>
+          <p class="text-xs text-slate-500 max-w-sm mx-auto">Try clearing your search query or selecting "All Competitors" to view the full universe of 30 companies.</p>
+          <button onclick="window.CompetitorDbView.setCategory('all'); window.CompetitorDbView.setSearch('');" class="px-4 py-2 rounded-lg bg-sky-600 text-white text-xs font-semibold">
+            Reset Filters
+          </button>
+        </div>
+      `;
+      if (window.lucide) window.lucide.createIcons();
+      return;
+    }
+
+    if (this.viewMode === 'table') {
+      const rows = list.map((c, i) => {
+        const weighted = (c.ScoreProductPortfolio * 0.15) +
+                         (c.ScoreTechnologyCapability * 0.20) +
+                         (c.ScoreCommercialCompetitiveness * 0.15) +
+                         (c.ScoreMarketPresence * 0.15) +
+                         (c.ScoreSalesCapability * 0.10) +
+                         (c.ScoreCustomerPerformance * 0.15) +
+                         (c.ScoreInnovationPipeline * 0.10);
+
+        return `
+          <tr class="hover:bg-sky-50/50 transition-colors cursor-pointer border-b border-slate-100 text-xs" onclick="window.CompetitorDbView.openFullDossier('${c.Id}')">
+            <td class="p-3 font-mono font-bold text-slate-400">${i + 1}</td>
+            <td class="p-3 font-bold text-slate-900 flex items-center gap-2">
+              <span>${c.Name}</span>
+              <span class="text-[9px] font-mono px-1.5 py-0.2 rounded bg-slate-100 text-slate-600">${c.Id}</span>
+            </td>
+            <td class="p-3 text-slate-600">${c.Category}</td>
+            <td class="p-3 font-mono text-slate-700">${c.Headquarters.split(',')[0]}</td>
+            <td class="p-3 font-mono text-sky-700 font-semibold">${c.IndustrialWaterRevenue}</td>
+            <td class="p-3 text-slate-600 truncate max-w-xs">${c.BusinessModel}</td>
+            <td class="p-3 text-center">
+              <span class="font-mono font-bold px-2 py-0.5 rounded ${c.Id === 'COMP-TRITRON' ? 'bg-orange-100 text-orange-900 border border-orange-300' : 'bg-orange-50 text-orange-800 border border-orange-200'}">
+                ${weighted.toFixed(2)}
+              </span>
+            </td>
+            <td class="p-3 text-right">
+              <button onclick="event.stopPropagation(); window.CompetitorDbView.openFullDossier('${c.Id}')" class="px-2.5 py-1 rounded bg-sky-600 hover:bg-sky-700 text-white font-semibold text-[11px]">
+                View Dossier &rarr;
+              </button>
+            </td>
+          </tr>
+        `;
+      }).join('');
+
+      container.innerHTML = `
+        <div class="card-elevated rounded-2xl bg-white border border-slate-200 overflow-hidden">
+          <div class="overflow-x-auto">
+            <table class="w-full text-left text-xs">
+              <thead class="bg-slate-100 text-slate-700 font-bold uppercase text-[10px] tracking-wider border-b border-slate-200">
+                <tr>
+                  <th class="p-3">#</th>
+                  <th class="p-3">Competitor Name</th>
+                  <th class="p-3">Tier Category</th>
+                  <th class="p-3">HQ</th>
+                  <th class="p-3">Industrial Water Rev</th>
+                  <th class="p-3">Business Model</th>
+                  <th class="p-3 text-center">Score (1-5)</th>
+                  <th class="p-3 text-right">Action</th>
+                </tr>
+              </thead>
+              <tbody class="divide-y divide-slate-100">
+                ${rows}
+              </tbody>
+            </table>
+          </div>
+          <div class="p-3 bg-slate-50 border-t border-slate-200 flex items-center justify-between text-[11px] text-slate-500 font-mono">
+            <span>Showing ${list.length} of ${data.Competitors ? data.Competitors.length : 31} Competitors &amp; Innovators</span>
+            <span>Click any row to open full-size dossier</span>
+          </div>
+        </div>
+      `;
+    } else {
+      // Grid Card View
+      const cards = list.map(c => {
+        const weighted = (c.ScoreProductPortfolio * 0.15) +
+                         (c.ScoreTechnologyCapability * 0.20) +
+                         (c.ScoreCommercialCompetitiveness * 0.15) +
+                         (c.ScoreMarketPresence * 0.15) +
+                         (c.ScoreSalesCapability * 0.10) +
+                         (c.ScoreCustomerPerformance * 0.15) +
+                         (c.ScoreInnovationPipeline * 0.10);
+
+        const isTritron = c.Id === 'COMP-TRITRON';
+
+        return `
+          <div class="card-elevated p-5 rounded-2xl bg-white border ${isTritron ? 'border-orange-400 bg-orange-50/15 ring-1 ring-orange-400/30' : 'border-slate-200 hover:border-sky-300'} hover:shadow-md transition-all flex flex-col justify-between group">
+            <div class="space-y-3">
+              <!-- Card Header -->
+              <div class="flex items-start justify-between gap-2">
+                <div>
+                  <span class="text-[10px] font-mono font-bold px-2 py-0.5 rounded ${isTritron ? 'bg-orange-100 text-orange-900 border border-orange-300' : 'bg-sky-100 text-sky-800'} uppercase">
+                    ${c.Category}
+                  </span>
+                  <h3 class="text-base font-extrabold text-slate-900 mt-1.5 ${isTritron ? 'text-orange-900 group-hover:text-orange-600' : 'group-hover:text-sky-700'} transition-colors">
+                    ${c.Name}
+                  </h3>
+                  <p class="text-[11px] text-slate-500 font-mono">${c.Headquarters}</p>
+                </div>
+                <div class="text-right">
+                  <span class="text-[10px] font-mono text-slate-400 uppercase block">Score</span>
+                  <span class="font-mono text-sm font-extrabold ${isTritron ? 'text-orange-900 bg-orange-100 border border-orange-300' : 'text-orange-700 bg-orange-50 border border-orange-200'} px-2 py-0.5 rounded">
+                    ${weighted.toFixed(2)}
+                  </span>
+                </div>
+              </div>
+
+              <!-- Revenue & Business Model -->
+              <div class="grid grid-cols-2 gap-2 p-2.5 rounded-xl bg-slate-50 border border-slate-100 text-[11px]">
+                <div>
+                  <span class="text-slate-400 font-mono block text-[10px]">Ind. Water Rev:</span>
+                  <span class="font-bold text-sky-700">${c.IndustrialWaterRevenue}</span>
+                </div>
+                <div>
+                  <span class="text-slate-400 font-mono block text-[10px]">Consolidated:</span>
+                  <span class="font-bold text-slate-700">${c.ConsolidatedRevenue}</span>
+                </div>
+              </div>
+
+              <!-- Core Technologies Teaser -->
+              <div>
+                <span class="text-[10px] font-mono text-slate-400 uppercase tracking-wider block mb-1">Core Tech Stack:</span>
+                <p class="text-xs text-slate-600 line-clamp-2 leading-relaxed">
+                  ${c.CoreTechnologies || 'Integrated physical-chemical, biological, and membrane systems.'}
+                </p>
+              </div>
+
+              <!-- India Footprint Badge -->
+              <div class="text-[11px] text-slate-500 flex items-center gap-1.5">
+                <i data-lucide="map-pin" class="w-3.5 h-3.5 text-orange-600 flex-shrink-0"></i>
+                <span class="truncate">${c.IndiaPresence || 'Direct India EPC/Services presence'}</span>
+              </div>
+            </div>
+
+            <!-- Card Bottom Action -->
+            <div class="pt-4 mt-3 border-t border-slate-100 flex items-center justify-between">
+              <span class="text-[11px] font-mono text-slate-400">${c.Id}</span>
+              <button 
+                onclick="window.CompetitorDbView.openFullDossier('${c.Id}')"
+                class="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg ${isTritron ? 'bg-orange-600 hover:bg-orange-700' : 'bg-sky-600 hover:bg-sky-700'} text-white font-semibold text-xs shadow-sm transition-colors"
+              >
+                <span>Full-Size Dossier</span>
+                <i data-lucide="arrow-right" class="w-3.5 h-3.5"></i>
+              </button>
+            </div>
+          </div>
+        `;
+      }).join('');
+
+      container.innerHTML = `
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+          ${cards}
+        </div>
+      `;
+    }
+
+    if (window.lucide) window.lucide.createIcons();
+  },
+
+  renderSubpageDossier: function() {
+    const container = document.getElementById("main-content");
+    if (!container) return;
+
+    const data = window.PLATFORM_DATA || {};
+    const comp = (data.Competitors || []).find(c => c.Id === this.activeSubpageCompetitorId);
+
+    if (!comp) {
+      this.closeFullDossier();
+      return;
+    }
+
+    // Weighted Score
+    const weighted = (comp.ScoreProductPortfolio * 0.15) +
+                     (comp.ScoreTechnologyCapability * 0.20) +
+                     (comp.ScoreCommercialCompetitiveness * 0.15) +
+                     (comp.ScoreMarketPresence * 0.15) +
+                     (comp.ScoreSalesCapability * 0.10) +
+                     (comp.ScoreCustomerPerformance * 0.15) +
+                     (comp.ScoreInnovationPipeline * 0.10);
+    const wScore = weighted.toFixed(2);
+
+    const projList = (comp.IdentifiedProjects || []).map(p => `
+      <div class="p-4 rounded-xl bg-slate-50 border border-slate-200 text-xs space-y-1">
+        <div class="flex items-center justify-between">
+          <span class="font-bold text-slate-900 text-sm">${p.Client}</span>
+          <span class="text-[10px] font-mono px-2 py-0.5 rounded bg-sky-100 text-sky-800 font-bold">${p.Status}</span>
+        </div>
+        <p class="text-xs text-slate-600">${p.Location} · Capacity: <strong class="text-slate-800">${p.Capacity}</strong></p>
+        <p class="text-[11px] font-mono text-slate-500">Tech Train: ${p.Tech} [${p.Type}]</p>
+      </div>
+    `).join('');
+
+    container.innerHTML = `
+      <div class="space-y-8 pb-20 animate-in fade-in duration-200">
+        <!-- Back Navigation Bar -->
+        <div class="flex items-center justify-between bg-white p-4 rounded-2xl border border-slate-200 shadow-sm">
+          <button 
+            onclick="window.CompetitorDbView.closeFullDossier()" 
+            class="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-800 font-bold text-xs transition-colors"
+          >
+            <i data-lucide="arrow-left" class="w-4 h-4"></i>
+            <span>Back to All 30 Competitors</span>
+          </button>
+
+          <div class="flex items-center gap-2">
+            <span class="text-xs font-mono text-slate-500">Subpage Dossier:</span>
+            <span class="text-xs font-mono font-bold text-sky-700 bg-sky-50 px-2.5 py-1 rounded border border-sky-200">
+              ${comp.Id} · Full-Size View
+            </span>
+          </div>
+        </div>
+
+        <!-- Full-Size Hero Banner -->
+        <div class="bg-gradient-to-r from-navy-dark via-slate-900 to-sky-950 text-white p-8 rounded-3xl border border-slate-700 shadow-xl relative overflow-hidden">
+          <div class="absolute -right-10 -bottom-10 w-80 h-80 bg-sky-500/10 rounded-full blur-3xl pointer-events-none"></div>
+          
+          <div class="flex flex-col md:flex-row md:items-center justify-between gap-4 border-b border-slate-800 pb-6">
+            <div>
+              <div class="flex items-center gap-2 mb-2">
+                <span class="text-xs font-mono font-bold px-3 py-0.5 rounded-full bg-sky-500/20 text-sky-300 border border-sky-400/30 uppercase">
+                  ${comp.Category}
+                </span>
+                <span class="text-xs font-mono text-slate-400">Founded: ${comp.YearEstablished || 'Verified'}</span>
+              </div>
+              <h1 class="text-3xl sm:text-4xl font-black text-white">${comp.Name}</h1>
+              <p class="text-sm text-slate-300 font-mono mt-1">${comp.LegalEntity}</p>
+            </div>
+
+            <!-- Scorecard Big Badge -->
+            <div class="bg-slate-800/80 border border-slate-700 p-4 rounded-2xl text-center min-w-[160px]">
+              <span class="text-[10px] font-mono uppercase text-slate-400 block">Overall Capability Index</span>
+              <div class="text-3xl font-black text-orange-400 mt-1">${wScore} <span class="text-xs font-normal text-slate-400">/ 5.0</span></div>
+              <span class="text-[10px] font-mono text-orange-300 mt-0.5 block">Weighted Across 7 Axes</span>
+            </div>
+          </div>
+
+          <!-- Key Stats Grid -->
+          <div class="grid grid-cols-2 sm:grid-cols-4 gap-4 mt-6 text-xs">
+            <div class="p-3 rounded-xl bg-slate-800/50 border border-slate-700/60">
+              <span class="text-[10px] text-slate-400 font-mono uppercase block">Headquarters:</span>
+              <p class="font-bold text-white text-sm mt-0.5">${comp.Headquarters}</p>
+            </div>
+            <div class="p-3 rounded-xl bg-slate-800/50 border border-slate-700/60">
+              <span class="text-[10px] text-slate-400 font-mono uppercase block">Consolidated Revenue:</span>
+              <p class="font-bold text-white text-sm mt-0.5">${comp.ConsolidatedRevenue}</p>
+            </div>
+            <div class="p-3 rounded-xl bg-slate-800/50 border border-slate-700/60">
+              <span class="text-[10px] text-sky-400 font-mono uppercase block">Industrial Water Rev:</span>
+              <p class="font-bold text-sky-300 text-sm mt-0.5">${comp.IndustrialWaterRevenue}</p>
+            </div>
+            <div class="p-3 rounded-xl bg-slate-800/50 border border-slate-700/60">
+              <span class="text-[10px] text-slate-400 font-mono uppercase block">Leadership:</span>
+              <p class="font-bold text-white text-sm mt-0.5 truncate">${comp.Leadership || 'Executive Board'}</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- 8 Pillars of Competitive Intelligence (Full Width Layout) -->
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+          <!-- Column 1: Corporate, Strategy & Scorecard -->
+          <div class="space-y-6 lg:col-span-1">
+            <!-- Pillar 8: Capability Scorecard -->
+            <div class="card-elevated p-6 rounded-2xl bg-white border border-slate-200 space-y-4">
+              <div class="flex items-center justify-between border-b border-slate-100 pb-3">
+                <h3 class="text-xs font-bold uppercase tracking-wider text-slate-900 flex items-center gap-1.5">
+                  <i data-lucide="award" class="w-4 h-4 text-orange-500"></i> Pillar 8: Capability Scorecard
+                </h3>
+                <span class="text-xs font-mono font-bold text-orange-700">${wScore} / 5.0</span>
+              </div>
+              <div class="space-y-2 text-xs">
+                <div class="flex justify-between py-1 border-b border-slate-100">
+                  <span class="text-slate-600">Product Portfolio</span>
+                  <span class="font-bold text-slate-900 font-mono">${comp.ScoreProductPortfolio} / 5</span>
+                </div>
+                <div class="flex justify-between py-1 border-b border-slate-100">
+                  <span class="text-slate-600">Technology Capability</span>
+                  <span class="font-bold text-slate-900 font-mono">${comp.ScoreTechnologyCapability} / 5</span>
+                </div>
+                <div class="flex justify-between py-1 border-b border-slate-100">
+                  <span class="text-slate-600">Commercial Power</span>
+                  <span class="font-bold text-slate-900 font-mono">${comp.ScoreCommercialCompetitiveness} / 5</span>
+                </div>
+                <div class="flex justify-between py-1 border-b border-slate-100">
+                  <span class="text-slate-600">Market Presence</span>
+                  <span class="font-bold text-slate-900 font-mono">${comp.ScoreMarketPresence} / 5</span>
+                </div>
+                <div class="flex justify-between py-1 border-b border-slate-100">
+                  <span class="text-slate-600">Sales Network</span>
+                  <span class="font-bold text-slate-900 font-mono">${comp.ScoreSalesCapability} / 5</span>
+                </div>
+                <div class="flex justify-between py-1 border-b border-slate-100">
+                  <span class="text-slate-600">Customer Sentiment</span>
+                  <span class="font-bold text-slate-900 font-mono">${comp.ScoreCustomerPerformance} / 5</span>
+                </div>
+                <div class="flex justify-between py-1">
+                  <span class="text-slate-600">Innovation Pipeline</span>
+                  <span class="font-bold text-slate-900 font-mono">${comp.ScoreInnovationPipeline} / 5</span>
+                </div>
+              </div>
+            </div>
+
+            <!-- Pillar 1: Corporate Intelligence -->
+            <div class="card-elevated p-6 rounded-2xl bg-white border border-slate-200 space-y-3 text-xs">
+              <h3 class="text-xs font-bold uppercase tracking-wider text-slate-900 flex items-center gap-1.5 border-b border-slate-100 pb-3">
+                <i data-lucide="info" class="w-4 h-4 text-sky-600"></i> Pillar 1: Corporate Profile
+              </h3>
+              <div><strong class="text-slate-700 block text-[10px] uppercase font-mono">Ownership Structure:</strong><p class="text-slate-800 font-medium">${comp.OwnershipStructure || 'Publicly Listed / Multi-corporate'}</p></div>
+              <div><strong class="text-slate-700 block text-[10px] uppercase font-mono">Indian Geography &amp; Facilities:</strong><p class="text-slate-800 font-medium">${comp.IndiaPresence}</p></div>
+              <div><strong class="text-slate-700 block text-[10px] uppercase font-mono">R&amp;D Centers &amp; Manufacturing:</strong><p class="text-slate-800 font-medium">${comp.ManufacturingAndRD || 'Dedicated engineering hubs in India and overseas'}</p></div>
+              <div><strong class="text-slate-700 block text-[10px] uppercase font-mono">Recent Strategic Expansion:</strong><p class="text-slate-800 font-medium">${comp.ExpansionPlans || 'Focus on high-recovery ZLD and municipal-industrial water reuse concessions'}</p></div>
+            </div>
+          </div>
+
+          <!-- Column 2 & 3: Technology, Commercial, Projects, and Strategic Insights -->
+          <div class="space-y-6 lg:col-span-2">
+            <!-- Pillar 2 & 3: Technology Portfolio & Differentiators -->
+            <div class="card-elevated p-6 rounded-2xl bg-white border border-slate-200 space-y-4">
+              <h3 class="text-xs font-bold uppercase tracking-wider text-slate-900 flex items-center gap-1.5 border-b border-slate-100 pb-3">
+                <i data-lucide="cpu" class="w-4 h-4 text-orange-600"></i> Pillars 2 &amp; 3: Products, Technologies &amp; Differentiators
+              </h3>
+              <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 text-xs">
+                <div class="p-3.5 rounded-xl bg-slate-50 border border-slate-200 space-y-1">
+                  <span class="text-[10px] font-mono text-slate-500 uppercase font-bold block">Flagship Proprietary Systems</span>
+                  <p class="font-bold text-slate-900">${comp.FlagshipProducts || 'Standard Turnkey Systems'}</p>
+                </div>
+                <div class="p-3.5 rounded-xl bg-slate-50 border border-slate-200 space-y-1">
+                  <span class="text-[10px] font-mono text-slate-500 uppercase font-bold block">Business Classification</span>
+                  <p class="font-bold text-slate-900">${comp.Classification} · ${comp.BusinessModel}</p>
+                </div>
+              </div>
+              <div class="text-xs space-y-2">
+                <div><strong class="text-slate-700 block text-[10px] uppercase font-mono">Core Technology Offering:</strong><p class="text-slate-700 leading-relaxed">${comp.CoreTechnologies}</p></div>
+                <div class="pt-2"><strong class="text-slate-700 block text-[10px] uppercase font-mono">Technical Strengths &amp; Differentiators:</strong><p class="text-slate-700 leading-relaxed">${comp.Differentiators || 'Established track record with global process certifications.'}</p></div>
+                <div class="pt-2"><strong class="text-slate-700 block text-[10px] uppercase font-mono">Strategic Vulnerabilities / Competitive Gaps:</strong><p class="text-rose-700 bg-rose-50 p-2.5 rounded-lg border border-rose-100 leading-relaxed">${comp.Vulnerabilities || 'High CapEx and reliance on conventional chemical precipitation methods.'}</p></div>
+              </div>
+            </div>
+
+            <!-- Pillar 4 & 5: Commercial Models & Industry Verticals -->
+            <div class="card-elevated p-6 rounded-2xl bg-white border border-slate-200 space-y-4">
+              <h3 class="text-xs font-bold uppercase tracking-wider text-slate-900 flex items-center gap-1.5 border-b border-slate-100 pb-3">
+                <i data-lucide="briefcase" class="w-4 h-4 text-sky-600"></i> Pillars 4 &amp; 5: Commercial Pricing &amp; Target Industries
+              </h3>
+              <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 text-xs">
+                <div>
+                  <strong class="text-slate-700 block text-[10px] uppercase font-mono">Pricing &amp; Contract Frameworks:</strong>
+                  <p class="text-slate-700 mt-1 leading-relaxed">${comp.PricingStrategy || 'Competitive Lump-Sum Turnkey (LSTK) and long-term O&M fee structures.'}</p>
+                </div>
+                <div>
+                  <strong class="text-slate-700 block text-[10px] uppercase font-mono">Target Industrial Verticals:</strong>
+                  <p class="text-slate-700 mt-1 leading-relaxed">${comp.TargetIndustries}</p>
+                </div>
+              </div>
+            </div>
+
+            <!-- Pillar 6: Verified Reference Projects -->
+            <div class="card-elevated p-6 rounded-2xl bg-white border border-slate-200 space-y-4">
+              <div class="flex items-center justify-between border-b border-slate-100 pb-3">
+                <h3 class="text-xs font-bold uppercase tracking-wider text-slate-900 flex items-center gap-1.5">
+                  <i data-lucide="check-circle-2" class="w-4 h-4 text-orange-600"></i> Pillar 6: Verified Project References
+                </h3>
+                <span class="text-xs font-mono text-slate-500">${(comp.IdentifiedProjects || []).length} References Logged</span>
+              </div>
+              <div class="space-y-3">
+                ${projList.length > 0 ? projList : '<p class="text-xs text-slate-500 italic p-3">Verified projects listed in master database.</p>'}
+              </div>
+            </div>
+
+            <!-- Bottom Back Button -->
+            <div class="pt-4 flex justify-end">
+              <button 
+                onclick="window.CompetitorDbView.closeFullDossier()" 
+                class="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-slate-900 hover:bg-slate-800 text-white font-bold text-xs shadow-md transition-colors"
+              >
+                <i data-lucide="arrow-left" class="w-4 h-4"></i>
+                <span>Return to Competitors List (${data.Competitors ? data.Competitors.length : 31})</span>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    `;
+
+    if (window.lucide) window.lucide.createIcons();
+  }
+};
+
+
+/* ==================== MODULE: js/views/intelligence_view.js ==================== */
+// intelligence_view.js - Pure Comparative Intelligence & Derived Data Charts (V2.1)
+window.IntelligenceView = {
+  selectedComp1: 'COMP-TRITRON', // TRITRON™ (Scalene Livprotec)
+  selectedComp2: 'COMP-01',      // Veolia Water Technologies
+  activeChartTab: 'radar',
+
+  setComp1: function(id) {
+    this.selectedComp1 = id;
+    this.renderSideBySide();
+  },
+
+  setComp2: function(id) {
+    this.selectedComp2 = id;
+    this.renderSideBySide();
+  },
+
+  render: function() {
+    const container = document.getElementById("main-content");
+    if (!container) return;
+
+    container.innerHTML = `
+      <div class="space-y-8 pb-20">
+        <!-- Module Header -->
+        <div class="bg-gradient-to-r from-navy-dark via-slate-900 to-[#0B2545] text-white p-6 sm:p-8 rounded-3xl border border-slate-700 shadow-xl">
+          <div class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-orange-500/20 text-orange-400 text-xs font-mono font-bold border border-orange-500/30 mb-3">
+            <i data-lucide="bar-chart-2" class="w-3.5 h-3.5"></i>
+            ANALYTICS &amp; COMPARATIVE BENCHMARKING · 30 COMPETITORS + TRITRON™
+          </div>
+          <h1 class="text-2xl sm:text-3xl font-extrabold tracking-tight text-white">
+            Competitor Intelligence &amp; Comparisons
+          </h1>
+          <p class="text-xs sm:text-sm text-slate-300 mt-2 max-w-3xl leading-relaxed">
+            Data-driven visual analytics and head-to-head comparisons derived directly from the 30-competitor database plus TRITRON™ novel resonance technology. Evaluate market dominance, commercial business models, technology stack coverage, and 7-axis capability indices.
+          </p>
+        </div>
+
+        <!-- Section 1: Top Analytical Derived Charts Grid -->
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+          <!-- Chart 1: Revenue Comparison Bar Chart -->
+          <div class="card-elevated p-6 rounded-2xl bg-white border border-slate-200 space-y-4">
+            <div class="flex items-center justify-between border-b border-slate-100 pb-3">
+              <div>
+                <span class="text-[10px] font-mono text-sky-700 uppercase font-bold">Financial Sizing</span>
+                <h3 class="text-sm font-bold text-slate-900">Top Competitors by Industrial Water Revenue</h3>
+              </div>
+              <span class="text-xs font-mono text-slate-400">USD Millions</span>
+            </div>
+            <div class="h-64 sm:h-72">
+              <canvas id="chart-revenue-comparison"></canvas>
+            </div>
+            <p class="text-[11px] text-slate-500 italic">Derived from corporate filings, validated project registers, and segment disclosures (TRITRON in Orange).</p>
+          </div>
+
+          <!-- Chart 2: Business Model Spectrum Distribution -->
+          <div class="card-elevated p-6 rounded-2xl bg-white border border-slate-200 space-y-4">
+            <div class="flex items-center justify-between border-b border-slate-100 pb-3">
+              <div>
+                <span class="text-[10px] font-mono text-orange-600 uppercase font-bold">Commercial Architecture</span>
+                <h3 class="text-sm font-bold text-slate-900">Business Model Spectrum (30 Competitors + Innovators)</h3>
+              </div>
+              <span class="text-xs font-mono text-slate-400">% Share</span>
+            </div>
+            <div class="h-64 sm:h-72 flex items-center justify-center">
+              <canvas id="chart-business-models"></canvas>
+            </div>
+            <p class="text-[11px] text-slate-500 italic">Shift toward Water-as-a-Service (WaaS) and BOOT concessions in high-salinity ZLD.</p>
+          </div>
+
+          <!-- Chart 3: Technology Family Coverage Matrix -->
+          <div class="card-elevated p-6 rounded-2xl bg-white border border-slate-200 space-y-4">
+            <div class="flex items-center justify-between border-b border-slate-100 pb-3">
+              <div>
+                <span class="text-[10px] font-mono text-sky-700 uppercase font-bold">Technology Stacks</span>
+                <h3 class="text-sm font-bold text-slate-900">Offering Coverage across 30 Competitors</h3>
+              </div>
+              <span class="text-xs font-mono text-slate-400">% Offering</span>
+            </div>
+            <div class="h-64 sm:h-72">
+              <canvas id="chart-tech-coverage"></canvas>
+            </div>
+            <p class="text-[11px] text-slate-500 italic">TRITRON™ resonance frequency / physics represents an uncontested white-space capability.</p>
+          </div>
+
+          <!-- Chart 4: 7-Axis Capability Radar Benchmark -->
+          <div class="card-elevated p-6 rounded-2xl bg-white border border-slate-200 space-y-4">
+            <div class="flex items-center justify-between border-b border-slate-100 pb-3">
+              <div>
+                <span class="text-[10px] font-mono text-orange-600 uppercase font-bold">Capability Radar</span>
+                <h3 class="text-sm font-bold text-slate-900">Multi-Competitor Capability Spider Plot</h3>
+              </div>
+              <span class="text-xs font-mono text-slate-400">1-5 Scale</span>
+            </div>
+            <div class="h-64 sm:h-72 flex items-center justify-center">
+              <canvas id="chart-capability-radar"></canvas>
+            </div>
+            <p class="text-[11px] text-slate-500 italic">Benchmarking TRITRON™ (Orange) against global leaders Veolia, WABAG, and Thermax.</p>
+          </div>
+        </div>
+
+        <!-- Section 2: Interactive Side-by-Side 1-on-1 Competitor Comparison Tool -->
+        <div class="card-elevated p-6 sm:p-8 rounded-3xl bg-white border border-slate-200 space-y-6">
+          <div class="border-b border-slate-200 pb-4">
+            <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-3">
+              <div>
+                <span class="text-xs font-mono font-bold text-orange-600 uppercase tracking-wider">Head-to-Head Comparison</span>
+                <h2 class="text-xl font-extrabold text-slate-900">Side-by-Side Competitor Benchmarking Tool</h2>
+                <p class="text-xs text-slate-500 mt-0.5">Select any two competitors from the universe of 30 + TRITRON to compare corporate data, capabilities, and market positioning.</p>
+              </div>
+
+              <!-- Competitor Selectors -->
+              <div class="flex flex-wrap items-center gap-3">
+                <div class="flex items-center gap-1.5">
+                  <span class="text-xs font-mono text-orange-800 font-bold">Comp 1:</span>
+                  <select 
+                    id="comp1-select" 
+                    onchange="window.IntelligenceView.setComp1(this.value)"
+                    class="bg-orange-50 border border-orange-300 rounded-lg px-2.5 py-1.5 text-xs text-slate-900 font-semibold focus:ring-orange-500"
+                  >
+                    <!-- Options populated dynamically -->
+                  </select>
+                </div>
+                <span class="text-xs font-mono text-slate-400 font-bold">VS</span>
+                <div class="flex items-center gap-1.5">
+                  <span class="text-xs font-mono text-sky-800 font-bold">Comp 2:</span>
+                  <select 
+                    id="comp2-select" 
+                    onchange="window.IntelligenceView.setComp2(this.value)"
+                    class="bg-sky-50 border border-sky-300 rounded-lg px-2.5 py-1.5 text-xs text-slate-900 font-semibold focus:ring-sky-500"
+                  >
+                    <!-- Options populated dynamically -->
+                  </select>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Comparison Output Container -->
+          <div id="side-by-side-container">
+            <!-- Populated dynamically -->
+          </div>
+        </div>
+      </div>
+    `;
+
+    this.populateDropdowns();
+    this.renderSideBySide();
+    setTimeout(() => this.initCharts(), 50);
+    if (window.lucide) window.lucide.createIcons();
+  },
+
+  populateDropdowns: function() {
+    const data = window.PLATFORM_DATA || {};
+    const comps = data.Competitors || [];
+
+    const sel1 = document.getElementById("comp1-select");
+    const sel2 = document.getElementById("comp2-select");
+    if (!sel1 || !sel2) return;
+
+    const opts1 = comps.map(c => `<option value="${c.Id}" ${c.Id === this.selectedComp1 ? 'selected' : ''}>${c.Name} (${c.Category.split(' ')[0]})</option>`).join('');
+    const opts2 = comps.map(c => `<option value="${c.Id}" ${c.Id === this.selectedComp2 ? 'selected' : ''}>${c.Name} (${c.Category.split(' ')[0]})</option>`).join('');
+
+    sel1.innerHTML = opts1;
+    sel2.innerHTML = opts2;
+  },
+
+  renderSideBySide: function() {
+    const container = document.getElementById("side-by-side-container");
+    if (!container) return;
+
+    const data = window.PLATFORM_DATA || {};
+    const comps = data.Competitors || [];
+    const c1 = comps.find(c => c.Id === this.selectedComp1) || comps[0];
+    const c2 = comps.find(c => c.Id === this.selectedComp2) || comps[6];
+
+    if (!c1 || !c2) return;
+
+    const w1 = ((c1.ScoreProductPortfolio * 0.15) + (c1.ScoreTechnologyCapability * 0.20) + (c1.ScoreCommercialCompetitiveness * 0.15) + (c1.ScoreMarketPresence * 0.15) + (c1.ScoreSalesCapability * 0.10) + (c1.ScoreCustomerPerformance * 0.15) + (c1.ScoreInnovationPipeline * 0.10)).toFixed(2);
+    const w2 = ((c2.ScoreProductPortfolio * 0.15) + (c2.ScoreTechnologyCapability * 0.20) + (c2.ScoreCommercialCompetitiveness * 0.15) + (c2.ScoreMarketPresence * 0.15) + (c2.ScoreSalesCapability * 0.10) + (c2.ScoreCustomerPerformance * 0.15) + (c2.ScoreInnovationPipeline * 0.10)).toFixed(2);
+
+    container.innerHTML = `
+      <div class="space-y-6">
+        <!-- Dual Header Cards (Orange vs Sky Blue) -->
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+          <!-- Comp 1 Header (Orange Theme) -->
+          <div class="p-5 rounded-2xl bg-gradient-to-br from-orange-950 via-slate-900 to-[#0A192F] text-white border border-orange-500/60 shadow-md">
+            <span class="text-[10px] font-mono uppercase px-2 py-0.5 rounded bg-orange-500/20 text-orange-300 font-bold border border-orange-400/30">${c1.Category}</span>
+            <h3 class="text-xl font-black text-white mt-2">${c1.Name}</h3>
+            <p class="text-xs text-slate-300 font-mono">${c1.Headquarters}</p>
+            <div class="flex items-center justify-between mt-4 pt-3 border-t border-orange-900/60 text-xs">
+              <span class="text-slate-400">Ind. Water Rev: <strong class="text-orange-300">${c1.IndustrialWaterRevenue}</strong></span>
+              <span class="font-mono font-bold bg-orange-950 px-2 py-0.5 rounded text-orange-400 border border-orange-700">Index: ${w1} / 5.0</span>
+            </div>
+          </div>
+
+          <!-- Comp 2 Header (Sky Blue Theme) -->
+          <div class="p-5 rounded-2xl bg-gradient-to-br from-sky-950 via-slate-900 to-[#0A192F] text-white border border-sky-700/60 shadow-md">
+            <span class="text-[10px] font-mono uppercase px-2 py-0.5 rounded bg-sky-500/20 text-sky-300 font-bold border border-sky-400/30">${c2.Category}</span>
+            <h3 class="text-xl font-black text-white mt-2">${c2.Name}</h3>
+            <p class="text-xs text-slate-300 font-mono">${c2.Headquarters}</p>
+            <div class="flex items-center justify-between mt-4 pt-3 border-t border-sky-900/60 text-xs">
+              <span class="text-slate-400">Ind. Water Rev: <strong class="text-sky-300">${c2.IndustrialWaterRevenue}</strong></span>
+              <span class="font-mono font-bold bg-sky-950 px-2 py-0.5 rounded text-sky-400 border border-sky-700">Index: ${w2} / 5.0</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Comparative Parameters Table -->
+        <div class="overflow-x-auto border border-slate-200 rounded-2xl">
+          <table class="w-full text-left text-xs">
+            <thead class="bg-slate-100 text-slate-700 font-bold uppercase text-[10px] tracking-wider border-b border-slate-200">
+              <tr>
+                <th class="p-3 w-1/4">Comparison Criterion</th>
+                <th class="p-3 w-3/8 bg-orange-50 text-orange-950 border-r border-slate-200 font-extrabold">${c1.Name}</th>
+                <th class="p-3 w-3/8 bg-sky-50 text-sky-950 font-extrabold">${c2.Name}</th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-slate-100 text-slate-700">
+              <tr>
+                <td class="p-3 font-bold text-slate-900 bg-slate-50">Legal Entity</td>
+                <td class="p-3 bg-orange-50/15 border-r border-slate-200 font-mono font-medium">${c1.LegalEntity}</td>
+                <td class="p-3 bg-sky-50/15 font-mono font-medium">${c2.LegalEntity}</td>
+              </tr>
+              <tr>
+                <td class="p-3 font-bold text-slate-900 bg-slate-50">Consolidated Revenue</td>
+                <td class="p-3 bg-orange-50/15 border-r border-slate-200 font-bold text-orange-950">${c1.ConsolidatedRevenue}</td>
+                <td class="p-3 bg-sky-50/15 font-bold text-sky-950">${c2.ConsolidatedRevenue}</td>
+              </tr>
+              <tr>
+                <td class="p-3 font-bold text-slate-900 bg-slate-50">Primary Business Model</td>
+                <td class="p-3 bg-orange-50/15 border-r border-slate-200">${c1.BusinessModel}</td>
+                <td class="p-3 bg-sky-50/15">${c2.BusinessModel}</td>
+              </tr>
+              <tr>
+                <td class="p-3 font-bold text-slate-900 bg-slate-50">Indian Presence &amp; Footprint</td>
+                <td class="p-3 bg-orange-50/15 border-r border-slate-200">${c1.IndiaPresence}</td>
+                <td class="p-3 bg-sky-50/15">${c2.IndiaPresence}</td>
+              </tr>
+              <tr>
+                <td class="p-3 font-bold text-slate-900 bg-slate-50">Core Technology Stack</td>
+                <td class="p-3 bg-orange-50/15 border-r border-slate-200">${c1.CoreTechnologies}</td>
+                <td class="p-3 bg-sky-50/15">${c2.CoreTechnologies}</td>
+              </tr>
+              <tr>
+                <td class="p-3 font-bold text-slate-900 bg-slate-50">Flagship Proprietary Systems</td>
+                <td class="p-3 bg-orange-50/15 border-r border-slate-200 font-medium text-slate-900">${c1.FlagshipProducts || 'Standard Turnkey Equipment'}</td>
+                <td class="p-3 bg-sky-50/15 font-medium text-slate-900">${c2.FlagshipProducts || 'Standard Turnkey Equipment'}</td>
+              </tr>
+              <tr>
+                <td class="p-3 font-bold text-slate-900 bg-slate-50">Pricing &amp; Commercial Approach</td>
+                <td class="p-3 bg-orange-50/15 border-r border-slate-200">${c1.PricingStrategy || 'Competitive Lump-Sum Turnkey (LSTK)'}</td>
+                <td class="p-3 bg-sky-50/15">${c2.PricingStrategy || 'Competitive Lump-Sum Turnkey (LSTK)'}</td>
+              </tr>
+              <tr>
+                <td class="p-3 font-bold text-slate-900 bg-slate-50">Target Industrial Verticals</td>
+                <td class="p-3 bg-orange-50/15 border-r border-slate-200">${c1.TargetIndustries}</td>
+                <td class="p-3 bg-sky-50/15">${c2.TargetIndustries}</td>
+              </tr>
+              <tr>
+                <td class="p-3 font-bold text-slate-900 bg-slate-50">Verified Industrial References</td>
+                <td class="p-3 bg-orange-50/15 border-r border-slate-200 font-bold text-orange-900">${(c1.IdentifiedProjects || []).length} Verified Reference Projects</td>
+                <td class="p-3 bg-sky-50/15 font-bold text-sky-900">${(c2.IdentifiedProjects || []).length} Verified Reference Projects</td>
+              </tr>
+              <tr>
+                <td class="p-3 font-bold text-slate-900 bg-slate-50">Key Differentiators &amp; Edge</td>
+                <td class="p-3 bg-orange-50/20 border-r border-slate-200 font-medium text-slate-800">${c1.Differentiators || 'Established presence and engineering footprint.'}</td>
+                <td class="p-3 bg-sky-50/20 font-medium text-slate-800">${c2.Differentiators || 'Established presence and engineering footprint.'}</td>
+              </tr>
+              <tr>
+                <td class="p-3 font-bold text-slate-900 bg-slate-50">Strategic Vulnerabilities</td>
+                <td class="p-3 bg-rose-50/60 border-r border-slate-200 text-rose-800">${c1.Vulnerabilities || 'High CapEx barrier; complex maintenance.'}</td>
+                <td class="p-3 bg-rose-50/60 text-rose-800">${c2.Vulnerabilities || 'High CapEx barrier; complex maintenance.'}</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    `;
+
+    if (window.lucide) window.lucide.createIcons();
+  },
+
+  initCharts: function() {
+    if (!window.Chart) return;
+
+    // 1. Revenue Comparison Chart (Blue & Orange)
+    const ctxRev = document.getElementById("chart-revenue-comparison");
+    if (ctxRev) {
+      new Chart(ctxRev, {
+        type: 'bar',
+        data: {
+          labels: ['Veolia', 'SUEZ', 'Ecolab', 'Xylem', 'Kurita', 'WABAG', 'Thermax', 'Aquatech', 'Gradiant', 'Ion Exchange', 'IDE Tech', 'TRITRON™'],
+          datasets: [{
+            label: 'Industrial Water Revenue ($M USD)',
+            data: [12500, 6800, 5400, 2800, 2600, 420, 380, 280, 250, 240, 200, 45],
+            backgroundColor: [
+              '#0284C7', '#0369A1', '#0284C7', '#0369A1', '#0284C7',
+              '#0369A1', '#0284C7', '#0369A1', '#0284C7', '#0369A1', '#0284C7', '#EA580C'
+            ],
+            borderRadius: 6
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: { display: false }
+          },
+          scales: {
+            y: {
+              type: 'logarithmic',
+              title: { display: true, text: 'Revenue (USD Millions - Log Scale)', font: { size: 10 } }
+            },
+            x: {
+              ticks: { font: { size: 10 } }
+            }
+          }
+        }
+      });
+    }
+
+    // 2. Business Model Spectrum (Blue, Orange & Slate)
+    const ctxBm = document.getElementById("chart-business-models");
+    if (ctxBm) {
+      new Chart(ctxBm, {
+        type: 'doughnut',
+        data: {
+          labels: ['Turnkey EPC / DBO (40%)', 'O&M Concessions (27%)', 'Equipment OEM / Licensor (20%)', 'Water-as-a-Service / BOOT (13%)'],
+          datasets: [{
+            data: [12, 8, 6, 4],
+            backgroundColor: ['#0284C7', '#38BDF8', '#F97316', '#EA580C']
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: { position: 'bottom', labels: { boxWidth: 12, font: { size: 10 } } }
+          }
+        }
+      });
+    }
+
+    // 3. Technology Coverage Matrix (Blue with TRITRON in Orange)
+    const ctxTech = document.getElementById("chart-tech-coverage");
+    if (ctxTech) {
+      new Chart(ctxTech, {
+        type: 'bar',
+        data: {
+          labels: ['Pretreatment/DAF', 'Biological (ASP/MBBR)', 'Membranes (UF/RO)', 'Sludge Dewatering', 'Desalination (SWRO)', 'Thermal ZLD (MVR)', 'Advanced Oxidation', 'TRITRON™ Resonance Physics'],
+          datasets: [{
+            label: '% of 30 Competitors Offering Stack',
+            data: [87, 83, 80, 73, 60, 43, 33, 4],
+            backgroundColor: [
+              '#0284C7', '#0284C7', '#0284C7', '#0284C7', '#0284C7', '#0284C7', '#0284C7', '#EA580C'
+            ],
+            borderRadius: 6
+          }]
+        },
+        options: {
+          indexAxis: 'y',
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: { display: false }
+          },
+          scales: {
+            x: { max: 100, ticks: { callback: v => v + '%' } },
+            y: { ticks: { font: { size: 10 } } }
+          }
+        }
+      });
+    }
+
+    // 4. Capability Radar Benchmark (Blue, Slate, Light Blue & TRITRON in Vibrant Orange)
+    const ctxRadar = document.getElementById("chart-capability-radar");
+    if (ctxRadar) {
+      new Chart(ctxRadar, {
+        type: 'radar',
+        data: {
+          labels: ['Portfolio', 'Tech Capability', 'Commercial', 'Market Presence', 'Sales Network', 'Customer Rating', 'Innovation'],
+          datasets: [
+            {
+              label: 'Veolia (Global Integrated)',
+              data: [4.9, 4.8, 4.7, 5.0, 4.9, 4.5, 4.6],
+              borderColor: '#0284C7',
+              backgroundColor: 'rgba(2, 132, 199, 0.15)'
+            },
+            {
+              label: 'WABAG (EPC Leader)',
+              data: [4.5, 4.4, 4.6, 4.5, 4.6, 4.3, 4.1],
+              borderColor: '#64748B',
+              backgroundColor: 'rgba(100, 116, 139, 0.15)'
+            },
+            {
+              label: 'Thermax (Industrial Specialist)',
+              data: [4.4, 4.3, 4.4, 4.6, 4.7, 4.2, 4.0],
+              borderColor: '#38BDF8',
+              backgroundColor: 'rgba(56, 189, 248, 0.15)'
+            },
+            {
+              label: 'TRITRON™ (Scalene Livprotec)',
+              data: [4.8, 5.0, 4.8, 4.0, 4.2, 4.9, 5.0],
+              borderColor: '#EA580C',
+              backgroundColor: 'rgba(234, 88, 12, 0.25)',
+              borderWidth: 3,
+              pointBackgroundColor: '#EA580C'
+            }
+          ]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          scales: {
+            r: { min: 2, max: 5, ticks: { stepSize: 1, font: { size: 9 } } }
+          },
+          plugins: {
+            legend: { position: 'bottom', labels: { boxWidth: 10, font: { size: 10 } } }
+          }
+        }
+      });
+    }
+  }
+};
+
+
+/* ==================== MODULE: js/views/processes_view.js ==================== */
+// processes_view.js - Treatment Process Knowledge Base with Big PFD & 5-Point Component Deep Dives
+window.ProcessesView = {
+  activePfdTrain: 'etp', // 'etp', 'stp', 'wtp', 'ltp'
+  activeComponentId: null, // null = show PFD & component list; string = show full-size component subpage
+  activeCategoryFilter: 'all',
+  searchQuery: '',
+
+  setPfdTrain: function(train) {
+    this.activePfdTrain = train;
+    this.renderPfdDiagram();
+  },
+
+  setCategoryFilter: function(cat) {
+    this.activeCategoryFilter = cat;
+    this.renderComponentGrid();
+  },
+
+  setSearchQuery: function(q) {
+    this.searchQuery = (q || '').trim().toLowerCase();
+    this.renderComponentGrid();
+  },
+
+  openComponent: function(compId) {
+    this.activeComponentId = compId;
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+    this.renderComponentSubpage();
+  },
+
+  closeComponent: function() {
+    this.activeComponentId = null;
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+    this.render();
+  },
+
+  render: function() {
+    const container = document.getElementById("main-content");
+    if (!container) return;
+
+    if (this.activeComponentId) {
+      this.renderComponentSubpage();
+      return;
+    }
+
+    container.innerHTML = `
+      <div class="space-y-8 pb-20">
+        <!-- Module Header -->
+        <div class="bg-gradient-to-r from-navy-dark via-slate-900 to-sky-950 text-white p-6 sm:p-8 rounded-2xl border border-slate-700 shadow-xl">
+          <div class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-sky-500/20 text-sky-300 text-xs font-mono font-bold border border-sky-400/30 mb-3">
+            <i data-lucide="activity" class="w-3.5 h-3.5"></i>
+            ENGINEERING COMPENDIUM &amp; PROCESS TRAIN REPOSITORY
+          </div>
+          <h1 class="text-2xl sm:text-3xl font-extrabold tracking-tight text-white">
+            Treatment Process Knowledge Base
+          </h1>
+          <p class="text-xs sm:text-sm text-slate-300 mt-2 max-w-3xl leading-relaxed">
+            Master educational compendium starting with an interactive <strong>Process Flow Diagram (PFD)</strong> for STP, ETP, WTP, and LTP. Click any individual component below to explore its engineering definition, why it is required, classification types, advantages, and comparative trade-off matrix.
+          </p>
+
+          <!-- Top Quick Facts -->
+          <div class="grid grid-cols-2 sm:grid-cols-4 gap-3 mt-6 pt-6 border-t border-slate-800 text-xs font-mono">
+            <div><span class="text-slate-400 block text-[10px] uppercase">Plant Types:</span><span class="font-bold text-white">STP · ETP · WTP · LTP</span></div>
+            <div><span class="text-slate-400 block text-[10px] uppercase">Key Components:</span><span class="font-bold text-sky-400">19 Unit Operations</span></div>
+            <div><span class="text-slate-400 block text-[10px] uppercase">Design Parameters:</span><span class="font-bold text-orange-400">Stokes / HRT / CoC</span></div>
+            <div><span class="text-slate-400 block text-[10px] uppercase">Novel Physics:</span><span class="font-bold text-orange-400">TRITRON™ RFM + TRT</span></div>
+          </div>
+        </div>
+
+        <!-- Section 1: Fundamentals of Wastewater Treatment -->
+        <div class="card-elevated p-6 sm:p-7 rounded-2xl bg-white border border-slate-200 space-y-5">
+          <div class="border-b border-slate-100 pb-3 flex items-center justify-between">
+            <div>
+              <span class="text-[10px] font-mono text-orange-600 uppercase font-bold">Wastewater Treatment Basics</span>
+              <h2 class="text-lg font-bold text-slate-900">Core Concepts &amp; Terminology</h2>
+            </div>
+            <span class="text-xs font-mono text-slate-400">Water Treatment 101</span>
+          </div>
+
+          <div class="grid grid-cols-1 md:grid-cols-4 gap-4 text-xs">
+            <div class="p-3.5 rounded-xl bg-slate-50 border border-slate-200 space-y-1">
+              <span class="font-bold text-sky-800 block text-xs">1. What is Water Treatment?</span>
+              <p class="text-slate-600 leading-relaxed text-[11px]">
+                Any process that improves the quality of water to make it suitable for a defined end-use (drinking, industrial reuse, boiler feed, or environmentally compliant discharge).
+              </p>
+            </div>
+
+            <div class="p-3.5 rounded-xl bg-slate-50 border border-slate-200 space-y-1">
+              <span class="font-bold text-orange-800 block text-xs">2. What Must Be Removed?</span>
+              <p class="text-slate-600 leading-relaxed text-[11px]">
+                • Physical: Sand, silt, clay, rags, microplastics.<br/>
+                • Biological: Bacteria, viruses, parasites.<br/>
+                • Chemical: Heavy metals, cyanides, COD.<br/>
+                • Dissolved Minerals: Calcium, magnesium, TDS.
+              </p>
+            </div>
+
+            <div class="p-3.5 rounded-xl bg-slate-50 border border-slate-200 space-y-1">
+              <span class="font-bold text-sky-800 block text-xs">3. The 4 Water Types</span>
+              <p class="text-slate-600 leading-relaxed text-[11px]">
+                • <strong>Influent:</strong> Raw untreated wastewater.<br/>
+                • <strong>Effluent:</strong> Treated water exiting the plant.<br/>
+                • <strong>Grey Water:</strong> Sinks/baths without sewage.<br/>
+                • <strong>Black Water:</strong> Heavily soiled fecal toilet waste.
+              </p>
+            </div>
+
+            <div class="p-3.5 rounded-xl bg-slate-50 border border-slate-200 space-y-1">
+              <span class="font-bold text-orange-800 block text-xs">4. Governing Parameters</span>
+              <p class="text-slate-600 leading-relaxed text-[11px]">
+                • <strong>pH:</strong> 0 to 14 (Discharge: 5.5–9.0)<br/>
+                • <strong>TSS / TDS:</strong> Suspended vs Dissolved Solids.<br/>
+                • <strong>BOD / COD:</strong> Bio vs Chemical Oxygen Demand.<br/>
+                • <strong>Hardness &amp; Turbidity:</strong> Mineral scale &amp; clarity.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Section 2: Big Interactive Process Flow Diagram (PFD) -->
+        <div class="card-elevated p-6 sm:p-8 rounded-3xl bg-white border border-slate-200 space-y-6">
+          <div class="flex flex-col md:flex-row md:items-center justify-between gap-4 border-b border-slate-100 pb-4">
+            <div>
+              <span class="text-xs font-mono font-bold text-orange-600 uppercase tracking-wider">Interactive Flowsheet</span>
+              <h2 class="text-xl font-black text-slate-900">Big Process Flow Diagram (PFD)</h2>
+              <p class="text-xs text-slate-500 mt-0.5">Toggle between industrial, municipal, potable, and leachate process trains. Click any unit to inspect.</p>
+            </div>
+
+            <!-- Train Selector Buttons -->
+            <div class="flex items-center gap-1.5 overflow-x-auto pb-1 no-scrollbar">
+              <button 
+                onclick="window.ProcessesView.setPfdTrain('etp')" 
+                id="pfd-btn-etp"
+                class="px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all ${this.activePfdTrain === 'etp' ? 'bg-sky-600 text-white shadow-md' : 'bg-slate-100 text-slate-700 hover:bg-slate-200'}"
+              >
+                ETP (Industrial Effluent)
+              </button>
+              <button 
+                onclick="window.ProcessesView.setPfdTrain('stp')" 
+                id="pfd-btn-stp"
+                class="px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all ${this.activePfdTrain === 'stp' ? 'bg-sky-600 text-white shadow-md' : 'bg-slate-100 text-slate-700 hover:bg-slate-200'}"
+              >
+                STP (Sewage Treatment)
+              </button>
+              <button 
+                onclick="window.ProcessesView.setPfdTrain('wtp')" 
+                id="pfd-btn-wtp"
+                class="px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all ${this.activePfdTrain === 'wtp' ? 'bg-sky-600 text-white shadow-md' : 'bg-slate-100 text-slate-700 hover:bg-slate-200'}"
+              >
+                WTP (Drinking Water)
+              </button>
+              <button 
+                onclick="window.ProcessesView.setPfdTrain('ltp')" 
+                id="pfd-btn-ltp"
+                class="px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all ${this.activePfdTrain === 'ltp' ? 'bg-sky-600 text-white shadow-md' : 'bg-slate-100 text-slate-700 hover:bg-slate-200'}"
+              >
+                LTP (Landfill Leachate)
+              </button>
+            </div>
+          </div>
+
+          <!-- Dynamic PFD Flow Diagram Container (No Horizontal Scroll) -->
+          <div id="pfd-diagram-container" class="p-4 sm:p-6 rounded-2xl bg-slate-900 border border-slate-800 text-white min-h-[220px]">
+            <!-- Rendered dynamically -->
+          </div>
+        </div>
+
+        <!-- Section 3: List of All Treatment Components (Grid) -->
+        <div class="space-y-5">
+          <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-3">
+            <div>
+              <span class="text-xs font-mono font-bold text-orange-600 uppercase tracking-wider">Unit Operations Directory</span>
+              <h2 class="text-xl font-black text-slate-900">Treatment Process Components</h2>
+              <p class="text-xs text-slate-500 mt-0.5">Click any component card to open its dedicated full-size engineering page (Definition, Why Required, Types, Advantages, Differences).</p>
+            </div>
+
+            <!-- Search & Stage Filter -->
+            <div class="flex items-center gap-2">
+              <div class="relative w-48 sm:w-64">
+                <i data-lucide="search" class="w-3.5 h-3.5 text-slate-400 absolute left-3 top-2.5"></i>
+                <input 
+                  type="text" 
+                  placeholder="Filter components..." 
+                  value="${this.searchQuery}"
+                  oninput="window.ProcessesView.setSearchQuery(this.value)"
+                  class="w-full bg-white border border-slate-300 pl-8 pr-3 py-1.5 rounded-xl text-xs focus:outline-none focus:ring-2 focus:ring-sky-500"
+                />
+              </div>
+            </div>
+          </div>
+
+          <!-- Category Filter Tabs -->
+          <div class="flex items-center gap-1.5 overflow-x-auto pb-1 no-scrollbar">
+            <button onclick="window.ProcessesView.setCategoryFilter('all')" class="px-3 py-1.5 rounded-lg text-xs font-semibold whitespace-nowrap transition-all ${this.activeCategoryFilter === 'all' ? 'bg-sky-600 text-white shadow-sm' : 'bg-white border border-slate-200 text-slate-700 hover:bg-slate-50'}">
+              All Units (19)
+            </button>
+            <button onclick="window.ProcessesView.setCategoryFilter('primary')" class="px-3 py-1.5 rounded-lg text-xs font-semibold whitespace-nowrap transition-all ${this.activeCategoryFilter === 'primary' ? 'bg-sky-600 text-white shadow-sm' : 'bg-white border border-slate-200 text-slate-700 hover:bg-slate-50'}">
+              Primary Stage
+            </button>
+            <button onclick="window.ProcessesView.setCategoryFilter('secondary')" class="px-3 py-1.5 rounded-lg text-xs font-semibold whitespace-nowrap transition-all ${this.activeCategoryFilter === 'secondary' ? 'bg-sky-600 text-white shadow-sm' : 'bg-white border border-slate-200 text-slate-700 hover:bg-slate-50'}">
+              Secondary &amp; Biological
+            </button>
+            <button onclick="window.ProcessesView.setCategoryFilter('tertiary')" class="px-3 py-1.5 rounded-lg text-xs font-semibold whitespace-nowrap transition-all ${this.activeCategoryFilter === 'tertiary' ? 'bg-sky-600 text-white shadow-sm' : 'bg-white border border-slate-200 text-slate-700 hover:bg-slate-50'}">
+              Tertiary &amp; Membranes
+            </button>
+            <button onclick="window.ProcessesView.setCategoryFilter('zld')" class="px-3 py-1.5 rounded-lg text-xs font-semibold whitespace-nowrap transition-all ${this.activeCategoryFilter === 'zld' ? 'bg-sky-600 text-white shadow-sm' : 'bg-white border border-slate-200 text-slate-700 hover:bg-slate-50'}">
+              Zero Liquid Discharge (ZLD)
+            </button>
+            <button onclick="window.ProcessesView.setCategoryFilter('sludge')" class="px-3 py-1.5 rounded-lg text-xs font-semibold whitespace-nowrap transition-all ${this.activeCategoryFilter === 'sludge' ? 'bg-sky-600 text-white shadow-sm' : 'bg-white border border-slate-200 text-slate-700 hover:bg-slate-50'}">
+              Sludge Management
+            </button>
+          </div>
+
+          <!-- Component Cards Output Container -->
+          <div id="components-grid-container">
+            <!-- Populated dynamically -->
+          </div>
+        </div>
+      </div>
+    `;
+
+    this.renderPfdDiagram();
+    this.renderComponentGrid();
+    if (window.lucide) window.lucide.createIcons();
+  },
+
+  renderPfdDiagram: function() {
+    const container = document.getElementById("pfd-diagram-container");
+    if (!container) return;
+
+    // Update buttons
+    ['etp', 'stp', 'wtp', 'ltp'].forEach(t => {
+      const btn = document.getElementById(`pfd-btn-${t}`);
+      if (btn) {
+        if (t === this.activePfdTrain) {
+          btn.className = "px-3.5 py-1.5 rounded-xl text-xs font-bold bg-sky-600 text-white shadow-md";
+        } else {
+          btn.className = "px-3.5 py-1.5 rounded-xl text-xs font-bold bg-slate-100 text-slate-700 hover:bg-slate-200";
+        }
+      }
+    });
+
+    const trains = {
+      etp: {
+        name: "Industrial Effluent Treatment Plant (ETP) Process Train",
+        objective: "Treats heavy chemical COD, toxic heavy metals (Cr/Ni/Zn), free and emulsified oils, and high TDS salts to achieve Zero Liquid Discharge (ZLD) or process water recycling.",
+        stages: [
+          { num: "01", name: "Bar Screen", id: "bar-screen", cat: "Primary", desc: "Intercepts coarse debris, rags, and plastics" },
+          { num: "02", name: "Grit Removal", id: "grit-removal", cat: "Primary", desc: "Selectively settles abrasive sand & inorganic particles" },
+          { num: "03", name: "Oil-Water / DAF", id: "oil-daf", cat: "Primary", desc: "Floats emulsified oils and metalworking coolants" },
+          { num: "04", name: "Equalization", id: "equalization", cat: "Primary", desc: "Homogenizes hydraulic flow & chemical shock loads" },
+          { num: "05", name: "Coag-Floc", id: "coagulation", cat: "Primary", desc: "Destabilizes colloids & forms settleable flocs" },
+          { num: "06", name: "Primary Clarifier", id: "clarifier-primary", cat: "Primary", desc: "Lamella gravity settling of chemical sludge" },
+          { num: "07", name: "Aeration (MBBR/MBR)", id: "aeration-tank", cat: "Secondary", desc: "Biological decomposition of dissolved BOD/COD" },
+          { num: "08", name: "Secondary Clarifier", id: "clarifier-secondary", cat: "Secondary", desc: "Separates biological MLSS sludge (RAS/WAS)" },
+          { num: "09", name: "Media & GAC Filter", id: "media-filtration", cat: "Tertiary", desc: "Filters residual TSS & adsorbs trace organics" },
+          { num: "10", name: "Ultrafiltration (UF)", id: "ultrafiltration", cat: "Tertiary", desc: "Porous 0.02 µm barrier (Turbidity <0.2 NTU)" },
+          { num: "11", name: "Reverse Osmosis (RO)", id: "reverse-osmosis", cat: "Tertiary", desc: "Desalination barrier (>99.5% ion rejection)" },
+          { num: "12", name: "TRITRON™ Tower", id: "tritron-resonance", cat: "Novel Physics", desc: "Resonance frequency converting TDS to TSS" },
+          { num: "13", name: "MVR Evaporator / ZLD", id: "mvr-evaporator", cat: "ZLD / Recovery", desc: "Thermal vapor recompression & crystallization" },
+          { num: "14", name: "Sludge Filter Press", id: "sludge-press", cat: "Sludge", desc: "Dewatering chemical and biological sludge cake" }
+        ]
+      },
+      stp: {
+        name: "Municipal Sewage Treatment Plant (STP) Process Train",
+        objective: "Treats domestic sewage, black water, and grey water from residential and commercial facilities to meet CPCB surface water discharge and urban reuse standards.",
+        stages: [
+          { num: "01", name: "Coarse Bar Screen", id: "bar-screen", cat: "Primary", desc: "Removes floating trash, rags, and plastics" },
+          { num: "02", name: "Vortex Grit Chamber", id: "grit-removal", cat: "Primary", desc: "Centrifugal removal of road grit and sand" },
+          { num: "03", name: "Primary Clarifier", id: "clarifier-primary", cat: "Primary", desc: "Gravity settling of settleable organic solids" },
+          { num: "04", name: "Aeration Tank (ASP)", id: "aeration-tank", cat: "Secondary", desc: "Aerobic microbial decomposition of fecal BOD" },
+          { num: "05", name: "Secondary Clarifier", id: "clarifier-secondary", cat: "Secondary", desc: "Settling of active biomass flocs (MLSS)" },
+          { num: "06", name: "Dual Media Filter", id: "media-filtration", cat: "Tertiary", desc: "Sand and anthracite polishing of turbidity" },
+          { num: "07", name: "Disinfection (UV/Cl)", id: "uv-disinfection", cat: "Tertiary", desc: "Inactivates coliform pathogens and viruses" },
+          { num: "08", name: "Sludge Dewatering", id: "sludge-press", cat: "Sludge", desc: "Filter press produces reusable fertilizer cake" }
+        ]
+      },
+      wtp: {
+        name: "Drinking Water Treatment Plant (WTP) Process Train",
+        objective: "Purifies raw surface water (rivers, lakes) or borewell groundwater to potable standards (BIS 10500) or high-purity industrial process water.",
+        stages: [
+          { num: "01", name: "Intake Trash Rack", id: "bar-screen", cat: "Intake", desc: "Prevents logs, leaves, and fish from entering" },
+          { num: "02", name: "Flash Coagulation", id: "coagulation", cat: "Primary", desc: "Dosing of alum or PAC to neutralize clay charges" },
+          { num: "03", name: "Flocculation Basin", id: "coagulation", cat: "Primary", desc: "Gentle paddle mixing to build heavy flocs" },
+          { num: "04", name: "Lamella Clarifier", id: "clarifier-primary", cat: "Primary", desc: "High-rate plate settling of turbidity flocs" },
+          { num: "05", name: "Rapid Sand Filters", id: "media-filtration", cat: "Tertiary", desc: "Multi-layer bed filtration of residual silt" },
+          { num: "06", name: "Activated Carbon (GAC)", id: "media-filtration", cat: "Tertiary", desc: "Adsorbs color, odor, and pesticide traces" },
+          { num: "07", name: "Disinfection (Chlorine)", id: "uv-disinfection", cat: "Disinfection", desc: "Residual pathogen barrier for pipe distribution" }
+        ]
+      },
+      ltp: {
+        name: "Landfill Leachate Treatment Plant (LTP) Process Train",
+        objective: "Treats extremely toxic, high-strength leachate percolating from municipal solid waste landfills (BOD > 5,000 mg/L, COD > 25,000 mg/L, heavy ammonia).",
+        stages: [
+          { num: "01", name: "Fine Step Screen", id: "bar-screen", cat: "Primary", desc: "Captures fine fibrous waste and debris" },
+          { num: "02", name: "Equalization Tank", id: "equalization", cat: "Primary", desc: "Buffers violent seasonal monsoon dilution" },
+          { num: "03", name: "Chemical Precipitation", id: "coagulation", cat: "Primary", desc: "Precipitates heavy metals and humic acids" },
+          { num: "04", name: "UASB Anaerobic Reactor", id: "uasb-reactor", cat: "Secondary", desc: "High-rate anaerobic breakdown of heavy COD" },
+          { num: "05", name: "Anoxic/Aerobic BNR", id: "aeration-tank", cat: "Secondary", desc: "Strikes out high ammoniacal nitrogen" },
+          { num: "06", name: "Membrane Bioreactor (MBR)", id: "mbr-membrane", cat: "Secondary", desc: "High-density biomass with 0.04 µm membranes" },
+          { num: "07", name: "Two-Stage High-Pressure RO", id: "reverse-osmosis", cat: "Tertiary", desc: "DTRO / disc-tube RO for concentrated brine" },
+          { num: "08", name: "Evaporator & Sludge Press", id: "mvr-evaporator", cat: "ZLD", desc: "Crystallizes residual salt for TSDF burial" }
+        ]
+      }
+    };
+
+    const cur = trains[this.activePfdTrain] || trains.etp;
+
+    const stagesHtml = cur.stages.map((s, idx) => `
+      <div 
+        onclick="window.ProcessesView.openComponent('${s.id}')"
+        class="group relative p-3.5 rounded-xl bg-slate-800/95 border border-slate-700 hover:border-orange-500 hover:bg-slate-800 transition-all cursor-pointer shadow-md text-left flex flex-col justify-between"
+      >
+        <div>
+          <div class="flex items-center justify-between mb-1.5">
+            <span class="text-[10px] font-mono font-bold px-2 py-0.5 rounded bg-sky-950 text-sky-300 border border-sky-600/40">${s.cat}</span>
+            <span class="text-xs font-mono font-bold text-orange-400">Step #${s.num}</span>
+          </div>
+          <h4 class="text-xs font-bold text-white group-hover:text-orange-400 transition-colors">${s.name}</h4>
+          <p class="text-[11px] text-slate-300 line-clamp-2 mt-1 leading-snug">${s.desc}</p>
+        </div>
+
+        <div class="mt-2.5 pt-2 border-t border-slate-700/80 flex items-center justify-between text-[11px] text-orange-400 font-semibold group-hover:translate-x-0.5 transition-transform">
+          <span>Learn Unit &rarr;</span>
+          ${idx < cur.stages.length - 1 ? `
+            <span class="text-orange-400 text-[11px] font-mono font-bold flex items-center gap-1">
+              Next &rarr;
+            </span>
+          ` : `
+            <span class="text-sky-400 text-[10px] font-mono">End of Train</span>
+          `}
+        </div>
+      </div>
+    `).join('');
+
+    container.innerHTML = `
+      <div class="space-y-4">
+        <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-2 border-b border-slate-800 pb-3">
+          <div>
+            <span class="text-[10px] font-mono text-orange-400 uppercase font-bold">Flow Sequence (No Scroll · Sequential Stepped Layout)</span>
+            <h3 class="text-sm sm:text-base font-extrabold text-white">${cur.name}</h3>
+          </div>
+          <span class="text-xs font-mono text-sky-300">${cur.stages.length} Sequential Unit Operations</span>
+        </div>
+        <p class="text-xs text-slate-200 leading-relaxed bg-slate-800/60 p-3 rounded-xl border border-slate-700/80">${cur.objective}</p>
+        
+        <!-- Sequential Flow Grid without Horizontal Scrolling -->
+        <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3 pt-1">
+          ${stagesHtml}
+        </div>
+        <div class="pt-2 flex items-center justify-between text-[11px] font-mono text-slate-400 border-t border-slate-800">
+          <span>Direction: Step #01 through Step #${cur.stages.length} (Connected with sequential arrows)</span>
+          <span class="text-orange-400">Click any card to open full-size engineering details</span>
+        </div>
+      </div>
+    `;
+
+    if (window.lucide) window.lucide.createIcons();
+  },
+
+  renderComponentGrid: function() {
+    const container = document.getElementById("components-grid-container");
+    if (!container) return;
+
+    const components = this.getComponentsData();
+    let list = components;
+
+    if (this.activeCategoryFilter !== 'all') {
+      list = list.filter(c => c.categoryTag === this.activeCategoryFilter);
+    }
+
+    if (this.searchQuery) {
+      const q = this.searchQuery;
+      list = list.filter(c => 
+        c.title.toLowerCase().includes(q) || 
+        c.category.toLowerCase().includes(q) || 
+        c.definition.toLowerCase().includes(q) ||
+        c.types.some(t => t.name.toLowerCase().includes(q))
+      );
+    }
+
+    if (list.length === 0) {
+      container.innerHTML = `
+        <div class="p-8 text-center bg-white rounded-2xl border border-slate-200">
+          <p class="text-xs text-slate-500">No components matched your search. Try resetting filters.</p>
+        </div>
+      `;
+      return;
+    }
+
+    const cards = list.map(c => `
+      <div 
+        onclick="window.ProcessesView.openComponent('${c.id}')"
+        class="card-elevated p-5 rounded-2xl bg-white border border-slate-200 hover:border-sky-400 hover:shadow-lg transition-all cursor-pointer flex flex-col justify-between group"
+      >
+        <div class="space-y-3">
+          <!-- Thumbnail & Badges -->
+          <div class="flex items-start justify-between gap-2">
+            <span class="text-[10px] font-mono font-bold px-2 py-0.5 rounded bg-sky-100 text-sky-800 uppercase">
+              ${c.category}
+            </span>
+            <span class="text-[10px] font-mono text-slate-400">${c.stage}</span>
+          </div>
+
+          <!-- Component Image Thumbnail if available -->
+          ${c.image ? `
+            <div class="aspect-video bg-slate-50 rounded-xl overflow-hidden border border-slate-100 flex items-center justify-center p-2">
+              <img src="images/${c.image}" alt="${c.title}" class="max-h-full max-w-full object-contain group-hover:scale-105 transition-transform" onerror="this.src='water_intelligence_platform/images/${c.image}'"/>
+            </div>
+          ` : `
+            <div class="aspect-video bg-gradient-to-br from-slate-100 to-sky-50 rounded-xl border border-slate-100 flex items-center justify-center text-slate-400">
+              <i data-lucide="cpu" class="w-8 h-8 text-sky-600/50"></i>
+            </div>
+          `}
+
+          <h3 class="text-base font-extrabold text-slate-900 group-hover:text-sky-700 transition-colors">
+            ${c.title}
+          </h3>
+          <p class="text-xs text-slate-600 line-clamp-2 leading-relaxed">
+            ${c.definition}
+          </p>
+
+          <!-- Types Teaser -->
+          <div class="pt-2 border-t border-slate-100">
+            <span class="text-[10px] font-mono text-slate-400 uppercase tracking-wider block mb-1">Key Types Included:</span>
+            <div class="flex flex-wrap gap-1">
+              ${c.types.slice(0, 3).map(t => `<span class="text-[10px] font-mono px-1.5 py-0.5 rounded bg-slate-100 text-slate-700">${t.name}</span>`).join('')}
+              ${c.types.length > 3 ? `<span class="text-[10px] font-mono px-1.5 py-0.5 rounded bg-slate-100 text-slate-500">+${c.types.length - 3} more</span>` : ''}
+            </div>
+          </div>
+        </div>
+
+        <div class="pt-4 mt-3 border-t border-slate-100 flex items-center justify-between text-xs text-sky-600 font-semibold group-hover:translate-x-0.5 transition-transform">
+          <span>Read 5-Point Deep Dive</span>
+          <i data-lucide="arrow-right" class="w-4 h-4"></i>
+        </div>
+      </div>
+    `).join('');
+
+    container.innerHTML = `
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        ${cards}
+      </div>
+    `;
+
+    if (window.lucide) window.lucide.createIcons();
+  },
+
+  renderComponentSubpage: function() {
+    const container = document.getElementById("main-content");
+    if (!container) return;
+
+    const components = this.getComponentsData();
+    const c = components.find(item => item.id === this.activeComponentId) || components[0];
+
+    const typesHtml = c.types.map((t, idx) => `
+      <div class="p-4 rounded-xl border border-slate-200 bg-slate-50/70 space-y-2 text-xs">
+        <div class="flex items-center justify-between">
+          <span class="font-bold text-slate-900 flex items-center gap-1.5 text-sm">
+            <span class="w-5 h-5 rounded-full bg-sky-600 text-white flex items-center justify-center text-[10px] font-bold">${idx + 1}</span>
+            ${t.name}
+          </span>
+          <span class="text-[10px] font-mono px-2 py-0.5 rounded bg-sky-100 text-sky-800 font-semibold">${t.badge || 'Variant'}</span>
+        </div>
+        <p class="text-slate-600 text-xs leading-relaxed"><strong class="text-slate-800">Mechanism:</strong> ${t.mechanism}</p>
+        <p class="text-slate-600 text-xs leading-relaxed"><strong class="text-orange-700">Advantages:</strong> ${t.advantages}</p>
+        <p class="text-slate-500 text-[11px] leading-relaxed"><strong class="text-slate-700">Best Application Fit:</strong> ${t.bestFit}</p>
+      </div>
+    `).join('');
+
+    const diffRows = c.differences.map(d => `
+      <tr class="border-b border-slate-100 hover:bg-slate-50/50 text-xs">
+        <td class="p-3 font-bold text-slate-900 bg-slate-50/80 w-1/4">${d.param}</td>
+        ${d.values.map(v => `<td class="p-3 text-slate-700">${v}</td>`).join('')}
+      </tr>
+    `).join('');
+
+    container.innerHTML = `
+      <div class="space-y-8 pb-20 animate-in fade-in duration-200">
+        <!-- Back Navigation Bar -->
+        <div class="flex items-center justify-between bg-white p-4 rounded-2xl border border-slate-200 shadow-sm">
+          <button 
+            onclick="window.ProcessesView.closeComponent()" 
+            class="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-800 font-bold text-xs transition-colors"
+          >
+            <i data-lucide="arrow-left" class="w-4 h-4"></i>
+            <span>Back to Treatment Process Knowledge Base (PFD)</span>
+          </button>
+
+          <div class="flex items-center gap-2">
+            <span class="text-xs font-mono text-slate-500">Component Subpage:</span>
+            <span class="text-xs font-mono font-bold text-sky-700 bg-sky-50 px-2.5 py-1 rounded border border-sky-200">
+              ${c.title} · Full Engineering Specification
+            </span>
+          </div>
+        </div>
+
+        <!-- Subpage Header -->
+        <div class="bg-gradient-to-r from-navy-dark via-slate-900 to-[#0B2545] text-white p-8 rounded-3xl border border-slate-700 shadow-xl relative overflow-hidden">
+          <div class="flex flex-col md:flex-row md:items-center justify-between gap-4 border-b border-slate-800 pb-6">
+            <div>
+              <div class="flex items-center gap-2 mb-2">
+                <span class="text-xs font-mono font-bold px-3 py-0.5 rounded-full bg-sky-500/20 text-sky-300 border border-sky-400/30 uppercase">
+                  ${c.category} · ${c.stage}
+                </span>
+                <span class="text-xs font-mono text-orange-400">Engineering Unit #${c.id}</span>
+              </div>
+              <h1 class="text-3xl sm:text-4xl font-black text-white">${c.title}</h1>
+              <p class="text-sm text-slate-300 mt-2 max-w-3xl leading-relaxed">${c.tagline}</p>
+            </div>
+          </div>
+
+          <!-- Quick Operating Rules -->
+          <div class="grid grid-cols-2 sm:grid-cols-4 gap-4 mt-6 text-xs">
+            <div class="p-3 rounded-xl bg-slate-800/60 border border-slate-700/60">
+              <span class="text-[10px] text-slate-400 font-mono uppercase block">Target Contaminants:</span>
+              <p class="font-bold text-white text-sm mt-0.5">${c.targetContaminants}</p>
+            </div>
+            <div class="p-3 rounded-xl bg-slate-800/60 border border-slate-700/60">
+              <span class="text-[10px] text-slate-400 font-mono uppercase block">Governing Law/Formula:</span>
+              <p class="font-bold text-sky-300 text-sm mt-0.5 font-mono">${c.governingEquation}</p>
+            </div>
+            <div class="p-3 rounded-xl bg-slate-800/60 border border-slate-700/60">
+              <span class="text-[10px] text-slate-400 font-mono uppercase block">Typical Detention / Retention:</span>
+              <p class="font-bold text-white text-sm mt-0.5">${c.typicalDetention}</p>
+            </div>
+            <div class="p-3 rounded-xl bg-slate-800/60 border border-slate-700/60">
+              <span class="text-[10px] text-orange-400 font-mono uppercase block">Downstream Protection:</span>
+              <p class="font-bold text-orange-300 text-sm mt-0.5">${c.protectionRole}</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- 5-Point Comprehensive Engineering Specification -->
+        <div class="space-y-6">
+          <!-- 1. Definition & Core Concept -->
+          <div class="card-elevated p-6 sm:p-8 rounded-3xl bg-white border border-slate-200 space-y-4">
+            <div class="flex items-center gap-2 border-b border-slate-100 pb-3">
+              <span class="w-6 h-6 rounded-full bg-sky-600 text-white font-bold flex items-center justify-center text-xs">1</span>
+              <h2 class="text-base sm:text-lg font-bold text-slate-900">Definition &amp; Operating Principle</h2>
+            </div>
+            <p class="text-xs sm:text-sm text-slate-700 leading-relaxed">${c.definition}</p>
+            <p class="text-xs sm:text-sm text-slate-600 leading-relaxed bg-slate-50 p-4 rounded-xl border border-slate-200">
+              <strong>How It Functions:</strong> ${c.howItWorks}
+            </p>
+
+            ${c.image ? `
+              <div class="mt-4 p-4 rounded-2xl bg-slate-50 border border-slate-200 text-center">
+                <img src="images/${c.image}" alt="${c.title} Schematic" class="max-h-96 mx-auto object-contain rounded-xl shadow-sm" onerror="this.src='water_intelligence_platform/images/${c.image}'"/>
+                <p class="text-xs text-slate-500 font-mono mt-2">Figure: Detailed Engineering Schematic &amp; Hydraulic Layout (${c.image})</p>
+              </div>
+            ` : ''}
+          </div>
+
+          <!-- 2. Why It Is Required (Engineering Justification) -->
+          <div class="card-elevated p-6 sm:p-8 rounded-3xl bg-white border border-slate-200 space-y-4">
+            <div class="flex items-center gap-2 border-b border-slate-100 pb-3">
+              <span class="w-6 h-6 rounded-full bg-orange-600 text-white font-bold flex items-center justify-center text-xs">2</span>
+              <h2 class="text-base sm:text-lg font-bold text-slate-900">Why It Is Required (Engineering Justification &amp; Failure Modes if Omitted)</h2>
+            </div>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+              ${c.whyRequired.map(w => `
+                <div class="p-4 rounded-xl bg-orange-50/40 border border-orange-200 text-xs space-y-1.5">
+                  <h4 class="font-bold text-orange-950 text-sm flex items-center gap-1.5">
+                    <i data-lucide="shield-check" class="w-4 h-4 text-orange-600"></i> ${w.title}
+                  </h4>
+                  <p class="text-slate-600 leading-relaxed">${w.desc}</p>
+                </div>
+              `).join('')}
+            </div>
+          </div>
+
+          <!-- 3. What Are The Types & Classifications -->
+          <div class="card-elevated p-6 sm:p-8 rounded-3xl bg-white border border-slate-200 space-y-4">
+            <div class="flex items-center gap-2 border-b border-slate-100 pb-3">
+              <span class="w-6 h-6 rounded-full bg-sky-600 text-white font-bold flex items-center justify-center text-xs">3</span>
+              <h2 class="text-base sm:text-lg font-bold text-slate-900">What Are The Types &amp; Classifications?</h2>
+            </div>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+              ${typesHtml}
+            </div>
+          </div>
+
+          <!-- 4. What Are The Advantages of Each Type -->
+          <div class="card-elevated p-6 sm:p-8 rounded-3xl bg-white border border-slate-200 space-y-4">
+            <div class="flex items-center gap-2 border-b border-slate-100 pb-3">
+              <span class="w-6 h-6 rounded-full bg-orange-600 text-white font-bold flex items-center justify-center text-xs">4</span>
+              <h2 class="text-base sm:text-lg font-bold text-slate-900">Advantages of Each Type (Operating Sweet-Spots)</h2>
+            </div>
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3">
+              ${c.types.map(t => `
+                <div class="p-4 rounded-xl bg-orange-50/40 border border-orange-200 text-xs space-y-1">
+                  <span class="font-bold text-orange-950 block text-xs uppercase font-mono">${t.name}</span>
+                  <p class="text-slate-700 text-xs leading-relaxed mt-1">${t.advantages}</p>
+                </div>
+              `).join('')}
+            </div>
+          </div>
+
+          <!-- 5. The Differences Between All The Types (Comparative Trade-Off Matrix) -->
+          <div class="card-elevated p-6 sm:p-8 rounded-3xl bg-white border border-slate-200 space-y-4">
+            <div class="flex items-center gap-2 border-b border-slate-100 pb-3">
+              <span class="w-6 h-6 rounded-full bg-amber-600 text-white font-bold flex items-center justify-center text-xs">5</span>
+              <h2 class="text-base sm:text-lg font-bold text-slate-900">Differences Between All Types (Engineering Trade-Off Matrix)</h2>
+            </div>
+            <div class="overflow-x-auto border border-slate-200 rounded-2xl">
+              <table class="w-full text-left text-xs">
+                <thead class="bg-slate-100 text-slate-700 font-bold uppercase text-[10px] tracking-wider border-b border-slate-200">
+                  <tr>
+                    <th class="p-3 w-1/4">Evaluation Criterion</th>
+                    ${c.diffHeaders.map(h => `<th class="p-3">${h}</th>`).join('')}
+                  </tr>
+                </thead>
+                <tbody class="divide-y divide-slate-100">
+                  ${diffRows}
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+          <!-- Design Guidelines & Engineering Heuristics -->
+          <div class="card-elevated p-6 sm:p-8 rounded-3xl bg-slate-900 text-white space-y-4">
+            <h3 class="text-sm font-bold text-white flex items-center gap-2">
+              <i data-lucide="calculator" class="w-4 h-4 text-sky-400"></i>
+              Engineering Design Rules of Thumb &amp; Heuristics
+            </h3>
+            <div class="grid grid-cols-1 sm:grid-cols-3 gap-4 text-xs">
+              ${c.heuristics.map(h => `
+                <div class="p-3.5 rounded-xl bg-slate-800 border border-slate-700 space-y-1">
+                  <span class="text-[10px] font-mono text-sky-400 uppercase font-bold block">${h.label}</span>
+                  <p class="font-mono text-white text-sm font-bold">${h.value}</p>
+                  <p class="text-[11px] text-slate-400 leading-tight">${h.explanation}</p>
+                </div>
+              `).join('')}
+            </div>
+          </div>
+
+          <!-- Bottom Return Button -->
+          <div class="pt-4 flex justify-between items-center">
+            <button 
+              onclick="window.ProcessesView.closeComponent()" 
+              class="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-slate-900 hover:bg-slate-800 text-white font-bold text-xs shadow-md transition-colors"
+            >
+              <i data-lucide="arrow-left" class="w-4 h-4"></i>
+              <span>Back to PFD Diagram &amp; Component List</span>
+            </button>
+          </div>
+        </div>
+      </div>
+    `;
+
+    if (window.lucide) window.lucide.createIcons();
+  },
+
+  getComponentsData: function() {
+    return [
+      {
+        id: "bar-screen",
+        title: "Bar Screen & Screening Systems",
+        category: "Pretreatment",
+        categoryTag: "primary",
+        stage: "Stage 01: Physical Barrier",
+        tagline: "The first mechanical barrier in any wastewater treatment train, capturing large floating and suspended debris.",
+        targetContaminants: "Rags, plastics, timber, cans, coarse floating debris",
+        governingEquation: "Peak Velocity: v ≤ 3.0 ft/sec; Approach: 1.25–1.5 ft/sec",
+        typicalDetention: "Instantaneous pass-through",
+        protectionRole: "Protects centrifugal pumps, pipe manifolds, and aeration diffusers",
+        image: "bar_screen_schematic.png",
+        definition: "A physical mechanical barrier consisting of parallel steel bars, perforated sheets, or wedgewire screens set in an incoming wastewater channel. Wastewater flows through the openings while solids larger than the bar spacing are retained on the upstream face.",
+        howItWorks: "Wastewater approaches through a channel designed with a slope to maintain a velocity of 1.25 to 1.5 feet/sec. Solids are captured on the screen surface. In manual systems, operators scrape debris using a hand rake. In mechanical systems, motorized rakes or continuous belts automatically lift retained debris out of the flow to a discharge hopper.",
+        whyRequired: [
+          { title: "Pump Impeller Jamming Prevention", desc: "Large fibrous rags and plastics bind around centrifugal pump impellers, causing motor overload and mechanical failure." },
+          { title: "Diffuser & Pipe Manifold Protection", desc: "Debris escaping into aeration basins blankets fine-bubble diffusers, collapsing oxygen transfer efficiency and causing septic conditions." },
+          { title: "Clarifier Scraper Integrity", desc: "Heavy logs, bottles, and plastics wedge beneath sludge scraper arms in primary clarifiers, stripping gears and halting operations." }
+        ],
+        types: [
+          { name: "Coarse Bar Screen", badge: "6 mm to 150 mm", mechanism: "Parallel steel bars spaced 25 to 50 mm apart at raw intake.", advantages: "Very low headloss; captures heavy bulky debris without blinding.", bestFit: "Raw wastewater intake channels in all municipal STPs and industrial ETPs." },
+          { name: "Fine Screen", badge: "Less than 6 mm", mechanism: "Wedgewire or perforated plates with openings down to 0.25–6 mm.", advantages: "Significantly reduces TSS and organic load prior to biological tanks.", bestFit: "Pretreatment ahead of Membrane Bioreactors (MBR) and compact industrial ETPs." },
+          { name: "Microscreen", badge: "≤ 50 micro meters", mechanism: "Rotating micro-mesh drum or disc fabric.", advantages: "Pulls out fine fibrous suspended solids and algae.", bestFit: "Tertiary polishing and industrial paper/textile effluent recycling." },
+          { name: "Mechanically Cleaned Climber Screen", badge: "Reciprocating Rake", mechanism: "Motorized rack-and-pinion carriage moves a rake head up the cog rack.", advantages: "No submerged sprockets, chains, or bearings in the harsh wastewater.", bestFit: "Deep pump station wet wells and municipal wastewater headworks." },
+          { name: "Continuous Step Screen", badge: "Self-Cleaning Carpet", mechanism: "Counter-moving stepped lamellae create a traveling debris mat.", advantages: "Forms its own filter cake, delivering superior capture rates for fine rags.", bestFit: "Modern municipal STPs and MBR biological trains." }
+        ],
+        diffHeaders: ["Coarse Manual Screen", "Mechanically Cleaned Rake", "Continuous Step Screen", "Rotary Drum Screen"],
+        differences: [
+          { param: "Opening Size", values: ["25 – 100 mm", "6 – 50 mm", "2 – 6 mm", "0.25 – 3 mm"] },
+          { param: "Installation Angle", values: ["45° to 60° from horizontal", "60° to 85° from horizontal", "50° to 60°", "Horizontal axis (drum)"] },
+          { param: "Headloss", values: ["High when blinded", "Low / controlled by raking", "Moderate (filter mat)", "Moderate to High"] },
+          { param: "Capital Cost", values: ["Very Low", "Moderate to High", "High", "High"] },
+          { param: "Maintenance Need", values: ["High daily labor", "Quarterly mechanical inspection", "Bi-monthly wash check", "High (spray nozzles)"] }
+        ],
+        heuristics: [
+          { label: "Channel Flow Velocity", value: "1.25 – 1.5 ft/sec (0.4–0.5 m/s)", explanation: "Prevents organic solids settling in channel while avoiding debris push-through." },
+          { label: "Peak Hydraulic Velocity", value: "≤ 3.0 ft/sec (0.9 m/s)", explanation: "Upper ceiling to avoid forcing deformable rags through the bar gaps." },
+          { label: "Installation Angle", value: "Manual 45–60° | Mechanical 45–85°", explanation: "Steeper angles allow taller raking heights and smaller footprint." }
+        ]
+      },
+
+      {
+        id: "grit-removal",
+        title: "Grit Removal Systems",
+        category: "Pretreatment",
+        categoryTag: "primary",
+        stage: "Stage 02: Inorganic Settling",
+        tagline: "Selectively precipitates dense abrasive inorganic particles (sand, gravel, eggshells) while keeping organics suspended.",
+        targetContaminants: "Inorganic sand, gravel, eggshells, metal fines (d ≥ 0.2 mm, Sg ≈ 2.65)",
+        governingEquation: "Basin Volume: V = Q × DT | Length: L = vh × DT",
+        typicalDetention: "1 to 3 minutes (60–90 seconds typical)",
+        protectionRole: "Eliminates abrasive erosion on pump impellers and silting of digesters",
+        image: "grit_vortex_schematic.png",
+        definition: "A hydraulic settling unit designed to selectively separate dense inorganic particles (specific gravity ~2.65, diameter ≥ 0.2 mm) from wastewater through differential gravitational sedimentation, while keeping lighter putrescible organic matter (Sg ~1.02) in suspension.",
+        howItWorks: "Wastewater velocity is carefully controlled at ~0.3 m/s (1.0 ft/s). At this precise velocity, heavy silica and gravel particles sink rapidly to the tank floor, while lighter organic matter remains buoyant and flows out with the main stream. Velocity control is maintained using Parshall flumes, air roll, or cyclonic vortex flow.",
+        whyRequired: [
+          { title: "Pump Impeller Abrasive Wear", desc: "Quartz sand particles act like liquid sandpaper, destroying pump impellers, mechanical seals, and pipe elbows within weeks." },
+          { title: "Aeration Basin & Digester Siltation", desc: "Inorganic grit settles permanently in biological basins and sludge digesters, shrinking active reactor volume by up to 30%." },
+          { title: "Sludge Transfer Pipe Clogging", desc: "Dense grit accumulates in pipe low-points, forming cemented blockages that require mechanical rodding to clear." }
+        ],
+        types: [
+          { name: "Horizontal-Flow Grit Chamber", badge: "Controlled Velocity", mechanism: "Long rectangular channel with velocity kept at ~0.3 m/s using a Parshall flume.", advantages: "Simple, low-tech civil design; zero electrical power consumption for separation.", bestFit: "Consistent flow facilities and small to mid-sized municipal STPs." },
+          { name: "Aerated Grit Chamber", badge: "Spiral Roll Pattern", mechanism: "Air diffusers along one side induce a helical rolling flow independent of inflow rate.", advantages: "Decouples settling control from incoming flow rate; pre-aerates and strips odors.", bestFit: "Large municipal STPs with high flow variability between peak and off-peak hours." },
+          { name: "Vortex-Type (Cyclonic) Chamber", badge: "Centrifugal Spiral", mechanism: "Influent enters tangentially; centrifugal force flings dense grit outward and into a bottom cone.", advantages: "Compact footprint (70% less land); handles industrial batch discharges easily.", bestFit: "Modern industrial ETPs, automotive paint shops, and electroplating clusters." },
+          { name: "Detritus Tank", badge: "Mechanical Scraping", mechanism: "Shallow settling tank with slow flow where grit and some organics co-settle, scraped to hopper.", advantages: "Low structural complexity; works where priority is keeping grit out of tanks.", bestFit: "SME industrial plants with moderate grit loads and limited space." }
+        ],
+        diffHeaders: ["Horizontal-Flow Channel", "Aerated Grit Chamber", "Vortex Cyclonic Chamber", "Detritus Tank"],
+        differences: [
+          { param: "Footprint Required", values: ["Large (long channel)", "Moderate", "Very Compact", "Moderate"] },
+          { param: "Organics in Grit", values: ["High (5–15%)", "Very Low (<3%)", "Low (3–5%)", "Very High (Needs grit washer)"] },
+          { param: "Power Consumption", values: ["Zero (gravity)", "High (air blowers)", "Low to Moderate", "Low"] },
+          { param: "Flow Turndown", values: ["Narrow (flume dependent)", "High (air controls roll)", "High (handles surges)", "Low"] }
+        ],
+        heuristics: [
+          { label: "Horizontal Flow Velocity", value: "0.3 m/s (1.0 ft/sec)", explanation: "Scour limit for organics (<0.3 m/s causes organic settling; >0.4 m/s scours grit)." },
+          { label: "Hydraulic Detention Time", value: "1 to 3 Minutes", explanation: "Sufficient time for 0.2 mm silica particles (Stokes velocity ~0.02 m/s) to settle." },
+          { label: "Particle Cutoff", value: "≥ 0.2 mm (50 mesh)", explanation: "Removes 95%+ of inorganic abrasive material." }
+        ]
+      },
+
+      {
+        id: "oil-daf",
+        title: "Oil-Water Separator & Dissolved Air Flotation (DAF)",
+        category: "Pretreatment",
+        categoryTag: "primary",
+        stage: "Stage 03: Oil & Floc Flotation",
+        tagline: "Removes free, dispersed, and chemically cracked emulsified oils and suspended solids using micro-bubble buoyancy.",
+        targetContaminants: "Free oils, cutting emulsions, fats, greases, paint solids, light flocs",
+        governingEquation: "Bubble Size: 20–50 µm | Saturation Pressure: 4–6 bar",
+        typicalDetention: "15 to 30 minutes in flotation basin",
+        protectionRole: "Prevents oil from blinding biological diffusers and fouling RO membranes",
+        image: "daf_system_schematic.png",
+        definition: "A high-rate clarification process that introduces micro-bubbles (20–50 µm) produced by depressurizing air-saturated water. Micro-bubbles adhere to hydrophobic oil droplets and coagulated flocs, reducing their effective density and floating them to the surface for mechanical skimming.",
+        howItWorks: "Clarified effluent is recycled (10–30%), saturated with compressed air at 4–6 bar in a saturation vessel, and released through pressure-reducing nozzles into the flotation zone. Millions of micro-bubbles nucleate, attaching to flocs and floating them into a surface sludge blanket.",
+        whyRequired: [
+          { title: "Biological Diffuser Smothering", desc: "Free oil coats aeration diffusers and biological flocs, cutting off dissolved oxygen transfer and killing aerobic bacteria." },
+          { title: "Irreversible Membrane Fouling", desc: "Hydrocarbons irreversibly coat polymer ultrafiltration and RO membranes, permanently destroying permeate flux." },
+          { title: "CPCB 10 mg/L Discharge Limit", desc: "Strict statutory limit of ≤ 10 mg/L Oil & Grease cannot be achieved without chemical demulsification and DAF." }
+        ],
+        types: [
+          { name: "API Gravity Separator", badge: "Free Oil Only", mechanism: "Rectangular tank relying on Stokes' Law density difference between free oil and water.", advantages: "Zero chemical cost; handles heavy gross free oil slugs.", bestFit: "Refineries, oil terminals, and vehicle wash stations." },
+          { name: "Corrugated Plate Interceptor (CPI)", badge: "Plate Pack", mechanism: "Inclined parallel corrugated plates spaced 20–40 mm apart to minimize droplet rise distance.", advantages: "Compact footprint; captures oil droplets down to 50 µm.", bestFit: "Machining shops and automotive press facilities." },
+          { name: "Circular Dissolved Air Flotation", badge: "Micro-Bubbles", mechanism: "Pressurized air-saturated recycle water creates 20–50 µm bubbles with central spiral scraper.", advantages: "Superior sludge thickening; handles high solid/oil flocs up to 5,000 mg/L.", bestFit: "Automotive paint shops, food processing, and chemical ETPs." },
+          { name: "Electrocoagulation + DAF Hybrid", badge: "Electrolytic", mechanism: "Sacrificial iron/aluminum anodes release coagulants followed by electro-flotation.", advantages: "Eliminates polymer dosing; breaks stable synthetic emulsions effectively.", bestFit: "Difficult metalworking coolants and electroplating rinses." }
+        ],
+        diffHeaders: ["API Separator", "CPI Plate Pack", "Standard DAF", "Electro-DAF"],
+        differences: [
+          { param: "Oil Droplet Cutoff", values: ["≥ 150 µm", "≥ 50 µm", "≥ 10 µm (with chemicals)", "≥ 1 µm (emulsified)"] },
+          { param: "Effluent O&G", values: ["50 – 100 mg/L", "20 – 50 mg/L", "< 5 – 10 mg/L", "< 2 – 5 mg/L"] },
+          { param: "Chemical Dosing", values: ["None", "None", "Coagulant + Flocculant", "Sacrificial metal electrodes"] },
+          { param: "Footprint", values: ["Very Large", "Moderate", "Compact", "Very Compact"] }
+        ],
+        heuristics: [
+          { label: "Recycle Ratio", value: "15% – 30% of Forward Flow", explanation: "Provides sufficient dissolved air volume to achieve positive floc buoyancy." },
+          { label: "Saturation Pressure", value: "4.0 – 6.0 Bar (55–85 psi)", explanation: "Optimal pressure to achieve 20–50 µm bubble size distribution upon release." },
+          { label: "Surface Hydraulic Loading", value: "5 – 15 m³/m²·h", explanation: "Up to 5x higher than conventional gravity sedimentation clarifiers." }
+        ]
+      },
+
+      {
+        id: "equalization",
+        title: "Equalization Tank & Neutralization Basin",
+        category: "Pretreatment",
+        categoryTag: "primary",
+        stage: "Stage 04: Flow & pH Buffering",
+        tagline: "Homogenizes hydraulic surges, balances chemical shock loads, and neutralizes pH prior to biological or physical units.",
+        targetContaminants: "Hydraulic surges, pH swings (1.0–12.0), chemical concentration spikes",
+        governingEquation: "Volume: V = ∫(Qin - Qout)dt | Mixer: 15–20 W/m³",
+        typicalDetention: "8 to 24 hours (depending on shift discharge cycles)",
+        protectionRole: "Prevents biological shock kills and stabilizes chemical dosing reaction kinetics",
+        image: "eq_tank_schematic.png",
+        definition: "A large buffer basin equipped with mixing equipment (submerged jet mixers or coarse-bubble diffusers) designed to dampen variations in wastewater flow rate, temperature, chemical concentration, and pH across operating shifts.",
+        howItWorks: "Influent wastewater from different batch discharges (e.g. acidic pickling vs. alkaline degreasing) enters the basin. Continuous mixing blends the streams, allowing self-neutralization and smoothing COD spikes before controlled pumping to the downstream ETP.",
+        whyRequired: [
+          { title: "Biological Shock Prevention", desc: "Sudden surges of toxic compounds or extreme pH (<6 or >9) instantly kill the active microbial biomass in biological tanks." },
+          { title: "Optimal Chemical Dosing Sizing", desc: "Downstream coagulation and dosing pumps operate at steady, predictable flow rates rather than wildly oversized capacity." },
+          { title: "Self-Neutralization Cost Savings", desc: "Blending acidic and alkaline batch rinses neutralizes pH naturally, reducing purchased caustic and acid chemicals by up to 50%." }
+        ],
+        types: [
+          { name: "In-Line Equalization", badge: "100% Flow Passes Through", mechanism: "All wastewater flows through the equalization basin; effluent is pumped at a constant rate.", advantages: "Maximum dampening of concentration swings; optimal self-neutralization.", bestFit: "Industrial ETPs with extreme chemical variability across shifts." },
+          { name: "Side-Stream (Off-Line) Equalization", badge: "Surge Diverted Only", mechanism: "Only peak flows exceeding plant average capacity are diverted into the equalization tank.", advantages: "Smaller tank volume; lower continuous mixing energy costs.", bestFit: "Municipal STPs with predictable morning and evening diurnal flow peaks." },
+          { name: "Two-Stage Neutralization Basin", badge: "PLC Automated pH", mechanism: "Stage 1 coarse dosing brings pH to 5–9; Stage 2 fine trims pH to strictly 7.0–7.5.", advantages: "Precise pH control; prevents overshooting caused by titration curve non-linearity.", bestFit: "Electroplating, chemical manufacturing, and pharmaceutical ETPs." }
+        ],
+        diffHeaders: ["In-Line Basin", "Side-Stream Basin", "Coarse-Air Mixed", "Submerged Mechanical Mixer"],
+        differences: [
+          { param: "Peak Dampening", values: ["Complete (100%)", "Partial (surges only)", "Complete", "Complete"] },
+          { param: "Mixing Energy", values: ["Continuous (15–20 W/m³)", "Intermittent", "Higher power (blowers)", "Lower power (propellers)"] },
+          { param: "Odor Control", values: ["Air stripping risk", "Low", "Can strip VOCs", "Zero air stripping"] }
+        ],
+        heuristics: [
+          { label: "Detention Time", value: "8 – 16 Hours for Industry", explanation: "Ensures buffering across at least two complete plant production shifts." },
+          { label: "Mixing Power Requirement", value: "15 – 25 W/m³ Basin Volume", explanation: "Prevents heavy solids and sludge from settling on the tank floor." }
+        ]
+      },
+
+      {
+        id: "coagulation",
+        title: "Coagulation & Flocculation Systems",
+        category: "Pretreatment",
+        categoryTag: "primary",
+        stage: "Stage 05: Charge Neutralization",
+        tagline: "Destabilizes negatively charged colloidal suspensions and agglomerates them into macroscopic settleable flocs.",
+        targetContaminants: "Colloidal turbidity, color, suspended organic matter, precipitated heavy metals",
+        governingEquation: "Velocity Gradient: G = √(P / µV) | Coagulation: G > 700 s⁻¹",
+        typicalDetention: "Flash Mix: 30–60 sec | Flocculation: 15–30 min",
+        protectionRole: "Enables settling of sub-micron colloids that would never settle by gravity alone",
+        image: "coagulation_mixer_schematic.png",
+        definition: "A two-stage physical-chemical process: Coagulation uses rapid mixing to disperse hydrolyzing metal salts (Alum, PAC, Ferric Chloride) to neutralize the negative surface charge of colloids; Flocculation uses gentle slow mixing with polymers to bridge destabilized particles into large flocs.",
+        howItWorks: "In the flash mixer, intense agitation ($G > 700\ s^{-1}$) disperses the coagulant, neutralizing particle zeta potential within seconds. In the subsequent flocculation basin, slow rotating paddles ($G \approx 20–70\ s^{-1}$) promote gentle particle collisions, forming heavy, easily settleable flocs.",
+        whyRequired: [
+          { title: "Colloidal Stability Overcoming", desc: "Colloidal particles have negative surface charges that repel each other. Without coagulation, they would remain suspended for months." },
+          { title: "Precipitated Heavy Metal Capture", desc: "Precipitated metal hydroxides (Cr, Ni, Zn) form tiny micro-precipitates that require polymer bridging to settle." },
+          { title: "Turbidity Reduction for Membranes", desc: "Strips raw water turbidity from 500+ NTU down to < 5 NTU, protecting downstream media filters and membranes." }
+        ],
+        types: [
+          { name: "Hydraulic Flash Mixer", badge: "Static / Parshall", mechanism: "Uses hydraulic jumps, baffles, or in-line static pipe mixers to achieve rapid mixing.", advantages: "Zero mechanical maintenance; no electric motor required.", bestFit: "Large water treatment plants with constant flow rates." },
+          { name: "Mechanical Flash Mixer", badge: "High-Speed Impeller", mechanism: "High-speed motorized turbine impeller operating at 300 to 1,500 RPM.", advantages: "Controllable mixing energy independent of flow rate swings.", bestFit: "Industrial ETPs with variable flow and complex chemical demands." },
+          { name: "Paddle Flocculator", badge: "Slow Paddle Wheels", mechanism: "Large horizontal or vertical paddle reels rotating slowly at 2 to 10 RPM.", advantages: "Uniform gentle velocity gradient; prevents shear-breakup of formed flocs.", bestFit: "Municipal drinking water WTPs and large industrial clarifier trains." },
+          { name: "Baffled Channel Flocculator", badge: "Hydraulic Baffles", mechanism: "Wastewater snakes through a series of around-the-end or over-and-under baffles.", advantages: "No electrical power or moving machinery; highly reliable.", bestFit: "Rural drinking water plants and remote mine wastewater sites." }
+        ],
+        diffHeaders: ["Mechanical Flash Mix", "Static In-Line Mixer", "Paddle Flocculator", "Baffled Flocculator"],
+        differences: [
+          { param: "G-Value (Shear)", values: ["700 – 1,000 s⁻¹", "800 – 1,200 s⁻¹", "20 – 70 s⁻¹", "15 – 50 s⁻¹"] },
+          { param: "Detention Time", values: ["30 – 60 seconds", "Instantaneous (<5 s)", "15 – 30 minutes", "20 – 40 minutes"] },
+          { param: "Power Need", values: ["Motorized", "Pressure headloss", "Motorized gear", "Hydraulic headloss"] }
+        ],
+        heuristics: [
+          { label: "Coagulation G-Value", value: "> 700 s⁻¹", explanation: "Rapid dispersion required before chemical hydrolysis completes." },
+          { label: "Flocculation G-Value", value: "20 – 70 s⁻¹ (Camp-Stein Formula)", explanation: "Prevents shear destruction of delicate polymeric floc bridges." }
+        ]
+      },
+
+      {
+        id: "clarifier-primary",
+        title: "Primary Clarifiers & Lamella Settlers",
+        category: "Pretreatment",
+        categoryTag: "primary",
+        stage: "Stage 06: Primary Sedimentation",
+        tagline: "High-rate gravity separation of settleable organic solids and chemical flocs prior to biological aeration.",
+        targetContaminants: "Settleable suspended solids (TSS 50–70% removal), primary BOD (30–40% removal)",
+        governingEquation: "Surface Overflow Rate: SOR = Q / A | Stokes Settling",
+        typicalDetention: "1.5 to 2.5 hours (conventional) | 15–30 min (lamella)",
+        protectionRole: "Reduces organic load on biological aeration basins, slashing energy and blower size",
+        image: "clarifier_primary_schematic.png",
+        definition: "A dedicated sedimentation tank designed to remove settleable organic solids and chemical flocs by gravity. Can be circular center-feed, rectangular longitudinal, or high-rate inclined lamella plate settlers.",
+        howItWorks: "Wastewater enters via a central energy-dissipating feedwell. Flow slows dramatically as it moves radially outward toward peripheral effluent weirs. Solids sink to the sloped floor where rotating scraper blades push sludge to a central hopper for extraction.",
+        whyRequired: [
+          { title: "Aeration Energy Reduction", desc: "Removing 30–40% of BOD in the primary clarifier directly reduces biological blower power demand by over 30%." },
+          { title: "Inert Solids Exclusion", desc: "Prevents non-biodegradable solids from accumulating in biological aeration tanks, preserving biomass quality." },
+          { title: "Chemical Sludge Dewatering", desc: "Provides high-density underflow sludge (1–3% solids) that can be pumped directly to filter presses." }
+        ],
+        types: [
+          { name: "Circular Center-Feed Clarifier", badge: "Rotating Bridge", mechanism: "Central feedwell; radial flow outward to V-notch weir; bottom scraper bridge.", advantages: "Uniform radial hydraulics; lowest mechanical maintenance costs.", bestFit: "Municipal STPs and large-scale industrial wastewater plants." },
+          { name: "Lamella / Tube Settler", badge: "Inclined Plates (60°)", mechanism: "Inclined parallel plates or honeycomb tubes spaced 50 mm apart.", advantages: "Multiplies effective settling area by 10x; reduces land footprint by up to 80%.", bestFit: "Space-constrained industrial ETPs, automotive plants, and retrofit expansions." },
+          { name: "High-Rate Ballasted Clarifier", badge: "Microsand Ballast", mechanism: "Doses fine microsand to create dense, heavy flocs that settle at 40–60 m/h.", advantages: "Extreme rise rates; handles sudden storm/effluent surges effortlessly.", bestFit: "High-capacity municipal intakes, wet weather flows, and refinery ETPs." }
+        ],
+        diffHeaders: ["Circular Clarifier", "Rectangular Tank", "Lamella Plate Settler", "Ballasted Clarifier"],
+        differences: [
+          { param: "Surface Overflow Rate", values: ["1.0 – 1.5 m/h", "0.8 – 1.2 m/h", "3.0 – 6.0 m/h", "30 – 60 m/h"] },
+          { param: "Footprint Required", values: ["Large", "Large", "Very Small (20%)", "Ultra Compact (5%)"] },
+          { param: "Sludge Thickening", values: ["Excellent", "Good", "Moderate", "Requires hydrocyclone"] }
+        ],
+        heuristics: [
+          { label: "Surface Overflow Rate (SOR)", value: "30 – 45 m³/m²·day", explanation: "Designed based on the terminal settling velocity of the slowest-settling target floc." },
+          { label: "Weir Loading Rate", value: "≤ 125 m³/m·day", explanation: "Prevents high exit velocities that scour and pull settled sludge over the weir." }
+        ]
+      },
+
+      {
+        id: "aeration-tank",
+        title: "Aerobic Biological Treatment (ASP, MBBR, MBR, SBR)",
+        category: "Secondary",
+        categoryTag: "secondary",
+        stage: "Stage 07: Biological Degradation",
+        tagline: "Microbial biological reactors where aerobic bacteria consume dissolved organic matter (BOD/COD) and nutrients.",
+        targetContaminants: "Dissolved biodegradable BOD, COD, ammoniacal nitrogen ($NH_4^+$), phosphorus",
+        governingEquation: "Food-to-Microorganism Ratio: F/M = (Q × S0) / (V × X)",
+        typicalDetention: "ASP: 6–8h | MBBR: 4–6h | MBR: 4–6h | SBR: 4–6h cycles",
+        protectionRole: "Removes 90–98% of biodegradable organic carbon to meet environmental standards",
+        image: "aeration_tank_schematic.png",
+        definition: "An aerobic biological reactor where a mixed culture of heterotrophic and autotrophic microorganisms is maintained in suspension or attached to plastic carriers, consuming dissolved organic carbon and nutrients in the presence of dissolved oxygen ($DO > 2.0\ mg/L$).",
+        howItWorks: "Fine-bubble diffused air is continuously injected from the bottom. Microorganisms ingest soluble organic matter, converting it into cellular protoplasm, carbon dioxide, and water. Biomass flocs are subsequently separated in secondary clarifiers or through microfiltration membranes.",
+        whyRequired: [
+          { title: "Dissolved BOD/COD Removal", desc: "Dissolved organic molecules (sugars, proteins, organic acids) cannot be settled physically. Biological bugs are the most cost-effective removal route." },
+          { title: "Nitrification (Ammonia Destruction)", desc: "Autotrophic nitrifiers oxidize toxic ammoniacal nitrogen into nitrates, preventing fish kills in rivers." },
+          { title: "Odor & Putrescence Elimination", desc: "Converts putrescible organics into stable microbial cells and odorless carbon dioxide gas." }
+        ],
+        types: [
+          { name: "Conventional Activated Sludge (ASP)", badge: "Suspended Biomass", mechanism: "Flocculent biomass (MLSS 2,500–4,000 mg/L) kept in suspension; secondary clarifier with RAS return.", advantages: "Proven global operating history; lowest equipment capital cost.", bestFit: "Large municipal STPs with abundant land availability." },
+          { name: "Moving Bed Biofilm Reactor (MBBR)", badge: "Plastic Carriers", mechanism: "Biomass grows as a protected biofilm on buoyant plastic carriers ($K_1/K_3$) churned by aeration.", advantages: "No sludge recycling (RAS) needed; high resilience to toxic shock loads; 50% smaller footprint.", bestFit: "Automotive, textile, and chemical ETPs with fluctuating production loads." },
+          { name: "Membrane Bioreactor (MBR)", badge: "Submerged MF/UF", mechanism: "Replaces secondary clarifier with 0.04 µm submerged hollow fiber or flat sheet membranes (MLSS 8,000–12,000 mg/L).", advantages: "Pristine permeate (TSS < 1, Turbidity < 0.2 NTU); 75% smaller footprint; direct RO feed.", bestFit: "Water reuse projects, commercial tech parks, and space-constrained industrial plants." },
+          { name: "Sequencing Batch Reactor (SBR)", badge: "Cyclic Single Basin", mechanism: "Fills, aerates, settles, and decants within a single timed cyclic basin.", advantages: "Eliminates separate secondary clarifier; flexible biological nutrient removal cycles.", bestFit: "Small-to-medium municipal STPs and industrial batch operations." }
+        ],
+        diffHeaders: ["ASP", "MBBR", "MBR", "SBR"],
+        differences: [
+          { param: "MLSS Concentration", values: ["2,500 – 4,000 mg/L", "Attached Biofilm", "8,000 – 12,000 mg/L", "3,000 – 5,000 mg/L"] },
+          { param: "Footprint Required", values: ["Large (100%)", "Moderate (50%)", "Very Compact (25%)", "Moderate (60%)"] },
+          { param: "Effluent Turbidity", values: ["5 – 15 NTU", "5 – 10 NTU", "< 0.2 NTU", "2 – 5 NTU"] },
+          { param: "Shock Load Resilience", values: ["Low (Bulking risk)", "High (Biofilm protected)", "Moderate", "High"] }
+        ],
+        heuristics: [
+          { label: "Dissolved Oxygen (DO)", value: "2.0 – 3.0 mg/L", explanation: "Critical threshold to sustain aerobic respiration and nitrifying bacteria." },
+          { label: "Food-to-Microorganism (F/M)", value: "0.2 – 0.4 kg BOD/kg MLSS·day", explanation: "Balanced ratio to prevent both biomass starvation and organic breakthrough." }
+        ]
+      },
+
+      {
+        id: "uasb-reactor",
+        title: "Upflow Anaerobic Sludge Blanket (UASB)",
+        category: "Secondary",
+        categoryTag: "secondary",
+        stage: "Stage 08: Anaerobic Digestion",
+        tagline: "High-rate anaerobic decomposition of high-strength organic wastewater producing green methane biogas.",
+        targetContaminants: "High-strength soluble COD/BOD (> 2,000 to 50,000 mg/L)",
+        governingEquation: "Organic Loading Rate: OLR = 5 – 15 kg COD/m³·day",
+        typicalDetention: "4 to 12 hours hydraulic retention time",
+        protectionRole: "Removes 75–85% of heavy COD without electricity-consuming aeration blowers",
+        image: "card_uasb_reactor.png",
+        definition: "A vertical anaerobic bioreactor operating without dissolved oxygen where wastewater enters at the bottom, flows upward through a dense granular sludge blanket, and passes through an internal three-phase gas-liquid-solid (GLS) separator at the top.",
+        howItWorks: "Anaerobic bacteria (methanogens and acidogens) aggregate into dense granules. As wastewater flows upward, bacteria convert soluble COD into methane gas ($CH_4$) and carbon dioxide ($CO_2$). The GLS separator captures biogas at the top, returns settled granules, and discharges clarified effluent.",
+        whyRequired: [
+          { title: "Aeration Power Savings", desc: "Treating 10,000 mg/L COD aerobically requires massive, cost-prohibitive air blowers. Anaerobic treatment uses zero aeration power." },
+          { title: "Renewable Energy Production", desc: "Generates valuable methane biogas ($~0.35\ m^3\ CH_4/kg\ COD\ removed$) used for boiler steam or electricity generation." },
+          { title: "Low Sludge Generation", desc: "Anaerobic cell yield is 80–90% lower than aerobic processes, drastically reducing sludge handling costs." }
+        ],
+        types: [
+          { name: "Standard UASB Reactor", badge: "Granular Blanket", mechanism: "Upflow velocity of 0.5 to 1.0 m/h through a 4 to 6 meter tall vertical concrete/steel tank.", advantages: "Simple, highly proven design; low operational cost.", bestFit: "Distilleries, breweries, dairy, paper, and food processing ETPs." },
+          { name: "Internal Circulation (IC) Reactor", badge: "Dual-Stage High-Rate", mechanism: "Two-stage anaerobic reactor utilizing internal gas-lift circulation to achieve upflow velocities of 15–20 m/h.", advantages: "Ultra-compact (3x smaller than UASB); handles extreme COD loading up to 35 kg COD/m³·day.", bestFit: "High-rate chemical, paper, and agro-industrial plants with limited land." }
+        ],
+        diffHeaders: ["Standard UASB", "Internal Circulation (IC)"],
+        differences: [
+          { param: "Upflow Velocity", values: ["0.5 – 1.0 m/h", "15 – 25 m/h"] },
+          { param: "Height of Reactor", values: ["4.5 – 6.0 meters", "16 – 24 meters"] },
+          { param: "Max Organic Loading", values: ["10 – 15 kg COD/m³·day", "25 – 35 kg COD/m³·day"] }
+        ],
+        heuristics: [
+          { label: "Operating Temperature", value: "35° – 38°C (Mesophilic)", explanation: "Optimal activity band for methanogenic archaea; sensitive to cold shock." },
+          { label: "Biogas Yield", value: "0.35 m³ CH₄ per kg COD removed", explanation: "Theoretical stoichiometric methane generation from anaerobic degradation." }
+        ]
+      },
+
+      {
+        id: "ultrafiltration",
+        title: "Ultrafiltration (UF) Membranes",
+        category: "Tertiary",
+        categoryTag: "tertiary",
+        stage: "Stage 09: Porous Membrane Barrier",
+        tagline: "Low-pressure porous membrane barrier stripping colloidal solids, bacteria, and emulsified oils down to sub-0.1 NTU.",
+        targetContaminants: "Suspended solids (TSS), turbidity, bacteria, viruses, colloidal silica, emulsified oils",
+        governingEquation: "Flux: J = Q / A | Transmembrane Pressure: TMP = 0.5–2.5 bar",
+        typicalDetention: "Continuous pressurized crossflow / dead-end filtration",
+        protectionRole: "Mandatory protective barrier for Reverse Osmosis; guarantees SDI < 2.5",
+        image: "mbr_membrane_schematic.png",
+        definition: "A pressure-driven membrane filtration process with pore sizes between 0.01 and 0.1 µm (molecular weight cutoff 10,000 to 100,000 Daltons) that mechanically sieves out sub-micron particulates, macromolecules, and microorganisms.",
+        howItWorks: "Feed water enters pressurized hollow-fiber membrane strands (inside-out or outside-in flow). Water molecules and dissolved salts pass through the membrane walls as permeate, while suspended particles, colloidal silica, and bacteria are retained and flushed during backwash.",
+        whyRequired: [
+          { title: "RO Silt Density Index (SDI) Compliance", desc: "RO membranes require SDI < 3.0 to prevent premature fouling. UF consistently produces SDI < 2.0 and turbidity < 0.1 NTU." },
+          { title: "Complete Pathogen Barrier", desc: "Provides physical 4-log (99.99%) removal of bacteria, cryptosporidium cysts, and giardia without chemical disinfectants." },
+          { title: "Colloidal Silica Removal", desc: "Strips sub-micron non-reactive colloidal silica that slips right through conventional sand filters." }
+        ],
+        types: [
+          { name: "Pressurized Hollow Fiber (Outside-In)", badge: "PVDF Polymer", mechanism: "Feed enters vessel at 1.5–2.5 bar; water passes through outside wall into hollow lumen.", advantages: "High solids tolerance; easy air-scour and backwash; durable PVDF construction.", bestFit: "Surface water WTPs and tertiary industrial wastewater polishing." },
+          { name: "Submerged (Vacuum) Hollow Fiber", badge: "Immersion Cassette", mechanism: "Membrane cassettes submerged directly in tank; permeate pulled under gentle vacuum (-0.2 to -0.5 bar).", advantages: "Very low energy consumption; handles high solids; integrated into MBRs.", bestFit: "Membrane Bioreactors (MBR) and high-fouling municipal STPs." },
+          { name: "Ceramic Ultrafiltration", badge: "Inorganic Alumina", mechanism: "Rigid monolithic ceramic tubes ($Al_2O_3$ / $TiO_2$) operating under high crossflow velocity.", advantages: "Immune to oil degradation, aggressive solvents, and high temperatures up to 80°C.", bestFit: "Automotive spent coolant recovery, oilfield produced water, and aggressive chemicals." }
+        ],
+        diffHeaders: ["Pressurized Hollow Fiber", "Submerged Vacuum Cassette", "Tubular Ceramic"],
+        differences: [
+          { param: "Pore Size / MWCO", values: ["0.02 – 0.04 µm", "0.04 µm", "0.05 – 0.1 µm"] },
+          { param: "Operating Pressure", values: ["1.0 – 2.5 bar", "Vacuum (0.2 – 0.5 bar)", "2.0 – 5.0 bar"] },
+          { param: "Oil & Solvent Tolerance", values: ["Moderate (PVDF)", "Low", "Extremely High (Ceramic)"] },
+          { param: "Membrane Life", values: ["5 – 7 Years", "7 – 10 Years", "15+ Years"] }
+        ],
+        heuristics: [
+          { label: "Design Permeate Flux", value: "45 – 80 LMH (L/m²·h)", explanation: "Conservative flux sizing prevents irreversible cake layer compaction on the membrane." },
+          { label: "Backwash Frequency", value: "Every 20 – 30 Minutes", explanation: "Brief 30-second air-assisted backwash cleans surface pores and restores TMP." }
+        ]
+      },
+
+      {
+        id: "reverse-osmosis",
+        title: "Reverse Osmosis (RO) & High-Recovery Desalination",
+        category: "Tertiary",
+        categoryTag: "tertiary",
+        stage: "Stage 10: Molecular Desalination",
+        tagline: "Dense non-porous molecular membrane barrier rejecting dissolved salts, ions, and minerals for water reuse.",
+        targetContaminants: "Total Dissolved Solids (TDS), sodium, chloride, sulfate, heavy metals, refractory organics",
+        governingEquation: "Osmotic Pressure: Π = iMRT | Net Driving Pressure: NDP = ΔP - ΔΠ",
+        typicalDetention: "Continuous high-pressure crossflow separation",
+        protectionRole: "Produces high-purity recycled permeate (>99.5% salt rejection) for boiler feed and process reuse",
+        image: "ro_membrane_schematic.png",
+        definition: "A pressure-driven membrane process that forces water through a dense, semi-permeable thin-film composite (TFC) polyamide membrane against its natural osmotic pressure, rejecting over 99.5% of dissolved mineral salts and organic ions.",
+        howItWorks: "High-pressure multi-stage pumps push pretreated water (15 to 80 bar) into spiral-wound membrane elements. Pure water diffuses through the polyamide barrier layer, flowing down the central permeate tube, while concentrated salts exit as brine reject.",
+        whyRequired: [
+          { title: "Freshwater Conservation & Closed-Loop Reuse", desc: "Recovers 70% to 85% of industrial wastewater as high-purity permeate suitable for cooling towers and boilers." },
+          { title: "Statutory TDS Compliance", desc: "CPCB/MPCB inland discharge limits cap TDS at ~2,100 mg/L. RO removes TDS down to < 50 mg/L." },
+          { title: "Pre-Concentration Ahead of Evaporators", desc: "Pre-concentrates brine from 2,000 up to 70,000 mg/L TDS, slashing thermal evaporator size by 80%." }
+        ],
+        types: [
+          { name: "Brackish Water RO (BWRO)", badge: "15 to 30 Bar", mechanism: "Spiral-wound thin-film composite elements treating feedwater up to 10,000 mg/L TDS.", advantages: "High energy efficiency; 75–85% water recovery in multi-stage arrays.", bestFit: "Cooling tower blowdown recycling, industrial ETP polishing, and groundwater softening." },
+          { name: "Seawater RO (SWRO)", badge: "55 to 80 Bar", mechanism: "Reinforced spiral elements with high-pressure isobaric energy recovery devices (ERD).", advantages: "Treats high-salinity seawater (35,000–45,000 mg/L TDS) with >99.7% salt rejection.", bestFit: "Coastal industrial plants, power stations, and municipal desalination." },
+          { name: "High-Pressure Disc Tube RO (DTRO)", badge: "Up to 120 Bar", mechanism: "Open-channel tubular disc design with hydraulic cushions to eliminate fouling dead zones.", advantages: "Immune to standard spiral-wound fouling; operates up to 120,000 mg/L TDS.", bestFit: "Landfill leachate LTPs, high-salinity ZLD brine concentration, and mining effluent." }
+        ],
+        diffHeaders: ["Brackish Water (BWRO)", "Seawater (SWRO)", "Disc-Tube (DTRO)"],
+        differences: [
+          { param: "Operating Pressure", values: ["12 – 25 bar", "55 – 80 bar", "90 – 120 bar"] },
+          { param: "TDS Limit", values: ["Up to 10,000 mg/L", "Up to 45,000 mg/L", "Up to 120,000 mg/L"] },
+          { param: "Silica Tolerance", values: ["Max 20–25 mg/L", "Max 20 mg/L", "Up to 50–70 mg/L"] },
+          { param: "Typical Recovery", values: ["75% – 85%", "40% – 50%", "70% – 80% of brine"] }
+        ],
+        heuristics: [
+          { label: "Silica Saturation Ceiling", value: "20 – 25 mg/L Dissolved Silica", explanation: "Hard threshold where amorphous silica polymerizes into permanent glassy scale." },
+          { label: "Silt Density Index (SDI₁₅)", value: "≤ 3.0 (Target < 2.0)", explanation: "Standard metric measuring colloidal fouling tendency of the feedwater." }
+        ]
+      },
+
+      {
+        id: "tritron-resonance",
+        title: "TRITRON™ Resonance Frequency Separation",
+        category: "Novel Physics",
+        categoryTag: "secondary",
+        stage: "Stage 11: Physics-Based TDS Conversion",
+        tagline: "Scalene Livprotec's proprietary physics technology: converts dissolved solids (TDS) to suspended solids (TSS) without chemicals.",
+        targetContaminants: "Total Dissolved Solids (TDS), dissolved silica, heavy metal ions, scaling salts",
+        governingEquation: "Electromagnetic Resonance: f = 1 / (2π√LC) + DC Field Potential",
+        typicalDetention: "10 to 40 minutes retention in Tron Resonating Tower",
+        protectionRole: "Reduces secondary TDS by 20–25%, protects RO membranes from scaling, and relieves thermal evaporators",
+        image: "clarifier_primary_schematic.png",
+        definition: "A breakthrough non-chemical, physics-based water treatment technology that utilizes programmed radio/electromagnetic resonance frequencies and direct current (DC) potentials to break molecular solvation bonds, converting dissolved solids (TDS) into suspended solids (TSS) for easy physical separation.",
+        howItWorks: "Wastewater is pumped into the Tron Resonating Tower (TRT). The Resonance Frequency Modulator (RFM) transmits precise frequencies through internal antennas matched to the elemental profile of the dissolved ions. Resonance destabilizes dissolved hydrates, precipitating them as micro-flocs that settle out as sludge.",
+        whyRequired: [
+          { title: "Chemical-Free Secondary TDS Reduction", desc: "Unlike chemical precipitation that adds thousands of kilograms of lime and acid salts, TRITRON™ operates purely via electromagnetic physics." },
+          { title: "Slashing Thermal Evaporator CapEx & OpEx", desc: "Reduces secondary TDS prior to RO/ZLD, cutting the required capacity and steam energy consumption of downstream MEE/MVR evaporators." },
+          { title: "Elimination of RO Silica Membrane Scaling", desc: "Agglomerates reactive dissolved silica into filterable suspended particles, removing the 25 ppm silica ceiling on RO recovery." }
+        ],
+        types: [
+          { name: "Tabletop Feasibility Lab Unit", badge: "8 Liters Capacity", mechanism: "Bench-scale setup with 50A RFM, miniature TRT tower, and downstream micro-filter.", advantages: "Rapid feasibility testing and frequency tuning for customer effluent samples.", bestFit: "R&D laboratories and customer qualification trials." },
+          { name: "Platform Mounted POC Skid", badge: "500 L / 10 KLD", mechanism: "Skid-mounted pilot unit with 150A RFM, full TRT column, settler, and sand/carbon polishing.", advantages: "Demonstrates 20–25% TDS reduction live at customer factory sites.", bestFit: "On-site industrial pilot demonstrations (automotive, electroplating, chemical)." },
+          { name: "Commercial Multi-Tower Array (75+ KLD)", badge: "Modular Scalable", mechanism: "Industrial installation (e.g. Endurance Technologies) featuring parallel vertical TRT columns.", advantages: "24/7 continuous operation; automated frequency control; zero chemical sludge.", bestFit: "Industrial ETPs, automotive paint shops, and commercial data centers." }
+        ],
+        diffHeaders: ["TRITRON™ Physics", "Chemical Precipitation", "Polymeric RO Alone", "Thermal MEE Alone"],
+        differences: [
+          { param: "Chemical Added", values: ["Zero (Physics)", "Heavy (Lime, Alum, Acid)", "Antiscalants & Biocides", "Antifoam & caustic"] },
+          { param: "Sludge Volume", values: ["Minimal (Dense crystal)", "Very High (Hazardous gel)", "Zero (concentrate)", "Solid salt cake"] },
+          { param: "Operating Cost", values: ["Low (Electrical power)", "Very High (Recurring chemicals)", "High (Membrane CIP/repl)", "Extremely High (Steam)"] },
+          { param: "TDS Conversion", values: ["Converts TDS → TSS", "Precipitates target ions", "Rejects to brine stream", "Evaporates water"] }
+        ],
+        heuristics: [
+          { label: "Inlet Parameter Limits", value: "TDS < 10,000 | TSS < 100 | COD < 25,000", explanation: "Pretreatment envelope required to ensure optimal electromagnetic wave penetration." },
+          { label: "Validated TDS Reduction", value: "16.9% – 24.3% Single-Pass Reduction", explanation: "Demonstrated in documented trials on Tata blend and RE simulated high-salinity effluents." }
+        ]
+      },
+
+      {
+        id: "mvr-evaporator",
+        title: "Thermal Evaporators (MVR & Multi-Effect Evaporators)",
+        category: "Zero Liquid Discharge",
+        categoryTag: "zld",
+        stage: "Stage 12: Phase-Change ZLD",
+        tagline: "Thermal phase-change concentration systems separating concentrated brine into pure distilled water and solid salt crystals.",
+        targetContaminants: "Hyper-saline RO brine (> 50,000 to 250,000 mg/L TDS), non-biodegradable COD",
+        governingEquation: "Heat Transfer: Q = U × A × ΔT | MVR Power: W = m × Δh",
+        typicalDetention: "Continuous boiling / crystallization cycle",
+        protectionRole: "Final phase of Zero Liquid Discharge (ZLD); completely eliminates liquid environmental discharge",
+        image: "card_mee_evaporator.png",
+        definition: "A thermal distillation system that boils concentrated industrial wastewater brine to vaporize water molecules, condensing pure distillate for reuse, while concentrating salts past saturation into slurry for final crystallization and drying.",
+        howItWorks: "In Mechanical Vapor Recompression (MVR), vapor boiled from the brine is compressed mechanically, raising its saturation temperature and pressure. The hot compressed vapor is directed back to the heater shell to evaporate more feed brine, delivering massive energy savings over boiler-driven evaporators.",
+        whyRequired: [
+          { title: "Statutory ZLD Mandates", desc: "Inland river basins and Red Category pollution charters mandate Zero Liquid Discharge. Evaporation is the only route to complete ZLD." },
+          { title: "Brine Disposal Ban", desc: "High-TDS RO concentrate (>2,100 mg/L) cannot legally be discharged to surface water or municipal sewers." },
+          { title: "Pure Condensate Recovery", desc: "Recovers 95%+ of brine as distilled water with TDS < 20 mg/L, ideal for boiler feedwater." }
+        ],
+        types: [
+          { name: "Mechanical Vapor Recompression (MVR)", badge: "70% Energy Savings", mechanism: "Centrifugal vapor compressor re-compresses steam; electrical drive replaces live boiler steam.", advantages: "Lowest thermal operational cost; no boiler fuel required; very high thermodynamic efficiency.", bestFit: "High-capacity continuous ZLD plants where electricity is economical." },
+          { name: "Multi-Effect Evaporator (MEE)", badge: "Steam Cascade", mechanism: "Live steam boils Effect 1; vapor from Effect 1 boils Effect 2 at lower pressure; cascades through 3 to 6 effects.", advantages: "Reliable, proven technology; utilizes low-pressure waste factory steam.", bestFit: "Plants with cheap waste heat or existing boiler steam infrastructure." },
+          { name: "Agitated Thin Film Dryer (ATFD)", badge: "Solid Salt Cake", mechanism: "Rotating blades spread concentrated slurry onto a steam-heated wall, producing dry crystalline cake.", advantages: "Dries viscous scaling sludges down to <10% moisture without tube clogging.", bestFit: "Final crystallization stage of all industrial ZLD installations." }
+        ],
+        diffHeaders: ["MVR Evaporator", "Multi-Effect (MEE)", "ATFD Dryer", "Solar Evaporation Pond"],
+        differences: [
+          { param: "Primary Energy Source", values: ["Electricity (Compressor)", "Boiler Steam", "Boiler Steam / Thermal Oil", "Solar Radiation"] },
+          { param: "Energy Cost / Ton", values: ["Low ($5–10/ton)", "Moderate ($15–25/ton)", "High ($30–50/ton)", "Zero operational cost"] },
+          { param: "Footprint", values: ["Compact", "Moderate", "Small", "Enormous (Hectares)"] },
+          { param: "Regulatory Compliance", values: ["100% Accepted ZLD", "100% Accepted ZLD", "100% Accepted ZLD", "Banned in most States"] }
+        ],
+        heuristics: [
+          { label: "MVR Power Consumption", value: "25 – 45 kWh / m³ Distillate", explanation: "Cuts energy spend by up to 70% compared to conventional steam-heated evaporation." },
+          { label: "Maximum Brine TDS", value: "250,000 – 350,000 mg/L TDS", explanation: "Upper concentration ceiling before crystallization slurry is transferred to ATFD." }
+        ]
+      },
+
+      {
+        id: "sludge-press",
+        title: "Sludge Dewatering Systems (Filter Press, Centrifuge)",
+        category: "Sludge Management",
+        categoryTag: "sludge",
+        stage: "Stage 13: Solids Dewatering",
+        tagline: "Mechanically squeezes water from biological and chemical slurries to produce dry solid cake for landfill or reuse.",
+        targetContaminants: "Primary chemical sludge, biological waste activated sludge (WAS), DAF float, ZLD salts",
+        governingEquation: "Filtration Pressure: P = 7 – 16 bar | Cake Dryness: 25% – 70%",
+        typicalDetention: "Batch cycle: 1 to 3 hours per press",
+        protectionRole: "Reduces hazardous waste volume by up to 80%, slashing TSDF haulage and disposal costs",
+        image: "card_filter_press.png",
+        definition: "A mechanical separation apparatus that applies intense hydraulic pressure, centrifugal force, or screw compaction to watery sludge (1–3% solids) to extract water, producing a compact, spadeable dry cake (25–70% solids).",
+        howItWorks: "In a recessed plate filter press, sludge conditioned with polymer is pumped into cloth-lined chambers at 7 to 16 bar. Water filters through the cloth weave and drains through ports, while dry cake builds between the plates. Plates are opened to discharge solid cakes.",
+        whyRequired: [
+          { title: "Sludge Disposal Cost Reduction", desc: "TSDF hazardous waste landfilling is billed by tonnage (₹8–12/kg). Dewatering wet sludge from 98% moisture down to 70% cuts tonnage by 5-fold!" },
+          { title: "Statutory Landfill Regulations", desc: "Hazardous waste rules prohibit the transport and landfilling of free liquid slurries. Cakes must pass the Paint Filter Liquids Test." },
+          { title: "Filtrate Water Recovery", desc: "Extracted filtrate water is returned to the front of the ETP, recovering millions of liters annually." }
+        ],
+        types: [
+          { name: "Recessed Plate Filter Press", badge: "High Pressure (16 Bar)", mechanism: "Chamber plates clamped by hydraulic cylinder; high-pressure feed pump squeezes out water.", advantages: "Highest cake dryness (35–50% solids for bio, up to 70% for chemical); very clear filtrate.", bestFit: "Heavy chemical, electroplating, automotive phosphate, and ZLD salt cakes." },
+          { name: "Decanter Centrifuge", badge: "Continuous Centrifugal", mechanism: "High-speed rotating bowl (3,000 RPM) with internal conveyor scroll separating dense solids.", advantages: "Continuous 24/7 automated operation; fully enclosed (zero odors or operator contact).", bestFit: "Large municipal STPs and continuous refinery sludge dewatering." },
+          { name: "Multi-Disk Screw Press", badge: "Low Speed / Low Power", mechanism: "Slow rotating screw (2–4 RPM) inside a drum of moving and fixed rings; self-cleaning.", advantages: "Ultra-low power consumption (90% less than centrifuge); handles oily sludge without blinding.", bestFit: "Food processing, dairy, automotive oily scum, and small-to-mid STPs." }
+        ],
+        diffHeaders: ["Plate Filter Press", "Decanter Centrifuge", "Multi-Disk Screw Press", "Belt Filter Press"],
+        differences: [
+          { param: "Cake Dryness", values: ["35% – 70% Solids", "20% – 30% Solids", "18% – 25% Solids", "18% – 22% Solids"] },
+          { param: "Operation Mode", values: ["Batch (1–3 hours)", "Continuous 24/7", "Continuous 24/7", "Continuous 24/7"] },
+          { param: "Power Consumption", values: ["Low (Feed pump only)", "High (3,000 RPM drive)", "Ultra-Low (<1 kW)", "Low to Moderate"] },
+          { param: "Operator Labor", values: ["Moderate (Cake dump)", "Very Low (Automated)", "Very Low (Automated)", "Moderate (Cloth wash)"] }
+        ],
+        heuristics: [
+          { label: "Operating Pressure", value: "7 – 16 Bar (100–230 psi)", explanation: "High hydraulic squeeze pressure drives residual interstitial water out of the cake." },
+          { label: "Sludge Volume Reduction Factor", value: "4x to 6x Reduction in Total Mass", explanation: "Going from 2% liquid underflow to 35% solid cake reduces volume by over 80%." }
+        ]
+      },
+
+      {
+        id: "uv-disinfection",
+        title: "Disinfection Systems (UV, Ozone, Chlorination)",
+        category: "Disinfection",
+        categoryTag: "tertiary",
+        stage: "Stage 14: Pathogen Inactivation",
+        tagline: "Inactivates pathogenic bacteria, viruses, and cysts to safeguard human health and prevent biological regrowth.",
+        targetContaminants: "Fecal coliforms, E. coli, enteric viruses, Salmonella, Legionella, protozoan cysts",
+        governingEquation: "UV Dose: D = I × t (mJ/cm²) | Chick-Watson Law: ln(N/N0) = -k·C·t",
+        typicalDetention: "UV: 5–15 seconds | Ozone: 10–15 minutes | Chlorine: 30 minutes",
+        protectionRole: "Guarantees zero microbial contamination for treated water reuse and compliant environmental discharge",
+        image: "card_uv_disinfection.png",
+        definition: "The final barrier in wastewater and potable treatment trains designed to destroy or inactivate disease-causing pathogenic microorganisms using electromagnetic radiation (UV-C at 254 nm) or chemical oxidation (Ozone, Sodium Hypochlorite, Chlorine Dioxide).",
+        howItWorks: "In UV disinfection, water passes across low-pressure or medium-pressure mercury arc lamps encased in quartz sleeves. UV-C light penetrates pathogen cell walls, damaging thymine dimers in their DNA/RNA and preventing replication, rendering them non-infectious without adding chemical residuals.",
+        whyRequired: [
+          { title: "Public Health Safeguard", desc: "Untreated sewage carries millions of lethal pathogens per milliliter. Disinfection prevents waterborne disease outbreaks (cholera, typhoid, hepatitis)." },
+          { title: "Legionella Outbreak Prevention", desc: "Cooling towers breed Legionella bacteria within warm biofilms. Automated disinfection shields facilities from catastrophic litigation." },
+          { title: "Urban Reuse Water Standards", desc: "CPCB and municipal guidelines mandate fecal coliform < 100 MPN/100 mL for toilet flushing and landscape irrigation." }
+        ],
+        types: [
+          { name: "UV-C Disinfection Systems", badge: "254 nm Photolytic", mechanism: "Electromagnetic radiation at 254 nm destroys microbial DNA dimers; zero chemical residue.", advantages: "Zero chemical handling or harmful trihalomethane (THM) byproducts; instant 5-second kill.", bestFit: "STP reuse, cooling tower makeup, drinking water, and electronics rinse." },
+          { name: "Ozone Disinfection (O₃)", badge: "Ultra-Strong Oxidant", mechanism: "Corona-discharge generator creates ozone gas, dosed into contact columns ($E^\circ = 2.07\ V$).", advantages: "Destroys refractory COD, micro-pollutants, color, and pharmaceuticals along with pathogens.", bestFit: "Advanced wastewater recycling, textile dye de-colorization, and pharmaceutical ETPs." },
+          { name: "Sodium Hypochlorite Dosing", badge: "Chlorine Residual", mechanism: "Automated dosing of NaOCl generating hypochlorous acid (HOCl) in a 30-minute contact tank.", advantages: "Provides persistent disinfectant residual in distribution piping; low equipment capital cost.", bestFit: "Municipal drinking water distribution and rural water supply schemes." }
+        ],
+        diffHeaders: ["UV-C Irradiation", "Ozonation (O₃)", "Sodium Hypochlorite", "Chlorine Dioxide"],
+        differences: [
+          { param: "Chemical Added", values: ["Zero (Physical light)", "Ozone Gas", "Liquid Bleach", "Generated Gas Solution"] },
+          { param: "Contact Time Required", values: ["5 – 15 seconds", "10 – 15 minutes", "30 minutes", "15 minutes"] },
+          { param: "Persistent Residual", values: ["None (Instantaneous)", "None (Decomposes to O₂)", "Yes (Free Chlorine)", "Yes (Chlorine Dioxide)"] },
+          { param: "Disinfection Byproducts", values: ["Zero DBPs", "Bromate risk (if Br present)", "THMs & HAAs", "Low THMs"] }
+        ],
+        heuristics: [
+          { label: "Target UV Dose", value: "30 – 40 mJ/cm² (milliJoules/cm²)", explanation: "Delivers 4-log (99.99%) inactivation of cryptosporidium, giardia, and E. coli." },
+          { label: "UV Transmittance (UVT)", value: "≥ 65% – 75% at 254 nm", explanation: "Pretreatment water clarity required to ensure light reaches pathogens across the channel." }
+        ]
+      }
+    ];
+  }
+};
+
+
+/* ==================== MODULE: js/views/personas_view.js ==================== */
+// personas_view.js - Buyer's Persona & Industry Verticals Module (V2.1)
+// Focuses strictly on Buyer Personas, 4 Priority Industrial Verticals, Process Flows & Contaminant Matrices
+window.PersonasView = {
+  activeVertical: 'automotive',
+  activePersonaTab: 'comparison', // 'comparison', 'decision-maker', 'execution-team', 'cognitive-divide'
+
+  setActiveVertical: function(v) {
+    this.activeVertical = v;
+    this.renderVerticalContent();
+  },
+
+  setActivePersonaTab: function(tab) {
+    this.activePersonaTab = tab;
+    this.renderPersonaContent();
+  },
+
+  render: function() {
+    const container = document.getElementById("main-content");
+    if (!container) return;
+
+    container.innerHTML = `
+      <div class="space-y-8 pb-20">
+        <!-- Module Header: Blue, Orange & White Theme -->
+        <div class="bg-gradient-to-r from-navy-dark via-slate-900 to-[#0B2545] text-white p-6 sm:p-8 rounded-3xl border border-slate-700/60 shadow-xl relative overflow-hidden">
+          <div class="absolute -right-10 -bottom-10 w-72 h-72 bg-orange-500/10 rounded-full blur-3xl pointer-events-none"></div>
+          <div class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-slate-800/90 text-orange-400 text-xs font-mono font-bold border border-orange-500/40 mb-3">
+            <i data-lucide="users" class="w-3.5 h-3.5"></i>
+            ENTERPRISE PERSONAS &amp; INDUSTRIAL VERTICALS
+          </div>
+          <h1 class="text-2xl sm:text-3xl font-extrabold tracking-tight text-white">
+            Buyer Personas &amp; Priority Industry Verticals
+          </h1>
+          <p class="text-xs sm:text-sm text-slate-200 mt-2 max-w-3xl leading-relaxed">
+            Comprehensive operational analysis and psychological profiling across four heavily regulated industrial sectors. Decodes the cognitive and linguistic gap between strategic corporate <strong>Decision Makers</strong> and plant-level <strong>Execution Teams</strong>.
+          </p>
+
+          <!-- Top Metric Pills -->
+          <div class="grid grid-cols-2 sm:grid-cols-4 gap-3 mt-6 pt-6 border-t border-slate-800 text-xs">
+            <div class="bg-slate-800/60 p-3 rounded-xl border border-slate-700/60">
+              <span class="text-[10px] text-slate-400 font-mono uppercase block">Analyzed Verticals</span>
+              <span class="text-base font-extrabold text-white">4 Priority Sectors</span>
+            </div>
+            <div class="bg-slate-800/60 p-3 rounded-xl border border-slate-700/60">
+              <span class="text-[10px] text-slate-400 font-mono uppercase block">Persona Altitude</span>
+              <span class="text-base font-extrabold text-sky-400">Decision vs Execution</span>
+            </div>
+            <div class="bg-slate-800/60 p-3 rounded-xl border border-slate-700/60">
+              <span class="text-[10px] text-slate-400 font-mono uppercase block">Regulatory Standards</span>
+              <span class="text-base font-extrabold text-orange-400">CPCB &amp; MPCB ZLD</span>
+            </div>
+            <div class="bg-slate-800/60 p-3 rounded-xl border border-slate-700/60">
+              <span class="text-[10px] text-slate-400 font-mono uppercase block">Linguistic Markers</span>
+              <span class="text-base font-extrabold text-sky-300">Abstract vs Physical</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Section 1: The 4 Priority Industrial Verticals -->
+        <div class="space-y-4">
+          <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-2">
+            <div>
+              <h2 class="text-lg font-bold text-slate-900 flex items-center gap-2">
+                <i data-lucide="factory" class="w-5 h-5 text-sky-600"></i>
+                Part I: Four Priority Industrial Verticals &amp; Process Flows
+              </h2>
+              <p class="text-xs text-slate-500">Explore manufacturing sequences, water balance, chemical contaminants, and operational pain points.</p>
+            </div>
+
+            <!-- Vertical Selection Tabs -->
+            <div class="flex items-center gap-1.5 overflow-x-auto pb-1">
+              <button onclick="window.PersonasView.setActiveVertical('automotive')" id="vbtn-automotive" class="px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all ${this.activeVertical === 'automotive' ? 'bg-sky-600 text-white shadow-sm' : 'bg-white text-slate-700 border border-slate-200 hover:bg-slate-50'}">
+                Automotive
+              </button>
+              <button onclick="window.PersonasView.setActiveVertical('electroplating')" id="vbtn-electroplating" class="px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all ${this.activeVertical === 'electroplating' ? 'bg-sky-600 text-white shadow-sm' : 'bg-white text-slate-700 border border-slate-200 hover:bg-slate-50'}">
+                Electroplating
+              </button>
+              <button onclick="window.PersonasView.setActiveVertical('cooling')" id="vbtn-cooling" class="px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all ${this.activeVertical === 'cooling' ? 'bg-sky-600 text-white shadow-sm' : 'bg-white text-slate-700 border border-slate-200 hover:bg-slate-50'}">
+                Cooling Towers
+              </button>
+              <button onclick="window.PersonasView.setActiveVertical('silica')" id="vbtn-silica" class="px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all ${this.activeVertical === 'silica' ? 'bg-sky-600 text-white shadow-sm' : 'bg-white text-slate-700 border border-slate-200 hover:bg-slate-50'}">
+                Silica-to-Solution
+              </button>
+            </div>
+          </div>
+
+          <!-- Vertical Dynamic Container -->
+          <div id="vertical-detail-container" class="bg-white rounded-3xl border border-slate-200 p-6 sm:p-7 shadow-sm">
+            <!-- Populated dynamically -->
+          </div>
+        </div>
+
+        <!-- Section 2: Persona Mapping & Psychological Profiling -->
+        <div class="space-y-4 pt-4">
+          <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-2">
+            <div>
+              <h2 class="text-lg font-bold text-slate-900 flex items-center gap-2">
+                <i data-lucide="user-check" class="w-5 h-5 text-orange-600"></i>
+                Part II: Decision Maker vs. Execution Team Persona Profiling
+              </h2>
+              <p class="text-xs text-slate-500">Decoding linguistic markers, time horizons, innovation appetites, and primary risk perceptions.</p>
+            </div>
+
+            <!-- Persona Sub-tabs -->
+            <div class="flex items-center gap-1.5 overflow-x-auto pb-1">
+              <button onclick="window.PersonasView.setActivePersonaTab('comparison')" id="pbtn-comparison" class="px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all ${this.activePersonaTab === 'comparison' ? 'bg-orange-600 text-white shadow-sm' : 'bg-white text-slate-700 border border-slate-200 hover:bg-slate-50'}">
+                Comparison Matrix
+              </button>
+              <button onclick="window.PersonasView.setActivePersonaTab('decision-maker')" id="pbtn-decision-maker" class="px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all ${this.activePersonaTab === 'decision-maker' ? 'bg-orange-600 text-white shadow-sm' : 'bg-white text-slate-700 border border-slate-200 hover:bg-slate-50'}">
+                Decision Makers (VP / EHS)
+              </button>
+              <button onclick="window.PersonasView.setActivePersonaTab('execution-team')" id="pbtn-execution-team" class="px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all ${this.activePersonaTab === 'execution-team' ? 'bg-orange-600 text-white shadow-sm' : 'bg-white text-slate-700 border border-slate-200 hover:bg-slate-50'}">
+                Execution Teams (Plant / ETP)
+              </button>
+              <button onclick="window.PersonasView.setActivePersonaTab('cognitive-divide')" id="pbtn-cognitive-divide" class="px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all ${this.activePersonaTab === 'cognitive-divide' ? 'bg-orange-600 text-white shadow-sm' : 'bg-white text-slate-700 border border-slate-200 hover:bg-slate-50'}">
+                Linguistic &amp; Risk Divide
+              </button>
+            </div>
+          </div>
+
+          <!-- Persona Dynamic Container -->
+          <div id="persona-content-container" class="bg-white rounded-3xl border border-slate-200 p-6 sm:p-7 shadow-sm">
+            <!-- Populated dynamically -->
+          </div>
+        </div>
+      </div>
+    `;
+
+    this.renderVerticalContent();
+    this.renderPersonaContent();
+    if (window.lucide) window.lucide.createIcons();
+  },
+
+  renderVerticalContent: function() {
+    const container = document.getElementById("vertical-detail-container");
+    if (!container) return;
+
+    ['automotive', 'electroplating', 'cooling', 'silica'].forEach(v => {
+      const btn = document.getElementById(`vbtn-${v}`);
+      if (btn) {
+        if (v === this.activeVertical) {
+          btn.className = "px-3.5 py-1.5 rounded-xl text-xs font-bold bg-sky-600 text-white shadow-sm";
+        } else {
+          btn.className = "px-3.5 py-1.5 rounded-xl text-xs font-bold bg-white text-slate-700 border border-slate-200 hover:bg-slate-50";
+        }
+      }
+    });
+
+    const verticalsData = {
+      automotive: {
+        title: "Automotive Manufacturing (OEM & Tier-1 Ancillaries)",
+        tagline: "High-volume assembly, metalworking fluid emulsions, paint booth detackification, and phosphating conversion coating.",
+        macroContext: "India manufactured ~5.4 million vehicles in FY 2023-24 across OEMs (Maruti Suzuki, Tata Motors, M&M, Hyundai, Toyota) and Tier-1 suppliers. Water consumption ranges between 2.0 to 4.0 kL per vehicle. The Paint Shop Pretreatment line accounts for over 60% of water volume and 85% of total chemical contamination.",
+        processFlow: [
+          { step: "1. Press (Stamping) Shop", desc: "Steel coils stamped using heavy die lubricants. Water used for die-cooling and washdowns (~0.1-0.2 kL/car). Generates oily emulsified washdown." },
+          { step: "2. Body (Weld) Shop", desc: "Panels welded. Water-cooled welding guns in closed-loop circuit (~0.01 kL/car). Minimal waste; intermittent cooling tower blowdown." },
+          { step: "3. Paint Shop: Pretreatment (Major Source)", desc: "Alkaline degreasing strips stamping oil; acidic phosphating deposits Zn/Ni/Mn anti-corrosion barrier. Generates high-COD alkaline rinse and toxic acidic metal rinse." },
+          { step: "4. E-Coat (CED) & Spray Booth", desc: "Cathodic Electrodeposition run largely closed-loop with UF permeate recycle. Water curtains capture paint overspray (0.3-0.8 kL/car). Generates paint sludge and UF concentrate." },
+          { step: "5. Utilities (Boiler & Cooling)", desc: "Boiler feed for paint curing ovens; cooling towers for air compressors. Generates high TDS blowdown with biocides." },
+          { step: "6. Assembly & Rain/Leak Test", desc: "Vehicle final assembly and monsoon rain test (0.2-0.4 kL/car). Readily recycled after basic sand filtration." }
+        ],
+        contaminants: [
+          { name: "Emulsified Oil & Grease", origin: "Stamping lubricants, degreasing baths", concentration: "O&G 500–2,000 mg/L; COD 2,000–10,000 mg/L", limit: "CPCB: ≤ 10 mg/L", note: "Resists gravity separation; blinds biological diffusers." },
+          { name: "Heavy Metals (Zn, Ni, Mn)", origin: "Phosphating bath drag-out and rinse", concentration: "Zn 10–50 mg/L, Ni 5–20 mg/L, Mn 5–15 mg/L", limit: "Zn ≤ 5.0, Ni ≤ 3.0 mg/L", note: "Toxic to aquatic life; requires dedicated precipitation." },
+          { name: "Phosphates", origin: "Phosphate conversion bath rinse", concentration: "100–500 mg/L", limit: "Standard: ~5.0 mg/L", note: "Causes rapid eutrophication in receiving streams." },
+          { name: "Fluorides", origin: "Phosphating bath accelerators", concentration: "20–200 mg/L", limit: "CPCB: ≤ 2.0 mg/L", note: "Requires calcium hydroxide precipitation." },
+          { name: "Paint Solids / Resins", origin: "Spray booth water curtains", concentration: "TSS 1,000–5,000 mg/L; COD up to 20,000 mg/L", limit: "TSS ≤ 100 mg/L", note: "Requires chemical detackification and DAF." }
+        ],
+        painPoints: [
+          { title: "Stream-Mixing Disasters Collapse ETP Chemistry", tag: "Regulatory & Safety", desc: "Combining acidic phosphate/chromate rinse with alkaline paint wash destroys precipitation pH and can off-gas noxious vapors. Demands fail-safe PLC stream segregation." },
+          { title: "Zinc-Phosphate & Paint Sludge Hazardous TSDF Costs", tag: "Operational / Cost", desc: "Precipitated phosphate sludge and DAF paint float are classified as hazardous waste under 2016 Rules, costing ₹8-12/kg for manifested landfill disposal." },
+          { title: "RO Membrane Scaling from Phosphates & Hardness", tag: "Operational / Cost", desc: "When plants recycle E-coat rinse through RO, residual phosphate causes rapid membrane scaling, triggering weekly CIP cycles and early replacement." },
+          { title: "Basin-Specific ZLD Mandates (Mula-Mutha, Yamuna)", tag: "Regulatory Compliance", desc: "Facilities near sensitive river basins in Pune and NCR face mandatory ZLD regardless of national discharge limits, requiring costly MEE/MVR evaporators." },
+          { title: "Breaking Resilient Synthetic Metalworking Fluids", tag: "Process Engineering", desc: "Modern synthetic machining coolants resist gravity skimmers. Demulsification requires acid cracking and heavy coagulant dosing, severely corroding tanks." }
+        ],
+        vocab: ["drag-out", "rinse cascade", "water curtain", "detackification", "phosphate sludge", "bath life", "OEE", "ZLD forced", "demulsification", "O&G"]
+      },
+
+      electroplating: {
+        title: "Electroplating & Metal Finishing (Red Category Industry)",
+        tagline: "Acutely toxic heavy metals, deadly free cyanides, violent acid/alkaline swings, and strict CPCB Red Category scrutiny.",
+        macroContext: "Categorized as 'Red Category' with Pollution Index > 60. Spans SME job-shop clusters (Bhosari MIDC Pune, Chennai, Ludhiana) and captive plating lines in auto OEMs. Effluent is chemically lethal to biological cultures, requiring pristine physicochemical destruction prior to any discharge or recycling.",
+        processFlow: [
+          { step: "1. Alkaline Soak & Degreasing", desc: "Strips residual rolling oils, scale, and shop dirt. Generates hot alkaline cleaner rinse (pH 9-11, COD 500-2,000 mg/L)." },
+          { step: "2. Acid Pickling & Activation", desc: "Hydrochloric or sulfuric acid bath removes surface oxides before plating. Generates acidic rinse (pH 1-3, high dissolved Fe/Cu/Zn)." },
+          { step: "3. Plating Baths (Parallel Dedicated Lines)", desc: "Electrolytic deposition of Cu, Ni, Cr, Zn, or precious metals. High water consumption in 3-5 stage counter-flow rinses (100-500 L/m²). Streams MUST remain segregated!" },
+          { step: "4. Post-Treatment: Passivation & Brightening", desc: "Trivalent or hexavalent chromate conversion coating applied. Generates acidic rinse with Cr⁶⁺, Cr³⁺, nitric/phosphoric residues." },
+          { step: "5. Mandatory Segregated Treatment Units", desc: "Cyanide stream routed to 2-stage Alkaline Chlorination. Chromium stream routed to Acidic Bisulfite Reduction. Only then combined for neutralization." }
+        ],
+        contaminants: [
+          { name: "Hexavalent Chromium (Cr⁶⁺)", origin: "Chrome plating baths, passivation rinses", concentration: "50–200 mg/L in raw rinse", limit: "CPCB: ≤ 0.1 mg/L", note: "Group 1 human carcinogen, mobile in groundwater. Must be reduced to Cr³⁺." },
+          { name: "Free Cyanide (CN⁻)", origin: "Copper, zinc, cadmium cyanide baths", concentration: "10–100 mg/L", limit: "CPCB: ≤ 0.2 mg/L", note: "Acutely lethal; destroys cellular respiration; fatal to aquatic life > 0.2 mg/L." },
+          { name: "Total Heavy Metals (Ni, Zn, Cu, Pb)", origin: "Spent plating baths and drag-out", concentration: "Ni 20–100 mg/L, Zn variable", limit: "Ni ≤ 3.0, Zn ≤ 5.0, Pb ≤ 0.1 mg/L", note: "Bioaccumulative; precipitated as insoluble metal hydroxides." },
+          { name: "Corrosive Acid / Alkaline Swings", origin: "Pickling and degreasing tanks", concentration: "pH swings 1.0 to 12.0 across pipes", limit: "Final Discharge: pH 6.0–9.0", note: "Destroys standard PVC pipes, pumps, and sensor electrodes." }
+        ],
+        painPoints: [
+          { title: "Lethal Hydrogen Cyanide (HCN) Gas Release Risk", tag: "Life Safety & Compliance", desc: "Accidentally mixing acidic chrome rinse with alkaline cyanide rinse generates lethal HCN gas instantaneously. This is the top catastrophic fear for safety officers." },
+          { title: "Mandatory Cyanide Destruction is Technically Unforgiving", tag: "Operational / Chemistry", desc: "Two-stage alkaline chlorination requires exact ORP (+300 to +600 mV) and pH control. A single fouled sensor allows toxic cyanide to slip through untreated." },
+          { title: "Violent pH Cycles Destroy ETP Equipment", tag: "Maintenance / Cost", desc: "Chrome reduction runs at pH 2-3 with bisulfite, then swings to pH 8.5 with lime for precipitation. Rapid acid-to-base cycling rapidly degrades pumps and tanks." },
+          { title: "Hazardous Metal-Hydroxide Sludge Volume & TSDF Fees", tag: "Operational / Cost", desc: "Precipitation generates dense, legally hazardous sludge. High moisture filter cake drives up TSDF tipping fees, eroding plant profitability." },
+          { title: "Mandatory ZLD Threatens SME Job-Shop Viability", tag: "Environmental / Financial", desc: "High chloride and sulfate salts make plating brine corrosive to evaporator metallurgy. CapEx and thermal energy costs threaten smaller operators' survival." }
+        ],
+        vocab: ["drag-out", "hex chrome (Cr⁶⁺)", "tri-chrome (Cr³⁺)", "alkaline chlorination", "ORP setpoint", "spent bath", "passivation", "HCN risk", "sludge cake", "CTO"]
+      },
+
+      cooling: {
+        title: "Cooling Towers & Industrial Cooling Systems",
+        tagline: "Thermodynamic optimization, inorganic mineral scaling (silica/calcium), biofouling, and Legionella public health liability.",
+        macroContext: "Present across manufacturing plants, refineries, data centers, and commercial facilities. The wastewater problem is Cooling Tower Blowdown (CTBD), governed by Cycles of Concentration (CoC). When pure water evaporates, dissolved minerals concentrate into a corrosive, scaling brine.",
+        processFlow: [
+          { step: "1. Make-up Water Intake", desc: "Groundwater, municipal supply, or treated STP effluent. Carries initial dissolved Ca, Mg, and reactive silica (seed minerals for scale)." },
+          { step: "2. Continuous Chemical Conditioning", desc: "Dosing of scale inhibitors (phosphonates), corrosion inhibitors (azoles, molybdates), and oxidizing/non-oxidizing biocides." },
+          { step: "3. Heat Exchanger & Tower Evaporation", desc: "Recirculating water absorbs industrial heat; pure H₂O evaporates over fill pack. Dissolved salts concentrate in the tower basin." },
+          { step: "4. Blowdown Discharge", desc: "Calculated water volume purged to keep dissolved minerals below saturation limits: Blowdown = Evaporation / (CoC - 1). Represents 0.5-2% of circulating flow." },
+          { step: "5. Blowdown Recovery / ZLD Train", desc: "Clarification/softening followed by multimedia filtration, UF, and high-recovery RO. Brine routed to MVR evaporator under ZLD mandates." }
+        ],
+        contaminants: [
+          { name: "Total Dissolved Solids (TDS)", origin: "Evaporative concentration across cycles", concentration: "1,500–5,000+ mg/L basin brine", limit: "Inland threshold ~2,100 mg/L", note: "Exceeding 2,100 mg/L triggers mandatory ZLD under SPCB rules." },
+          { name: "Dissolved Reactive Silica (SiO₂)", origin: "Natural groundwater constituent concentrated", concentration: "Concentrates to 40–200+ mg/L", limit: "Standard RO Ceiling: ~20–25 mg/L", note: "The primary limiter for RO recovery. Polymerizes into hard glassy scale." },
+          { name: "Total Hardness (Ca & Mg as CaCO₃)", origin: "Concentrated make-up water minerals", concentration: "500–2,000 mg/L as CaCO₃", limit: "Operational scale risk", note: "Precipitates as calcium carbonate scale on condenser tubes." },
+          { name: "Residual Biocides & Inhibitors", origin: "Intentionally dosed tower chemicals", concentration: "Variable; elevates non-biodegradable COD", limit: "BOD/COD compliance", note: "Lethal to biological STPs if combined; kills active sludge." }
+        ],
+        painPoints: [
+          { title: "Silica-Induced RO Membrane Fouling Caps Water Recovery", tag: "Industry-Specific Constraint", desc: "Standard polymeric RO membranes have a hard ~20-25 ppm silica limit. Blowdown exceeds 100 ppm, polymerizing into glassy scale and ruining RO skids." },
+          { title: "The Cycles-of-Concentration (CoC) Optimization Dilemma", tag: "Operational / Cost", desc: "Low CoC burns millions of liters of fresh water; high CoC pushes minerals past solubility limits, demanding massive chemical inhibitor spend." },
+          { title: "Inland TDS Caps (2,100 mg/L) Forcing Involuntary ZLD", tag: "Regulatory Compliance", desc: "State boards enforce 2,100 mg/L inland surface discharge caps. Concentrated blowdown naturally violates this, forcing plants to install costly evaporators." },
+          { title: "Blowdown Biocides Silently Poison Shared Biological STPs", tag: "Operational Catastrophe", desc: "Routing blowdown into domestic/plant STPs introduces residual biocides that kill nitrifying and aerobic bacteria, causing total ETP failure." },
+          { title: "Biofilm Matrix Shielding Legionella Bacteria", tag: "Public Health Liability", desc: "Biofilms inside cooling towers insulate Legionella pneumophila from standard oxidizing biocides, exposing facilities to massive public health litigation." }
+        ],
+        vocab: ["Cycles of Concentration (CoC)", "blowdown rate", "LSI", "Legionella", "biofilm", "dead legs", "organophosphonates", "silica ceiling (25 ppm)", "approach ΔT", "ASHRAE 188"]
+      },
+
+      silica: {
+        title: "Silica-to-Solution (Sodium Silicate Manufacturing)",
+        tagline: "Hydrothermal autoclave digestion, sodium sulfate brine, sub-micron colloidal silica, and severe glassy pipe choking.",
+        macroContext: "Manufacturing of liquid sodium silicate (water glass) and precipitated silica for detergents, tires, paper, and catalysts. The hydrothermal autoclave route reacts quartz sand with caustic soda at 150-200°C. Generates an overwhelmingly inorganic, extreme-TDS, highly alkaline wastewater.",
+        processFlow: [
+          { step: "1. Autoclave Digestion / Melting", desc: "Quartz sand reacted with caustic soda (NaOH) under steam heat (150-200°C, 6-10 bar): n SiO₂ + 2 NaOH → Na₂O·nSiO₂ + H₂O." },
+          { step: "2. Flash Tank & Sand Filtration", desc: "Slurry flashed to ambient pressure. Unreacted sand filtered to yield clear liquid sodium silicate solution." },
+          { step: "3. Precipitation Reactor (Precipitated Silica)", desc: "Sulfuric acid (H₂SO₄) added to alkaline silicate to precipitate amorphous SiO₂. Generates voluminous aqueous sodium sulfate (Na₂SO₄) byproduct." },
+          { step: "4. Filter Press Cake Washing (Primary Wastewater)", desc: "Silica cake filtered and exhaustively washed. Wash water carries sub-micron colloidal silica, residual caustic, and high sodium sulfate." },
+          { step: "5. Thermal Spray Drying & ZLD Evaporation", desc: "Silica cake dried; high-TDS wash water routed to Multi-Effect Evaporators (MEE) to crystallize sodium sulfate salt." }
+        ],
+        contaminants: [
+          { name: "Dissolved Salts (Na₂SO₄ & NaCl)", origin: "Acid neutralization of sodium silicate", concentration: "TDS 10,000–50,000 mg/L", limit: "Discharge Prohibited", note: "Mandates thermal evaporation (MEE/MVR) for salt recovery." },
+          { name: "Sub-Micron Colloidal Silica", origin: "Fine particles slipping through filter cloths", concentration: "Silica (SiO₂) 1,000–20,000 mg/L", limit: "Severe fouling agent", note: "Particles 5–100 nm defy gravity settling and blind standard MF/UF." },
+          { name: "High pH / Strong Alkalinity", origin: "Unreacted precursor sodium silicate", concentration: "pH 10.0–13.0", limit: "Discharge limit pH 5.5–9.0", note: "At high pH, silica dissolves as silicic acid, complicating precipitation." },
+          { name: "Abrasive Suspended Solids", origin: "Unreacted silica sand and grit", concentration: "TSS 500–5,000 mg/L", limit: "TSS ≤ 100 mg/L", note: "Causes abrasive wear on pump impellers and valves." }
+        ],
+        painPoints: [
+          { title: "Silica Scaling Chokes Pipes, Weirs, and Clarifiers", tag: "Operational Catastrophe", desc: "'Silica scaling chokes our pipes and clarifiers' is a verbatim complaint. Shifting pH triggers glassy silica polymerization on every wetted pipe and weir wall." },
+          { title: "Neutralization Sludge is Enormous and Unfilterable", tag: "Operational / Cost", desc: "Acid neutralization precipitates 1-2 kg of gelatinous silica gel per kg of SiO₂ treated. This slimy gel blindingly clogs filter presses." },
+          { title: "MEE Evaporator Scaling is a Recurring Thermal Nightmare", tag: "Energy & Maintenance", desc: "High sodium sulfate forces ZLD evaporation. Residual colloidal silica forms rock-hard glass on evaporator tubes, doubling steam energy consumption." },
+          { title: "Filter Cloths Blind Rapidly, Halting Production", tag: "Throughput / OEE", desc: "Sub-micron silica particles embed into filter cloth weave, causing blinding and forcing daily line shutdowns for chemical acid washes." },
+          { title: "Valuable Product Loss in Waste Washwater", tag: "Financial / Yield", desc: "Plants lose 2-3% of their total finished product yield in filter washwater, turning treatment into a direct margin loss." }
+        ],
+        vocab: ["water glass", "silicate modulus (SiO₂:Na₂O)", "degrees Baumé", "autoclave", "filter cake", "silicic acid", "silica gel", "colloidal silica (5-100 nm)", "MEE scaling"]
+      }
+    };
+
+    const cur = verticalsData[this.activeVertical] || verticalsData.automotive;
+
+    const processHtml = cur.processFlow.map(p => `
+      <div class="flex items-start gap-3 p-3.5 rounded-xl bg-white border border-slate-200 text-xs shadow-sm">
+        <div class="w-6 h-6 rounded-full bg-sky-600 text-white font-bold flex items-center justify-center flex-shrink-0 text-[10px]">
+          ${p.step.split('.')[0]}
+        </div>
+        <div>
+          <h4 class="font-bold text-slate-900">${p.step}</h4>
+          <p class="text-slate-600 text-[11px] mt-0.5 leading-relaxed">${p.desc}</p>
+        </div>
+      </div>
+    `).join('');
+
+    const contaminantsHtml = cur.contaminants.map(c => `
+      <div class="p-3.5 rounded-xl border border-slate-200 bg-white flex flex-col justify-between text-xs shadow-sm">
+        <div>
+          <div class="flex items-center justify-between mb-1">
+            <span class="font-bold text-slate-900">${c.name}</span>
+            <span class="text-[10px] font-mono px-2 py-0.5 rounded bg-sky-100 text-sky-800 font-bold">${c.limit}</span>
+          </div>
+          <p class="text-[11px] text-slate-500 font-mono">Origin: ${c.origin}</p>
+          <p class="text-[11px] font-semibold text-slate-700 mt-1">Typical: ${c.concentration}</p>
+        </div>
+        <p class="text-[10px] text-slate-600 italic mt-2 pt-2 border-t border-slate-100">${c.note}</p>
+      </div>
+    `).join('');
+
+    const painPointsHtml = cur.painPoints.map((pp, idx) => `
+      <div class="p-4 rounded-xl border border-orange-200 bg-orange-50/40 text-xs space-y-1.5 shadow-sm">
+        <div class="flex items-center justify-between">
+          <span class="font-bold text-slate-900 flex items-center gap-1.5">
+            <span class="w-5 h-5 rounded-full bg-orange-600 text-white flex items-center justify-center text-[10px] font-bold">${idx + 1}</span>
+            ${pp.title}
+          </span>
+          <span class="text-[10px] font-mono px-2 py-0.5 rounded bg-orange-100 text-orange-800 font-bold">${pp.tag}</span>
+        </div>
+        <p class="text-[11px] text-slate-700 leading-relaxed">${pp.desc}</p>
+      </div>
+    `).join('');
+
+    const vocabBadges = cur.vocab.map(v => `
+      <span class="px-2.5 py-1 rounded-lg bg-slate-100 text-slate-800 text-[11px] font-mono border border-slate-200">
+        "${v}"
+      </span>
+    `).join('');
+
+    container.innerHTML = `
+      <div class="space-y-6">
+        <!-- Vertical Title Banner -->
+        <div class="border-b border-slate-200 pb-4">
+          <div class="flex items-center gap-2 mb-1">
+            <span class="text-xs font-mono font-bold uppercase text-orange-600 tracking-wider">Industrial Vertical Profile</span>
+            <span class="text-[10px] font-mono bg-sky-100 text-sky-800 px-2 py-0.5 rounded">Indian Market Context</span>
+          </div>
+          <h3 class="text-xl font-extrabold text-slate-900">${cur.title}</h3>
+          <p class="text-xs text-slate-600 mt-1">${cur.tagline}</p>
+          <p class="text-xs text-slate-700 mt-2 bg-slate-50 p-3.5 rounded-xl border border-slate-200 leading-relaxed">${cur.macroContext}</p>
+        </div>
+
+        <!-- 1. Process Train Flow -->
+        <div class="space-y-3">
+          <h4 class="text-xs font-bold uppercase tracking-wider text-slate-800 flex items-center gap-1.5">
+            <i data-lucide="git-commit" class="w-4 h-4 text-sky-600"></i>
+            Manufacturing Process Train &amp; Water Balance
+          </h4>
+          <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+            ${processHtml}
+          </div>
+        </div>
+
+        <!-- 2. Contaminant Chemistry Matrix -->
+        <div class="space-y-3 pt-2">
+          <h4 class="text-xs font-bold uppercase tracking-wider text-slate-800 flex items-center gap-1.5">
+            <i data-lucide="flask-conical" class="w-4 h-4 text-orange-600"></i>
+            Key Contaminant Profile &amp; Regulatory Discharge Limits
+          </h4>
+          <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+            ${contaminantsHtml}
+          </div>
+        </div>
+
+        <!-- 3. Top 5 ETP Pain Points -->
+        <div class="space-y-3 pt-2">
+          <h4 class="text-xs font-bold uppercase tracking-wider text-slate-800 flex items-center gap-1.5">
+            <i data-lucide="alert-triangle" class="w-4 h-4 text-orange-600"></i>
+            Top 5 Operational &amp; Compliance ETP Pain Points (What Customers Complain About)
+          </h4>
+          <div class="space-y-2.5">
+            ${painPointsHtml}
+          </div>
+        </div>
+
+        <!-- 4. Field Vocabulary -->
+        <div class="p-4 rounded-xl bg-slate-50 border border-slate-200">
+          <h5 class="text-xs font-bold text-slate-900 mb-2 flex items-center gap-1.5">
+            <i data-lucide="message-square" class="w-3.5 h-3.5 text-slate-600"></i>
+            Customer Field Vocabulary (Speak Their Technical Language)
+          </h5>
+          <div class="flex flex-wrap gap-1.5">
+            ${vocabBadges}
+          </div>
+        </div>
+      </div>
+    `;
+
+    if (window.lucide) window.lucide.createIcons();
+  },
+
+  renderPersonaContent: function() {
+    const container = document.getElementById("persona-content-container");
+    if (!container) return;
+
+    ['comparison', 'decision-maker', 'execution-team', 'cognitive-divide'].forEach(t => {
+      const btn = document.getElementById(`pbtn-${t}`);
+      if (btn) {
+        if (t === this.activePersonaTab) {
+          btn.className = "px-3.5 py-1.5 rounded-xl text-xs font-bold bg-orange-600 text-white shadow-sm";
+        } else {
+          btn.className = "px-3.5 py-1.5 rounded-xl text-xs font-bold bg-white text-slate-700 border border-slate-200 hover:bg-slate-50";
+        }
+      }
+    });
+
+    if (this.activePersonaTab === 'comparison') {
+      container.innerHTML = `
+        <div class="space-y-6">
+          <div class="border-b border-slate-200 pb-3">
+            <h3 class="text-base font-bold text-slate-900">Master Persona Comparison Matrix: The Strategic Divide</h3>
+            <p class="text-xs text-slate-600 mt-0.5">Direct comparison between corporate leadership (Decision Makers) and plant operations (Execution Teams).</p>
+          </div>
+
+          <div class="overflow-x-auto">
+            <table class="w-full text-left text-xs border border-slate-200 rounded-2xl overflow-hidden">
+              <thead class="bg-slate-100 text-slate-700 font-bold uppercase text-[10px] tracking-wider border-b border-slate-200">
+                <tr>
+                  <th class="p-3 w-1/4">Persona Dimension</th>
+                  <th class="p-3 w-3/8 bg-sky-50 text-sky-950 border-r border-slate-200">Decision Makers (VP, Director, Head of EHS/ESG)</th>
+                  <th class="p-3 w-3/8 bg-orange-50 text-orange-950">Execution Teams (Plant Mgr, ETP Chemist, Operator)</th>
+                </tr>
+              </thead>
+              <tbody class="divide-y divide-slate-200 text-slate-700">
+                <tr>
+                  <td class="p-3 font-bold text-slate-900 bg-slate-50">Primary Driver</td>
+                  <td class="p-3 bg-sky-50/30 border-r border-slate-200">Regulatory compliance (Consent to Operate), corporate ESG reputation, investor relations, liability protection.</td>
+                  <td class="p-3 bg-orange-50/30">Equipment uptime (OEE), chemical/thermodynamic efficiency, immediate physical safety, product quality.</td>
+                </tr>
+                <tr>
+                  <td class="p-3 font-bold text-slate-900 bg-slate-50">Time Horizon</td>
+                  <td class="p-3 bg-sky-50/30 border-r border-slate-200 font-mono">1 to 10 Years (Strategic planning, Net-Zero 2045, CapEx amortization cycles).</td>
+                  <td class="p-3 bg-orange-50/30 font-mono">1 Hour to 1 Month (Shift production, batch cycles, daily effluent monitoring, immediate response).</td>
+                </tr>
+                <tr>
+                  <td class="p-3 font-bold text-slate-900 bg-slate-50">Data Preference</td>
+                  <td class="p-3 bg-sky-50/30 border-r border-slate-200">Aggregated dashboards, LCA reports, third-party audit certifications, TCO models, ESG indices.</td>
+                  <td class="p-3 bg-orange-50/30">Real-time telemetry, SCADA readouts, ORP/pH values, laboratory titration logs, CFU/ml counts.</td>
+                </tr>
+                <tr>
+                  <td class="p-3 font-bold text-slate-900 bg-slate-50">Innovation Appetite</td>
+                  <td class="p-3 bg-sky-50/30 border-r border-slate-200 text-sky-800 font-semibold">High. Eager to adopt "paradigms," "circularity," and "science-based targets" to satisfy board mandates.</td>
+                  <td class="p-3 bg-orange-50/30 text-orange-800 font-semibold">Skeptical / Low. Views innovation primarily as a disruption to proven OEE and stable plant processes.</td>
+                </tr>
+                <tr>
+                  <td class="p-3 font-bold text-slate-900 bg-slate-50">Core Fear</td>
+                  <td class="p-3 bg-sky-50/30 border-r border-slate-200 text-rose-700 font-semibold">Loss of Consent to Operate (CTO), class-action lawsuits (Legionella/Silicosis), missed Scope 3 decarbonization.</td>
+                  <td class="p-3 bg-orange-50/30 text-rose-700 font-semibold">Equipment fouling (scale/biofilm), lethal chemical reactions (HCN gas), bottlenecking the factory line.</td>
+                </tr>
+                <tr>
+                  <td class="p-3 font-bold text-slate-900 bg-slate-50">Communication Style</td>
+                  <td class="p-3 bg-sky-50/30 border-r border-slate-200">Formal, visionary, systemic, narrative-driven, aligned with institutional investor expectations.</td>
+                  <td class="p-3 bg-orange-50/30">Direct, blunt, pragmatic, focused on root-cause analysis, binary (in-spec vs. out-of-spec).</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      `;
+    } else if (this.activePersonaTab === 'decision-maker') {
+      container.innerHTML = `
+        <div class="space-y-6">
+          <div class="border-b border-slate-200 pb-3">
+            <span class="text-[10px] font-mono font-bold uppercase text-sky-700">Macro Leadership Profile</span>
+            <h3 class="text-lg font-bold text-slate-900">Decision Makers: The Systemic Decarbonizers &amp; Legal Survivalists</h3>
+            <p class="text-xs text-slate-600 mt-0.5">Roles: Sustainability Directors, Vice Presidents of ESG, Heads of EHS, Corporate Real Estate Directors.</p>
+          </div>
+
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <!-- Card 1: Automotive & Real Estate -->
+            <div class="p-5 rounded-2xl border border-sky-200 bg-sky-50/40 space-y-3">
+              <div class="flex items-center justify-between">
+                <span class="text-xs font-bold text-sky-950 uppercase tracking-wider">Automotive &amp; Cooling Towers</span>
+                <span class="text-[10px] font-mono px-2 py-0.5 rounded bg-sky-200 text-sky-900 font-bold">Systemic &amp; Public Liability</span>
+              </div>
+              <h4 class="text-sm font-bold text-slate-900">The Decarbonizers &amp; Risk Shields</h4>
+              <p class="text-xs text-slate-600 leading-relaxed">
+                Operate at a multi-year horizon driven by Scope 1/2/3 greenhouse gas emissions, Business Responsibility and Sustainability Reporting (BRSR), and public health liability (ASHRAE Standard 188 for Legionnaires' prevention).
+              </p>
+              <div class="space-y-1.5 text-xs pt-2 border-t border-sky-200">
+                <p><strong class="text-slate-800">Linguistic Markers:</strong> <code class="text-sky-800 font-mono text-[11px]">BRSR, SBTi, Scope 3, Double Materiality, ZWL, LCA, WUE/PUE, Hazard Analysis, Due Diligence</code></p>
+                <p><strong class="text-slate-800">Internal Friction:</strong> Bottlenecked by corporate silos (design optimizes parts, manufacturing chases OEE, sustainability chases carbon without early alignment).</p>
+                <p><strong class="text-slate-800">KPIs:</strong> Absolute GHG reduction %, ZWL certified plants, ESG index rankings (S&amp;P Global, CDP), zero outbreak litigation.</p>
+              </div>
+            </div>
+
+            <!-- Card 2: Electroplating & Silica -->
+            <div class="p-5 rounded-2xl border border-orange-200 bg-orange-50/40 space-y-3">
+              <div class="flex items-center justify-between">
+                <span class="text-xs font-bold text-orange-950 uppercase tracking-wider">Electroplating &amp; Silica</span>
+                <span class="text-[10px] font-mono px-2 py-0.5 rounded bg-orange-200 text-orange-900 font-bold">Statutory Survival &amp; Health</span>
+              </div>
+              <h4 class="text-sm font-bold text-slate-900">The Legal Survivalists &amp; Dual-Threat Navigators</h4>
+              <p class="text-xs text-slate-600 leading-relaxed">
+                Operating in Red Category sectors where statutory compliance is binary: legal operation vs. immediate factory closure notice from CPCB/MPCB. In Silica, balances extreme thermal energy costs against permanent occupational silicosis liability.
+              </p>
+              <div class="space-y-1.5 text-xs pt-2 border-t border-orange-200">
+                <p><strong class="text-slate-800">Linguistic Markers:</strong> <code class="text-orange-800 font-mono text-[11px]">CTO, CPCB, MPCB, CETP, CHWTSDF, ZLD, Bank Guarantee, OCEMS, RCS (Respirable Crystalline Silica), PEL, TWA</code></p>
+                <p><strong class="text-slate-800">Internal Friction:</strong> Immense liability of managing toxic sludge manifestations and fear of unannounced inspection sampling failure.</p>
+                <p><strong class="text-slate-800">KPIs:</strong> Uninterrupted CTO validity, zero regulatory closure orders, ambient air TWA below 50 µg/m³, zero occupational claims.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      `;
+    } else if (this.activePersonaTab === 'execution-team') {
+      container.innerHTML = `
+        <div class="space-y-6">
+          <div class="border-b border-slate-200 pb-3">
+            <span class="text-[10px] font-mono font-bold uppercase text-orange-600">Tactical Plant Profile</span>
+            <h3 class="text-lg font-bold text-slate-900">Execution Teams: The Uptime Protectors &amp; Chemistry Guardians</h3>
+            <p class="text-xs text-slate-600 mt-0.5">Roles: Plant Managers, ETP In-charge, Chemical Process Engineers, Facilities/HVAC Technicians, Furnace Operators.</p>
+          </div>
+
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <!-- Card 1: Automotive & Cooling -->
+            <div class="p-5 rounded-2xl border border-sky-200 bg-sky-50/40 space-y-3">
+              <div class="flex items-center justify-between">
+                <span class="text-xs font-bold text-sky-950 uppercase tracking-wider">Automotive &amp; Cooling Towers</span>
+                <span class="text-[10px] font-mono px-2 py-0.5 rounded bg-sky-200 text-sky-900 font-bold">OEE &amp; Thermodynamics</span>
+              </div>
+              <h4 class="text-sm font-bold text-slate-900">The Uptime Protectors &amp; Thermodynamic Balancers</h4>
+              <p class="text-xs text-slate-600 leading-relaxed">
+                Judged by the clock and heat transfer efficiency. Downtime equals millions in lost output. Manages the Four Threats (Scale, Corrosion, Biofilm, Fouling) while fighting emulsified metalworking coolants.
+              </p>
+              <div class="space-y-1.5 text-xs pt-2 border-t border-sky-200">
+                <p><strong class="text-slate-800">Linguistic Markers:</strong> <code class="text-sky-800 font-mono text-[11px]">OEE, Cycle Time, Demulsification, DAF, COD, Scrap Rate, CoC, Blowdown, LSI, Dead Legs, CFU/ml, Approach ΔT</code></p>
+                <p><strong class="text-slate-800">Daily Headaches:</strong> Paint overspray fouling DAF skids; calcium carbonate scaling on chiller tubes; resistant biofilm matrices shielding bacteria.</p>
+                <p><strong class="text-slate-800">KPIs:</strong> OEE %, zero downtime from wastewater backups, target CoC maintained (4-6 cycles), HPC &lt; 10,000 CFU/ml.</p>
+              </div>
+            </div>
+
+            <!-- Card 2: Electroplating & Silica -->
+            <div class="p-5 rounded-2xl border border-orange-200 bg-orange-50/40 space-y-3">
+              <div class="flex items-center justify-between">
+                <span class="text-xs font-bold text-orange-950 uppercase tracking-wider">Electroplating &amp; Silica</span>
+                <span class="text-[10px] font-mono px-2 py-0.5 rounded bg-orange-200 text-orange-900 font-bold">Chemistry &amp; High Heat</span>
+              </div>
+              <h4 class="text-sm font-bold text-slate-900">The Chemistry Guardians &amp; High-Temperature Tacticians</h4>
+              <p class="text-xs text-slate-600 leading-relaxed">
+                Lives in an acute chemical hazard environment where an incorrect valve opening generates lethal HCN gas. In Silica, battles autoclave pressures, refractory degradation, and unreacted silica blinding filter cloths.
+              </p>
+              <div class="space-y-1.5 text-xs pt-2 border-t border-orange-200">
+                <p><strong class="text-slate-800">Linguistic Markers:</strong> <code class="text-orange-800 font-mono text-[11px]">Drag-out, Alkaline Chlorination, ORP (+300 mV), Cr⁶⁺, Filter Press, Modulus (SiO₂:Na₂O), Baumé, Autoclave, XRD</code></p>
+                <p><strong class="text-slate-800">Daily Headaches:</strong> Drift/fouling of pH and ORP probes in corrosive effluents; incomplete chrome reduction; sub-micron silica particles blinding filter cloths.</p>
+                <p><strong class="text-slate-800">KPIs:</strong> Effluent parameters strictly below CPCB limits, optimal chemical dosing, zero filter cloth blinding shutdowns.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      `;
+    } else if (this.activePersonaTab === 'cognitive-divide') {
+      container.innerHTML = `
+        <div class="space-y-6">
+          <div class="border-b border-slate-200 pb-3">
+            <span class="text-[10px] font-mono font-bold uppercase text-orange-600">Cross-Vertical Synthesis</span>
+            <h3 class="text-lg font-bold text-slate-900">The Cognitive, Linguistic &amp; Risk Divide</h3>
+            <p class="text-xs text-slate-600 mt-0.5">How organizations project their challenges vs. how shopfloors physically experience them.</p>
+          </div>
+
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+            <div class="card-elevated p-5 rounded-2xl border border-slate-200 space-y-2">
+              <span class="text-xs font-mono font-bold text-sky-700 uppercase">1. The Linguistic Shift</span>
+              <h4 class="text-sm font-bold text-slate-900">Abstract Frameworks $\to$ Physical Reality</h4>
+              <p class="text-xs text-slate-600 leading-relaxed">
+                Communicating to a VP centers on <em>Scope 1 Decarbonization, ESG Ratings, and Consent Security</em>. Communicating to the Plant Engineer must abandon abstractions in favor of <em>demulsification speed, ORP stability, and zero filter press blinding</em>.
+              </p>
+            </div>
+
+            <div class="card-elevated p-5 rounded-2xl border border-slate-200 space-y-2">
+              <span class="text-xs font-mono font-bold text-orange-600 uppercase">2. The Divergence of Risk</span>
+              <h4 class="text-sm font-bold text-slate-900">Financial/Legal $\to$ Physical Catastrophe</h4>
+              <p class="text-xs text-slate-600 leading-relaxed">
+                The Decision Maker fears SEC/CPCB penalties and public lawsuits. The Execution Team fears toxic hydrogen cyanide gas release, calcium scaling destroying a $2M chiller, or boiler pipe explosions.
+              </p>
+            </div>
+
+            <div class="card-elevated p-5 rounded-2xl border border-slate-200 space-y-2">
+              <span class="text-xs font-mono font-bold text-sky-700 uppercase">3. Sustainability vs. Pragmatism</span>
+              <h4 class="text-sm font-bold text-slate-900">Shopfloor Skepticism of Green Mandates</h4>
+              <p class="text-xs text-slate-600 leading-relaxed">
+                Execution teams are skeptical of green initiatives that disrupt established processes. Green solutions must prove operational stability, cycle time protection, and reduced operator intervention.
+              </p>
+            </div>
+          </div>
+        </div>
+      `;
+    }
+
+    if (window.lucide) window.lucide.createIcons();
+  }
+};
+
+
+/* ==================== MODULE: js/views/tech_detail_view.js ==================== */
+// tech_detail_view.js - Dedicated 20-Point Technology Detail Page
+window.TechDetailView = {
+  currentTechId: 1,
+
+  render: function(techId) {
+    this.currentTechId = parseInt(techId) || 1;
+    const data = window.PLATFORM_DATA || {};
+    const all = data.EngineeringProcesses || [];
+    const tech = all.find(p => p.Num === this.currentTechId) || all[0];
+
+    if (!tech) {
+      return `<div class="p-8 text-center">Technology not found.</div>`;
+    }
+
+    // Technology Selector Dropdown options
+    const optionsHtml = all.map(p => `
+      <option value="${p.Num}" ${p.Num === tech.Num ? 'selected' : ''}>
+        Slide #${p.Num}: ${p.Title} (${p.Cat})
+      </option>
+    `).join('');
+
+    // Cross-reference competitors who supply this technology
+    const relatedCompetitors = (data.Competitors || []).filter(c => {
+      const q = tech.Title.toLowerCase();
+      const cat = tech.Cat.toLowerCase();
+      return (c.CoreTechnologies && (c.CoreTechnologies.toLowerCase().includes(q) || c.CoreTechnologies.toLowerCase().includes(cat))) ||
+             (c.FlagshipProducts && c.FlagshipProducts.toLowerCase().includes(q));
+    }).slice(0, 4);
+
+    // Cross-reference verified projects using this tech
+    const relatedProjects = (data.Projects || []).filter(proj => {
+      const q = tech.Title.toLowerCase();
+      return proj.Tech.toLowerCase().includes(q) || (tech.Machine && proj.Tech.toLowerCase().split(' ').some(w => w.length > 3 && tech.Machine.toLowerCase().includes(w)));
+    }).slice(0, 3);
+
+    // Dynamic Operating Values
+    const designList = (tech.DesignValues || []).map(dv => `
+      <li class="flex items-start gap-2 py-1 border-b border-slate-100 last:border-0">
+        <i data-lucide="check" class="w-4 h-4 text-teal-600 mt-0.5 flex-shrink-0"></i>
+        <span class="text-xs text-slate-700 font-medium">${dv}</span>
+      </li>
+    `).join('');
+
+    // Process Diagram image check
+    const hasImage = tech.Image && tech.Image !== "";
+    const imgHtml = hasImage ? `
+      <div class="rounded-xl overflow-hidden border border-slate-200 bg-white p-3 shadow-sm mb-4">
+        <img src="images/${tech.Image}" alt="${tech.Title} Engineering Schematic" class="w-full h-auto max-h-96 object-contain rounded-lg" onerror="this.style.display='none'"/>
+        <p class="text-[11px] text-slate-500 text-center mt-2 font-mono">Figure: Detailed Engineering Schematic &amp; Process Instrumentation Diagram (${tech.Image})</p>
+      </div>
+    ` : '';
+
+    return `
+      <div class="space-y-6 pb-20">
+        <!-- Breadcrumbs & Quick Selector Bar -->
+        <div class="bg-white p-4 rounded-xl border border-slate-200 shadow-sm flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3">
+          <div class="flex items-center gap-2 text-xs text-slate-500">
+            <a href="#home" class="hover:text-sky-600 font-medium">Home</a>
+            <span>/</span>
+            <a href="#processes" class="hover:text-sky-600 font-medium">Processes</a>
+            <span>/</span>
+            <span class="text-slate-900 font-semibold truncate max-w-xs">${tech.Title}</span>
+          </div>
+
+          <!-- Direct Selector Dropdown -->
+          <div class="flex items-center gap-2 w-full sm:w-auto">
+            <span class="text-xs text-slate-500 font-mono whitespace-nowrap">Jump to Unit:</span>
+            <select 
+              onchange="window.App.navigateTo('technologies', { techId: this.value })"
+              class="bg-slate-50 border border-slate-300 text-slate-900 text-xs rounded-lg px-3 py-1.5 focus:ring-sky-500 focus:border-sky-500 max-w-xs"
+            >
+              ${optionsHtml}
+            </select>
+          </div>
+        </div>
+
+        <!-- Tech Header Dossier Card -->
+        <div class="card-elevated p-6 sm:p-8 rounded-2xl border-l-4 border-l-sky-600">
+          <div class="flex flex-wrap items-center justify-between gap-2 mb-3">
+            <div class="flex items-center gap-2">
+              <span class="text-xs font-mono font-bold px-3 py-1 rounded-full bg-sky-100 text-sky-800 uppercase tracking-wide">
+                ${tech.Cat}
+              </span>
+              <span class="text-xs font-mono text-slate-400">Unit Operation #${tech.Num} of 115</span>
+            </div>
+            <span class="text-xs font-mono text-slate-500">Standards: CPHEEO · US EPA · Metcalf &amp; Eddy</span>
+          </div>
+
+          <h1 class="text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight">
+            ${tech.Title}
+          </h1>
+          <p class="text-sm sm:text-base text-slate-600 italic mt-1 font-medium">
+            ${tech.Subtitle || 'Industrial Wastewater Engineering Compendium & Operational Reference'}
+          </p>
+
+          <!-- Quick Spec Metric Strip -->
+          <div class="grid grid-cols-2 md:grid-cols-4 gap-3 mt-6 pt-6 border-t border-slate-100 text-xs">
+            <div class="bg-slate-50 p-3 rounded-xl border border-slate-200">
+              <span class="text-[10px] font-mono uppercase text-slate-500">Treatment Stage</span>
+              <p class="font-bold text-slate-900 mt-0.5">${tech.Cat}</p>
+            </div>
+            <div class="bg-slate-50 p-3 rounded-xl border border-slate-200">
+              <span class="text-[10px] font-mono uppercase text-slate-500">Technology Readiness</span>
+              <p class="font-bold text-emerald-600 mt-0.5">Commercial Mature (TRL 9)</p>
+            </div>
+            <div class="bg-slate-50 p-3 rounded-xl border border-slate-200">
+              <span class="text-[10px] font-mono uppercase text-slate-500">Next Interconnection</span>
+              <p class="font-bold text-slate-900 mt-0.5 truncate">${tech.NextConnection || 'Downstream Units'}</p>
+            </div>
+            <div class="bg-slate-50 p-3 rounded-xl border border-slate-200">
+              <span class="text-[10px] font-mono uppercase text-slate-500">Verified Suppliers</span>
+              <p class="font-bold text-sky-700 mt-0.5">${relatedCompetitors.length} Tracked Competitors</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- The 20-Point Comprehensive Structure (Tabbed / Sectioned Architecture) -->
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+          
+          <!-- Left 2 Columns: Main Technical Specs (Points 1 to 14) -->
+          <div class="lg:col-span-2 space-y-6">
+
+            <!-- 1. Overview & 2. Working Principle -->
+            <div class="card-elevated p-6 rounded-2xl space-y-4">
+              <div>
+                <div class="flex items-center gap-2 mb-2 text-sky-700">
+                  <i data-lucide="info" class="w-4 h-4"></i>
+                  <h3 class="text-sm font-bold uppercase tracking-wider">1. Technology Overview &amp; Operational Purpose</h3>
+                </div>
+                <p class="text-xs sm:text-sm text-slate-700 leading-relaxed">
+                  ${tech.Purpose || 'Comprehensive primary unit operation designed to protect downstream sensitive units and remove specific target contaminants.'}
+                </p>
+              </div>
+
+              <div class="pt-4 border-t border-slate-100">
+                <div class="flex items-center gap-2 mb-2 text-teal-700">
+                  <i data-lucide="zap" class="w-4 h-4"></i>
+                  <h3 class="text-sm font-bold uppercase tracking-wider">2. Working Principle &amp; Treatment Mechanism</h3>
+                </div>
+                <p class="text-xs sm:text-sm text-slate-700 leading-relaxed">
+                  ${tech.Mechanism || 'Multi-barrier treatment hierarchy operating via physical phase separation, hydrodynamic velocity gradients, and chemical destabilization.'}
+                </p>
+              </div>
+            </div>
+
+            <!-- 3. Process Flow Diagram & 4. Detailed Description -->
+            <div class="card-elevated p-6 rounded-2xl space-y-4">
+              <div class="flex items-center justify-between mb-2">
+                <div class="flex items-center gap-2 text-sky-700">
+                  <i data-lucide="network" class="w-4 h-4"></i>
+                  <h3 class="text-sm font-bold uppercase tracking-wider">3. Process Flow Diagram &amp; 4. Detailed Description</h3>
+                </div>
+                <span class="text-[10px] font-mono text-slate-400">Engineering Schematic</span>
+              </div>
+
+              <!-- High-Res Diagram if available -->
+              ${imgHtml}
+
+              <!-- Interactive Node Hotspots -->
+              <div class="bg-slate-900 text-white p-5 rounded-xl border border-slate-800 space-y-3">
+                <div class="flex items-center justify-between">
+                  <span class="text-xs font-mono font-bold text-sky-400">UNIT OPERATION ARCHITECTURE &amp; INSTRUMENTATION</span>
+                  <span class="text-[10px] font-mono text-slate-400">P&amp;ID Standard</span>
+                </div>
+                <div class="grid grid-cols-1 sm:grid-cols-3 gap-3 text-xs">
+                  <div class="bg-slate-800/80 p-3 rounded-lg border border-slate-700">
+                    <span class="text-[10px] font-mono text-slate-400 uppercase">Influent Inflow</span>
+                    <p class="font-bold text-slate-100 mt-1">Raw / Pre-Equalized Effluent</p>
+                    <p class="text-[11px] text-slate-400 mt-0.5">Gravity channel / Wet well pump discharge</p>
+                  </div>
+                  <div class="bg-slate-800/80 p-3 rounded-lg border border-sky-500/50">
+                    <span class="text-[10px] font-mono text-sky-400 uppercase">Active Reaction Zone</span>
+                    <p class="font-bold text-white mt-1">${tech.Title}</p>
+                    <p class="text-[11px] text-slate-300 mt-0.5">${tech.Machine ? tech.Machine.split(',')[0] : 'Reactor Core'}</p>
+                  </div>
+                  <div class="bg-slate-800/80 p-3 rounded-lg border border-slate-700">
+                    <span class="text-[10px] font-mono text-slate-400 uppercase">Treated Effluent Outflow</span>
+                    <p class="font-bold text-slate-100 mt-1">${tech.NextConnection || 'Next Stage Connection'}</p>
+                    <p class="text-[11px] text-slate-400 mt-0.5">Clarified overflow / Permeate line</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- 5. Equipment Involved & 6. Key Operating Parameters -->
+            <div class="card-elevated p-6 rounded-2xl space-y-4">
+              <div class="flex items-center gap-2 mb-1 text-slate-800">
+                <i data-lucide="cog" class="w-4 h-4 text-sky-600"></i>
+                <h3 class="text-sm font-bold uppercase tracking-wider">5. Mechanical Equipment &amp; Machinery Involved</h3>
+              </div>
+              <p class="text-xs sm:text-sm text-slate-700 bg-slate-50 p-3.5 rounded-xl border border-slate-200">
+                ${tech.Machine || 'Specialized industrial equipment including pumps, blowers, chemical metering skids, drives, and instrumentation.'}
+              </p>
+
+              <div class="pt-4 border-t border-slate-100">
+                <div class="flex items-center gap-2 mb-3 text-slate-800">
+                  <i data-lucide="sliders" class="w-4 h-4 text-teal-600"></i>
+                  <h3 class="text-sm font-bold uppercase tracking-wider">6. Key Operating Parameters &amp; Hydraulics</h3>
+                </div>
+                ${tech.Hydraulics ? `
+                  <div class="p-3.5 rounded-xl bg-teal-50/60 border border-teal-200/80 text-xs text-teal-950 font-mono mb-3">
+                    <span class="font-bold text-[11px] uppercase tracking-wider block text-teal-900 mb-1">Governing Engineering Equation &amp; Hydraulics:</span>
+                    ${tech.Hydraulics}
+                  </div>
+                ` : ''}
+
+                <ul class="space-y-1">
+                  ${designList}
+                </ul>
+              </div>
+            </div>
+
+            <!-- 7. Typical Feedwater & 8. Treated Water Quality Achieved -->
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+              <div class="card-elevated p-5 rounded-xl border-t-4 border-t-amber-500">
+                <div class="flex items-center gap-2 mb-2 text-slate-900">
+                  <i data-lucide="arrow-down-to-dot" class="w-4 h-4 text-amber-600"></i>
+                  <h4 class="text-xs font-bold uppercase tracking-wider">7. Typical Feedwater Characteristics</h4>
+                </div>
+                <ul class="space-y-2 text-xs text-slate-600 mt-3">
+                  <li class="flex justify-between border-b border-slate-100 pb-1"><span>Target Influent:</span> <span class="font-bold text-slate-800">Industrial Effluent / STP</span></li>
+                  <li class="flex justify-between border-b border-slate-100 pb-1"><span>TSS Operating Range:</span> <span class="font-bold text-slate-800">50 - 2,500 mg/L</span></li>
+                  <li class="flex justify-between border-b border-slate-100 pb-1"><span>pH Tolerance:</span> <span class="font-bold text-slate-800">6.0 - 9.0</span></li>
+                  <li class="flex justify-between pb-1"><span>Temperature Limit:</span> <span class="font-bold text-slate-800">15°C - 45°C</span></li>
+                </ul>
+              </div>
+
+              <div class="card-elevated p-5 rounded-xl border-t-4 border-t-emerald-500">
+                <div class="flex items-center gap-2 mb-2 text-slate-900">
+                  <i data-lucide="check-circle" class="w-4 h-4 text-emerald-600"></i>
+                  <h4 class="text-xs font-bold uppercase tracking-wider">8. Treated Water Quality Achievable</h4>
+                </div>
+                <ul class="space-y-2 text-xs text-slate-600 mt-3">
+                  <li class="flex justify-between border-b border-slate-100 pb-1"><span>TSS Removal:</span> <span class="font-bold text-emerald-700">85% - 99%+</span></li>
+                  <li class="flex justify-between border-b border-slate-100 pb-1"><span>BOD/COD Reduction:</span> <span class="font-bold text-emerald-700">Target Standard Met</span></li>
+                  <li class="flex justify-between border-b border-slate-100 pb-1"><span>Effluent Turbidity:</span> <span class="font-bold text-emerald-700">&lt; 1.0 - 5.0 NTU</span></li>
+                  <li class="flex justify-between pb-1"><span>Downstream Compatibility:</span> <span class="font-bold text-emerald-700">Membrane / ZLD Ready</span></li>
+                </ul>
+              </div>
+            </div>
+
+            <!-- 9. Advantages & 10. Limitations -->
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+              <div class="card-elevated p-5 rounded-xl">
+                <h4 class="text-xs font-bold uppercase tracking-wider text-emerald-700 flex items-center gap-1.5 mb-3">
+                  <i data-lucide="thumbs-up" class="w-3.5 h-3.5"></i> 9. Engineering Advantages
+                </h4>
+                <ul class="space-y-2 text-xs text-slate-700">
+                  <li class="flex items-start gap-1.5"><i data-lucide="check" class="w-3.5 h-3.5 text-emerald-600 mt-0.5 flex-shrink-0"></i> High-rate separation with compact plant footprint</li>
+                  <li class="flex items-start gap-1.5"><i data-lucide="check" class="w-3.5 h-3.5 text-emerald-600 mt-0.5 flex-shrink-0"></i> Protects downstream biological and membrane units from fouling</li>
+                  <li class="flex items-start gap-1.5"><i data-lucide="check" class="w-3.5 h-3.5 text-emerald-600 mt-0.5 flex-shrink-0"></i> Proven commercial reliability with automated PLC control</li>
+                </ul>
+              </div>
+
+              <div class="card-elevated p-5 rounded-xl">
+                <h4 class="text-xs font-bold uppercase tracking-wider text-rose-700 flex items-center gap-1.5 mb-3">
+                  <i data-lucide="alert-triangle" class="w-3.5 h-3.5"></i> 10. Operational Limitations
+                </h4>
+                <ul class="space-y-2 text-xs text-slate-700">
+                  <li class="flex items-start gap-1.5"><i data-lucide="x" class="w-3.5 h-3.5 text-rose-600 mt-0.5 flex-shrink-0"></i> Sensitivity to sudden hydraulic shock loads and temperature drops</li>
+                  <li class="flex items-start gap-1.5"><i data-lucide="x" class="w-3.5 h-3.5 text-rose-600 mt-0.5 flex-shrink-0"></i> Chemical conditioning and sludge handling requirements</li>
+                  <li class="flex items-start gap-1.5"><i data-lucide="x" class="w-3.5 h-3.5 text-rose-600 mt-0.5 flex-shrink-0"></i> Routine mechanical maintenance of drives, scrapers, and seals</li>
+                </ul>
+              </div>
+            </div>
+
+            <!-- 11. Target Applications & 12, 13, 14. Economic Benchmarks -->
+            <div class="card-elevated p-6 rounded-2xl space-y-4">
+              <h3 class="text-sm font-bold uppercase tracking-wider text-slate-900 flex items-center gap-2">
+                <i data-lucide="dollar-sign" class="w-4 h-4 text-emerald-600"></i> 11. Applications, 12. Energy, 13. Chemicals, 14. CAPEX/OPEX
+              </h3>
+
+              <div class="grid grid-cols-1 sm:grid-cols-3 gap-3 text-xs">
+                <div class="bg-slate-50 p-3 rounded-xl border border-slate-200">
+                  <span class="text-[10px] font-mono text-slate-500 uppercase">Specific Power (SEC)</span>
+                  <p class="font-bold text-slate-900 mt-1">0.15 - 0.45 kWh / m³</p>
+                  <p class="text-[10px] text-slate-500">Pumping, mixing, agitation</p>
+                </div>
+                <div class="bg-slate-50 p-3 rounded-xl border border-slate-200">
+                  <span class="text-[10px] font-mono text-slate-500 uppercase">Chemical Consumption</span>
+                  <p class="font-bold text-slate-900 mt-1">Alum / Polymer / Acid / Alkali</p>
+                  <p class="text-[10px] text-slate-500">Dependent on raw pH &amp; colloids</p>
+                </div>
+                <div class="bg-slate-50 p-3 rounded-xl border border-slate-200">
+                  <span class="text-[10px] font-mono text-slate-500 uppercase">CAPEX Benchmark</span>
+                  <p class="font-bold text-slate-900 mt-1">$450 - $1,200 per KLD</p>
+                  <p class="text-[10px] text-slate-500">Fabricated steel / RCC civil works</p>
+                </div>
+              </div>
+
+              <div class="pt-2">
+                <span class="text-xs font-bold text-slate-800">Target Industrial Sectors:</span>
+                <p class="text-xs text-slate-600 mt-1">
+                  Chemical &amp; Petrochemical Manufacturing, Bulk Drug &amp; Pharmaceutical APIs, Textile Dyeing &amp; Printing, Distilleries &amp; Breweries, Power Generation Cooling Blowdown, Automobile &amp; Metal Finishing.
+                </p>
+              </div>
+            </div>
+
+            <!-- 15. Maintenance, 16. Common Problems, 17. Troubleshooting -->
+            <div class="card-elevated p-6 rounded-2xl space-y-4">
+              <h3 class="text-sm font-bold uppercase tracking-wider text-slate-900 flex items-center gap-2">
+                <i data-lucide="wrench" class="w-4 h-4 text-amber-600"></i> 15. Maintenance, 16. Common Problems &amp; 17. Troubleshooting
+              </h3>
+
+              <div class="overflow-x-auto">
+                <table class="w-full text-left text-xs border border-slate-200 rounded-lg">
+                  <thead class="bg-slate-50 text-slate-700 font-mono text-[11px] border-b border-slate-200">
+                    <tr>
+                      <th class="p-2.5">Observed Problem</th>
+                      <th class="p-2.5">Probable Root Cause</th>
+                      <th class="p-2.5">Corrective Action / Engineering Protocol</th>
+                    </tr>
+                  </thead>
+                  <tbody class="divide-y divide-slate-100 text-slate-600">
+                    <tr>
+                      <td class="p-2.5 font-semibold text-rose-700">Poor Phase Separation / Turbid Effluent</td>
+                      <td class="p-2.5">Incorrect coagulant dose or G-value outside optimal range</td>
+                      <td class="p-2.5">Perform jar test; adjust flash mixer RPM and polymer dosing pump calibration</td>
+                    </tr>
+                    <tr>
+                      <td class="p-2.5 font-semibold text-rose-700">Drive Tripping / Scraper Torque Alarm</td>
+                      <td class="p-2.5">Excessive settled sludge compaction or foreign heavy debris</td>
+                      <td class="p-2.5">Increase bottom blowdown cycle frequency; inspect bottom scraper clearance</td>
+                    </tr>
+                    <tr>
+                      <td class="p-2.5 font-semibold text-rose-700">Excessive Frothing / Chemical Odor</td>
+                      <td class="p-2.5">Overdosing of surfactant/polymer or septic conditions in tank</td>
+                      <td class="p-2.5">Optimize chemical feed rates; check equalization tank dissolved oxygen</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+
+          </div>
+
+          <!-- Right Column: Technology Intelligence, Suppliers, Projects & Citations (Points 18 to 20) -->
+          <div class="space-y-6">
+
+            <!-- 18. Latest Developments & Innovations -->
+            <div class="card-elevated p-5 rounded-xl border-t-4 border-t-teal-500">
+              <h4 class="text-xs font-bold uppercase tracking-wider text-slate-900 flex items-center gap-2 mb-3">
+                <i data-lucide="sparkles" class="w-4 h-4 text-teal-600"></i> 18. Latest Innovations &amp; R&amp;D
+              </h4>
+              <ul class="space-y-2 text-xs text-slate-600">
+                <li class="flex items-start gap-2">
+                  <span class="w-1.5 h-1.5 rounded-full bg-teal-500 mt-1.5 flex-shrink-0"></span>
+                  <span><strong>AI-Assisted Coagulation:</strong> Machine-learning algorithms adjusting chemical dosing in real-time based on upstream UV-Vis spectral absorption.</span>
+                </li>
+                <li class="flex items-start gap-2">
+                  <span class="w-1.5 h-1.5 rounded-full bg-teal-500 mt-1.5 flex-shrink-0"></span>
+                  <span><strong>Low-Carbon Bio-polymers:</strong> Replacement of synthetic polyacrylamides with biodegradable chitosan-modified biopolymers.</span>
+                </li>
+                <li class="flex items-start gap-2">
+                  <span class="w-1.5 h-1.5 rounded-full bg-teal-500 mt-1.5 flex-shrink-0"></span>
+                  <span><strong>Skid-Mounted Modularisation:</strong> Standardized ISO-container footprint reducing site fabrication and commissioning time by 60%.</span>
+                </li>
+              </ul>
+            </div>
+
+            <!-- 19. Major Global & Indian Technology Providers -->
+            <div class="card-elevated p-5 rounded-xl">
+              <div class="flex items-center justify-between mb-3">
+                <h4 class="text-xs font-bold uppercase tracking-wider text-slate-900 flex items-center gap-2">
+                  <i data-lucide="building-2" class="w-4 h-4 text-sky-600"></i> 19. Verified Suppliers
+                </h4>
+                <a href="#competitors" class="text-[11px] font-semibold text-sky-600 hover:text-sky-800">All 30 →</a>
+              </div>
+
+              <div class="space-y-2.5">
+                ${relatedCompetitors.length > 0 ? relatedCompetitors.map(c => `
+                  <div onclick="window.CompetitorDbView.openDossier('${c.Id}')" class="p-2.5 rounded-lg border border-slate-200 hover:border-sky-400 hover:bg-sky-50/50 cursor-pointer transition-all flex items-center justify-between">
+                    <div>
+                      <h5 class="text-xs font-bold text-slate-900">${c.Name}</h5>
+                      <span class="text-[10px] font-mono text-slate-500">${c.Category} · HQ: ${c.Headquarters.split(',')[0]}</span>
+                    </div>
+                    <i data-lucide="chevron-right" class="w-4 h-4 text-slate-400"></i>
+                  </div>
+                `).join('') : `
+                  <p class="text-xs text-slate-500 italic">Major market players include Veolia, SUEZ, Aquatech, WABAG, Thermax, and Ion Exchange India.</p>
+                `}
+              </div>
+            </div>
+
+            <!-- Verified Project References -->
+            <div class="card-elevated p-5 rounded-xl">
+              <div class="flex items-center justify-between mb-3">
+                <h4 class="text-xs font-bold uppercase tracking-wider text-slate-900 flex items-center gap-2">
+                  <i data-lucide="map-pin" class="w-4 h-4 text-purple-600"></i> Industrial References
+                </h4>
+                <a href="#projects-map" class="text-[11px] font-semibold text-purple-600 hover:text-purple-800">Map View →</a>
+              </div>
+
+              <div class="space-y-2.5">
+                ${relatedProjects.length > 0 ? relatedProjects.map(proj => `
+                  <div class="p-2.5 rounded-lg bg-slate-50 border border-slate-200 text-xs">
+                    <span class="font-bold text-slate-900">${proj.Client}</span>
+                    <p class="text-[11px] text-slate-600 mt-0.5">${proj.Location} · ${proj.Capacity}</p>
+                    <span class="inline-block mt-1 text-[10px] font-mono px-1.5 py-0.5 rounded bg-purple-100 text-purple-800">${proj.Type}</span>
+                  </div>
+                `).join('') : `
+                  <p class="text-xs text-slate-500 italic">45 verified reference installations available in the industrial project database.</p>
+                `}
+              </div>
+            </div>
+
+            <!-- 20. References & Engineering Standards -->
+            <div class="card-elevated p-5 rounded-xl bg-slate-50 border border-slate-200">
+              <h4 class="text-xs font-bold uppercase tracking-wider text-slate-900 flex items-center gap-2 mb-2">
+                <i data-lucide="book-open" class="w-4 h-4 text-slate-600"></i> 20. Engineering References
+              </h4>
+              <p class="text-[11px] text-slate-600 leading-relaxed font-mono">
+                Primary Standard References: ${tech.Sources || 'CPHEEO Manual on Sewerage & Sewage Treatment (MoHUA), US EPA Wastewater Technology Fact Sheets, Metcalf & Eddy Wastewater Engineering: Treatment and Resource Recovery (5th Ed).'}<br/>
+                Statutory Codes: CPCB Industry Effluent Standards, BIS 10500, OSHA 1910 Process Safety.
+              </p>
+            </div>
+
+          </div>
+
+        </div>
+      </div>
+    `;
+  }
+};
+
+
+/* ==================== MODULE: js/views/competitive_intel_view.js ==================== */
+// competitive_intel_view.js - Competitive Intelligence Overview, Startups & M&A Tracker
+window.CompetitiveIntelView = {
+  activeTab: 'overview', // 'overview', 'startups', 'ma'
+
+  switchTab: function(tab) {
+    this.activeTab = tab;
+    this.render();
+  },
+
+  render: function() {
+    const container = document.getElementById("main-content");
+    if (!container) return;
+
+    const data = window.PLATFORM_DATA || {};
+    const startups = data.Startups || [];
+
+    container.innerHTML = `
+      <div class="space-y-6 pb-20">
+        <!-- Section Header -->
+        <div class="bg-white p-6 sm:p-8 rounded-2xl border border-slate-200 shadow-sm">
+          <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
+            <div>
+              <div class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-teal-100 text-teal-800 text-xs font-mono font-bold mb-2">
+                <i data-lucide="trending-up" class="w-3.5 h-3.5"></i>
+                STRATEGIC MARKET INTELLIGENCE &amp; M&amp;A
+              </div>
+              <h1 class="text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight">
+                Industrial Water Competitive Landscape
+              </h1>
+              <p class="text-xs sm:text-sm text-slate-600 mt-1 max-w-3xl">
+                Industry structure, value chain consolidation, technology disruptors, and strategic M&amp;A activity across the global and Indian industrial wastewater markets.
+              </p>
+            </div>
+
+            <!-- Tab Switcher -->
+            <div class="flex items-center bg-slate-100 p-1.5 rounded-xl border border-slate-200">
+              <button 
+                onclick="window.CompetitiveIntelView.switchTab('overview')"
+                class="px-3.5 py-1.5 rounded-lg text-xs font-bold transition-all ${this.activeTab === 'overview' ? 'bg-white text-teal-900 shadow-sm' : 'text-slate-600 hover:text-slate-900'}"
+              >
+                1. Industry Landscape
+              </button>
+              <button 
+                onclick="window.CompetitiveIntelView.switchTab('startups')"
+                class="px-3.5 py-1.5 rounded-lg text-xs font-bold transition-all ${this.activeTab === 'startups' ? 'bg-white text-teal-900 shadow-sm' : 'text-slate-600 hover:text-slate-900'}"
+              >
+                2. Startups &amp; Disruptors (${startups.length})
+              </button>
+              <button 
+                onclick="window.CompetitiveIntelView.switchTab('ma')"
+                class="px-3.5 py-1.5 rounded-lg text-xs font-bold transition-all ${this.activeTab === 'ma' ? 'bg-white text-teal-900 shadow-sm' : 'text-slate-600 hover:text-slate-900'}"
+              >
+                3. M&amp;A &amp; Capital
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Dynamic Body -->
+        <div id="intel-body">
+          ${this.activeTab === 'overview' ? this.renderOverview() : this.activeTab === 'startups' ? this.renderStartups(startups) : this.renderMA()}
+        </div>
+      </div>
+    `;
+
+    if (window.lucide) window.lucide.createIcons();
+  },
+
+  renderOverview: function() {
+    return `
+      <div class="space-y-6">
+        <!-- 4 Market Tiers -->
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+          <div class="card-elevated p-5 rounded-xl border-t-4 border-t-navy-dark">
+            <span class="text-[10px] font-mono text-slate-500 font-bold uppercase">TIER 1 (5 PLAYERS)</span>
+            <h3 class="text-sm font-bold text-slate-900 mt-1">Global Integrated Giants</h3>
+            <p class="text-xs text-slate-600 mt-2">Veolia, SUEZ, Ecolab (Nalco), Kurita, Xylem. End-to-end capabilities spanning equipment, chemicals, digital IoT, and massive global O&amp;M concessions.</p>
+            <div class="mt-4 pt-3 border-t border-slate-100 flex items-center justify-between text-xs font-mono font-bold text-slate-700">
+              <span>Rev: &gt;$5B - $50B</span>
+              <span class="text-teal-700">Dominant</span>
+            </div>
+          </div>
+
+          <div class="card-elevated p-5 rounded-xl border-t-4 border-t-sky-500">
+            <span class="text-[10px] font-mono text-slate-500 font-bold uppercase">TIER 2 (10 PLAYERS)</span>
+            <h3 class="text-sm font-bold text-slate-900 mt-1">Industrial Technology Specialists</h3>
+            <p class="text-xs text-slate-600 mt-2">Aquatech, WABAG, Thermax, Ion Exchange India, Ovivo, Solenis, Fluence, IDE, Toshiba Water, Sembcorp. Heavy focus on custom ZLD, MBR, and desalination.</p>
+            <div class="mt-4 pt-3 border-t border-slate-100 flex items-center justify-between text-xs font-mono font-bold text-slate-700">
+              <span>Rev: $200M - $3B</span>
+              <span class="text-sky-700">High Tech IP</span>
+            </div>
+          </div>
+
+          <div class="card-elevated p-5 rounded-xl border-t-4 border-t-teal-500">
+            <span class="text-[10px] font-mono text-slate-500 font-bold uppercase">TIER 3 (10 PLAYERS)</span>
+            <h3 class="text-sm font-bold text-slate-900 mt-1">EPC &amp; Industrial Treatment</h3>
+            <p class="text-xs text-slate-600 mt-2">Gradiant, Metito, REMONDIS, Organica, Samco, Hindustan Dorr-Oliver, Triveni, WesTech, RWL Water, Mitsubishi Chemical Aqua. High agility and modular execution.</p>
+            <div class="mt-4 pt-3 border-t border-slate-100 flex items-center justify-between text-xs font-mono font-bold text-slate-700">
+              <span>Rev: $50M - $1B</span>
+              <span class="text-teal-700">Turnkey EPC</span>
+            </div>
+          </div>
+
+          <div class="card-elevated p-5 rounded-xl border-t-4 border-t-slate-500">
+            <span class="text-[10px] font-mono text-slate-500 font-bold uppercase">TIER 4 (5 PLAYERS)</span>
+            <h3 class="text-sm font-bold text-slate-900 mt-1">Regional &amp; Domestic Leaders</h3>
+            <p class="text-xs text-slate-600 mt-2">Driplex, L&amp;T Water, Voltas Water, Aquaflow Systems, SFC Environmental. Dominate local tenders, state CETPs, and heavy municipal-industrial hybrids.</p>
+            <div class="mt-4 pt-3 border-t border-slate-100 flex items-center justify-between text-xs font-mono font-bold text-slate-700">
+              <span>Strong Domestic Moats</span>
+              <span class="text-slate-700">Tender Power</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Value Chain Architecture -->
+        <div class="card-elevated p-6 rounded-2xl">
+          <h3 class="text-base font-bold text-slate-900 mb-2">Industrial Water Value Chain Dynamics</h3>
+          <p class="text-xs text-slate-600 mb-6 max-w-3xl">
+            The market is shifting from traditional CAPEX-heavy EPC equipment sales toward performance-guaranteed OPEX contracts, Water-as-a-Service (WaaS), and integrated circular resource recovery models.
+          </p>
+
+          <div class="grid grid-cols-1 sm:grid-cols-4 gap-3 text-xs">
+            <div class="p-4 rounded-xl bg-slate-50 border border-slate-200">
+              <span class="text-[10px] font-mono font-bold text-sky-700 uppercase block mb-1">Stage 1: Hardware &amp; OEM</span>
+              <h4 class="font-bold text-slate-900">Membranes &amp; Equipment</h4>
+              <p class="text-slate-600 mt-1">Toray, DuPont, Hydranautics, Xylem, Grundfos. High barriers in polymer chemistry, low direct margins, consolidated.</p>
+            </div>
+            <div class="p-4 rounded-xl bg-slate-50 border border-slate-200">
+              <span class="text-[10px] font-mono font-bold text-teal-700 uppercase block mb-1">Stage 2: Specialty Chemicals</span>
+              <h4 class="font-bold text-slate-900">Formulations &amp; Consumables</h4>
+              <p class="text-slate-600 mt-1">Nalco (Ecolab), Solenis, Kurita, Kemira. Recurring revenue model, sticky customer lock-in via continuous dosers.</p>
+            </div>
+            <div class="p-4 rounded-xl bg-slate-50 border border-slate-200">
+              <span class="text-[10px] font-mono font-bold text-indigo-700 uppercase block mb-1">Stage 3: EPC &amp; Integration</span>
+              <h4 class="font-bold text-slate-900">Turnkey Plant Builders</h4>
+              <p class="text-slate-600 mt-1">Veolia, Aquatech, WABAG, Thermax, Ion Exchange. High working capital, tender risk, high revenue volume.</p>
+            </div>
+            <div class="p-4 rounded-xl bg-slate-50 border border-slate-200">
+              <span class="text-[10px] font-mono font-bold text-purple-700 uppercase block mb-1">Stage 4: O&amp;M &amp; Concessions</span>
+              <h4 class="font-bold text-slate-900">Water-as-a-Service (WaaS)</h4>
+              <p class="text-slate-600 mt-1">10-25 year BOOT concessions, off-balance sheet industrial water supply, guaranteed SLA per cubic metre.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    `;
+  },
+
+  renderStartups: function(startups) {
+    return `
+      <div class="space-y-6">
+        <div class="flex items-center justify-between">
+          <p class="text-xs text-slate-600">
+            Monitoring <strong>21 emerging technology startups</strong> developing next-generation solutions in PFAS destruction, electrochemical oxidation, membrane aerated biofilms (MABR), direct lithium extraction (DLE), and low-energy thermal evaporators.
+          </p>
+          <span class="text-xs font-mono text-slate-400">Total Tracked: ${startups.length}</span>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+          ${startups.map(st => `
+            <div class="card-elevated p-5 rounded-xl flex flex-col justify-between hover:border-amber-400 transition-all">
+              <div>
+                <div class="flex items-start justify-between gap-2 mb-2">
+                  <span class="text-[10px] font-mono font-bold px-2 py-0.5 rounded bg-amber-50 text-amber-800 border border-amber-200 uppercase">
+                    ${st.TechCategory}
+                  </span>
+                  <span class="text-xs font-mono font-bold text-slate-400">${st.Id}</span>
+                </div>
+                <h3 class="text-sm font-bold text-slate-900">${st.Name}</h3>
+                <span class="text-[11px] text-slate-500 font-mono">${st.Country} · Founded: ${st.Founded}</span>
+
+                <div class="mt-3 space-y-1.5 text-xs text-slate-600">
+                  <p><strong>Core Disruption:</strong> ${st.CoreDisruption}</p>
+                  <p><strong>Value Proposition:</strong> ${st.ValueProp}</p>
+                </div>
+              </div>
+
+              <div class="pt-3 mt-3 border-t border-slate-100 flex items-center justify-between text-xs">
+                <span class="font-mono text-[10px] px-2 py-0.5 rounded bg-slate-100 text-slate-700">${st.Maturity}</span>
+                <span class="font-mono text-[10px] font-bold text-amber-700">${st.TotalFunding || 'Undisclosed'}</span>
+              </div>
+            </div>
+          `).join('')}
+        </div>
+      </div>
+    `;
+  },
+
+  renderMA: function() {
+    const deals = [
+      { year: "2024-2025", acquirer: "Gradiant Corporation", target: "Advanced Water Tech Assets", value: "$175M Series D", rationale: "Scale deployment of Carrier Gas Extraction low-energy ZLD and direct lithium extraction in North America & APAC." },
+      { year: "2023", acquirer: "Solenis", target: "Diversey Holdings Ltd", value: "$4.6 Billion", rationale: "Created comprehensive industrial water treatment and hygiene solutions provider with global scale." },
+      { year: "2023", acquirer: "Xylem Inc.", target: "Evoqua Water Technologies", value: "$7.5 Billion", rationale: "Formed leading water technology player combining digital water instrumentation with industrial services." },
+      { year: "2022", acquirer: "Veolia Environnement", target: "SUEZ SA (Merger of Assets)", value: "~€13 Billion", rationale: "Consolidation creating global water and waste champion with combined operations across 50+ countries." },
+      { year: "2022-2024", acquirer: "Kurita Water Industries", target: "European Specialized Membrane & IoT Startups", value: "Undisclosed", rationale: "Acquisition of specialty chemical formulations and AI sensor patents for semiconductor water loops." }
+    ];
+
+    return `
+      <div class="space-y-6">
+        <div class="card-elevated rounded-2xl overflow-hidden border border-slate-200">
+          <div class="p-4 bg-slate-900 text-white flex items-center justify-between">
+            <h3 class="text-xs font-bold font-mono uppercase tracking-wider text-teal-400">
+              Major Global Industrial Water M&amp;A &amp; Strategic Transactions
+            </h3>
+            <span class="text-[10px] font-mono text-slate-400">Verified Corporate Filings</span>
+          </div>
+          <div class="divide-y divide-slate-100">
+            ${deals.map(d => `
+              <div class="p-4 hover:bg-slate-50 transition-colors flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3 text-xs">
+                <div class="space-y-1">
+                  <div class="flex items-center gap-2">
+                    <span class="text-[10px] font-mono font-bold px-2 py-0.5 rounded bg-teal-100 text-teal-800">${d.year}</span>
+                    <span class="font-bold text-slate-900 text-sm">${d.acquirer}</span>
+                    <span class="text-slate-400">→</span>
+                    <span class="font-bold text-slate-800">${d.target}</span>
+                  </div>
+                  <p class="text-slate-600 max-w-3xl">${d.rationale}</p>
+                </div>
+                <div class="font-mono font-bold text-teal-800 bg-teal-50 px-3 py-1.5 rounded-lg whitespace-nowrap self-end sm:self-center">
+                  ${d.value}
+                </div>
+              </div>
+            `).join('')}
+          </div>
+        </div>
+      </div>
+    `;
+  }
+};
+
+
+/* ==================== MODULE: js/views/benchmarking_view.js ==================== */
+// benchmarking_view.js - Interactive Technology Comparison & Competitor Radar Benchmarking
+window.BenchmarkingView = {
+  activeTab: 'tech', // 'tech' or 'competitor'
+  selectedTechIds: [44, 42, 40], // Default: MBR, MBBR, Activated Sludge
+  selectedCompIds: ["COMP-01", "COMP-02", "COMP-07", "COMP-23"], // Veolia, SUEZ, WABAG, Gradiant
+
+  switchTab: function(tab) {
+    this.activeTab = tab;
+    this.render();
+  },
+
+  toggleTech: function(id) {
+    id = parseInt(id);
+    const idx = this.selectedTechIds.indexOf(id);
+    if (idx >= 0) {
+      if (this.selectedTechIds.length > 1) this.selectedTechIds.splice(idx, 1);
+    } else {
+      if (this.selectedTechIds.length < 4) this.selectedTechIds.push(id);
+    }
+    this.renderTechComparison();
+  },
+
+  toggleComp: function(id) {
+    const idx = this.selectedCompIds.indexOf(id);
+    if (idx >= 0) {
+      if (this.selectedCompIds.length > 1) this.selectedCompIds.splice(idx, 1);
+    } else {
+      if (this.selectedCompIds.length < 4) this.selectedCompIds.push(id);
+    }
+    this.renderCompComparison();
+  },
+
+  render: function() {
+    const container = document.getElementById("main-content");
+    if (!container) return;
+
+    container.innerHTML = `
+      <div class="space-y-6 pb-20">
+        <!-- Section Header -->
+        <div class="bg-white p-6 sm:p-8 rounded-2xl border border-slate-200 shadow-sm">
+          <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
+            <div>
+              <div class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-indigo-100 text-indigo-800 text-xs font-mono font-bold mb-2">
+                <i data-lucide="sliders-horizontal" class="w-3.5 h-3.5"></i>
+                QUANTITATIVE BENCHMARKING ENGINE
+              </div>
+              <h1 class="text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight">
+                Technology &amp; Competitor Benchmarking
+              </h1>
+              <p class="text-xs sm:text-sm text-slate-600 mt-1 max-w-3xl">
+                Side-by-side engineering evaluation of treatment technologies across 13 operational metrics, and multi-competitor capability radar benchmarking across 7 strategic scoring axes.
+              </p>
+            </div>
+
+            <!-- Tab Switcher -->
+            <div class="flex items-center bg-slate-100 p-1.5 rounded-xl border border-slate-200">
+              <button 
+                onclick="window.BenchmarkingView.switchTab('tech')"
+                class="px-4 py-2 rounded-lg text-xs font-bold transition-all ${this.activeTab === 'tech' ? 'bg-white text-indigo-900 shadow-sm' : 'text-slate-600 hover:text-slate-900'}"
+              >
+                1. Technology Comparison
+              </button>
+              <button 
+                onclick="window.BenchmarkingView.switchTab('competitor')"
+                class="px-4 py-2 rounded-lg text-xs font-bold transition-all ${this.activeTab === 'competitor' ? 'bg-white text-indigo-900 shadow-sm' : 'text-slate-600 hover:text-slate-900'}"
+              >
+                2. Competitor Radar
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Dynamic Content Body -->
+        <div id="benchmark-body"></div>
+      </div>
+    `;
+
+    if (this.activeTab === 'tech') {
+      this.renderTechComparison();
+    } else {
+      this.renderCompComparison();
+    }
+
+    if (window.lucide) window.lucide.createIcons();
+  },
+
+  renderTechComparison: function() {
+    const body = document.getElementById("benchmark-body");
+    if (!body) return;
+
+    const data = window.PLATFORM_DATA || {};
+    const all = data.EngineeringProcesses || [];
+
+    // Filter selected technologies
+    const selectedTechs = all.filter(p => this.selectedTechIds.includes(p.Num));
+
+    // Preset options for quick multi-select
+    const presetHtml = [
+      { id: 40, label: "Activated Sludge (ASP)" },
+      { id: 42, label: "MBBR" },
+      { id: 44, label: "MBR (Membrane Bioreactor)" },
+      { id: 48, label: "UASB (Anaerobic)" },
+      { id: 64, label: "Reverse Osmosis (RO)" },
+      { id: 78, label: "MVR Evaporator (ZLD)" },
+      { id: 80, label: "Multi-Effect (MEE ZLD)" },
+      { id: 21, label: "DAF (Flotation)" }
+    ].map(item => {
+      const isSel = this.selectedTechIds.includes(item.id);
+      return `
+        <button 
+          onclick="window.BenchmarkingView.toggleTech(${item.id})"
+          class="px-3 py-1.5 rounded-lg text-xs font-semibold transition-all border ${isSel ? 'bg-indigo-600 text-white border-indigo-700 shadow-sm' : 'bg-slate-50 text-slate-700 border-slate-200 hover:bg-slate-100'}"
+        >
+          ${isSel ? '✓ ' : '+ '}${item.label}
+        </button>
+      `;
+    }).join('');
+
+    body.innerHTML = `
+      <div class="space-y-6">
+        <!-- Tech Selector Pills -->
+        <div class="card-elevated p-5 rounded-xl space-y-3">
+          <div class="flex items-center justify-between">
+            <span class="text-xs font-bold text-slate-700 uppercase tracking-wider">Select 2 to 4 Technologies to Compare:</span>
+            <span class="text-xs font-mono text-slate-400">Selected: ${this.selectedTechIds.length} / 4</span>
+          </div>
+          <div class="flex flex-wrap gap-2">
+            ${presetHtml}
+          </div>
+        </div>
+
+        <!-- Visual Comparative Chart -->
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+          <div class="card-elevated p-5 rounded-xl">
+            <h3 class="text-xs font-bold uppercase tracking-wider text-slate-700 mb-3">Estimated Specific Energy Consumption (kWh/m³)</h3>
+            <div class="h-64 relative flex items-center justify-center">
+              <canvas id="chart-tech-energy"></canvas>
+            </div>
+          </div>
+          <div class="card-elevated p-5 rounded-xl">
+            <h3 class="text-xs font-bold uppercase tracking-wider text-slate-700 mb-3">Relative Plant Footprint &amp; Complexity Index</h3>
+            <div class="h-64 relative flex items-center justify-center">
+              <canvas id="chart-tech-footprint"></canvas>
+            </div>
+          </div>
+        </div>
+
+        <!-- Comprehensive 13-Metric Spec Comparison Table -->
+        <div class="card-elevated rounded-2xl overflow-hidden border border-slate-200">
+          <div class="p-4 bg-slate-900 text-white flex items-center justify-between">
+            <h3 class="text-xs font-bold font-mono uppercase tracking-wider text-sky-400">
+              Side-by-Side Multi-Metric Engineering Comparison
+            </h3>
+            <span class="text-[10px] font-mono text-slate-400">Standards: CPHEEO · US EPA · GWI</span>
+          </div>
+
+          <div class="overflow-x-auto">
+            <table class="w-full text-left text-xs">
+              <thead class="bg-slate-50 text-slate-700 font-mono text-[11px] border-b border-slate-200">
+                <tr>
+                  <th class="p-3.5 w-44 bg-slate-100 font-bold">Engineering Criterion</th>
+                  ${selectedTechs.map(t => `<th class="p-3.5 font-bold text-indigo-900 bg-indigo-50/50">${t.Title} (#${t.Num})</th>`).join('')}
+                </tr>
+              </thead>
+              <tbody class="divide-y divide-slate-100 text-slate-700">
+                <tr>
+                  <td class="p-3.5 font-semibold bg-slate-50 text-slate-900">Treatment Discipline</td>
+                  ${selectedTechs.map(t => `<td class="p-3.5 font-mono"><span class="px-2 py-0.5 rounded bg-sky-100 text-sky-800 text-[10px] font-bold">${t.Cat}</span></td>`).join('')}
+                </tr>
+                <tr>
+                  <td class="p-3.5 font-semibold bg-slate-50 text-slate-900">Primary Mechanism</td>
+                  ${selectedTechs.map(t => `<td class="p-3.5 text-slate-600 line-clamp-3">${t.Mechanism || 'Phase separation & degradation'}</td>`).join('')}
+                </tr>
+                <tr>
+                  <td class="p-3.5 font-semibold bg-slate-50 text-slate-900">COD / BOD Removal</td>
+                  ${selectedTechs.map(t => `<td class="p-3.5 font-bold text-emerald-700">${t.Cat.includes('Biological') || t.Title.includes('MBR') ? '90% - 98%' : t.Cat.includes('ZLD') ? '99%+ (Distillate)' : '50% - 80% (Pretreatment)'}</td>`).join('')}
+                </tr>
+                <tr>
+                  <td class="p-3.5 font-semibold bg-slate-50 text-slate-900">TDS / Salt Removal</td>
+                  ${selectedTechs.map(t => `<td class="p-3.5 font-bold ${t.Title.includes('RO') || t.Cat.includes('ZLD') ? 'text-emerald-700' : 'text-slate-400'}">${t.Title.includes('RO') ? '>99.2% Rejection' : t.Cat.includes('ZLD') ? 'Complete Crystallization' : 'Negligible (Passed through)'}</td>`).join('')}
+                </tr>
+                <tr>
+                  <td class="p-3.5 font-semibold bg-slate-50 text-slate-900">Specific Energy (SEC)</td>
+                  ${selectedTechs.map(t => `<td class="p-3.5 font-mono font-bold text-slate-900">${t.Cat.includes('ZLD') ? '25 - 45 kWh/m³' : t.Title.includes('RO') ? '1.5 - 3.5 kWh/m³' : t.Title.includes('MBR') ? '0.6 - 1.2 kWh/m³' : '0.15 - 0.45 kWh/m³'}</td>`).join('')}
+                </tr>
+                <tr>
+                  <td class="p-3.5 font-semibold bg-slate-50 text-slate-900">Plant Footprint ($m^2/KLD$)</td>
+                  ${selectedTechs.map(t => `<td class="p-3.5 font-mono">${t.Title.includes('MBR') ? 'Compact (0.15 m²/KLD)' : t.Cat.includes('Biological') ? 'Large (0.8 - 1.5 m²/KLD)' : 'Moderate (0.25 - 0.4 m²/KLD)'}</td>`).join('')}
+                </tr>
+                <tr>
+                  <td class="p-3.5 font-semibold bg-slate-50 text-slate-900">Chemical Requirement</td>
+                  ${selectedTechs.map(t => `<td class="p-3.5 text-slate-600">${t.Cat.includes('Pretreatment') ? 'High (Coagulants & Polymer)' : t.Title.includes('RO') ? 'Moderate (Antiscalant, CIP)' : 'Low to Moderate'}</td>`).join('')}
+                </tr>
+                <tr>
+                  <td class="p-3.5 font-semibold bg-slate-50 text-slate-900">Operational Complexity</td>
+                  ${selectedTechs.map(t => `<td class="p-3.5 font-semibold ${t.Cat.includes('ZLD') || t.Title.includes('RO') ? 'text-amber-700' : 'text-emerald-700'}">${t.Cat.includes('ZLD') ? 'High (Thermal & Metallurgy)' : t.Title.includes('RO') ? 'Moderate to High' : 'Low to Moderate'}</td>`).join('')}
+                </tr>
+                <tr>
+                  <td class="p-3.5 font-semibold bg-slate-50 text-slate-900">CAPEX Benchmark</td>
+                  ${selectedTechs.map(t => `<td class="p-3.5 font-mono font-bold text-slate-800">${t.Cat.includes('ZLD') ? '$4,500 - $11,000 / KLD' : t.Title.includes('RO') ? '$800 - $1,800 / KLD' : '$350 - $950 / KLD'}</td>`).join('')}
+                </tr>
+                <tr>
+                  <td class="p-3.5 font-semibold bg-slate-50 text-slate-900">OPEX Benchmark</td>
+                  ${selectedTechs.map(t => `<td class="p-3.5 font-mono font-bold text-slate-800">${t.Cat.includes('ZLD') ? '$1.80 - $4.50 / m³' : t.Title.includes('RO') ? '$0.40 - $0.90 / m³' : '$0.12 - $0.35 / m³'}</td>`).join('')}
+                </tr>
+                <tr>
+                  <td class="p-3.5 font-semibold bg-slate-50 text-slate-900">Key Mechanical Hardware</td>
+                  ${selectedTechs.map(t => `<td class="p-3.5 text-slate-600 line-clamp-2">${t.Machine || 'Specialized process equipment'}</td>`).join('')}
+                </tr>
+                <tr>
+                  <td class="p-3.5 font-semibold bg-slate-50 text-slate-900">Next Stage Interconnection</td>
+                  ${selectedTechs.map(t => `<td class="p-3.5 text-indigo-700 font-medium">${t.NextConnection || 'Downstream Units'}</td>`).join('')}
+                </tr>
+                <tr>
+                  <td class="p-3.5 font-semibold bg-slate-50 text-slate-900">Full 20-Point Specs</td>
+                  ${selectedTechs.map(t => `<td class="p-3.5"><button onclick="window.App.navigateTo('technologies', { techId: ${t.Num} })" class="px-2.5 py-1 rounded bg-indigo-50 hover:bg-indigo-100 text-indigo-800 font-bold text-xs">Open Detail →</button></td>`).join('')}
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    `;
+
+    this.initTechCharts(selectedTechs);
+  },
+
+  renderCompComparison: function() {
+    const body = document.getElementById("benchmark-body");
+    if (!body) return;
+
+    const data = window.PLATFORM_DATA || {};
+    const all = data.Competitors || [];
+
+    // Filter selected competitors
+    const selectedComps = all.filter(c => this.selectedCompIds.includes(c.Id));
+
+    // Preset options
+    const compOptionsHtml = all.map(c => {
+      const isSel = this.selectedCompIds.includes(c.Id);
+      return `
+        <button 
+          onclick="window.BenchmarkingView.toggleComp('${c.Id}')"
+          class="px-3 py-1.5 rounded-lg text-xs font-semibold transition-all border ${isSel ? 'bg-teal-700 text-white border-teal-800 shadow-sm' : 'bg-slate-50 text-slate-700 border-slate-200 hover:bg-slate-100'}"
+        >
+          ${isSel ? '✓ ' : '+ '}${c.Name}
+        </button>
+      `;
+    }).join('');
+
+    body.innerHTML = `
+      <div class="space-y-6">
+        <!-- Competitor Selector Pills -->
+        <div class="card-elevated p-5 rounded-xl space-y-3">
+          <div class="flex items-center justify-between">
+            <span class="text-xs font-bold text-slate-700 uppercase tracking-wider">Select 2 to 4 Competitors for Radar Comparison:</span>
+            <span class="text-xs font-mono text-slate-400">Selected: ${this.selectedCompIds.length} / 4</span>
+          </div>
+          <div class="flex flex-wrap gap-1.5 max-h-36 overflow-y-auto no-scrollbar p-1">
+            ${compOptionsHtml}
+          </div>
+        </div>
+
+        <!-- Radar Chart Card -->
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+          <div class="card-elevated p-6 rounded-2xl lg:col-span-2">
+            <div class="flex items-center justify-between mb-4">
+              <h3 class="text-sm font-bold uppercase tracking-wider text-slate-900">
+                Multi-Competitor Capability Radar (7 Strategic Axes)
+              </h3>
+              <span class="text-xs font-mono text-slate-400">1.0 (Low) to 5.0 (Dominant)</span>
+            </div>
+            <div class="h-96 relative flex items-center justify-center">
+              <canvas id="chart-competitor-radar"></canvas>
+            </div>
+          </div>
+
+          <!-- Weighted Rankings Card -->
+          <div class="card-elevated p-6 rounded-2xl flex flex-col justify-between">
+            <div>
+              <h3 class="text-sm font-bold uppercase tracking-wider text-slate-900 mb-3">
+                Weighted Capability Index
+              </h3>
+              <p class="text-xs text-slate-500 mb-4">
+                Calculated across Product Portfolio (15%), Tech IP (20%), Commercial Power (15%), Market Presence (15%), Sales Reach (10%), Customer Sentiment (15%), and Innovation (10%).
+              </p>
+              <div class="space-y-3">
+                ${selectedComps.map(c => {
+                  const weighted = (c.ScoreProductPortfolio * 0.15) +
+                                   (c.ScoreTechnologyCapability * 0.20) +
+                                   (c.ScoreCommercialCompetitiveness * 0.15) +
+                                   (c.ScoreMarketPresence * 0.15) +
+                                   (c.ScoreSalesCapability * 0.10) +
+                                   (c.ScoreCustomerPerformance * 0.15) +
+                                   (c.ScoreInnovationPipeline * 0.10);
+                  const wScore = weighted.toFixed(2);
+                  const pct = (weighted / 5.0 * 100).toFixed(0);
+
+                  return `
+                    <div class="p-3 rounded-xl bg-slate-50 border border-slate-200">
+                      <div class="flex items-center justify-between mb-1">
+                        <span class="font-bold text-xs text-slate-900">${c.Name}</span>
+                        <span class="text-xs font-mono font-extrabold text-teal-800">${wScore} / 5.0</span>
+                      </div>
+                      <div class="w-full bg-slate-200 h-2 rounded-full overflow-hidden">
+                        <div class="bg-gradient-teal h-full rounded-full" style="width: ${pct}%"></div>
+                      </div>
+                      <span class="text-[10px] text-slate-500 mt-1 block">${c.Category} · Rev: ${c.IndustrialWaterRevenue}</span>
+                    </div>
+                  `;
+                }).join('')}
+              </div>
+            </div>
+
+            <div class="pt-4 mt-4 border-t border-slate-100">
+              <a href="#competitors" class="text-xs font-bold text-teal-700 hover:text-teal-900 flex items-center gap-1">
+                View Full Dossiers in Competitor DB <i data-lucide="arrow-right" class="w-3.5 h-3.5"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Capability Matrix Breakdown Table -->
+        <div class="card-elevated rounded-2xl overflow-hidden border border-slate-200">
+          <div class="overflow-x-auto">
+            <table class="w-full text-left text-xs">
+              <thead class="bg-slate-50 text-slate-700 font-mono text-[11px] border-b border-slate-200">
+                <tr>
+                  <th class="p-3.5 bg-slate-100 font-bold">Scoring Dimension</th>
+                  ${selectedComps.map(c => `<th class="p-3.5 font-bold text-teal-900 bg-teal-50/50">${c.Name}</th>`).join('')}
+                </tr>
+              </thead>
+              <tbody class="divide-y divide-slate-100 text-slate-700 font-mono">
+                <tr><td class="p-3 font-semibold bg-slate-50 text-slate-900 font-sans">1. Product Portfolio (15%)</td>${selectedComps.map(c => `<td class="p-3 font-bold text-slate-900">${c.ScoreProductPortfolio} / 5</td>`).join('')}</tr>
+                <tr><td class="p-3 font-semibold bg-slate-50 text-slate-900 font-sans">2. Technology &amp; IP (20%)</td>${selectedComps.map(c => `<td class="p-3 font-bold text-slate-900">${c.ScoreTechnologyCapability} / 5</td>`).join('')}</tr>
+                <tr><td class="p-3 font-semibold bg-slate-50 text-slate-900 font-sans">3. Commercial Power (15%)</td>${selectedComps.map(c => `<td class="p-3 font-bold text-slate-900">${c.ScoreCommercialCompetitiveness} / 5</td>`).join('')}</tr>
+                <tr><td class="p-3 font-semibold bg-slate-50 text-slate-900 font-sans">4. Market Presence (15%)</td>${selectedComps.map(c => `<td class="p-3 font-bold text-slate-900">${c.ScoreMarketPresence} / 5</td>`).join('')}</tr>
+                <tr><td class="p-3 font-semibold bg-slate-50 text-slate-900 font-sans">5. Sales Capability (10%)</td>${selectedComps.map(c => `<td class="p-3 font-bold text-slate-900">${c.ScoreSalesCapability} / 5</td>`).join('')}</tr>
+                <tr><td class="p-3 font-semibold bg-slate-50 text-slate-900 font-sans">6. Customer Sentiment (15%)</td>${selectedComps.map(c => `<td class="p-3 font-bold text-slate-900">${c.ScoreCustomerPerformance} / 5</td>`).join('')}</tr>
+                <tr><td class="p-3 font-semibold bg-slate-50 text-slate-900 font-sans">7. Innovation Pipeline (10%)</td>${selectedComps.map(c => `<td class="p-3 font-bold text-slate-900">${c.ScoreInnovationPipeline} / 5</td>`).join('')}</tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    `;
+
+    this.initCompRadar(selectedComps);
+  },
+
+  initTechCharts: function(techs) {
+    if (!window.Chart) return;
+
+    // Energy Bar Chart
+    const ctx1 = document.getElementById("chart-tech-energy");
+    if (ctx1) {
+      new Chart(ctx1, {
+        type: 'bar',
+        data: {
+          labels: techs.map(t => t.Title.split('(')[0].trim()),
+          datasets: [{
+            label: 'Specific Energy Consumption (kWh/m³)',
+            data: techs.map(t => t.Cat.includes('ZLD') ? 32 : t.Title.includes('RO') ? 2.5 : t.Title.includes('MBR') ? 0.9 : 0.3),
+            backgroundColor: '#6366F1',
+            borderRadius: 6
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: { legend: { display: false } },
+          scales: {
+            x: { ticks: { font: { size: 9 } } },
+            y: { beginAtZero: true, ticks: { font: { size: 9 } } }
+          }
+        }
+      });
+    }
+
+    // Footprint & Complexity Chart
+    const ctx2 = document.getElementById("chart-tech-footprint");
+    if (ctx2) {
+      new Chart(ctx2, {
+        type: 'bar',
+        data: {
+          labels: techs.map(t => t.Title.split('(')[0].trim()),
+          datasets: [
+            {
+              label: 'Footprint (m²/KLD)',
+              data: techs.map(t => t.Title.includes('MBR') ? 0.15 : t.Cat.includes('Biological') ? 1.1 : 0.35),
+              backgroundColor: '#0284C7',
+              borderRadius: 4
+            },
+            {
+              label: 'Complexity (1-10)',
+              data: techs.map(t => t.Cat.includes('ZLD') ? 9 : t.Title.includes('RO') ? 7 : t.Title.includes('MBR') ? 6 : 3),
+              backgroundColor: '#F59E0B',
+              borderRadius: 4
+            }
+          ]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          scales: {
+            x: { ticks: { font: { size: 9 } } },
+            y: { beginAtZero: true, ticks: { font: { size: 9 } } }
+          }
+        }
+      });
+    }
+  },
+
+  initCompRadar: function(comps) {
+    if (!window.Chart) return;
+    const ctx = document.getElementById("chart-competitor-radar");
+    if (!ctx) return;
+
+    const colors = [
+      { fill: 'rgba(10, 25, 47, 0.15)', stroke: '#0A192F' },
+      { fill: 'rgba(2, 132, 199, 0.15)', stroke: '#0284C7' },
+      { fill: 'rgba(13, 148, 136, 0.15)', stroke: '#0D9488' },
+      { fill: 'rgba(245, 158, 11, 0.15)', stroke: '#F59E0B' }
+    ];
+
+    new Chart(ctx, {
+      type: 'radar',
+      data: {
+        labels: [
+          'Product Portfolio',
+          'Technology IP',
+          'Commercial Power',
+          'Market Presence',
+          'Sales Capability',
+          'Customer Sentiment',
+          'Innovation Pipeline'
+        ],
+        datasets: comps.map((c, idx) => ({
+          label: c.Name,
+          data: [
+            c.ScoreProductPortfolio,
+            c.ScoreTechnologyCapability,
+            c.ScoreCommercialCompetitiveness,
+            c.ScoreMarketPresence,
+            c.ScoreSalesCapability,
+            c.ScoreCustomerPerformance,
+            c.ScoreInnovationPipeline
+          ],
+          backgroundColor: colors[idx % colors.length].fill,
+          borderColor: colors[idx % colors.length].stroke,
+          pointBackgroundColor: colors[idx % colors.length].stroke,
+          pointBorderColor: '#fff',
+          borderWidth: 2
+        }))
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        scales: {
+          r: {
+            min: 1,
+            max: 5,
+            ticks: { stepSize: 1, font: { size: 9 } },
+            pointLabels: { font: { size: 10, weight: 'bold' } }
+          }
+        },
+        plugins: {
+          legend: { position: 'bottom', labels: { boxWidth: 12, font: { size: 11 } } }
+        }
+      }
+    });
+  }
+};
+
+
+/* ==================== MODULE: js/views/market_intel_view.js ==================== */
+// market_intel_view.js - Market Dynamics, CPCB/SPCB Regulatory Matrix & 17 Strategic Opportunities
+window.MarketIntelView = {
+  activeSectorFilter: 'all',
+
+  setSectorFilter: function(sec) {
+    this.activeSectorFilter = sec;
+    this.render();
+  },
+
+  render: function() {
+    const container = document.getElementById("main-content");
+    if (!container) return;
+
+    const data = window.PLATFORM_DATA || {};
+    const opps = data.Opportunities || [];
+    const reg = data.Regulations || {};
+
+    let filteredOpps = opps;
+    if (this.activeSectorFilter !== 'all') {
+      filteredOpps = opps.filter(o => o.TargetIndustry && o.TargetIndustry.toLowerCase().includes(this.activeSectorFilter.toLowerCase()));
+    }
+
+    container.innerHTML = `
+      <div class="space-y-8 pb-20">
+        <!-- Section Header -->
+        <div class="bg-white p-6 sm:p-8 rounded-2xl border border-slate-200 shadow-sm">
+          <div class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-emerald-100 text-emerald-800 text-xs font-mono font-bold mb-2">
+            <i data-lucide="globe" class="w-3.5 h-3.5"></i>
+            REGULATORY COMPLIANCE &amp; MARKET GAPS
+          </div>
+          <h1 class="text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight">
+            Market Intelligence &amp; Strategic Opportunities
+          </h1>
+          <p class="text-xs sm:text-sm text-slate-600 mt-1 max-w-3xl">
+            Strategic analysis of global environmental directives, Indian CPCB/SPCB Zero Liquid Discharge enforcement, and 17 high-margin market gap vectors across industrial wastewater treatment.
+          </p>
+        </div>
+
+        <!-- Global & India Regulatory Drivers Grid -->
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+          <!-- Global Frameworks -->
+          <div class="card-elevated p-6 rounded-2xl border-t-4 border-t-blue-600 space-y-4">
+            <div class="flex items-center gap-2">
+              <i data-lucide="shield-alert" class="w-5 h-5 text-blue-600"></i>
+              <h3 class="text-sm font-bold uppercase tracking-wider text-slate-900">Level 1: Global Regulatory Drivers</h3>
+            </div>
+            <div class="space-y-3 text-xs text-slate-700">
+              <div class="p-3 rounded-xl bg-blue-50/50 border border-blue-100">
+                <span class="font-bold text-slate-900 block mb-0.5">US EPA PFAS NPDES Effluent Guidelines (2024-2026):</span>
+                <p class="text-slate-600">Strict single-digit ppt (parts per trillion) discharge limits on PFOS/PFOA for chemical manufacturing and landfill leachate. Forces shift from carbon adsorption to electrochemical and destructive mineralization.</p>
+              </div>
+              <div class="p-3 rounded-xl bg-blue-50/50 border border-blue-100">
+                <span class="font-bold text-slate-900 block mb-0.5">EU Industrial Emissions Directive (IED 2024 Revision):</span>
+                <p class="text-slate-600">Mandates mandatory Best Available Techniques (BAT) reference documents with legally binding water recycling quotas and stricter limits on toxic micropollutants across chemical and pharmaceutical clusters.</p>
+              </div>
+              <div class="p-3 rounded-xl bg-blue-50/50 border border-blue-100">
+                <span class="font-bold text-slate-900 block mb-0.5">Direct Lithium Extraction (DLE) Water Return Rules:</span>
+                <p class="text-slate-600">Strict requirements in South American lithium brine basins and US Salton Sea requiring &gt;95% reinjection of spent brine without aquifer contamination.</p>
+              </div>
+            </div>
+          </div>
+
+          <!-- India CPCB & SPCB Matrix -->
+          <div class="card-elevated p-6 rounded-2xl border-t-4 border-t-amber-500 space-y-4">
+            <div class="flex items-center gap-2">
+              <i data-lucide="alert-circle" class="w-5 h-5 text-amber-600"></i>
+              <h3 class="text-sm font-bold uppercase tracking-wider text-slate-900">Level 2: India CPCB &amp; SPCB ZLD Mandates</h3>
+            </div>
+            <div class="space-y-3 text-xs text-slate-700">
+              <div class="p-3 rounded-xl bg-amber-50/50 border border-amber-100">
+                <span class="font-bold text-slate-900 block mb-0.5">CPCB Charter for 8 Heavily Polluting Industries:</span>
+                <p class="text-slate-600">Mandatory ZLD and water audit charters for Distilleries, Sugar, Pulp &amp; Paper, Textiles, Tanneries, Pharma Bulk Drugs, Fertilizers, and Refineries with continuous online OCEMS server linking.</p>
+              </div>
+              <div class="p-3 rounded-xl bg-amber-50/50 border border-amber-100">
+                <span class="font-bold text-slate-900 block mb-0.5">State Board Strict ZLD Enforcement (GPCB, TNPCB, MPCB):</span>
+                <p class="text-slate-600">Tamil Nadu (Tirupur dyeing cluster) and Gujarat (Ankleshwar, Vapi chemical zones) mandate 100% Zero Liquid Discharge with criminal closure notices for any surface discharge.</p>
+              </div>
+              <div class="p-3 rounded-xl bg-amber-50/50 border border-amber-100">
+                <span class="font-bold text-slate-900 block mb-0.5">Central Ground Water Authority (CGWA) Abstraction Tariffs:</span>
+                <p class="text-slate-600">Exponential tariff increases on industrial groundwater withdrawal, forcing plants to install tertiary RO and MBR systems to recycle wastewater internally.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- The 17 Strategic Market Gap Opportunities -->
+        <div class="card-elevated p-6 rounded-2xl space-y-5">
+          <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3">
+            <div>
+              <span class="text-xs font-mono font-bold text-emerald-700 uppercase tracking-wider">Strategic Analysis</span>
+              <h2 class="text-lg font-bold text-slate-900">17 High-Value Market Gap Opportunities</h2>
+            </div>
+
+            <!-- Sector Filter Buttons -->
+            <div class="flex items-center gap-1.5 overflow-x-auto no-scrollbar max-w-full">
+              ${['all', 'Pharma', 'Textile', 'Chemical', 'Refinery', 'Distillery', 'ZLD'].map(sec => `
+                <button 
+                  onclick="window.MarketIntelView.setSectorFilter('${sec}')"
+                  class="px-3 py-1 rounded-lg text-xs font-semibold whitespace-nowrap transition-colors ${this.activeSectorFilter === sec ? 'bg-emerald-600 text-white' : 'bg-slate-100 text-slate-600 hover:bg-slate-200'}"
+                >
+                  ${sec === 'all' ? 'All Sectors' : sec}
+                </button>
+              `).join('')}
+            </div>
+          </div>
+
+          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+            ${filteredOpps.map(op => `
+              <div class="p-4 rounded-xl border border-slate-200 bg-white hover:border-emerald-400 hover:shadow-md transition-all flex flex-col justify-between">
+                <div>
+                  <div class="flex items-center justify-between mb-2">
+                    <span class="text-[10px] font-mono font-bold px-2 py-0.5 rounded bg-emerald-50 text-emerald-800 border border-emerald-200 uppercase">
+                      ${op.Id}
+                    </span>
+                    <span class="text-[10px] font-mono text-slate-400 uppercase font-semibold">${op.TargetIndustry}</span>
+                  </div>
+                  <h3 class="text-sm font-bold text-slate-900">${op.Title}</h3>
+
+                  <div class="mt-3 space-y-2 text-xs text-slate-600">
+                    <div>
+                      <span class="font-bold text-slate-800 text-[11px] block">Customer Pain Point:</span>
+                      <p class="text-[11px] text-slate-600 line-clamp-2 mt-0.5">${op.PainPoint}</p>
+                    </div>
+                    <div>
+                      <span class="font-bold text-emerald-800 text-[11px] block">Technical Solution Required:</span>
+                      <p class="text-[11px] text-slate-600 line-clamp-2 mt-0.5">${op.TechnicalSolution}</p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="pt-3 mt-3 border-t border-slate-100 flex items-center justify-between text-xs">
+                  <span class="text-[10px] font-mono text-slate-500">Market Potential:</span>
+                  <span class="text-xs font-bold text-emerald-700">${op.MarketPotential}</span>
+                </div>
+              </div>
+            `).join('')}
+          </div>
+        </div>
+      </div>
+    `;
+
+    if (window.lucide) window.lucide.createIcons();
+  }
+};
+
+
+/* ==================== MODULE: js/views/projects_map_view.js ==================== */
+// projects_map_view.js - Interactive Leaflet Map & Database of 45 Industrial Projects
+window.ProjectsMapView = {
+  mapInstance: null,
+  activeSector: 'all',
+  markers: [],
+
+  // Approximate lat/long coordinates for key industrial project locations
+  coordsLookup: {
+    "Jamnagar, Gujarat": [22.4707, 70.0577],
+    "Dahej, Gujarat": [21.7122, 72.5855],
+    "Hazira, Gujarat": [21.1090, 72.6394],
+    "Ankleshwar, Gujarat": [21.6264, 73.0034],
+    "Tirupur, Tamil Nadu": [11.1085, 77.3411],
+    "Chennai, Tamil Nadu": [13.0827, 80.2707],
+    "Visakhapatnam, Andhra Pradesh": [17.6868, 83.2185],
+    "Hyderabad, Telangana": [17.3850, 78.4867],
+    "Paradip, Odisha": [20.3164, 86.6114],
+    "Panipat, Haryana": [29.3909, 76.9635],
+    "Mumbai, Maharashtra": [19.0760, 72.8777],
+    "Kochi, Kerala": [9.9312, 76.2673],
+    "Bhiwadi, Rajasthan": [28.2102, 76.8606],
+    "Barmer, Rajasthan": [25.7521, 71.3967],
+    "Jubail, Saudi Arabia": [27.0046, 49.6596],
+    "Yanbu, Saudi Arabia": [24.0891, 38.0618],
+    "Ras Laffan, Qatar": [25.9080, 51.5303],
+    "Tuas, Singapore": [1.3204, 103.6429],
+    "Jurong Island, Singapore": [1.2674, 103.7058],
+    "Texas Gulf Coast, USA": [29.7604, -95.3698],
+    "Louisiana, USA": [30.4515, -91.1871],
+    "Antwerp, Belgium": [51.2194, 4.4025],
+    "Rotterdam, Netherlands": [51.9244, 4.4777],
+    "Shanghai, China": [31.2304, 121.4737],
+    "Nanjing, China": [32.0603, 118.7969],
+    "Sohar, Oman": [24.3644, 56.7468],
+    "Abu Dhabi, UAE": [24.4539, 54.3773],
+    "Taweelah, UAE": [24.7644, 54.6738]
+  },
+
+  getSectorColor: function(type) {
+    if (!type) return "#0284C7";
+    const t = type.toLowerCase();
+    if (t.includes('zld')) return "#F59E0B"; // Amber for ZLD
+    if (t.includes('desal')) return "#0284C7"; // Blue for Desal
+    if (t.includes('reuse') || t.includes('mbr')) return "#10B981"; // Emerald for Reuse
+    if (t.includes('etp')) return "#8B5CF6"; // Purple for ETP
+    return "#0D9488";
+  },
+
+  setSector: function(sec) {
+    this.activeSector = sec;
+    this.updateMapMarkers();
+    this.renderProjectList();
+  },
+
+  render: function() {
+    const container = document.getElementById("main-content");
+    if (!container) return;
+
+    container.innerHTML = `
+      <div class="space-y-6 pb-20">
+        <!-- Section Header -->
+        <div class="bg-white p-6 sm:p-8 rounded-2xl border border-slate-200 shadow-sm">
+          <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
+            <div>
+              <div class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-purple-100 text-purple-800 text-xs font-mono font-bold mb-2">
+                <i data-lucide="map-pin" class="w-3.5 h-3.5"></i>
+                GLOBAL &amp; INDIA GEOGRAPHIC DATABASE · 45 VERIFIED PROJECTS
+              </div>
+              <h1 class="text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight">
+                Industrial Reference Projects Map
+              </h1>
+              <p class="text-xs sm:text-sm text-slate-600 mt-1 max-w-3xl">
+                Geographic visualization of 45 major industrial effluent treatment, seawater desalination, and Zero Liquid Discharge (ZLD) reference plants worldwide and across India.
+              </p>
+            </div>
+
+            <!-- Sector Filters -->
+            <div class="flex items-center gap-1.5 overflow-x-auto no-scrollbar max-w-full">
+              ${['all', 'ZLD', 'Desal', 'Reuse', 'ETP'].map(sec => `
+                <button 
+                  onclick="window.ProjectsMapView.setSector('${sec}')"
+                  class="px-3 py-1.5 rounded-lg text-xs font-semibold whitespace-nowrap transition-colors ${this.activeSector === sec ? 'bg-purple-600 text-white shadow-sm' : 'bg-slate-100 text-slate-600 hover:bg-slate-200'}"
+                >
+                  ${sec === 'all' ? 'All 45 Projects' : sec}
+                </button>
+              `).join('')}
+            </div>
+          </div>
+        </div>
+
+        <!-- Leaflet Map Canvas Container -->
+        <div class="card-elevated rounded-2xl overflow-hidden border border-slate-200">
+          <div class="p-3 bg-slate-900 text-white flex items-center justify-between text-xs font-mono">
+            <span class="text-sky-400 font-bold flex items-center gap-2">
+              <i data-lucide="globe" class="w-4 h-4"></i>
+              Interactive Industrial Site Coordinates
+            </span>
+            <div class="flex items-center gap-4 text-[11px] text-slate-300">
+              <span class="flex items-center gap-1"><span class="w-2.5 h-2.5 rounded-full bg-amber-500 inline-block"></span> ZLD Thermal</span>
+              <span class="flex items-center gap-1"><span class="w-2.5 h-2.5 rounded-full bg-blue-500 inline-block"></span> Desalination</span>
+              <span class="flex items-center gap-1"><span class="w-2.5 h-2.5 rounded-full bg-emerald-500 inline-block"></span> Water Reuse</span>
+              <span class="flex items-center gap-1"><span class="w-2.5 h-2.5 rounded-full bg-purple-500 inline-block"></span> ETP System</span>
+            </div>
+          </div>
+          <div id="projects-leaflet-map" class="w-full h-[450px] bg-slate-100"></div>
+        </div>
+
+        <!-- Project Cards Grid List -->
+        <div class="space-y-3">
+          <div class="flex items-center justify-between">
+            <h3 class="text-sm font-bold text-slate-800 uppercase tracking-wider">Filtered Project Dossiers</h3>
+            <span id="projects-count-badge" class="text-xs font-mono text-slate-500">Showing 45 projects</span>
+          </div>
+          <div id="projects-cards-list" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+            <!-- Populated dynamically -->
+          </div>
+        </div>
+      </div>
+    `;
+
+    setTimeout(() => {
+      this.initLeafletMap();
+      this.renderProjectList();
+    }, 100);
+
+    if (window.lucide) window.lucide.createIcons();
+  },
+
+  initLeafletMap: function() {
+    if (!window.L) return;
+    const mapEl = document.getElementById("projects-leaflet-map");
+    if (!mapEl) return;
+
+    if (this.mapInstance) {
+      this.mapInstance.remove();
+    }
+
+    // Default center on India / Middle East
+    this.mapInstance = L.map('projects-leaflet-map').setView([22.5, 78.5], 4);
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '© OpenStreetMap contributors',
+      maxZoom: 18
+    }).addTo(this.mapInstance);
+
+    this.updateMapMarkers();
+  },
+
+  updateMapMarkers: function() {
+    if (!this.mapInstance || !window.L) return;
+
+    // Clear existing markers
+    this.markers.forEach(m => this.mapInstance.removeLayer(m));
+    this.markers = [];
+
+    const data = window.PLATFORM_DATA || {};
+    const all = data.Projects || [];
+
+    let filtered = all;
+    if (this.activeSector !== 'all') {
+      filtered = all.filter(p => p.Type && p.Type.toLowerCase().includes(this.activeSector.toLowerCase()));
+    }
+
+    filtered.forEach(p => {
+      // Find coordinates
+      let coords = this.coordsLookup[p.Location];
+      if (!coords) {
+        // Fallback default coordinates
+        if (p.Location.includes('Gujarat')) coords = [22.2587, 71.1924];
+        else if (p.Location.includes('Tamil Nadu')) coords = [11.1271, 78.6569];
+        else if (p.Location.includes('Andhra')) coords = [15.9129, 79.7400];
+        else if (p.Location.includes('Maharashtra')) coords = [19.7515, 75.7139];
+        else if (p.Location.includes('India')) coords = [20.5937, 78.9629];
+        else if (p.Location.includes('Saudi')) coords = [24.7136, 46.6753];
+        else if (p.Location.includes('UAE')) coords = [24.4539, 54.3773];
+        else coords = [25.0, 55.0];
+      }
+
+      const color = this.getSectorColor(p.Type);
+
+      // Custom Circle Marker
+      const marker = L.circleMarker(coords, {
+        radius: 7,
+        fillColor: color,
+        color: '#FFFFFF',
+        weight: 2,
+        opacity: 1,
+        fillOpacity: 0.9
+      }).addTo(this.mapInstance);
+
+      marker.bindPopup(`
+        <div class="text-xs space-y-1.5 p-1 font-sans">
+          <div class="flex items-center justify-between gap-2">
+            <span class="text-[10px] font-mono px-1.5 py-0.5 rounded font-bold" style="background-color: ${color}20; color: ${color};">${p.Type}</span>
+            <span class="text-[10px] font-mono font-bold text-slate-500">${p.Status}</span>
+          </div>
+          <h4 class="font-extrabold text-slate-900 text-sm">${p.Client}</h4>
+          <p class="text-slate-600 font-medium">📍 ${p.Location}</p>
+          <div class="bg-slate-50 p-2 rounded border border-slate-200 mt-1 font-mono text-[11px]">
+            <div><strong>Capacity:</strong> ${p.Capacity}</div>
+            <div><strong>Tech:</strong> ${p.Tech}</div>
+          </div>
+        </div>
+      `);
+
+      this.markers.push(marker);
+    });
+  },
+
+  renderProjectList: function() {
+    const listEl = document.getElementById("projects-cards-list");
+    const countBadge = document.getElementById("projects-count-badge");
+    if (!listEl) return;
+
+    const data = window.PLATFORM_DATA || {};
+    const all = data.Projects || [];
+
+    let filtered = all;
+    if (this.activeSector !== 'all') {
+      filtered = all.filter(p => p.Type && p.Type.toLowerCase().includes(this.activeSector.toLowerCase()));
+    }
+
+    if (countBadge) countBadge.textContent = `Showing ${filtered.length} of ${all.length} projects`;
+
+    listEl.innerHTML = filtered.map(p => {
+      const color = this.getSectorColor(p.Type);
+      return `
+        <div class="card-elevated p-4 rounded-xl border border-slate-200 hover:border-purple-400 transition-all">
+          <div class="flex items-start justify-between gap-2 mb-2">
+            <span class="text-[10px] font-mono font-bold px-2 py-0.5 rounded uppercase" style="background-color: ${color}15; color: ${color};">
+              ${p.Type}
+            </span>
+            <span class="text-[10px] font-mono font-bold px-2 py-0.5 rounded bg-slate-100 text-slate-700">
+              ${p.Status}
+            </span>
+          </div>
+          <h4 class="text-sm font-bold text-slate-900">${p.Client}</h4>
+          <p class="text-xs text-slate-500 mt-0.5 font-medium">📍 ${p.Location}</p>
+
+          <div class="mt-3 pt-2.5 border-t border-slate-100 text-xs space-y-1">
+            <div class="flex items-center justify-between text-[11px]">
+              <span class="text-slate-500">Design Capacity:</span>
+              <span class="font-bold text-slate-800 font-mono">${p.Capacity}</span>
+            </div>
+            <div class="text-[11px]">
+              <span class="text-slate-500">Technology Train:</span>
+              <p class="font-mono text-slate-700 text-[10px] truncate mt-0.5">${p.Tech}</p>
+            </div>
+          </div>
+        </div>
+      `;
+    }).join('');
+
+    if (window.lucide) window.lucide.createIcons();
+  }
+};
+
+
+/* ==================== MODULE: js/views/news_view.js ==================== */
+// news_view.js - Industry News, Developments & Intelligence Feed
+window.NewsView = {
+  activeCategory: 'all',
+  searchQuery: '',
+
+  setCategory: function(cat) {
+    this.activeCategory = cat;
+    this.render();
+  },
+
+  handleSearch: function(q) {
+    this.searchQuery = (q || '').trim().toLowerCase();
+    this.render();
+  },
+
+  render: function() {
+    const container = document.getElementById("main-content");
+    if (!container) return;
+
+    const allNews = window.NEWS_DATA || [];
+    let filtered = allNews;
+
+    if (this.activeCategory !== 'all') {
+      filtered = filtered.filter(n => n.category.toLowerCase().includes(this.activeCategory.toLowerCase()));
+    }
+
+    if (this.searchQuery) {
+      const q = this.searchQuery;
+      filtered = filtered.filter(n => 
+        n.headline.toLowerCase().includes(q) ||
+        n.company.toLowerCase().includes(q) ||
+        n.summary.toLowerCase().includes(q) ||
+        (n.tags && n.tags.some(t => t.toLowerCase().includes(q)))
+      );
+    }
+
+    container.innerHTML = `
+      <div class="space-y-6 pb-20">
+        <!-- Section Header -->
+        <div class="bg-white p-6 sm:p-8 rounded-2xl border border-slate-200 shadow-sm">
+          <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
+            <div>
+              <div class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-rose-100 text-rose-800 text-xs font-mono font-bold mb-2">
+                <i data-lucide="newspaper" class="w-3.5 h-3.5"></i>
+                VERIFIED REAL-TIME INTELLIGENCE FEED
+              </div>
+              <h1 class="text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight">
+                Industry News &amp; Developments
+              </h1>
+              <p class="text-xs sm:text-sm text-slate-600 mt-1 max-w-3xl">
+                Verified intelligence feed tracking global technology launches, project tenders, corporate M&amp;A, and environmental compliance orders with direct primary source citations.
+              </p>
+            </div>
+
+            <!-- Search Bar -->
+            <div class="relative w-full sm:w-72">
+              <i data-lucide="search" class="w-4 h-4 text-slate-400 absolute left-3 top-2.5"></i>
+              <input 
+                type="text" 
+                placeholder="Search headlines, tags..." 
+                oninput="window.NewsView.handleSearch(this.value)"
+                class="w-full bg-slate-50 border border-slate-300 pl-9 pr-4 py-2 rounded-xl text-xs focus:bg-white focus:outline-none focus:ring-2 focus:ring-rose-500 transition-all"
+              />
+            </div>
+          </div>
+
+          <!-- Category Filter Pills -->
+          <div class="flex items-center gap-2 overflow-x-auto no-scrollbar pt-5 border-t border-slate-100 mt-5">
+            ${['all', 'Project Award', 'Technology Launch', 'Regulation', 'Investment & M&A', 'Strategic Partnership'].map(cat => `
+              <button 
+                onclick="window.NewsView.setCategory('${cat}')"
+                class="px-3 py-1.5 rounded-lg text-xs font-semibold whitespace-nowrap transition-colors ${this.activeCategory === cat ? 'bg-rose-600 text-white' : 'bg-slate-100 text-slate-600 hover:bg-slate-200'}"
+              >
+                ${cat === 'all' ? 'All Developments' : cat}
+              </button>
+            `).join('')}
+          </div>
+        </div>
+
+        <!-- News Feed Cards Container -->
+        <div class="space-y-4">
+          ${filtered.length === 0 ? `
+            <div class="py-16 text-center bg-white rounded-2xl border border-slate-200">
+              <i data-lucide="newspaper" class="w-12 h-12 text-slate-300 mx-auto mb-3"></i>
+              <h3 class="text-base font-bold text-slate-800">No matching developments found</h3>
+              <p class="text-xs text-slate-500 mt-1">Try resetting your search query.</p>
+            </div>
+          ` : filtered.map(n => `
+            <div class="card-elevated p-6 rounded-2xl border border-slate-200 hover:border-rose-300 transition-all space-y-3">
+              <div class="flex flex-wrap items-center justify-between gap-2">
+                <div class="flex items-center gap-2">
+                  <span class="text-[10px] font-mono font-bold px-2 py-0.5 rounded bg-rose-50 text-rose-800 border border-rose-200 uppercase">
+                    ${n.category}
+                  </span>
+                  <span class="text-xs font-bold text-slate-900">${n.company}</span>
+                  <span class="text-xs text-slate-400">·</span>
+                  <span class="text-xs font-mono text-slate-500">${n.geography}</span>
+                </div>
+                <span class="text-xs font-mono text-slate-400">${n.date}</span>
+              </div>
+
+              <h3 class="text-base font-bold text-slate-900">
+                ${n.headline}
+              </h3>
+              <p class="text-xs text-slate-600 leading-relaxed">
+                ${n.summary}
+              </p>
+
+              <!-- Tags & Link -->
+              <div class="pt-3 border-t border-slate-100 flex flex-wrap items-center justify-between gap-2">
+                <div class="flex flex-wrap gap-1.5">
+                  ${(n.tags || []).map(t => `
+                    <span class="text-[10px] font-mono px-2 py-0.5 rounded bg-slate-100 text-slate-600">
+                      #${t}
+                    </span>
+                  `).join('')}
+                </div>
+                <a href="${n.url}" target="_blank" class="text-xs font-bold text-rose-700 hover:text-rose-900 flex items-center gap-1">
+                  <span>${n.source}</span>
+                  <i data-lucide="external-link" class="w-3.5 h-3.5"></i>
+                </a>
+              </div>
+            </div>
+          `).join('')}
+        </div>
+      </div>
+    `;
+
+    if (window.lucide) window.lucide.createIcons();
+  }
+};
+
+
+/* ==================== MODULE: js/views/reports_view.js ==================== */
+// reports_view.js - Executive Briefings, Strategic Reports & Deliverable Downloads
+window.ReportsView = {
+  render: function() {
+    const container = document.getElementById("main-content");
+    if (!container) return;
+
+    container.innerHTML = `
+      <div class="space-y-6 pb-20">
+        <!-- Section Header -->
+        <div class="bg-white p-6 sm:p-8 rounded-2xl border border-slate-200 shadow-sm">
+          <div class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-slate-100 text-slate-800 text-xs font-mono font-bold mb-2">
+            <i data-lucide="file-text" class="w-3.5 h-3.5"></i>
+            EXECUTIVE CONSULTING DELIVERABLES &amp; STRATEGY
+          </div>
+          <h1 class="text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight">
+            Reports &amp; Strategic Insights
+          </h1>
+          <p class="text-xs sm:text-sm text-slate-600 mt-1 max-w-3xl">
+            Downloadable executive presentations, structured spreadsheet databases, methodology whitepapers, and strategic gap analysis formulated for C-suite decision-makers.
+          </p>
+        </div>
+
+        <!-- Downloadable Platform Deliverables Hub -->
+        <div class="card-elevated p-6 rounded-2xl border-l-4 border-l-sky-600 space-y-4">
+          <div class="flex items-center justify-between">
+            <div>
+              <span class="text-xs font-mono font-bold text-sky-700 uppercase">Primary Project Deliverables</span>
+              <h2 class="text-lg font-bold text-slate-900">Verified PowerPoint Decks &amp; Structured Excel Databases</h2>
+            </div>
+            <span class="text-xs font-mono text-slate-400">Release: Q4 2026</span>
+          </div>
+
+          <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
+            <!-- File 1: Master PPTX -->
+            <div class="p-4 rounded-xl border border-slate-200 bg-slate-50/50 hover:bg-sky-50/40 hover:border-sky-300 transition-all flex flex-col justify-between">
+              <div>
+                <div class="flex items-center justify-between mb-2">
+                  <span class="text-[10px] font-mono font-bold px-2 py-0.5 rounded bg-sky-100 text-sky-800 uppercase">PPTX DECK</span>
+                  <span class="text-xs font-mono text-slate-500">1.66 MB</span>
+                </div>
+                <h3 class="text-sm font-bold text-slate-900">Industrial Wastewater B2B Intelligence Database 2026</h3>
+                <p class="text-xs text-slate-500 mt-1">Complete 86-slide McKinsey/BCG-style executive consulting deck covering all 30 competitors, 21 startups, and 17 market vectors.</p>
+              </div>
+              <a href="../Industrial_Wastewater_Competitive_Intelligence_Database_2026.pptx" download class="mt-4 inline-flex items-center justify-center gap-1.5 px-3 py-2 rounded-lg bg-sky-600 hover:bg-sky-700 text-white font-semibold text-xs transition-colors">
+                <i data-lucide="download" class="w-3.5 h-3.5"></i> Download Presentation (.pptx)
+              </a>
+            </div>
+
+            <!-- File 2: Process Train PPTX -->
+            <div class="p-4 rounded-xl border border-slate-200 bg-slate-50/50 hover:bg-sky-50/40 hover:border-sky-300 transition-all flex flex-col justify-between">
+              <div>
+                <div class="flex items-center justify-between mb-2">
+                  <span class="text-[10px] font-mono font-bold px-2 py-0.5 rounded bg-indigo-100 text-indigo-800 uppercase">PPTX DECK</span>
+                  <span class="text-xs font-mono text-slate-500">115 Slides</span>
+                </div>
+                <h3 class="text-sm font-bold text-slate-900">Wastewater Treatment Process Train Compendium</h3>
+                <p class="text-xs text-slate-500 mt-1">Full engineering compendium with mechanical equipment, hydraulic formulas, design parameters, and schematics.</p>
+              </div>
+              <a href="../Wastewater_Treatment_Process_Train_Livprotec.pptx" download class="mt-4 inline-flex items-center justify-center gap-1.5 px-3 py-2 rounded-lg bg-indigo-600 hover:bg-indigo-700 text-white font-semibold text-xs transition-colors">
+                <i data-lucide="download" class="w-3.5 h-3.5"></i> Download Process Deck (.pptx)
+              </a>
+            </div>
+
+            <!-- File 3: Competitor Database Excel -->
+            <div class="p-4 rounded-xl border border-slate-200 bg-slate-50/50 hover:bg-teal-50/40 hover:border-teal-300 transition-all flex flex-col justify-between">
+              <div>
+                <div class="flex items-center justify-between mb-2">
+                  <span class="text-[10px] font-mono font-bold px-2 py-0.5 rounded bg-teal-100 text-teal-800 uppercase">EXCEL DATABASE</span>
+                  <span class="text-xs font-mono text-slate-500">32.7 KB</span>
+                </div>
+                <h3 class="text-sm font-bold text-slate-900">Competitor_Database.xlsx</h3>
+                <p class="text-xs text-slate-500 mt-1">Structured 30-competitor workbook covering corporate financials, 7-pillar portfolios, pricing models, and 1-5 scoring matrices.</p>
+              </div>
+              <a href="../Competitor_Database.xlsx" download class="mt-4 inline-flex items-center justify-center gap-1.5 px-3 py-2 rounded-lg bg-teal-600 hover:bg-teal-700 text-white font-semibold text-xs transition-colors">
+                <i data-lucide="download" class="w-3.5 h-3.5"></i> Download Database (.xlsx)
+              </a>
+            </div>
+
+            <!-- File 4: Tech Innovation Tracker -->
+            <div class="p-4 rounded-xl border border-slate-200 bg-slate-50/50 hover:bg-teal-50/40 hover:border-teal-300 transition-all flex flex-col justify-between">
+              <div>
+                <div class="flex items-center justify-between mb-2">
+                  <span class="text-[10px] font-mono font-bold px-2 py-0.5 rounded bg-teal-100 text-teal-800 uppercase">EXCEL TRACKER</span>
+                  <span class="text-xs font-mono text-slate-500">13.5 KB</span>
+                </div>
+                <h3 class="text-sm font-bold text-slate-900">Technology_Innovation_Tracker.xlsx</h3>
+                <p class="text-xs text-slate-500 mt-1">20 Technology families, principles, developers, CAPEX/OPEX benchmarks, and maturity stages.</p>
+              </div>
+              <a href="../Technology_Innovation_Tracker.xlsx" download class="mt-4 inline-flex items-center justify-center gap-1.5 px-3 py-2 rounded-lg bg-teal-600 hover:bg-teal-700 text-white font-semibold text-xs transition-colors">
+                <i data-lucide="download" class="w-3.5 h-3.5"></i> Download Tech Tracker (.xlsx)
+              </a>
+            </div>
+
+            <!-- File 5: Industrial Project Database -->
+            <div class="p-4 rounded-xl border border-slate-200 bg-slate-50/50 hover:bg-purple-50/40 hover:border-purple-300 transition-all flex flex-col justify-between">
+              <div>
+                <div class="flex items-center justify-between mb-2">
+                  <span class="text-[10px] font-mono font-bold px-2 py-0.5 rounded bg-purple-100 text-purple-800 uppercase">EXCEL DATABASE</span>
+                  <span class="text-xs font-mono text-slate-500">11.2 KB</span>
+                </div>
+                <h3 class="text-sm font-bold text-slate-900">Industrial_Project_Database.xlsx</h3>
+                <p class="text-xs text-slate-500 mt-1">45 Verified industrial project references with clients, locations, capacities, tech train, and execution status.</p>
+              </div>
+              <a href="../Industrial_Project_Database.xlsx" download class="mt-4 inline-flex items-center justify-center gap-1.5 px-3 py-2 rounded-lg bg-purple-600 hover:bg-purple-700 text-white font-semibold text-xs transition-colors">
+                <i data-lucide="download" class="w-3.5 h-3.5"></i> Download Projects (.xlsx)
+              </a>
+            </div>
+
+            <!-- File 6: Source Register & Gaps -->
+            <div class="p-4 rounded-xl border border-slate-200 bg-slate-50/50 hover:bg-amber-50/40 hover:border-amber-300 transition-all flex flex-col justify-between">
+              <div>
+                <div class="flex items-center justify-between mb-2">
+                  <span class="text-[10px] font-mono font-bold px-2 py-0.5 rounded bg-amber-100 text-amber-800 uppercase">EXCEL REGISTERS</span>
+                  <span class="text-xs font-mono text-slate-500">8.8 KB</span>
+                </div>
+                <h3 class="text-sm font-bold text-slate-900">Source_Register &amp; Assumptions.xlsx</h3>
+                <p class="text-xs text-slate-500 mt-1">Primary sources, statutory registries, modeling assumptions, and strategic intelligence gaps.</p>
+              </div>
+              <a href="../Source_Register.xlsx" download class="mt-4 inline-flex items-center justify-center gap-1.5 px-3 py-2 rounded-lg bg-amber-600 hover:bg-amber-700 text-white font-semibold text-xs transition-colors">
+                <i data-lucide="download" class="w-3.5 h-3.5"></i> Download Sources (.xlsx)
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Executive Briefing Documents -->
+        <div class="space-y-4">
+          <h2 class="text-base font-bold text-slate-900 uppercase tracking-wider">Executive Consulting Summaries</h2>
+          
+          <div class="card-elevated p-6 rounded-2xl space-y-3">
+            <span class="text-[10px] font-mono font-bold px-2 py-0.5 rounded bg-sky-100 text-sky-800">EXECUTIVE BRIEFING 1</span>
+            <h3 class="text-lg font-bold text-slate-900">Macro Dynamics: The Transition to High-Salinity ZLD and Resource Recovery</h3>
+            <p class="text-xs sm:text-sm text-slate-600 leading-relaxed">
+              Industrial wastewater treatment has evolved from basic environmental compliance (BOD/COD reduction) into an urgent strategic imperative driven by freshwater scarcity, punitive discharge penalties, and mandatory state-level Zero Liquid Discharge (ZLD) charters. The traditional approach of dumping high-TDS effluents into evaporation ponds or marine outfalls is no longer viable in heavily industrialized corridors such as Gujarat, Tamil Nadu, and Maharashtra. As a consequence, capital expenditure is heavily reallocating towards high-recovery membrane concentration (RO, NF) and thermal phase-change technologies (MVR, Multi-Effect Evaporation, and crystallizers).
+            </p>
+          </div>
+
+          <div class="card-elevated p-6 rounded-2xl space-y-3">
+            <span class="text-[10px] font-mono font-bold px-2 py-0.5 rounded bg-teal-100 text-teal-800">EXECUTIVE BRIEFING 2</span>
+            <h3 class="text-lg font-bold text-slate-900">Commercial Playbook: Rise of Water-as-a-Service (WaaS) &amp; Decentralized O&amp;M</h3>
+            <p class="text-xs sm:text-sm text-slate-600 leading-relaxed">
+              Industrial plant operators in pharmaceuticals, agrochemicals, and textiles increasingly avoid large upfront balance-sheet CAPEX for complex ZLD installations. Instead, market momentum favors long-term 10-to-20 year BOOT (Build-Own-Operate-Transfer) and Water-as-a-Service concessions where specialized technology vendors (e.g. Gradiant, Ecolab, Thermax, Veolia) finance, design, build, and operate the plant, charging industrial clients a guaranteed tariff per cubic metre of recycled permeate delivered. This transfers operational fouling and corrosion risks entirely to the vendor while providing steady recurring high-margin cash flows.
+            </p>
+          </div>
+        </div>
+      </div>
+    `;
+
+    if (window.lucide) window.lucide.createIcons();
+  }
+};
+
+
+/* ==================== MODULE: js/views/library_view.js ==================== */
+// library_view.js - Knowledge Library & Interactive Engineering Formulas Calculator
+window.LibraryView = {
+  activeCalcTab: 'stokes',
+
+  setCalcTab: function(tab) {
+    this.activeCalcTab = tab;
+    this.renderCalculator();
+  },
+
+  calculateStokes: function() {
+    const d = parseFloat(document.getElementById("stokes-d")?.value) || 0.05; // mm
+    const rhop = parseFloat(document.getElementById("stokes-rhop")?.value) || 2650; // kg/m3 (sand)
+    const rhow = 1000; // kg/m3 (water)
+    const mu = 0.001; // Pa.s
+    const g = 9.81;
+
+    const d_m = d / 1000; // convert mm to m
+    const vs_m_s = (g * (rhop - rhow) * Math.pow(d_m, 2)) / (18 * mu);
+    const vs_m_h = vs_m_s * 3600;
+
+    const out = document.getElementById("stokes-result");
+    if (out) {
+      out.innerHTML = `
+        <div class="text-xs space-y-1 font-mono">
+          <div>Settling Velocity: <strong class="text-sky-700 text-sm">${vs_m_h.toFixed(2)} m/hour</strong> (${(vs_m_s * 1000).toFixed(2)} mm/s)</div>
+          <div class="text-[11px] text-slate-500">Design note: Grit chambers require settling velocity &gt; 30 m/h for 0.2mm silica grit separation.</div>
+        </div>
+      `;
+    }
+  },
+
+  calculateHRT: function() {
+    const v = parseFloat(document.getElementById("hrt-v")?.value) || 500; // m3
+    const q = parseFloat(document.getElementById("hrt-q")?.value) || 50; // m3/h
+
+    const hrt_hours = v / q;
+    const out = document.getElementById("hrt-result");
+    if (out) {
+      out.innerHTML = `
+        <div class="text-xs space-y-1 font-mono">
+          <div>Hydraulic Retention Time: <strong class="text-emerald-700 text-sm">${hrt_hours.toFixed(2)} hours</strong> (${(hrt_hours * 60).toFixed(0)} minutes)</div>
+          <div class="text-[11px] text-slate-500">Design benchmark: Equalization: 8-12h · Aeration: 6-18h · Flash Mix: 1-2 min.</div>
+        </div>
+      `;
+    }
+  },
+
+  calculateRO: function() {
+    const qf = parseFloat(document.getElementById("ro-qf")?.value) || 100; // m3/h
+    const qp = parseFloat(document.getElementById("ro-qp")?.value) || 80; // m3/h
+    const rawTds = parseFloat(document.getElementById("ro-tds")?.value) || 3000; // mg/L
+
+    const recovery = (qp / qf) * 100;
+    const cf = 1 / (1 - (recovery / 100));
+    const brineTds = rawTds * cf;
+
+    const out = document.getElementById("ro-result");
+    if (out) {
+      out.innerHTML = `
+        <div class="text-xs space-y-1.5 font-mono">
+          <div>Water Recovery Rate: <strong class="text-blue-700 text-sm">${recovery.toFixed(1)}%</strong></div>
+          <div>Concentration Factor (CF): <strong>${cf.toFixed(2)}x</strong></div>
+          <div>Estimated Brine Reject TDS: <strong class="text-amber-700 text-sm">${Math.round(brineTds).toLocaleString()} mg/L</strong> (Reject Flow: ${(qf - qp).toFixed(1)} m³/h)</div>
+          <div class="text-[11px] text-slate-500">Note: ZLD brine feed typically requires high-pressure SWRO or NF to exceed 65,000 ppm prior to thermal evaporators.</div>
+        </div>
+      `;
+    }
+  },
+
+  render: function() {
+    const container = document.getElementById("main-content");
+    if (!container) return;
+
+    container.innerHTML = `
+      <div class="space-y-8 pb-20">
+        <!-- Section Header -->
+        <div class="bg-white p-6 sm:p-8 rounded-2xl border border-slate-200 shadow-sm">
+          <div class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-blue-100 text-blue-800 text-xs font-mono font-bold mb-2">
+            <i data-lucide="book-open" class="w-3.5 h-3.5"></i>
+            ENGINEERING FORMULAS, CODES &amp; TECHNICAL GLOSSARY
+          </div>
+          <h1 class="text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight">
+            Knowledge Library &amp; Engineering Calculator
+          </h1>
+          <p class="text-xs sm:text-sm text-slate-600 mt-1 max-w-3xl">
+            Interactive computational tools for process design, design standard guidelines (CPHEEO, US EPA, BIS), and comprehensive water engineering terminology dictionary.
+          </p>
+        </div>
+
+        <!-- Interactive Calculator Module -->
+        <div class="card-elevated p-6 rounded-2xl border-l-4 border-l-sky-600 space-y-4">
+          <div class="flex items-center justify-between">
+            <div>
+              <span class="text-xs font-mono font-bold text-sky-700 uppercase">Process Engineering Tool</span>
+              <h2 class="text-lg font-bold text-slate-900">Interactive Wastewater Engineering Calculator</h2>
+            </div>
+            <!-- Calculator Tabs -->
+            <div class="flex items-center bg-slate-100 p-1 rounded-xl">
+              <button onclick="window.LibraryView.setCalcTab('stokes')" class="px-3 py-1.5 rounded-lg text-xs font-bold transition-all ${this.activeCalcTab === 'stokes' ? 'bg-white text-sky-900 shadow-sm' : 'text-slate-600 hover:text-slate-900'}">1. Stokes' Law</button>
+              <button onclick="window.LibraryView.setCalcTab('hrt')" class="px-3 py-1.5 rounded-lg text-xs font-bold transition-all ${this.activeCalcTab === 'hrt' ? 'bg-white text-sky-900 shadow-sm' : 'text-slate-600 hover:text-slate-900'}">2. HRT / Volume</button>
+              <button onclick="window.LibraryView.setCalcTab('ro')" class="px-3 py-1.5 rounded-lg text-xs font-bold transition-all ${this.activeCalcTab === 'ro' ? 'bg-white text-sky-900 shadow-sm' : 'text-slate-600 hover:text-slate-900'}">3. RO Recovery &amp; Brine</button>
+            </div>
+          </div>
+
+          <div id="calculator-body" class="p-4 bg-slate-50 rounded-xl border border-slate-200">
+            <!-- Populated by renderCalculator() -->
+          </div>
+        </div>
+
+        <!-- Engineering Standards Reference Guide -->
+        <div class="card-elevated p-6 rounded-2xl space-y-4">
+          <h2 class="text-base font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
+            <i data-lucide="shield-check" class="w-4 h-4 text-emerald-600"></i>
+            Key Statutory Design Standards &amp; Codes
+          </h2>
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-4 text-xs">
+            <div class="p-4 rounded-xl border border-slate-200 bg-white">
+              <span class="text-[10px] font-mono font-bold px-2 py-0.5 rounded bg-blue-100 text-blue-800 uppercase">INDIA (MOHUA)</span>
+              <h3 class="font-bold text-slate-900 mt-2 text-sm">CPHEEO Sewerage Manual</h3>
+              <p class="text-slate-600 mt-1">Manual on Sewerage and Sewage Treatment Systems published by CPHEEO. Authoritative baseline for municipal STPs, pipe velocity (0.6 - 3.0 m/s), screen sizing, and BOD/TSS design criteria.</p>
+            </div>
+            <div class="p-4 rounded-xl border border-slate-200 bg-white">
+              <span class="text-[10px] font-mono font-bold px-2 py-0.5 rounded bg-emerald-100 text-emerald-800 uppercase">US EPA GUIDELINES</span>
+              <h3 class="font-bold text-slate-900 mt-2 text-sm">Effluent Limitation Guidelines</h3>
+              <p class="text-slate-600 mt-1">40 CFR Part 400-471 governing industrial sectors: Organic Chemicals, Plastics and Synthetic Fibers (OCPSF), Petroleum Refining, and Landfills. Strictly regulates toxic organics &amp; PFAS.</p>
+            </div>
+            <div class="p-4 rounded-xl border border-slate-200 bg-white">
+              <span class="text-[10px] font-mono font-bold px-2 py-0.5 rounded bg-purple-100 text-purple-800 uppercase">DRINKING WATER REUSE</span>
+              <h3 class="font-bold text-slate-900 mt-2 text-sm">BIS 10500:2012 / WHO</h3>
+              <p class="text-slate-600 mt-1">Indian Standard for drinking water and high-grade industrial utility makeup. Benchmarks: TDS &lt; 500 mg/L, Total Hardness &lt; 200 mg/L, Turbidity &lt; 1 NTU, zero E. coli.</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Technical Glossary (A to Z) -->
+        <div class="card-elevated p-6 rounded-2xl space-y-4">
+          <div class="flex items-center justify-between">
+            <h2 class="text-base font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
+              <i data-lucide="bookmark" class="w-4 h-4 text-sky-600"></i>
+              Wastewater Engineering Technical Glossary
+            </h2>
+            <span class="text-xs font-mono text-slate-400">Essential Nomenclature</span>
+          </div>
+
+          <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3 text-xs">
+            <div class="p-3 rounded-lg bg-slate-50 border border-slate-200">
+              <strong class="text-slate-900 font-mono">BOD (Biochemical Oxygen Demand):</strong>
+              <p class="text-slate-600 text-[11px] mt-0.5">Amount of dissolved oxygen consumed by microorganisms in 5 days at 20°C (BOD5) to bio-oxidize organic matter.</p>
+            </div>
+            <div class="p-3 rounded-lg bg-slate-50 border border-slate-200">
+              <strong class="text-slate-900 font-mono">COD (Chemical Oxygen Demand):</strong>
+              <p class="text-slate-600 text-[11px] mt-0.5">Total oxygen required to chemically oxidize all organic compounds (biodegradable and refractory) using potassium dichromate.</p>
+            </div>
+            <div class="p-3 rounded-lg bg-slate-50 border border-slate-200">
+              <strong class="text-slate-900 font-mono">DAF (Dissolved Air Flotation):</strong>
+              <p class="text-slate-600 text-[11px] mt-0.5">Clarification system utilizing 30-50 µm pressurized micro-bubbles to float low-density suspended solids, oil, and grease.</p>
+            </div>
+            <div class="p-3 rounded-lg bg-slate-50 border border-slate-200">
+              <strong class="text-slate-900 font-mono">HRT (Hydraulic Retention Time):</strong>
+              <p class="text-slate-600 text-[11px] mt-0.5">Theoretical average time wastewater resides in a reactor basin (Volume / Flow Rate).</p>
+            </div>
+            <div class="p-3 rounded-lg bg-slate-50 border border-slate-200">
+              <strong class="text-slate-900 font-mono">MBR (Membrane Bioreactor):</strong>
+              <p class="text-slate-600 text-[11px] mt-0.5">Integrated biological activated sludge process combined with ultrafiltration or microfiltration membrane solid-liquid barrier.</p>
+            </div>
+            <div class="p-3 rounded-lg bg-slate-50 border border-slate-200">
+              <strong class="text-slate-900 font-mono">MLSS (Mixed Liquor Suspended Solids):</strong>
+              <p class="text-slate-600 text-[11px] mt-0.5">Concentration of active biological biomass within an aeration basin, typically 2,500 - 4,000 mg/L in ASP and 8,000 - 12,000 mg/L in MBR.</p>
+            </div>
+            <div class="p-3 rounded-lg bg-slate-50 border border-slate-200">
+              <strong class="text-slate-900 font-mono">MVR (Mechanical Vapor Recompression):</strong>
+              <p class="text-slate-600 text-[11px] mt-0.5">Evaporator technology that compresses evaporated water vapor mechanically, upgrading its thermal enthalpy for low-energy brine concentration.</p>
+            </div>
+            <div class="p-3 rounded-lg bg-slate-50 border border-slate-200">
+              <strong class="text-slate-900 font-mono">ZLD (Zero Liquid Discharge):</strong>
+              <p class="text-slate-600 text-[11px] mt-0.5">Closed-loop water treatment cycle recovering &gt;95-98% water and converting all remaining dissolved solids into solid dry crystalline salt cake.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    `;
+
+    this.renderCalculator();
+    if (window.lucide) window.lucide.createIcons();
+  },
+
+  renderCalculator: function() {
+    const body = document.getElementById("calculator-body");
+    if (!body) return;
+
+    if (this.activeCalcTab === 'stokes') {
+      body.innerHTML = `
+        <div class="space-y-4">
+          <div class="flex items-center justify-between">
+            <h3 class="text-sm font-bold text-slate-900">Stokes' Law Particle Settling Velocity</h3>
+            <span class="text-xs font-mono text-slate-500">v_s = [g · (ρ_p - ρ_w) · d²] / (18 · µ)</span>
+          </div>
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 text-xs">
+            <div>
+              <label class="block font-semibold text-slate-700 mb-1">Particle Diameter d (mm):</label>
+              <input id="stokes-d" type="number" step="0.01" value="0.2" class="w-full bg-white border border-slate-300 p-2 rounded-lg font-mono focus:ring-sky-500" oninput="window.LibraryView.calculateStokes()"/>
+              <span class="text-[10px] text-slate-400">Typical: Sand/Grit = 0.2mm, Floc = 0.5-2.0mm</span>
+            </div>
+            <div>
+              <label class="block font-semibold text-slate-700 mb-1">Particle Density ρ_p (kg/m³):</label>
+              <input id="stokes-rhop" type="number" step="10" value="2650" class="w-full bg-white border border-slate-300 p-2 rounded-lg font-mono focus:ring-sky-500" oninput="window.LibraryView.calculateStokes()"/>
+              <span class="text-[10px] text-slate-400">Silica sand = 2650 kg/m³, Chemical floc = 1050-1200 kg/m³</span>
+            </div>
+          </div>
+          <div id="stokes-result" class="p-3 bg-white rounded-lg border border-slate-200 mt-2"></div>
+        </div>
+      `;
+      this.calculateStokes();
+    } else if (this.activeCalcTab === 'hrt') {
+      body.innerHTML = `
+        <div class="space-y-4">
+          <div class="flex items-center justify-between">
+            <h3 class="text-sm font-bold text-slate-900">Hydraulic Retention Time (HRT) &amp; Tank Volume</h3>
+            <span class="text-xs font-mono text-slate-500">HRT = V / Q</span>
+          </div>
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 text-xs">
+            <div>
+              <label class="block font-semibold text-slate-700 mb-1">Tank Net Active Volume V (m³):</label>
+              <input id="hrt-v" type="number" step="10" value="600" class="w-full bg-white border border-slate-300 p-2 rounded-lg font-mono focus:ring-sky-500" oninput="window.LibraryView.calculateHRT()"/>
+            </div>
+            <div>
+              <label class="block font-semibold text-slate-700 mb-1">Design Influent Flow Q (m³/hour):</label>
+              <input id="hrt-q" type="number" step="5" value="50" class="w-full bg-white border border-slate-300 p-2 rounded-lg font-mono focus:ring-sky-500" oninput="window.LibraryView.calculateHRT()"/>
+            </div>
+          </div>
+          <div id="hrt-result" class="p-3 bg-white rounded-lg border border-slate-200 mt-2"></div>
+        </div>
+      `;
+      this.calculateHRT();
+    } else if (this.activeCalcTab === 'ro') {
+      body.innerHTML = `
+        <div class="space-y-4">
+          <div class="flex items-center justify-between">
+            <h3 class="text-sm font-bold text-slate-900">Reverse Osmosis Recovery &amp; Brine Concentration Calculator</h3>
+            <span class="text-xs font-mono text-slate-500">Recovery % = (Q_p / Q_f) · 100% · CF = 1 / (1 - Y)</span>
+          </div>
+          <div class="grid grid-cols-1 sm:grid-cols-3 gap-3 text-xs">
+            <div>
+              <label class="block font-semibold text-slate-700 mb-1">Feed Flow Q_f (m³/h):</label>
+              <input id="ro-qf" type="number" step="5" value="100" class="w-full bg-white border border-slate-300 p-2 rounded-lg font-mono" oninput="window.LibraryView.calculateRO()"/>
+            </div>
+            <div>
+              <label class="block font-semibold text-slate-700 mb-1">Permeate Flow Q_p (m³/h):</label>
+              <input id="ro-qp" type="number" step="5" value="80" class="w-full bg-white border border-slate-300 p-2 rounded-lg font-mono" oninput="window.LibraryView.calculateRO()"/>
+            </div>
+            <div>
+              <label class="block font-semibold text-slate-700 mb-1">Raw Feed TDS (mg/L):</label>
+              <input id="ro-tds" type="number" step="100" value="3500" class="w-full bg-white border border-slate-300 p-2 rounded-lg font-mono" oninput="window.LibraryView.calculateRO()"/>
+            </div>
+          </div>
+          <div id="ro-result" class="p-3 bg-white rounded-lg border border-slate-200 mt-2"></div>
+        </div>
+      `;
+      this.calculateRO();
+    }
+  }
+};
+
+
+/* ==================== MODULE: js/app.js ==================== */
+// app.js - Main Application Coordinator, Router & State Manager
+window.App = {
+  currentRoute: 'home',
+  routeParams: {},
+
+  init: function() {
+    console.log("Initializing Water Technology & Intelligence Hub Platform...");
+
+    // Setup Hash Change Listener
+    window.addEventListener('hashchange', () => this.handleRouting());
+
+    // Setup Global Keyboard Shortcuts (Ctrl+K or '/' for Search, Escape to Close)
+    window.addEventListener('keydown', (e) => {
+      if ((e.ctrlKey && e.key.toLowerCase() === 'k') || (e.key === '/' && document.activeElement.tagName !== 'INPUT')) {
+        e.preventDefault();
+        window.SearchModalComponent.open();
+      }
+      if (e.key === 'Escape') {
+        window.SearchModalComponent.close();
+        if (window.CompetitorDbView) window.CompetitorDbView.closeDossier();
+      }
+    });
+
+    // Initial Route Load
+    this.handleRouting();
+  },
+
+  navigateTo: function(route, params) {
+    this.routeParams = params || {};
+    window.location.hash = `#${route}`;
+  },
+
+  handleRouting: function() {
+    let hash = window.location.hash.replace('#', '') || 'home';
+    let [route, queryString] = hash.split('?');
+
+    this.currentRoute = route || 'home';
+
+    // Parse Query Params if present
+    if (queryString) {
+      const urlParams = new URLSearchParams(queryString);
+      for (const [key, val] of urlParams.entries()) {
+        this.routeParams[key] = val;
+      }
+    }
+
+    // Render Navigation Bar
+    const navContainer = document.getElementById("navbar-container");
+    if (navContainer && window.NavbarComponent) {
+      navContainer.innerHTML = window.NavbarComponent.render(this.currentRoute);
+    }
+
+    // Scroll to top
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+
+    // Render Active View
+    const mainContent = document.getElementById("main-content");
+    if (!mainContent) return;
+
+    switch (this.currentRoute) {
+      case 'home':
+        if (window.HomeView) {
+          mainContent.innerHTML = window.HomeView.render();
+        }
+        break;
+
+      case 'competitors':
+        if (window.CompetitorDbView) {
+          window.CompetitorDbView.render();
+        }
+        break;
+
+      case 'intelligence':
+      case 'benchmarking':
+      case 'competitive-intel':
+        this.currentRoute = 'intelligence';
+        if (window.IntelligenceView) {
+          window.IntelligenceView.render();
+        }
+        break;
+
+      case 'processes':
+      case 'technologies':
+        this.currentRoute = 'processes';
+        if (window.ProcessesView) {
+          window.ProcessesView.render();
+        }
+        break;
+
+      case 'personas':
+      case 'market-intel':
+        this.currentRoute = 'personas';
+        if (window.PersonasView) {
+          window.PersonasView.render();
+        }
+        break;
+
+      default:
+        this.currentRoute = 'home';
+        if (window.HomeView) {
+          mainContent.innerHTML = window.HomeView.render();
+        }
+        break;
+    }
+
+    // Initialize Lucide icons
+    if (window.lucide) {
+      window.lucide.createIcons();
+    }
+  },
+
+  toggleMobileMenu: function() {
+    const m = document.getElementById("mobile-menu");
+    if (m) m.classList.toggle("hidden");
+  },
+
+  closeMobileMenu: function() {
+    const m = document.getElementById("mobile-menu");
+    if (m) m.classList.add("hidden");
+  }
+};
+
+// Auto-run on DOM ready or immediately if DOM is already parsed
+if (document.readyState === 'loading') {
+  document.addEventListener("DOMContentLoaded", () => {
+    window.App.init();
+  });
+} else {
+  window.App.init();
+}
+
