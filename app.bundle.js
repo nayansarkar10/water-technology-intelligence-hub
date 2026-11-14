@@ -6590,6 +6590,132 @@ window.HomeView = {
           </div>
         </section>
 
+        <!-- Engineering Schematics & Plant Architecture Showcase -->
+        <section class="space-y-4">
+          <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-2 border-b border-slate-200 pb-3">
+            <div>
+              <span class="text-xs font-mono font-bold text-orange-600 uppercase tracking-wider">Engineering Schematics Gallery</span>
+              <h2 class="text-lg font-bold text-slate-900 flex items-center gap-2">
+                <i data-lucide="layers" class="w-5 h-5 text-sky-600"></i>
+                Core Plant Architectures &amp; Process Train Blueprints
+              </h2>
+            </div>
+            <a href="#processes" class="text-xs font-bold text-sky-600 hover:text-sky-700 flex items-center gap-1">
+              Explore All 19 Unit Operations &rarr;
+            </a>
+          </div>
+
+          <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+            <!-- Train 1: ETP -->
+            <div class="card-elevated p-4 rounded-2xl bg-white border border-slate-200 hover:border-sky-400 transition-all flex flex-col justify-between group">
+              <div class="space-y-3">
+                <div class="relative w-full h-40 rounded-xl overflow-hidden bg-slate-950 border border-slate-800 flex items-center justify-center shadow-inner">
+                  <img 
+                    src="images/daf_system_schematic.png" 
+                    data-img="daf_system_schematic.png"
+                    alt="Dissolved Air Flotation Schematic" 
+                    class="w-full h-full object-contain p-1 group-hover:scale-105 transition-transform duration-300"
+                    loading="lazy"
+                    onerror="this.onerror=null; this.src='./images/daf_system_schematic.png';"
+                  />
+                  <span class="absolute top-2 left-2 bg-sky-900/90 text-sky-200 text-[9px] font-mono font-bold px-2 py-0.5 rounded border border-sky-600">ETP TRAIN</span>
+                </div>
+                <h3 class="text-sm font-bold text-slate-900 group-hover:text-sky-600 transition-colors">
+                  Industrial ETP Train
+                </h3>
+                <p class="text-[11px] text-slate-600 line-clamp-2 leading-relaxed">
+                  High-rate flash mixing, coagulation, DAF micro-bubble flotation, biological MBBR, and secondary clarification.
+                </p>
+              </div>
+              <a href="#processes" onclick="if (window.ProcessesView) window.ProcessesView.setPfdTrain('etp')" class="mt-3 pt-2 border-t border-slate-100 text-[11px] font-bold text-sky-600 hover:text-sky-700 flex items-center justify-between">
+                <span>View ETP Flowsheet</span>
+                <i data-lucide="arrow-right" class="w-3.5 h-3.5"></i>
+              </a>
+            </div>
+
+            <!-- Train 2: STP -->
+            <div class="card-elevated p-4 rounded-2xl bg-white border border-slate-200 hover:border-orange-400 transition-all flex flex-col justify-between group">
+              <div class="space-y-3">
+                <div class="relative w-full h-40 rounded-xl overflow-hidden bg-slate-950 border border-slate-800 flex items-center justify-center shadow-inner">
+                  <img 
+                    src="images/aeration_tank_schematic.png" 
+                    data-img="aeration_tank_schematic.png"
+                    alt="Aeration Tank Schematic" 
+                    class="w-full h-full object-contain p-1 group-hover:scale-105 transition-transform duration-300"
+                    loading="lazy"
+                    onerror="this.onerror=null; this.src='./images/aeration_tank_schematic.png';"
+                  />
+                  <span class="absolute top-2 left-2 bg-orange-900/90 text-orange-200 text-[9px] font-mono font-bold px-2 py-0.5 rounded border border-orange-600">STP TRAIN</span>
+                </div>
+                <h3 class="text-sm font-bold text-slate-900 group-hover:text-orange-600 transition-colors">
+                  Municipal &amp; Facility STP
+                </h3>
+                <p class="text-[11px] text-slate-600 line-clamp-2 leading-relaxed">
+                  Mechanical bar screens, vortex grit separation, aerobic activated sludge (ASP/SBR), and UV disinfection.
+                </p>
+              </div>
+              <a href="#processes" onclick="if (window.ProcessesView) window.ProcessesView.setPfdTrain('stp')" class="mt-3 pt-2 border-t border-slate-100 text-[11px] font-bold text-orange-600 hover:text-orange-700 flex items-center justify-between">
+                <span>View STP Flowsheet</span>
+                <i data-lucide="arrow-right" class="w-3.5 h-3.5"></i>
+              </a>
+            </div>
+
+            <!-- Train 3: WTP / RO Desalination -->
+            <div class="card-elevated p-4 rounded-2xl bg-white border border-slate-200 hover:border-sky-400 transition-all flex flex-col justify-between group">
+              <div class="space-y-3">
+                <div class="relative w-full h-40 rounded-xl overflow-hidden bg-slate-950 border border-slate-800 flex items-center justify-center shadow-inner">
+                  <img 
+                    src="images/ro_membrane_schematic.png" 
+                    data-img="ro_membrane_schematic.png"
+                    alt="Reverse Osmosis Membrane Schematic" 
+                    class="w-full h-full object-contain p-1 group-hover:scale-105 transition-transform duration-300"
+                    loading="lazy"
+                    onerror="this.onerror=null; this.src='./images/ro_membrane_schematic.png';"
+                  />
+                  <span class="absolute top-2 left-2 bg-sky-900/90 text-sky-200 text-[9px] font-mono font-bold px-2 py-0.5 rounded border border-sky-600">WTP &amp; REUSE</span>
+                </div>
+                <h3 class="text-sm font-bold text-slate-900 group-hover:text-sky-600 transition-colors">
+                  WTP &amp; High-Recovery RO
+                </h3>
+                <p class="text-[11px] text-slate-600 line-clamp-2 leading-relaxed">
+                  Multi-media deep bed filters, granular activated carbon, micron cartridges, and multi-stage spiral-wound RO skids.
+                </p>
+              </div>
+              <a href="#processes" onclick="if (window.ProcessesView) window.ProcessesView.setPfdTrain('wtp')" class="mt-3 pt-2 border-t border-slate-100 text-[11px] font-bold text-sky-600 hover:text-sky-700 flex items-center justify-between">
+                <span>View WTP Flowsheet</span>
+                <i data-lucide="arrow-right" class="w-3.5 h-3.5"></i>
+              </a>
+            </div>
+
+            <!-- Train 4: ZLD & TRITRON Physics -->
+            <div class="card-elevated p-4 rounded-2xl bg-white border border-slate-200 hover:border-orange-400 transition-all flex flex-col justify-between group">
+              <div class="space-y-3">
+                <div class="relative w-full h-40 rounded-xl overflow-hidden bg-slate-950 border border-slate-800 flex items-center justify-center shadow-inner">
+                  <img 
+                    src="images/tritron_resonance_schematic.png" 
+                    data-img="tritron_resonance_schematic.png"
+                    alt="TRITRON Resonance System Schematic" 
+                    class="w-full h-full object-contain p-1 group-hover:scale-105 transition-transform duration-300"
+                    loading="lazy"
+                    onerror="this.onerror=null; this.src='./images/tritron_resonance_schematic.png';"
+                  />
+                  <span class="absolute top-2 left-2 bg-orange-900/90 text-orange-200 text-[9px] font-mono font-bold px-2 py-0.5 rounded border border-orange-600">ZLD &amp; PHYSICS</span>
+                </div>
+                <h3 class="text-sm font-bold text-slate-900 group-hover:text-orange-600 transition-colors">
+                  ZLD &amp; TRITRON™ Physics
+                </h3>
+                <p class="text-[11px] text-slate-600 line-clamp-2 leading-relaxed">
+                  Non-chemical RFM + TRT resonance frequency separation, Multi-Effect Evaporators (MEE), and ATFD solid crystallization.
+                </p>
+              </div>
+              <a href="#processes" onclick="if (window.ProcessesView) window.ProcessesView.setPfdTrain('ltp')" class="mt-3 pt-2 border-t border-slate-100 text-[11px] font-bold text-orange-600 hover:text-orange-700 flex items-center justify-between">
+                <span>View ZLD Flowsheet</span>
+                <i data-lucide="arrow-right" class="w-3.5 h-3.5"></i>
+              </a>
+            </div>
+          </div>
+        </section>
+
         <!-- Wastewater Treatment Fundamentals: Quick Learning Primer -->
         <section class="space-y-4">
           <div class="border-b border-slate-200 pb-3">
@@ -7787,6 +7913,80 @@ window.ProcessesView = {
   activeCategoryFilter: 'all',
   searchQuery: '',
 
+  handleImageError: function(img, title, category) {
+    if (!img) return;
+    img.onerror = null; // Prevent loop
+    
+    // Attempt relative directory fallback once
+    if (!img.dataset.fallbackRetried) {
+      img.dataset.fallbackRetried = "true";
+      const rawImg = img.getAttribute('data-img');
+      if (rawImg) {
+        img.src = './images/' + rawImg;
+        return;
+      }
+    }
+
+    // If still fails, render an inline vector CAD blueprint fallback
+    img.style.display = 'none';
+    const parent = img.parentElement;
+    if (parent) {
+      parent.classList.add('bg-slate-900', 'flex', 'items-center', 'justify-center');
+      parent.innerHTML = `
+        <div class="text-center p-3 space-y-1.5 pointer-events-none">
+          <div class="w-8 h-8 rounded-lg bg-sky-500/20 border border-sky-400/40 text-sky-400 mx-auto flex items-center justify-center">
+            <svg class="w-4 h-4 stroke-current" fill="none" viewBox="0 0 24 24" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M3 9h18M9 21V9"/></svg>
+          </div>
+          <span class="text-xs font-bold text-white block truncate">` + (title || 'Unit Operation') + `</span>
+          <span class="text-[9px] font-mono text-orange-400 block uppercase tracking-wider">` + (category || 'Process') + ` Blueprint</span>
+        </div>
+      `;
+    }
+  },
+
+  openLightbox: function(imgSrc, title) {
+    let modal = document.getElementById('lightbox-modal');
+    if (!modal) {
+      modal = document.createElement('div');
+      modal.id = 'lightbox-modal';
+      modal.className = 'fixed inset-0 z-50 bg-slate-950/95 backdrop-blur-md flex flex-col p-4 sm:p-6 overflow-hidden';
+      document.body.appendChild(modal);
+    }
+    modal.innerHTML = `
+      <div class="flex items-center justify-between pb-3 border-b border-slate-800 text-white flex-shrink-0">
+        <div class="flex items-center gap-2">
+          <span class="w-2.5 h-2.5 rounded-full bg-orange-500 animate-pulse"></span>
+          <h3 class="text-xs sm:text-sm font-bold font-mono text-white">` + title + ` · Engineering CAD Schematic (1600 × 1000)</h3>
+        </div>
+        <div class="flex items-center gap-2">
+          <a href="` + imgSrc + `" download="` + (title || 'Blueprint').replace(/[^a-zA-Z0-9]/g, '_') + `_1600x1000.png" class="px-3 py-1.5 rounded-lg bg-sky-600 hover:bg-sky-500 text-white text-xs font-mono font-bold flex items-center gap-1.5 transition-all shadow-md">
+            <svg class="w-3.5 h-3.5 stroke-current" fill="none" viewBox="0 0 24 24" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+            <span>Download PNG</span>
+          </a>
+          <button onclick="document.getElementById('lightbox-modal').classList.add('hidden')" class="p-1.5 rounded-lg bg-slate-800 hover:bg-slate-700 text-slate-300 hover:text-white transition-all">
+            <svg class="w-5 h-5 stroke-current" fill="none" viewBox="0 0 24 24" stroke-width="2"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+          </button>
+        </div>
+      </div>
+      <div class="flex-1 overflow-auto flex items-center justify-center p-2 sm:p-4 my-2">
+        <img src="` + imgSrc + `" alt="` + title + `" class="max-w-full max-h-[82vh] object-contain rounded-xl shadow-2xl border border-slate-800 bg-[#0A192F]" />
+      </div>
+      <div class="flex items-center justify-between text-[11px] font-mono text-slate-400 pt-2 border-t border-slate-800 flex-shrink-0">
+        <span>Hydraulic equations, boundary conditions, and equipment tags in native 1600×1000 resolution.</span>
+        <span>Press ESC to close</span>
+      </div>
+    `;
+    modal.classList.remove('hidden');
+
+    const handleEsc = function(e) {
+      if (e.key === 'Escape') {
+        modal.classList.add('hidden');
+        window.removeEventListener('keydown', handleEsc);
+      }
+    };
+    window.addEventListener('keydown', handleEsc);
+  },
+
   setPfdTrain: function(train) {
     this.activePfdTrain = train;
     this.renderPfdDiagram();
@@ -7814,7 +8014,7 @@ window.ProcessesView = {
     this.render();
   },
 
-  render: function() {
+render: function() {
     const container = document.getElementById("main-content");
     if (!container) return;
 
@@ -8138,6 +8338,7 @@ window.ProcessesView = {
     if (window.lucide) window.lucide.createIcons();
   },
 
+  
   renderComponentGrid: function() {
     const container = document.getElementById("components-grid-container");
     if (!container) return;
@@ -8154,8 +8355,8 @@ window.ProcessesView = {
       list = list.filter(c => 
         c.title.toLowerCase().includes(q) || 
         c.category.toLowerCase().includes(q) || 
-        c.definition.toLowerCase().includes(q) ||
-        c.types.some(t => t.name.toLowerCase().includes(q))
+        c.tagline.toLowerCase().includes(q) ||
+        c.definition.toLowerCase().includes(q)
       );
     }
 
@@ -8182,16 +8383,21 @@ window.ProcessesView = {
             <span class="text-[10px] font-mono text-slate-400">${c.stage}</span>
           </div>
 
-          <!-- Component Image Thumbnail if available -->
-          ${c.image ? `
-            <div class="aspect-video bg-slate-50 rounded-xl overflow-hidden border border-slate-100 flex items-center justify-center p-2">
-              <img src="images/${c.image}" alt="${c.title}" class="max-h-full max-w-full object-contain group-hover:scale-105 transition-transform" onerror="this.src='water_intelligence_platform/images/${c.image}'"/>
+          <!-- Component Image Thumbnail -->
+          <div class="relative w-full h-44 rounded-xl overflow-hidden bg-slate-950 border border-slate-800 flex items-center justify-center group-hover:border-sky-500 transition-all shadow-inner">
+            <img 
+              src="images/${c.image}" 
+              data-img="${c.image}"
+              alt="${c.title}" 
+              class="w-full h-full object-contain p-1 group-hover:scale-105 transition-transform duration-300" 
+              loading="lazy"
+              onerror="window.ProcessesView.handleImageError(this, '${c.title}', '${c.category}')"
+            />
+            <div class="absolute bottom-1.5 right-2 bg-slate-900/90 backdrop-blur-sm px-1.5 py-0.5 rounded text-[9px] font-mono text-sky-300 flex items-center gap-1 border border-slate-700/80 pointer-events-none">
+              <i data-lucide="maximize-2" class="w-2.5 h-2.5"></i>
+              <span>1600×1000 CAD</span>
             </div>
-          ` : `
-            <div class="aspect-video bg-gradient-to-br from-slate-100 to-sky-50 rounded-xl border border-slate-100 flex items-center justify-center text-slate-400">
-              <i data-lucide="cpu" class="w-8 h-8 text-sky-600/50"></i>
-            </div>
-          `}
+          </div>
 
           <h3 class="text-base font-extrabold text-slate-900 group-hover:text-sky-700 transition-colors">
             ${c.title}
@@ -8210,15 +8416,17 @@ window.ProcessesView = {
           </div>
         </div>
 
-        <div class="pt-4 mt-3 border-t border-slate-100 flex items-center justify-between text-xs text-sky-600 font-semibold group-hover:translate-x-0.5 transition-transform">
-          <span>Read 5-Point Deep Dive</span>
-          <i data-lucide="arrow-right" class="w-4 h-4"></i>
+        <div class="mt-4 pt-3 border-t border-slate-100 flex items-center justify-between text-xs font-bold text-sky-600 group-hover:text-sky-700">
+          <span>Explore 5 Engineering Pillars</span>
+          <span class="flex items-center gap-1 group-hover:translate-x-1 transition-transform">
+            Learn Unit &rarr;
+          </span>
         </div>
       </div>
     `).join('');
 
     container.innerHTML = `
-      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
         ${cards}
       </div>
     `;
@@ -8231,89 +8439,83 @@ window.ProcessesView = {
     if (!container) return;
 
     const components = this.getComponentsData();
-    const c = components.find(item => item.id === this.activeComponentId) || components[0];
+    const c = components.find(comp => comp.id === this.activeComponentId);
 
-    const typesHtml = c.types.map((t, idx) => `
-      <div class="p-4 rounded-xl border border-slate-200 bg-slate-50/70 space-y-2 text-xs">
+    if (!c) {
+      this.closeComponent();
+      return;
+    }
+
+    const typesHtml = c.types.map(t => `
+      <div class="p-4 rounded-2xl border border-slate-200 bg-white shadow-sm space-y-2">
         <div class="flex items-center justify-between">
-          <span class="font-bold text-slate-900 flex items-center gap-1.5 text-sm">
-            <span class="w-5 h-5 rounded-full bg-sky-600 text-white flex items-center justify-center text-[10px] font-bold">${idx + 1}</span>
-            ${t.name}
-          </span>
-          <span class="text-[10px] font-mono px-2 py-0.5 rounded bg-sky-100 text-sky-800 font-semibold">${t.badge || 'Variant'}</span>
+          <h4 class="font-bold text-slate-900 text-sm">${t.name}</h4>
+          <span class="text-[10px] font-mono font-bold px-2 py-0.5 rounded bg-sky-100 text-sky-800">${t.badge}</span>
         </div>
-        <p class="text-slate-600 text-xs leading-relaxed"><strong class="text-slate-800">Mechanism:</strong> ${t.mechanism}</p>
-        <p class="text-slate-600 text-xs leading-relaxed"><strong class="text-orange-700">Advantages:</strong> ${t.advantages}</p>
-        <p class="text-slate-500 text-[11px] leading-relaxed"><strong class="text-slate-700">Best Application Fit:</strong> ${t.bestFit}</p>
+        <p class="text-xs text-slate-600 leading-relaxed">${t.mechanism}</p>
+        <div class="pt-2 border-t border-slate-100 text-[11px] space-y-1">
+          <p><strong class="text-slate-800">Advantages:</strong> <span class="text-slate-600">${t.advantages}</span></p>
+          <p><strong class="text-sky-800">Best Industrial Fit:</strong> <span class="text-slate-600">${t.bestFit}</span></p>
+        </div>
       </div>
     `).join('');
 
     const diffRows = c.differences.map(d => `
-      <tr class="border-b border-slate-100 hover:bg-slate-50/50 text-xs">
-        <td class="p-3 font-bold text-slate-900 bg-slate-50/80 w-1/4">${d.param}</td>
-        ${d.values.map(v => `<td class="p-3 text-slate-700">${v}</td>`).join('')}
+      <tr class="hover:bg-slate-50 transition-colors">
+        <td class="p-3 font-semibold text-slate-900 bg-slate-50/50">${d.param}</td>
+        ${d.values.map(v => `<td class="p-3 text-slate-600">${v}</td>`).join('')}
       </tr>
     `).join('');
 
     container.innerHTML = `
-      <div class="space-y-8 pb-20 animate-in fade-in duration-200">
-        <!-- Back Navigation Bar -->
-        <div class="flex items-center justify-between bg-white p-4 rounded-2xl border border-slate-200 shadow-sm">
+      <div class="space-y-8 pb-20">
+        <!-- Top Navigation Bar & Breadcrumb -->
+        <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-3 bg-white p-4 rounded-2xl border border-slate-200 shadow-sm">
+          <div class="flex items-center gap-2 text-xs text-slate-500 font-mono">
+            <a href="#processes" onclick="window.ProcessesView.closeComponent()" class="hover:text-sky-600 font-bold">Treatment Processes</a>
+            <span>/</span>
+            <span class="px-2 py-0.5 rounded bg-sky-100 text-sky-800 font-bold uppercase text-[10px]">${c.category}</span>
+            <span>/</span>
+            <span class="text-slate-900 font-bold truncate max-w-xs">${c.title}</span>
+          </div>
+
           <button 
             onclick="window.ProcessesView.closeComponent()" 
-            class="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-800 font-bold text-xs transition-colors"
+            class="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-slate-900 hover:bg-slate-800 text-white font-bold text-xs transition-colors shadow-sm self-start sm:self-auto"
           >
             <i data-lucide="arrow-left" class="w-4 h-4"></i>
-            <span>Back to Treatment Process Knowledge Base (PFD)</span>
+            <span>Back to PFD &amp; Components</span>
           </button>
+        </div>
 
-          <div class="flex items-center gap-2">
-            <span class="text-xs font-mono text-slate-500">Component Subpage:</span>
-            <span class="text-xs font-mono font-bold text-sky-700 bg-sky-50 px-2.5 py-1 rounded border border-sky-200">
-              ${c.title} · Full Engineering Specification
+        <!-- Hero Header Card -->
+        <div class="bg-gradient-to-r from-navy-dark via-slate-900 to-sky-950 text-white p-6 sm:p-8 rounded-3xl border border-slate-800 shadow-xl space-y-4">
+          <div class="flex flex-wrap items-center gap-2">
+            <span class="px-3 py-1 rounded-full bg-sky-500/20 text-sky-300 text-xs font-mono font-bold border border-sky-400/30">
+              ${c.stage}
+            </span>
+            <span class="px-3 py-1 rounded-full bg-orange-500/20 text-orange-300 text-xs font-mono font-bold border border-orange-400/30">
+              ${c.category}
             </span>
           </div>
-        </div>
+          <h1 class="text-2xl sm:text-4xl font-black text-white tracking-tight">
+            ${c.title}
+          </h1>
+          <p class="text-sm sm:text-base text-slate-300 leading-relaxed max-w-4xl">
+            ${c.tagline}
+          </p>
 
-        <!-- Subpage Header -->
-        <div class="bg-gradient-to-r from-navy-dark via-slate-900 to-[#0B2545] text-white p-8 rounded-3xl border border-slate-700 shadow-xl relative overflow-hidden">
-          <div class="flex flex-col md:flex-row md:items-center justify-between gap-4 border-b border-slate-800 pb-6">
-            <div>
-              <div class="flex items-center gap-2 mb-2">
-                <span class="text-xs font-mono font-bold px-3 py-0.5 rounded-full bg-sky-500/20 text-sky-300 border border-sky-400/30 uppercase">
-                  ${c.category} · ${c.stage}
-                </span>
-                <span class="text-xs font-mono text-orange-400">Engineering Unit #${c.id}</span>
-              </div>
-              <h1 class="text-3xl sm:text-4xl font-black text-white">${c.title}</h1>
-              <p class="text-sm text-slate-300 mt-2 max-w-3xl leading-relaxed">${c.tagline}</p>
-            </div>
-          </div>
-
-          <!-- Quick Operating Rules -->
-          <div class="grid grid-cols-2 sm:grid-cols-4 gap-4 mt-6 text-xs">
-            <div class="p-3 rounded-xl bg-slate-800/60 border border-slate-700/60">
-              <span class="text-[10px] text-slate-400 font-mono uppercase block">Target Contaminants:</span>
-              <p class="font-bold text-white text-sm mt-0.5">${c.targetContaminants}</p>
-            </div>
-            <div class="p-3 rounded-xl bg-slate-800/60 border border-slate-700/60">
-              <span class="text-[10px] text-slate-400 font-mono uppercase block">Governing Law/Formula:</span>
-              <p class="font-bold text-sky-300 text-sm mt-0.5 font-mono">${c.governingEquation}</p>
-            </div>
-            <div class="p-3 rounded-xl bg-slate-800/60 border border-slate-700/60">
-              <span class="text-[10px] text-slate-400 font-mono uppercase block">Typical Detention / Retention:</span>
-              <p class="font-bold text-white text-sm mt-0.5">${c.typicalDetention}</p>
-            </div>
-            <div class="p-3 rounded-xl bg-slate-800/60 border border-slate-700/60">
-              <span class="text-[10px] text-orange-400 font-mono uppercase block">Downstream Protection:</span>
-              <p class="font-bold text-orange-300 text-sm mt-0.5">${c.protectionRole}</p>
-            </div>
+          <div class="grid grid-cols-1 sm:grid-cols-3 gap-3 pt-4 border-t border-slate-800 text-xs font-mono">
+            <div><span class="text-slate-400 block text-[10px] uppercase">Target Contaminants:</span><span class="font-bold text-white">${c.targetContaminants}</span></div>
+            <div><span class="text-slate-400 block text-[10px] uppercase">Governing Physics:</span><span class="font-bold text-sky-400">${c.governingEquation}</span></div>
+            <div><span class="text-slate-400 block text-[10px] uppercase">Protection Function:</span><span class="font-bold text-orange-400">${c.protectionRole}</span></div>
           </div>
         </div>
 
-        <!-- 5-Point Comprehensive Engineering Specification -->
+        <!-- The 5 Core Pedagogical Modules -->
         <div class="space-y-6">
-          <!-- 1. Definition & Core Concept -->
+
+          <!-- 1. Definition & Operating Principle -->
           <div class="card-elevated p-6 sm:p-8 rounded-3xl bg-white border border-slate-200 space-y-4">
             <div class="flex items-center gap-2 border-b border-slate-100 pb-3">
               <span class="w-6 h-6 rounded-full bg-sky-600 text-white font-bold flex items-center justify-center text-xs">1</span>
@@ -8325,9 +8527,35 @@ window.ProcessesView = {
             </p>
 
             ${c.image ? `
-              <div class="mt-4 p-4 rounded-2xl bg-slate-50 border border-slate-200 text-center">
-                <img src="images/${c.image}" alt="${c.title} Schematic" class="max-h-96 mx-auto object-contain rounded-xl shadow-sm" onerror="this.src='water_intelligence_platform/images/${c.image}'"/>
-                <p class="text-xs text-slate-500 font-mono mt-2">Figure: Detailed Engineering Schematic &amp; Hydraulic Layout (${c.image})</p>
+              <div class="mt-5 rounded-2xl bg-slate-950 border border-slate-800 p-4 sm:p-6 text-center space-y-3 shadow-2xl relative group">
+                <div class="flex items-center justify-between pb-2 border-b border-slate-800/80 text-xs">
+                  <div class="flex items-center gap-2">
+                    <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
+                    <span class="font-mono text-slate-300 text-[11px] font-bold">1600 × 1000 High-Resolution Process Blueprint</span>
+                  </div>
+                  <button 
+                    onclick="window.ProcessesView.openLightbox('images/${c.image}', '${c.title}')"
+                    class="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-sky-600 hover:bg-sky-500 text-white font-mono text-xs font-bold transition-all shadow-md"
+                  >
+                    <i data-lucide="maximize-2" class="w-3.5 h-3.5"></i>
+                    <span>Fullscreen Lightbox (100% Zoom)</span>
+                  </button>
+                </div>
+
+                <div class="overflow-hidden rounded-xl border border-slate-800 bg-[#0A192F] cursor-pointer" onclick="window.ProcessesView.openLightbox('images/${c.image}', '${c.title}')">
+                  <img 
+                    src="images/${c.image}" 
+                    data-img="${c.image}"
+                    alt="${c.title} Schematic" 
+                    class="w-full max-h-[550px] object-contain mx-auto transition-transform duration-300 group-hover:scale-[1.01]" 
+                    onerror="window.ProcessesView.handleImageError(this, '${c.title}', '${c.category}')"
+                  />
+                </div>
+
+                <div class="flex flex-col sm:flex-row items-center justify-between text-xs text-slate-400 font-mono pt-1">
+                  <span>Figure: Detailed Engineering Schematic, Hydraulic Balance &amp; Equipment Architecture (${c.image})</span>
+                  <span class="text-orange-400 font-bold mt-1 sm:mt-0">Click image to inspect equations &amp; CAD layout</span>
+                </div>
               </div>
             ` : ''}
           </div>
@@ -8820,7 +9048,7 @@ window.ProcessesView = {
         governingEquation: "Electromagnetic Resonance: f = 1 / (2π√LC) + DC Field Potential",
         typicalDetention: "10 to 40 minutes retention in Tron Resonating Tower",
         protectionRole: "Reduces secondary TDS by 20–25%, protects RO membranes from scaling, and relieves thermal evaporators",
-        image: "clarifier_primary_schematic.png",
+        image: "tritron_resonance_schematic.png",
         definition: "A breakthrough non-chemical, physics-based water treatment technology that utilizes programmed radio/electromagnetic resonance frequencies and direct current (DC) potentials to break molecular solvation bonds, converting dissolved solids (TDS) into suspended solids (TSS) for easy physical separation.",
         howItWorks: "Wastewater is pumped into the Tron Resonating Tower (TRT). The Resonance Frequency Modulator (RFM) transmits precise frequencies through internal antennas matched to the elemental profile of the dissolved ions. Resonance destabilizes dissolved hydrates, precipitating them as micro-flocs that settle out as sludge.",
         whyRequired: [
@@ -8955,7 +9183,192 @@ window.ProcessesView = {
           { label: "Target UV Dose", value: "30 – 40 mJ/cm² (milliJoules/cm²)", explanation: "Delivers 4-log (99.99%) inactivation of cryptosporidium, giardia, and E. coli." },
           { label: "UV Transmittance (UVT)", value: "≥ 65% – 75% at 254 nm", explanation: "Pretreatment water clarity required to ensure light reaches pathogens across the channel." }
         ]
-      }
+      },
+
+      {
+        id: "dmf-filter",
+        title: "Dual Media & Pressure Sand Filters (DMF / PSF)",
+        category: "Tertiary Polishing",
+        categoryTag: "tertiary",
+        stage: "Stage 07: Deep Bed Filtration",
+        tagline: "High-rate granular media filtration capturing fine suspended flocs prior to membrane skids.",
+        targetContaminants: "Residual TSS (< 5 mg/L), turbidity (< 1 NTU), non-settleable bio-flocs",
+        governingEquation: "Filtration Rate: 10 - 15 m3/m2·h | Backwash Rate: 30 - 40 m/h",
+        typicalDetention: "Superficial contact time: 10–15 minutes",
+        protectionRole: "Essential pre-filter protecting Ultrafiltration and RO membranes from silt density fouling (SDI < 3)",
+        image: "card_dmf_filter.png",
+        definition: "A pressure vessel packed with layered anthracite coal and quartz sand that captures fine suspended solids throughout the depth of the bed, rather than just on the surface.",
+        howItWorks: "Water flows downward through coarse anthracite (specific gravity ~1.4) where larger particles are trapped, and then through fine dense silica sand (SG ~2.65) which polishes out fine particles down to 10-20 microns. Periodic backwashing fluidizes the media to flush out captured solids.",
+        whyRequired: [
+          { title: "RO Silt Density Index (SDI) Reduction", desc: "RO membranes mandate feed SDI < 3.0. DMF reliably drops raw effluent turbidity from >20 NTU down to <1 NTU." },
+          { title: "Membrane Surface Gouging Prevention", desc: "Prevents sharp mineral particles from scouring delicate polyamide membrane active layers." },
+          { title: "Disinfection Efficacy Shielding", desc: "Suspended particles shield pathogens from UV irradiation; DMF ensures clear optical transmission (UVT > 75%)." }
+        ],
+        types: [
+          { name: "Pressure Sand Filter (PSF)", badge: "Single Media", mechanism: "Graded silica sand layers with gravel support; automated multi-port valve backwash.", advantages: "Lowest capital equipment cost; simple robust operation.", bestFit: "Cooling tower side-stream polishing and general industrial ETP discharge." },
+          { name: "Dual Media Filter (DMF)", badge: "Anthracite + Sand", mechanism: "Anthracite upper layer (1.0–1.2 mm) over fine sand (0.5 mm); true depth filtration.", advantages: "2x to 3x longer filter run times between backwashes; higher hydraulic flux.", bestFit: "Pretreatment directly ahead of Ultrafiltration and RO trains in ZLD plants." },
+          { name: "Multi-Media Filter (MMF)", badge: "Triple Layered", mechanism: "Anthracite + Silica Sand + Dense Garnet (SG ~4.0); three-stage filtration down to 5 µm.", advantages: "Superior turbidity reduction (<0.2 NTU) and high particulate capture capacity.", bestFit: "Critical high-purity water, semiconductor fabrication, and high-recovery RO." }
+        ],
+        diffHeaders: ["Pressure Sand (PSF)", "Dual Media (DMF)", "Multi-Media (MMF)", "Cartridge Filter"],
+        differences: [
+          { param: "Media Configuration", values: ["Single Sand Layer", "Anthracite + Sand", "Anthracite + Sand + Garnet", "Polypropylene Meltblown"] },
+          { param: "Filtration Rating", values: ["20 – 30 microns", "10 – 15 microns", "5 – 10 microns", "1 – 5 microns (nominal)"] },
+          { param: "Filtration Rate", values: ["8 – 10 m/h", "12 – 15 m/h", "15 – 20 m/h", "N/A (Disposable)"] },
+          { param: "Backwash Required", values: ["Yes (Daily)", "Yes (Every 24–48h)", "Yes (Every 36–72h)", "No (Replace Cartridge)"] }
+        ],
+        heuristics: [
+          { label: "Target Effluent SDI", value: "SDI15 < 3.0", explanation: "Critical threshold for RO warranty and anti-fouling operational compliance." },
+          { label: "Backwash Expansion", value: "30% - 40% Bed Expansion", explanation: "Hydraulic lift required to fully liberate entrapped flocs during air/water scour." }
+        ]
+      },
+
+      {
+        id: "gac-filter",
+        title: "Activated Carbon Filtration & Adsorption (ACF / GAC)",
+        category: "Tertiary Polishing",
+        categoryTag: "tertiary",
+        stage: "Stage 08: Molecular Adsorption",
+        tagline: "Microporous carbon adsorption removing free chlorine, color, toxic organics, and recalcitrant COD.",
+        targetContaminants: "Free residual chlorine, synthetic organic chemicals (VOCs, pesticides), color, taste, odor, refractory COD",
+        governingEquation: "Freundlich Isotherm: qe = Kf · Ce^(1/n) | EBCT: 10 - 20 mins",
+        typicalDetention: "Empty Bed Contact Time (EBCT): 10 to 20 minutes",
+        protectionRole: "Sacrificial shield preventing irreversible chlorine oxidation and organic biofouling on RO membranes",
+        image: "card_gac_filter.png",
+        definition: "A fixed-bed adsorption vessel containing granular activated carbon (GAC) derived from coconut shell or bituminous coal, boasting immense internal surface areas of 900 to 1,200 m²/g.",
+        howItWorks: "Wastewater contacts the carbon bed where organic molecules adsorb via van der Waals forces and hydrophobic interactions. Free chlorine is catalytically reduced to innocuous chloride ions (C* + HOCl → C*O + H⁺ + Cl⁻), neutralizing its oxidizing potential entirely.",
+        whyRequired: [
+          { title: "RO Polyamide Membrane De-Chlorination", desc: "Polyamide reverse osmosis membranes are permanently destroyed by >0.1 ppm free chlorine via ring chlorination." },
+          { title: "Refractory COD & Color Removal", desc: "Textile dyes and phenolic compounds resist biological treatment; GAC adsorbs them, yielding sparkling crystal-clear effluent." },
+          { title: "Biocide Residual Neutralization", desc: "Quenches residual oxidizing biocides before discharge to sensitive municipal sewers or ecosystems." }
+        ],
+        types: [
+          { name: "Granular Activated Carbon (GAC)", badge: "Coconut Shell Based", mechanism: "Fixed granular bed (8x30 or 12x40 mesh); regeneration via thermal reactivation.", advantages: "Highest micropore surface area (>1,100 m2/g); superior for trace volatile organics.", bestFit: "Tertiary polishing in industrial ETPs, textile recycling, and drinking water plants." },
+          { name: "Powdered Activated Carbon (PAC)", badge: "Direct Slurry Dosing", mechanism: "Finely milled carbon (<45 µm) dosed directly into aeration basins or flash mixers.", advantages: "Zero vessel capital cost; handles sudden seasonal toxic spikes or dye surges.", bestFit: "Emergency toxicity control in biological tanks and batch chemical plants." },
+          { name: "Biological Activated Carbon (BAC)", badge: "Biofilm Hybrid", mechanism: "Pre-ozonated water contacts GAC colonized by aerobic bacteria for bio-regeneration.", advantages: "Continuous bio-degradation of adsorbed organics extends bed life from months to years.", bestFit: "Advanced tertiary water reuse and indirect potable reuse (IPR) schemes." }
+        ],
+        diffHeaders: ["GAC Pressure Vessel", "PAC Dosing", "Biological Carbon (BAC)", "Synthetic Resin"],
+        differences: [
+          { param: "Surface Area", values: ["900 – 1,200 m²/g", "800 – 1,000 m²/g", "900 – 1,100 m²/g", "Macro-reticular resin"] },
+          { param: "Regeneration", values: ["Thermal kiln off-site", "Single use (wasted)", "Self-regenerating bio", "Chemical brine / acid"] },
+          { param: "EBCT Contact Time", values: ["10 – 20 mins", "Continuous in tank", "15 – 25 mins", "5 – 10 mins"] },
+          { param: "Dechlorination", values: ["Catalytic reduction", "Rapid reduction", "Catalytic reduction", "Ineffective"] }
+        ],
+        heuristics: [
+          { label: "Empty Bed Contact Time", value: "10 – 15 Minutes", explanation: "Minimum contact time for complete de-chlorination and organic pesticide capture." },
+          { label: "Iodine Number", value: "≥ 900 – 1,050 mg/g", explanation: "Standard metric ensuring high microporosity and adsorption capacity." }
+        ]
+      },
+
+      {
+        id: "mbbr-reactor",
+        title: "Moving Bed Biofilm Reactor (MBBR)",
+        category: "Biological Treatment",
+        categoryTag: "secondary",
+        stage: "Stage 05: Attached-Growth Biology",
+        tagline: "Compact attached-growth biological reactor utilizing suspended fluidised bio-carriers with active biofilm.",
+        targetContaminants: "BOD, COD, Ammonia (NH4-N), Total Nitrogen via attached nitrification/denitrification",
+        governingEquation: "Surface Area Loading Rate (SALR): 10 - 25 g COD/m2·d",
+        typicalDetention: "Hydraulic Retention Time: 2 to 6 hours (60% smaller than ASP)",
+        protectionRole: "High-rate organic removal resilient to toxic shock loads; eliminates sludge bulking",
+        image: "mbbr_reactor_schematic.png",
+        definition: "An attached-growth biological wastewater treatment process where microorganisms grow as a protected biofilm on specially engineered plastic carriers that circulate continuously in the aeration basin.",
+        howItWorks: "Carriers with high protected surface area (500–1,200 m²/m³) are kept suspended by aeration bubbles in aerobic zones or mechanical mixers in anoxic zones. A perforated sieve retains the carriers inside the tank while treated effluent and sloughed biofilm exit to a clarifier.",
+        whyRequired: [
+          { title: "Footprint Reduction for ETP Upgrades", desc: "Provides up to 3x higher volumetric treatment capacity than conventional activated sludge (ASP) within the same tank footprint." },
+          { title: "Immunity to Hydraulic Washout", desc: "Because biomass is firmly attached to carriers, sudden peak flow surges cannot wash out the active microbial culture." },
+          { title: "Robust Industrial Shock Loading Resilience", desc: "Outer biofilm layers buffer sudden surges in pH, heavy metals, or salinity, protecting inner autotrophic nitrifiers." }
+        ],
+        types: [
+          { name: "Single-Stage Aerobic MBBR", badge: "Pure Carbon Oxidation", mechanism: "Aerated basin packed at 40-60% carrier fill; continuous dissolved oxygen (>2 mg/L).", advantages: "Rapid BOD/COD removal in 2–4 hours; zero Return Activated Sludge (RAS) pumping.", bestFit: "Industrial ETP capacity expansion where space is strictly constrained." },
+          { name: "Two-Stage MBBR (BOD + Nitrification)", badge: "Dedicated Nitrifiers", mechanism: "Tank 1 removes COD; Tank 2 hosts slow-growing autotrophic nitrifiers for ammonia removal.", advantages: "Protects nitrifiers from heterotrophic competition, delivering complete nitrification.", bestFit: "High-ammonia industrial effluents (fertilizer, chemical, pharmaceutical)." },
+          { name: "Integrated Fixed-Film Activated Sludge (IFAS)", badge: "Hybrid Suspended + Biofilm", mechanism: "Combines MBBR floating media with Return Activated Sludge (RAS) recycling.", advantages: "Maximizes both MLSS and attached biofilm density in a single reactor volume.", bestFit: "Upgrading existing municipal STP aeration basins to meet stringent nitrogen norms." }
+        ],
+        diffHeaders: ["MBBR Attached Growth", "Conventional ASP", "Membrane Bioreactor (MBR)", "Trickling Filter"],
+        differences: [
+          { param: "Footprint Required", values: ["Compact (40% of ASP)", "Very Large", "Ultra-Compact", "Large"] },
+          { param: "Sludge Return (RAS)", values: ["Zero (Not needed)", "Mandatory (100% RAS)", "Mandatory (300% RAS)", "Zero"] },
+          { param: "Sludge Bulking Risk", values: ["Zero (Attached film)", "High (Filamentous bulking)", "Low (Membrane retained)", "Zero"] },
+          { param: "Carrier Fill Ratio", values: ["40% – 60% of volume", "N/A", "N/A", "Fixed media"] }
+        ],
+        heuristics: [
+          { label: "Carrier Protected Surface", value: "500 – 1,000 m²/m³ Media", explanation: "Engineered geometry shields biofilm from shear during carrier-to-carrier collisions." },
+          { label: "Carrier Filling Fraction", value: "30% to 65% of Reactor Volume", explanation: "Optimal carrier concentration to prevent dead zones or mechanical jamming." }
+        ]
+      },
+
+      {
+        id: "sbr-reactor",
+        title: "Sequencing Batch Reactor (SBR)",
+        category: "Biological Treatment",
+        categoryTag: "secondary",
+        stage: "Stage 05: True Batch Bioreactor",
+        tagline: "Fill-and-draw activated sludge system carrying out equalization, aeration, and clarification in a single cyclic reactor.",
+        targetContaminants: "BOD, COD, TSS, Total Nitrogen (Nitrification/Denitrification), Biological Phosphorus",
+        governingEquation: "Cycle Time: 4 - 6 hours (Fill: 25% | React: 50% | Settle: 15% | Decant: 10%)",
+        typicalDetention: "Batch cycle: 4 to 6 hours per tank (alternating twin-tank operation)",
+        protectionRole: "Eliminates separate secondary clarifiers; delivers near-zero effluent TSS and low nutrients",
+        image: "sbr_cycles_schematic.png",
+        definition: "A fill-and-draw activated sludge process where equalization, biological oxidation, anoxic denitrification, and secondary gravitational clarification occur sequentially within the same reactor vessel over a programmed time cycle.",
+        howItWorks: "A typical 4-hour cycle consists of: (1) FILL: Influent enters; (2) REACT: Aeration blowers operate for BOD removal and nitrification, interspersed with anoxic mixing for denitrification; (3) SETTLE: Aeration stops and sludge settles under quiescent conditions; (4) DECANT: Floating decanter skims crystal-clear treated supernatant; (5) IDLE: Small sludge wasting step.",
+        whyRequired: [
+          { title: "Complete Elimination of Secondary Clarifiers", desc: "Settling happens inside the aeration tank under ideal zero-velocity quiescent conditions, saving civil capital cost and land." },
+          { title: "Flawless Biological Nutrient Removal (BNR)", desc: "Cycles can alternate between aerobic and anoxic phases by simply switching blowers on/off, achieving >90% Total Nitrogen removal." },
+          { title: "Superior Sludge Settling Characteristics", desc: "High substrate concentration during initial fill acts as an internal biological selector, preventing filamentous sludge bulking." }
+        ],
+        types: [
+          { name: "Conventional Intermittent SBR", badge: "True Batch Cycle", mechanism: "Multiple batch tanks operating on staggered 4-to-6 hour time cycles.", advantages: "Quiescent batch settling guarantees very low effluent TSS (<10 mg/L).", bestFit: "Industrial ETPs with high flow fluctuations, IT parks, and municipal STPs." },
+          { name: "Continuous Inflow SBR (CASS / ICEAS)", badge: "Continuous Inflow", mechanism: "Influent enters an initial pre-react selector zone continuously while cycles run downstream.", advantages: "Simplifies inlet manifold piping; requires fewer isolation valves.", bestFit: "Large-scale municipal sewage treatment plants (>10 MLD capacity)." },
+          { name: "Membrane SBR (M-SBR)", badge: "Batch + Submerged MBR", mechanism: "Submerged flat-sheet or hollow-fiber membranes replace the decanter for ultrafiltration.", advantages: "Completely decouples HRT from SRT; produces reusable tertiary-grade permeate directly.", bestFit: "Ultra-compact high-recovery commercial complexes and data centers." }
+        ],
+        diffHeaders: ["Sequencing Batch (SBR)", "Continuous ASP", "MBBR Process", "Membrane Bioreactor"],
+        differences: [
+          { param: "Secondary Clarifier", values: ["Not Required (In-situ)", "Mandatory separate tank", "Mandatory separate tank", "Not Required (Membrane)"] },
+          { param: "Cycle Operation", values: ["Time-sequenced batch", "Continuous steady-state", "Continuous steady-state", "Continuous steady-state"] },
+          { param: "Nutrient Removal", values: ["Built-in (Cycle timing)", "Requires multiple tanks", "Requires anoxic zone", "Built-in with anoxic zone"] },
+          { param: "PLC Automation", values: ["High (Motorized valves)", "Moderate", "Moderate", "Very High"] }
+        ],
+        heuristics: [
+          { label: "Standard Cycle Duration", value: "4.0 – 6.0 Hours Total", explanation: "Fill (60 min) → React (120 min) → Settle (45 min) → Decant (45 min) → Idle (10 min)." },
+          { label: "Decant Depth Ratio", value: "25% – 35% of Total Water Depth", explanation: "Ensures decanter remains safely above settled sludge blanket to prevent solids carryover." }
+        ]
+      },
+
+      {
+        id: "atfd-dryer",
+        title: "Agitated Thin Film Dryer (ATFD)",
+        category: "Zero Liquid Discharge",
+        categoryTag: "zld",
+        stage: "Stage 13: Slurry Solidification",
+        tagline: "High-temperature mechanical thin-film evaporation transforming concentrated hyper-saline slurry into dry bagged salt.",
+        targetContaminants: "Hyper-saline MEE crystallizer slurry (40–50% solids), dissolved salts (NaCl, Na2SO4), heavy organic tars",
+        governingEquation: "Evaporation Rate: Q = U · A · ΔTlm | Rotor Speed: 150 - 300 RPM",
+        typicalDetention: "Residence time on heated wall: 5 to 30 seconds",
+        protectionRole: "Final unit operation in Zero Liquid Discharge; completely converts liquid hazardous waste to solid cake",
+        image: "card_atfd_dryer.png",
+        definition: "A vertical steam-jacketed cylindrical evaporator equipped with a high-speed rotating blade rotor that spreads viscous slurry into an ultra-thin turbulent film against a heated inner wall, flashing water to steam in seconds.",
+        howItWorks: "Concentrated slurry (35–50% TDS) from Multi-Effect Evaporators is pumped into the top of the jacketed cylinder. Rotating scraper blades with tight wall clearances (1–2 mm) spread the slurry into a turbulent thin film. Water flashes to vapor instantly and exits to a condenser, while dry salt crystals drop through the bottom discharge into bags.",
+        whyRequired: [
+          { title: "True Zero Liquid Discharge Finalization", desc: "Transforms the wet liquid slurry leaving evaporators into dry solid salt crystals (<5% moisture) suitable for disposal or commercial reuse." },
+          { title: "Overcoming Severe Heat Exchanger Clogging", desc: "Conventional shell-and-tube evaporators choke within hours when handling viscous crystallizing salts. Rotating scraper blades prevent wall fouling continuously." },
+          { title: "Sludge Tipping Fee Elimination", desc: "Producing dry, free-flowing bagged salt cuts waste weight by up to 50% compared to liquid wet cake from centrifuges." }
+        ],
+        types: [
+          { name: "Vertical Cylindrical ATFD", badge: "Gravity Discharge", mechanism: "Vertical steam-jacketed shell; rotating hinged blades; downward gravity salt discharge.", advantages: "Small footprint; gravity assisted discharge prevents paste stagnation.", bestFit: "Standard industrial ZLD plants handling inorganic salts (NaCl, Na2SO4)." },
+          { name: "Horizontal ATFD", badge: "Extended Residence", mechanism: "Horizontal jacketed cylinder with conveying rotor for viscous or sticky pasty wastes.", advantages: "Longer residence time; handles thermoplastic, tarry, and high-COD chemical wastes.", bestFit: "Pharmaceutical synthesis, pesticide residues, and petrochemical distillation bottoms." },
+          { name: "Vacuum ATFD", badge: "Low Temperature", mechanism: "Operates under negative pressure (vacuum), dropping evaporation boiling points below 65°C.", advantages: "Prevents thermal decomposition of heat-sensitive organics and reduces steam pressure need.", bestFit: "Specialty chemicals, food concentrate, and dye manufacturing ZLD trains." }
+        ],
+        diffHeaders: ["Agitated Thin Film (ATFD)", "Pusher Centrifuge", "Spray Dryer", "Solar Drying Bed"],
+        differences: [
+          { param: "Salt Final Moisture", values: ["< 5% (Bone dry powder)", "10% – 15% (Wet crystal)", "< 3% (Fine powder)", "15% – 30% (Moist cake)"] },
+          { param: "Energy Source", values: ["Steam (2–4 bar) / Oil", "Electrical Motor", "Hot Air Generator (Gas/Fuel)", "Solar Energy"] },
+          { param: "Continuous Operation", values: ["Yes (24/7 non-stop)", "Yes", "Yes", "Batch (Weather dependent)"] },
+          { param: "Handling Sticky Slurry", values: ["Excellent (Mechanical scrapers)", "Poor (Chokes basket)", "Moderate (Nozzle clogging)", "Poor (Anaerobic odors)"] }
+        ],
+        heuristics: [
+          { label: "Specific Evaporation Rate", value: "35 – 50 kg/m²·h Water Evaporated", explanation: "Standard heat transfer sizing parameter for industrial steam jackets at 3.0 bar." },
+          { label: "Rotor Blade Clearance", value: "1.0 – 2.0 mm from Heated Wall", explanation: "Maintains intense turbulence while preventing mechanical abrasion of the cylinder wall." }
+        ]
+      },
     ];
   }
 };
@@ -9112,6 +9525,8 @@ window.PersonasView = {
     const verticalsData = {
       automotive: {
         title: "Automotive Manufacturing (OEM & Tier-1 Ancillaries)",
+        image: "oil_grease_api_schematic.png",
+        imgTitle: "Automotive Paint Shop & Emulsified Coolant ETP Train",
         tagline: "High-volume assembly, metalworking fluid emulsions, paint booth detackification, and phosphating conversion coating.",
         macroContext: "India manufactured ~5.4 million vehicles in FY 2023-24 across OEMs (Maruti Suzuki, Tata Motors, M&M, Hyundai, Toyota) and Tier-1 suppliers. Water consumption ranges between 2.0 to 4.0 kL per vehicle. The Paint Shop Pretreatment line accounts for over 60% of water volume and 85% of total chemical contamination.",
         processFlow: [
@@ -9141,6 +9556,8 @@ window.PersonasView = {
 
       electroplating: {
         title: "Electroplating & Metal Finishing (Red Category Industry)",
+        image: "card_neutralization.png",
+        imgTitle: "Cyanide Destruction & Acid-Alkali Neutralization Blueprint",
         tagline: "Acutely toxic heavy metals, deadly free cyanides, violent acid/alkaline swings, and strict CPCB Red Category scrutiny.",
         macroContext: "Categorized as 'Red Category' with Pollution Index > 60. Spans SME job-shop clusters (Bhosari MIDC Pune, Chennai, Ludhiana) and captive plating lines in auto OEMs. Effluent is chemically lethal to biological cultures, requiring pristine physicochemical destruction prior to any discharge or recycling.",
         processFlow: [
@@ -9195,6 +9612,8 @@ window.PersonasView = {
 
       silica: {
         title: "Silica-to-Solution (Sodium Silicate Manufacturing)",
+        image: "tritron_resonance_schematic.png",
+        imgTitle: "Silica-to-Solution Autoclave ZLD & Resonance Precipitation Blueprint",
         tagline: "Hydrothermal autoclave digestion, sodium sulfate brine, sub-micron colloidal silica, and severe glassy pipe choking.",
         macroContext: "Manufacturing of liquid sodium silicate (water glass) and precipitated silica for detergents, tires, paper, and catalysts. The hydrothermal autoclave route reacts quartz sand with caustic soda at 150-200°C. Generates an overwhelmingly inorganic, extreme-TDS, highly alkaline wastewater.",
         processFlow: [
@@ -9279,6 +9698,28 @@ window.PersonasView = {
           <h3 class="text-xl font-extrabold text-slate-900">${cur.title}</h3>
           <p class="text-xs text-slate-600 mt-1">${cur.tagline}</p>
           <p class="text-xs text-slate-700 mt-2 bg-slate-50 p-3.5 rounded-xl border border-slate-200 leading-relaxed">${cur.macroContext}</p>
+        </div>
+
+        <!-- Vertical Engineering Blueprint Banner -->
+        <div class="rounded-2xl bg-slate-950 border border-slate-800 p-4 sm:p-5 text-center space-y-2 shadow-xl">
+          <div class="flex items-center justify-between pb-2 border-b border-slate-800 text-xs">
+            <span class="font-mono text-slate-300 text-[11px] font-bold flex items-center gap-2">
+              <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
+              Engineering Flowsheet · ${cur.imgTitle}
+            </span>
+            <span class="text-[10px] font-mono text-orange-400 bg-orange-950/80 px-2 py-0.5 rounded border border-orange-700/60">1600 × 1000 CAD Blueprint</span>
+          </div>
+          <div class="overflow-hidden rounded-xl border border-slate-800 bg-[#0A192F]">
+            <img 
+              src="images/${cur.image}" 
+              data-img="${cur.image}"
+              alt="${cur.imgTitle}" 
+              class="w-full max-h-[420px] object-contain mx-auto" 
+              loading="lazy"
+              onerror="this.onerror=null; this.src='./images/${cur.image}';"
+            />
+          </div>
+          <p class="text-[10px] font-mono text-slate-400 pt-1">Figure: Detailed hydraulic flowsheet and contaminant removal stages (${cur.image})</p>
         </div>
 
         <!-- 1. Process Train Flow -->
@@ -9580,9 +10021,18 @@ window.TechDetailView = {
     // Process Diagram image check
     const hasImage = tech.Image && tech.Image !== "";
     const imgHtml = hasImage ? `
-      <div class="rounded-xl overflow-hidden border border-slate-200 bg-white p-3 shadow-sm mb-4">
-        <img src="images/${tech.Image}" alt="${tech.Title} Engineering Schematic" class="w-full h-auto max-h-96 object-contain rounded-lg" onerror="this.style.display='none'"/>
-        <p class="text-[11px] text-slate-500 text-center mt-2 font-mono">Figure: Detailed Engineering Schematic &amp; Process Instrumentation Diagram (${tech.Image})</p>
+      <div class="rounded-2xl overflow-hidden border border-slate-800 bg-slate-950 p-4 shadow-xl mb-4 text-center space-y-2">
+        <div class="flex items-center justify-between pb-2 border-b border-slate-800 text-xs">
+          <span class="font-mono text-slate-300 text-[11px] font-bold flex items-center gap-2">
+            <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
+            Engineering Process Schematic · ${tech.Title}
+          </span>
+          <span class="text-[10px] font-mono text-orange-400 bg-orange-950/80 px-2 py-0.5 rounded border border-orange-700/60">1600 × 1000 CAD</span>
+        </div>
+        <div class="overflow-hidden rounded-xl border border-slate-800 bg-[#0A192F]">
+          <img src="images/${tech.Image}" data-img="${tech.Image}" alt="${tech.Title} Engineering Schematic" class="w-full max-h-[480px] object-contain mx-auto" onerror="this.onerror=null; this.src='./images/${tech.Image}';"/>
+        </div>
+        <p class="text-[10px] text-slate-400 font-mono mt-1">Figure: Detailed Engineering Schematic &amp; Process Instrumentation Diagram (${tech.Image})</p>
       </div>
     ` : '';
 
